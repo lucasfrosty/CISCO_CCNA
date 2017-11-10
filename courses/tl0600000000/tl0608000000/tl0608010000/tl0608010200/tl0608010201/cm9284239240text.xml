@@ -1,0 +1,39 @@
+﻿<textcomponents>
+
+<component id="ID_8212title">
+<text><![CDATA[<b>Representações de Sinais na Mídia Física</b>]]></text>
+</component>
+
+<component id="ID_8212txt01">
+<text><![CDATA[<b>Amostra de sinais elétricos transmitidos em cabo de cobre</b>]]></text>
+</component>
+
+<component id="ID_8212txt02">
+<text><![CDATA[<b>Sinais representantes de fibra e pulso de luz</b>]]></text>
+</component>
+
+<component id="ID_8212txt03">
+<text><![CDATA[<b>Sinais de micro-ondas (sem fio)</b>]]></text>
+</component>
+
+<component id="ID_img01">
+<text><![CDATA[<b>Sinal de Saída (Tx)</b>]]></text>
+</component>
+
+<component id="ID_img02">
+<text><![CDATA[<b>Sinal Digital</b>]]></text>
+</component>
+
+<component id="ID_img03">
+<text><![CDATA[<b>AM</b>]]></text>
+</component>
+
+<component id="ID_img04">
+<text><![CDATA[<b>FM</b>]]></text>
+</component>
+
+<component id="ID_img05">
+<text><![CDATA[<b>PM</b>]]></text>
+</component>
+
+</textcomponents>

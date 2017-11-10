@@ -1,0 +1,25 @@
+﻿<textcomponents>
+<component id="ID_title"><text><![CDATA[<b>Aplicações ponto-a-ponto</b>]]></text></component> 
+<component id="ID_txt02"><text><![CDATA[<b>Rede</b>]]></text></component> 
+<component id="ID_txt01"><text><![CDATA[<b>Cliente e servidor na mesma comunicação </b>]]></text></component> 
+<component id="ID_txt03"><text><![CDATA[<b>Cliente e servidor</b>]]></text></component> 
+<component id="ID_txt04"><text><![CDATA[<b>Cliente e servidor</b>]]></text></component> 
+<component id="ID_txt05"><text><![CDATA[<b>Ambos os clientes:<li>Iniciam uma mensagem</li><li>Recebem uma mensagem</li></b>]]></text></component> 
+<component id="ID_txt06"><text><![CDATA[<b>Ambos os clientes simultaneamente:<li>Enviam </li><li>Recebem</li> </b>]]></text></component>
+
+<component id="ID_txt07"><text><![CDATA[<b>Mensagem instantânea</b><br>Reunião à noite.<br>Estarei presente.<br>Tudo bem.]]></text></component>
+
+<component id="ID_txt08"><text><![CDATA[<b>Enviar</b>]]></text></component>
+
+<component id="ID_txt09"><text><![CDATA[<b>Ler</b>]]></text></component>
+
+
+<component id="ID_txt10"><text><![CDATA[<b>Mensagem instantânea</b><br>Reunião à noite.<br>Estarei presente.<br>Tudo bem.]]></text></component>
+
+<component id="ID_txt11"><text><![CDATA[<b>Enviar</b>]]></text></component>
+
+<component id="ID_txt12"><text><![CDATA[<b>Ler</b>]]></text></component>
+
+
+
+</textcomponents>

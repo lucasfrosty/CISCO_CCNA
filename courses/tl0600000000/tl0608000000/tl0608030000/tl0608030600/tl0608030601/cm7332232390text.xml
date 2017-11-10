@@ -1,0 +1,32 @@
+﻿<textcomponents>
+
+
+<component id="SECTION"><text><![CDATA[<b>SEÇÃO</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>Projeto de Cabeamento com Meios de Fibra</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Material de reforço<br>(fibra de kevlar)</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>Buffer</b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<b>Revestimento</b>]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>Núcleo</b>]]></text></component>
+
+<component id="ID_txt06"><text><![CDATA[<b>Invólucro (normalmente PVC)</b>]]></text></component>
+
+<component id="ID_txt07"><text><![CDATA[<b>Conectores de fibra</b>]]></text></component>
+
+<component id="ID_txt08"><text><![CDATA[<b>Passe o mouse para alterar a perspectiva.</b>]]></text></component>
+
+<component id="ID_txt09"><text><![CDATA[<b>Invólucro</b>]]></text></component>
+
+<component id="ID_txt10"><text><![CDATA[<b>Fibra de kevlar</b>]]></text></component>
+
+<component id="ID_txt11"><text><![CDATA[<b>Buffer</b>]]></text></component>
+
+<component id="ID_txt12"><text><![CDATA[<b>Revestimento</b>]]></text></component>
+
+<component id="ID_txt13"><text><![CDATA[<b>Núcleo</b>]]></text></component>
+
+</textcomponents>

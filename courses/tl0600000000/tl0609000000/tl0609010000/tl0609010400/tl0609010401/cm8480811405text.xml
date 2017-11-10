@@ -1,0 +1,9 @@
+﻿<textcomponents>
+
+<component id="ID_txt01"><text><![CDATA[<b>MAC&#8212;Obter dados para o meio </b>]]></text></component>
+
+<component id="ID_table01"><text><![CDATA[<b>CONTROLE DE ACESSO AO MEIO</b>]]></text></component> <component id="ID_table02"><text><![CDATA[<b><li>Encapsulamento de dados</li></b>]]></text></component> <component id="ID_table03"><text><![CDATA[<b><li>Delimitação de quadros</li><li>Endereçamento</li><li>Detecção de erros</li></b> ]]></text></component> <component id="ID_table04"><text><![CDATA[<b><li>Controle de acesso ao meio</li></b>]]></text></component> <component id="ID_table05"><text><![CDATA[<b><li>Controle de posicionamento de dados dentro e fora do meio</li><li>Recuperação do meio</li></b>]]></text></component>
+
+
+</textcomponents>
+

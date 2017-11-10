@@ -1,0 +1,19 @@
+﻿<textcomponents>
+<component id="NETWORK"><text><![CDATA[Rede]]></text></component> <component id="HOST"><text><![CDATA[Host]]></text></component>	
+	
+<component id="ID_title"><text><![CDATA[<b>Rede e Porções de Host de um Endereço IP</b>]]></text></component> <component id="ID_txt01"><text><![CDATA[<b>Endereço IP</b>]]></text></component> <component id="ID_txt02"><text><![CDATA[<b>Máscara de Sub-rede</b>]]></text></component>
+
+<component id="ID_txt07"><text><![CDATA[<b>Prefixo /24 (24 bits mais significativos)</b>]]></text></component>
+
+<component id="ID_txt13"><text><![CDATA[<b>Estes valores estão na porção de rede do endereço. Eles podem ser "0" ou "1".</b>]]></text></component>
+	
+	
+<component id="ID_txt15"><text><![CDATA[<b>Estes valores estão na porção de host do endereço. Eles podem ser "0" ou "1".</b>]]></text></component>
+	
+<component id="ID_inst"><text><![CDATA[<b>Passe o mouse para aprender mais.</b>]]></text></component>
+	
+<component id="ID_txt16"><text><![CDATA[<b>Um "1" nestas posições indica que estas posições são parte da porção de rede do endereço.</b>]]></text></component>
+	
+<component id="ID_txt17"><text><![CDATA[<b>Um "0" nestas posições indica que estas posições são parte da porção de host do endereço.</b>]]></text></component>
+
+</textcomponents>

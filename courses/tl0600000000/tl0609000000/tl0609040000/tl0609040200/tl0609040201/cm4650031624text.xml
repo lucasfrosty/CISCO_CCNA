@@ -1,0 +1,49 @@
+﻿<textcomponents>
+	<component id="ID_title"><text><![CDATA[<b>Controle de Acesso ao Meio em Ethernet</b>]]></text></component> <component id="ID_txt01"><text><![CDATA[<b>A</b>]]></text></component>
+	
+	<component id="ID_txt02"><text><![CDATA[<b>B</b>]]></text></component>
+	
+	<component id="ID_txt03"><text><![CDATA[<b>C</b>]]></text></component>
+	
+	<component id="ID_txt04"><text><![CDATA[<b>D</b>]]></text></component>
+	
+	<component id="ID_txt05"><text><![CDATA[<b>Verificação de Portadora</b>]]></text></component>
+	
+	<component id="ID_txt06"><text><![CDATA[<b>Escutar Antes de Transmitir &#8212; Monitorando o Meio quanto ao Tráfego</b>]]></text></component>
+	
+	<component id="ID_txt07"><text><![CDATA[<b>Escutar Antes de Transmitir &#8212; Sinal da portadora detectado</b>]]></text></component>
+	
+	<component id="ID_txt08"><text><![CDATA[<b>Espera por um tempo específico depois que &#8212; o sinal passa. Tente novamente mais tarde.</b>]]></text></component>
+	
+	<component id="ID_txt09"><text><![CDATA[<b>Nenhum sinal de portadora detectado &#8212; o computador pode transmitir</b>]]></text></component>
+	
+	<component id="ID_txt09a"><text><![CDATA[<b>Nenhum sinal de portadora detectado &#8212; o computador pode transmitir</b>]]></text></component>
+	
+	<component id="ID_txt10"><text><![CDATA[<b>Colisão</b>]]></text></component>
+	
+	<component id="ID_txt11"><text><![CDATA[<b>Ocorre colisão.</b>]]></text></component>
+	
+	<component id="ID_txt12"><text><![CDATA[<b>Colisão</b>]]></text></component>
+	
+	<component id="ID_txt13"><text><![CDATA[<b>Emitido um jam signal.</b>]]></text></component>
+	
+	<component id="ID_txt14"><text><![CDATA[<b>JAM</b>]]></text></component>
+	
+	<component id="ID_txt14a"><text><![CDATA[<b>JAM</b>]]></text></component>
+	
+	<component id="ID_txt14b"><text><![CDATA[<b>JAM</b>]]></text></component>
+		
+	<component id="ID_txt14c"><text><![CDATA[<b>JAM</b>]]></text></component>
+		
+	<component id="ID_txt14d"><text><![CDATA[<b>JAM</b>]]></text></component>
+		
+	<component id="ID_txt14e"><text><![CDATA[<b>JAM</b>]]></text></component>
+		
+	<component id="ID_txt15"><text><![CDATA[<b>Temporizador de backoff&#8212;tente novamente mais tarde</b>]]></text></component> <component id="ID_txt16"><text><![CDATA[<b>Carrier Sense Multiple Access with Collision Detection (CSMA/CD)</b>]]></text></component>
+		
+	<component id="ID_inst"><text><![CDATA[<b>Clique em Play para ver a animação.</b>]]></text></component>
+	
+	<component id="play"><text><![CDATA[Play]]></text></component> <component id="pause"><text><![CDATA[Pausar]]></text></component> <component id="rewind"><text><![CDATA[Voltar]]></text></component> <component id="forward"><text><![CDATA[Avançar]]></text></component> <component id="mute"><text><![CDATA[Mudo]]></text></component> <component id="unmute"><text><![CDATA[Com Som]]></text></component> <component id="previous"><text><![CDATA[Reiniciar]]></text></component> <component id="next"><text><![CDATA[Fim]]></text></component> <component id="transcript"><text><![CDATA[Transcrição]]></text></component>
+    
+
+</textcomponents>

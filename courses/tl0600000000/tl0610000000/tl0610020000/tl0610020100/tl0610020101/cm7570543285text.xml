@@ -1,0 +1,24 @@
+﻿<textcomponents>
+
+<component id="ID_txt01"><text><![CDATA[<b>Áreas de cabeamento LAN</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Switch</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>Cabeamento de backbone</b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<b>Para outras salas de telecomunicações</b>]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>Patch Panel</b>]]></text></component>
+
+<component id="ID_txt06"><text><![CDATA[<b>Cabeamento horizontal </b>]]></text></component>
+
+<component id="ID_txt07"><text><![CDATA[<b>Área de trabalho</b>]]></text></component>
+
+<component id="ID_txt08"><text><![CDATA[<b>Patch Cable </b>]]></text></component>
+
+<component id="ID_txt09"><text><![CDATA[<b>Sala de telecomunicações</b>]]></text></component>
+
+
+
+
+</textcomponents>

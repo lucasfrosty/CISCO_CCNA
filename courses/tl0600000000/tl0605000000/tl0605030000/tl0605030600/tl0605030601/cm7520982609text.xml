@@ -1,0 +1,12 @@
+﻿<textcomponents>
+<component id="ID_txt01"><text><![CDATA[<b>Saída da tabela de roteamento com "próximo salto"</b>]]></text></component> <component id="ID_txt02"><text><![CDATA[<b>Passe o mouse sobre uma área realçada para saber mais.</b>]]></text></component>
+
+
+
+<component id="ID_txtTitle"><text><![CDATA[192.168.2.2]]></text></component> <component id="ID_txtBody"><text><![CDATA[Este endereço de "próximo salto" é o local onde o tráfego de destino da Rede 10.1.1.0/24 é enviado.]]></text></component>
+
+<component id="ID_txtTitle2"><text><![CDATA[192.168.2.2]]></text></component> <component id="ID_txtBody2"><text><![CDATA[Este endereço de "próximo salto" é o local onde o tráfego de destino da Rede 10.1.2.0/24 é enviado.]]></text></component>
+
+
+<component id="ID_txtTitle3"><text><![CDATA[FastEthernet0/0]]></text></component> <component id="ID_txtBody3"><text><![CDATA[Se uma rede for diretamente conectada, somente o nome da interface do roteador é mostrada.]]></text></component>
+</textcomponents>

@@ -1,0 +1,50 @@
+﻿<textcomponents>
+
+<component id="ID_title"><text><![CDATA[<b>Cabeçalhos TCP e UDP</b>]]></text></component>
+
+<component id="ID_title1"><text><![CDATA[<b>Segmento TCP</b>]]></text></component> <component id="ID_title2"><text><![CDATA[<b>Datagrama UDP</b>]]></text></component>
+
+<component id="ID_level1"><text><![CDATA[<b>20 Bytes</b>]]></text></component>
+
+<component id="ID_level2"><text><![CDATA[<b>8 Bytes</b>]]></text></component>
+
+<component id="ID_txt001"><text><![CDATA[<b>Bit (0)</b>]]></text></component>
+
+<component id="ID_txt002a"><text><![CDATA[<b>Bit (15)</b>]]></text></component>
+
+<component id="ID_txt002b"><text><![CDATA[<b>Bit (16)</b>]]></text></component>
+
+<component id="ID_txt003"><text><![CDATA[<b>Bit (31)</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>Porta de Origem (16)</b>]]></text></component>
+
+<component id="ID_txt01a"><text><![CDATA[<b>Porta de Destino (16)</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Número de Seqüência (32)</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>Número de Reconhecimento (32)</b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<b>Comprimento do Cabeçalho (4) Reservado (6) Bits de Código (6)</b>]]></text></component>
+
+<component id="ID_txt04a"><text><![CDATA[<b>Janela (16)</b>]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>Checksum (16)</b>]]></text></component>
+
+<component id="ID_txt05a"><text><![CDATA[<b>Urgente (16)</b>]]></text></component>
+
+<component id="ID_txt06"><text><![CDATA[<b>Opções (0 ou 32, se houver)</b>]]></text></component>
+
+<component id="ID_txt07"><text><![CDATA[<b>DADOS DA CAMADA DE APLICATIVOS (Tamanho varia)</b>]]></text></component>
+
+
+<component id="ID_txt1"><text><![CDATA[<b>Porta de Origem (16)</b>]]></text></component>
+
+<component id="ID_txt2"><text><![CDATA[<b>Comprimento (16)</b>]]></text></component>
+
+<component id="ID_txt3"><text><![CDATA[<b>DADOS DA CAMADA DE APLICATIVOS (Tamanho varia)</b>]]></text></component>
+
+<component id="ID_txt1a"><text><![CDATA[<b>Porta de Destino (16)</b>]]></text></component>
+
+<component id="ID_txt2a"><text><![CDATA[<b>Checksum (16)</b>]]></text></component>
+
+</textcomponents>

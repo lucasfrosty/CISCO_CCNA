@@ -1,0 +1,63 @@
+<textcomponents>
+<component id="TIER 1">
+<text><![CDATA[Nível 1]]></text>
+</component>
+<component id="TIER 2">
+<text><![CDATA[Nível 2]]></text>
+</component>
+<component id="TIER 3">
+<text><![CDATA[Nível 3]]></text>
+</component>
+	
+	
+	
+<component id="ID_title">
+	<text><![CDATA[<b>Os 3 Nívels de ISPs</b>]]></text>
+	</component>
+<component id="ID_txt01">
+		<text><![CDATA[<b>Backbone de Internet</b>]]></text>
+	</component>
+<component id="ID_txt02">
+		<text><![CDATA[<b>Nível 1<br/>(ex. Sprint, Savvis)</b>]]></text>
+	</component>
+<component id="ID_txt03">
+		<text><![CDATA[<b>Nível 2<br/>(ex. nLayer)</b>]]></text>
+	</component>
+<component id="ID_txt04">
+		<text><![CDATA[<b>Nível 2<br/>(France Telecom)</b>]]></text>
+	</component>
+<component id="ID_txt05">
+    		<text><![CDATA[<b>Nível 3<br/>(ex. Fortress ITX)</b>]]></text>
+	</component>
+<component id="ID_txt06">
+    		<text><![CDATA[<b>Nível 3<br/>(ex. Beachcomputers)</b>]]></text>
+	</component>
+<component id="ID_txt07">
+	    	<text><![CDATA[<b>Servem basicamante empresas muito grandes e ISPs de Nível 2</b>]]></text>
+		</component>
+<component id="ID_txt08">
+	    	<text><![CDATA[<b>Conexões diretas e múltiplas ao backbone de Internet fornece confiabilidade</b>]]></text>
+	</component>
+	
+<component id="ID_txt09">
+		<text><![CDATA[<b>Servem basicamente grandes empresas e ISPs de Nível 3</b>]]></text>
+	</component>
+	
+<component id="ID_txt10">
+		<text><![CDATA[<b>Conecta-se à Internet através de um ISP Nível 1</b>]]></text>
+	</component>
+	
+<component id="ID_txt11">
+		<text><![CDATA[<b>Serve basicamente pequenas e médias empresas, e residências</b>]]></text>
+	</component>
+	
+<component id="ID_txt12">
+		<text><![CDATA[<b>Conecta-se à Internet através de um ISP Nível 2</b>]]></text>
+	</component>
+	
+	
+<component id="ID_inst">
+		<text><![CDATA[<b>Passe o mouse sobre os níveis para aprender mais.</b>]]></text>
+	</component>
+
+</textcomponents>

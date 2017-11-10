@@ -1,0 +1,5 @@
+﻿<textcomponents>
+<component id="ID_txt01"><text><![CDATA[<b>Conexões de Rede</b>]]></text></component> 
+<component id="ID_txt02"><text><![CDATA[<b>Com fio:</b> redes usam cabos físicos para conectar dispositivos.]]></text></component> <component id="ID_txt03"><text><![CDATA[<b>Sem fio:</b> redes usam ondas de rádio para comunicar entre os dispositivos.]]></text></component> 
+<component id="ID_txt04"><text><![CDATA[Redes sem fio também são conectadas a redes com fio, em algum ponto.]]></text></component>
+</textcomponents>

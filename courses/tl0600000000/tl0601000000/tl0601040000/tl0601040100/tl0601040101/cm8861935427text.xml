@@ -1,0 +1,37 @@
+﻿<textcomponents>
+
+<component id="ID_txt01"><text><![CDATA[Camada de Acesso]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[Camada de Distribuição]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[Camada do Núcleo]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[Internet]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[Conexões Redundantes]]></text></component>
+
+<component id="ID_txt01_02"><text><![CDATA[Camada de Acesso]]></text></component>
+
+<component id="ID_txt02_02"><text><![CDATA[Camada de Distribuição]]></text></component>
+
+<component id="ID_txt03_02"><text><![CDATA[Camada do Núcleo]]></text></component>
+
+<component id="ID_txt04_02"><text><![CDATA[Internet]]></text></component>
+
+<component id="ID_txt05_02"><text><![CDATA[Conexões Redundantes permitem caminhos alternativos se um dispositivo ou um link falhar. A experiência do usuário não é afetada.]]></text></component>
+
+<component id="ID_txt01_03"><text><![CDATA[Camada de Acesso]]></text></component>
+
+<component id="ID_txt02_03"><text><![CDATA[Camada de Distribuição]]></text></component>
+
+<component id="ID_txt03_03"><text><![CDATA[Camada do Núcleo]]></text></component>
+
+<component id="ID_txt04_03"><text><![CDATA[Internet]]></text></component>
+
+<component id="ID_txt05_03"><text><![CDATA[Usuários adicionais e toda a rede podem ser conectados à Internet sem reduzir o desempenho dos usuários existentes.]]></text></component>
+
+<component id="button1"><text><![CDATA[<b>Tolerância a Falhas</b>]]></text></component>
+
+<component id="button2"><text><![CDATA[<b>Escalabilidade]]></text></component>
+
+</textcomponents>

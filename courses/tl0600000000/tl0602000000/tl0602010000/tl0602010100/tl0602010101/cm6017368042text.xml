@@ -1,0 +1,75 @@
+﻿<textcomponents>
+
+<component id="ID_txt01"><text><![CDATA[<b>Visualize exemplos de codificação humana e de computador clicando no botão Play.</b>]]></text></component>
+
+<component id="ID_txt10"><text><![CDATA[<b>Origem<br>Codificada</b>]]></text></component> 
+
+<component id="ID_txt11"><text><![CDATA[<b>Destino<br>Decodificado</b>]]></text></component>
+
+<component id="ID_txt12"><text><![CDATA[<b>Origem<br>Codificada</b>]]></text></component> 
+
+<component id="ID_txt13"><text><![CDATA[<b>Destino<br>Decodificado</b>]]></text></component>
+
+<component id="ID_ch01"><text><![CDATA[<B>Mensagem</B>]]></text></component> 
+
+<component id="ID_ch02"><text><![CDATA[<B>Sinal</B>]]></text></component> 
+
+<component id="ID_ch03"><text><![CDATA[<B>Sinal</B>]]></text></component> 
+
+<component id="ID_ch04"><text><![CDATA[<B>Mensagem</B>]]></text></component> 
+
+<component id="ID_txt03"><text><![CDATA[Origem da Mensagem]]></text></component> 
+
+<component id="ID_txt04"><text><![CDATA[Codificador]]></text></component> 
+
+<component id="ID_txt05"><text><![CDATA[Transmissor]]></text></component> 
+
+<component id="ID_txt06"><text><![CDATA[Transmissão<br/>Meio<br/>"O Canal"]]></text></component> 
+
+<component id="ID_txt07"><text><![CDATA[Receptor]]></text></component> 
+
+<component id="ID_txt08"><text><![CDATA[Decodificador]]></text></component> 
+
+<component id="ID_txt09"><text><![CDATA[Destino da Mensagem]]></text></component>
+
+
+
+//texto do controlador 1 <component id="play"><text><![CDATA[Play]]></text></component> 
+
+<component id="pause"><text><![CDATA[Pausar]]></text></component> 
+
+<component id="rewind"><text><![CDATA[Voltar]]></text></component> 
+
+<component id="forward"><text><![CDATA[Avançar]]></text></component> 
+
+<component id="mute"><text><![CDATA[Mudo]]></text></component> 
+
+<component id="unmute"><text><![CDATA[Com Som]]></text></component> 
+
+<component id="previous"><text><![CDATA[Reiniciar]]></text></component> 
+
+<component id="next"><text><![CDATA[Fim]]></text></component> 
+
+<component id="transcript"><text><![CDATA[Transcrição]]></text></component>
+
+//texto do controlador 2
+
+<component id="play2"><text><![CDATA[Play]]></text></component> 
+	
+<component id="pause2"><text><![CDATA[Pausar]]></text></component> 
+
+<component id="rewind2"><text><![CDATA[Voltar]]></text></component> 
+
+<component id="forward2"><text><![CDATA[Avançar]]></text></component> 
+
+<component id="mute2"><text><![CDATA[Mudo]]></text></component> 
+
+<component id="unmute2"><text><![CDATA[Com Som]]></text></component> 
+
+<component id="previous2"><text><![CDATA[Reiniciar]]></text></component> 
+
+<component id="next2"><text><![CDATA[Fim]]></text></component> 
+
+<component id="transcript2"><text><![CDATA[Transcrição]]></text></component>
+</textcomponents>
+

@@ -1,0 +1,20 @@
+﻿<textcomponents>
+<component id="ID_txt01"><text><![CDATA[<b>Point-to-Point Protocol</b>]]></text></component>
+<component id="ID_txt02"><text><![CDATA[<b>Um protocolo de Enlace de Dados comum para WANs</b>]]></text></component> 
+<component id="ID_txt03"><text><![CDATA[<b>Quadro</b>]]></text></component>
+<component id="ID_txt04"><text><![CDATA[<b>Nome do campo</b>]]></text></component>
+<component id="ID_txt05"><text><![CDATA[<b>Comprimento<br/>(bytes)</b>]]></text></component> 
+<component id="ID_txt06"><text><![CDATA[<b>Flag</b> - Um único byte que indica o início ou final de um quadro. O campo de flag consiste na seqüência binária 01111110.<br><b>Endereço</b> - Um único byte que contém o endereço de transmissão PPP padrão. O PPP não designa endereços individuais de estações.<br><b>Controle</b> - Um único byte que contém a seqüência binária 00000011, que pede pela transmissão dos dados do usuário em um quadro não-sequenciado.<br><b>Protocolo</b> - Dois bytes que identificam o protocolo encapsulado no campo de dados do quadro. Os valores mais atualizados do campo do protocolo estão especificados em Números Designados - Request For Comments (RFC).<br><b>Dados</b> - Zero ou mais bytes que contêm o datagrama do protocolo especificado no campo de protocolo.<br><b>Seqüência de Verificação de Quadros</b> (<b>FCS</b>) - Normalmente 16 bits (2 bytes). Por acordo anterior, o consentimento com as implementações PPP pode utilizar um FCS de 32 bits (4 bytes) para detecção de erros melhorada.]]></text></component> 
+<component id="ID_txt12"><text><![CDATA[<b>Flag</b>]]></text></component>
+<component id="ID_txt13"><text><![CDATA[<b>Endereço</b>]]></text></component>
+<component id="ID_txt14"><text><![CDATA[<b>Controle</b>]]></text></component>
+<component id="ID_txt15"><text><![CDATA[<b>Protocolo</b>]]></text></component>
+<component id="ID_txt16"><text><![CDATA[<b>Dados</b>]]></text></component>
+<component id="ID_txt17"><text><![CDATA[<b>FCS</b>]]></text></component> 
+<component id="ID_txt18"><text><![CDATA[<b>1 byte</b>]]></text></component>
+<component id="ID_txt19"><text><![CDATA[<b>1 byte</b>]]></text></component>
+<component id="ID_txt20"><text><![CDATA[<b>1 byte</b>]]></text></component>
+<component id="ID_txt21"><text><![CDATA[<b>2 bytes</b>]]></text></component> 
+<component id="ID_txt22"><text><![CDATA[<b>variável</b>]]></text></component> 
+<component id="ID_txt23"><text><![CDATA[<b>2 ou 4 bytes</b>]]></text></component>
+</textcomponents>

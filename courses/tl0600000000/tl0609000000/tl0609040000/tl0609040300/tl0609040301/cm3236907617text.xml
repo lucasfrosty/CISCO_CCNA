@@ -1,0 +1,11 @@
+﻿<textcomponents>
+
+<component id="ID_txt01"><text><![CDATA[<b>Dispositivo de Envio</b>]]></text></component>
+  
+  <component id="ID_txt02"><text><![CDATA[<b>Um quadro Ethernet leva um tempo mensurável para viajar do dispositivo de envio ao receptor. Cada dispositivo intermediário contribui para a latência geral.</b>]]></text></component>
+  
+<component id="ID_txt03"><text><![CDATA[<b>Dispositivo Receptor</b>]]></text></component>
+  
+ 
+<component id="ID_title"><text><![CDATA[<b>Atraso da Ethernet (Latência)</b>]]></text></component>
+</textcomponents>

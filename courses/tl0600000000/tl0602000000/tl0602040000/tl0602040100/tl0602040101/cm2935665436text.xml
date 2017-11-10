@@ -1,0 +1,8 @@
+﻿<textcomponents>
+	<component id="play"><text><![CDATA[Play]]></text></component> <component id="pause"><text><![CDATA[Pausar]]></text></component> <component id="rewind"><text><![CDATA[Voltar]]></text></component> <component id="forward"><text><![CDATA[Avançar]]></text></component> <component id="mute"><text><![CDATA[Mudo]]></text></component> <component id="unmute"><text><![CDATA[Com Som]]></text></component> <component id="previous"><text><![CDATA[Reiniciar]]></text></component> <component id="next"><text><![CDATA[Fim]]></text></component> <component id="transcript"><text><![CDATA[Transcrição]]></text></component> <component id="ID_txt02"><text><![CDATA[<b>Rede Interconectada </b>]]></text></component> <component id="ID_txt03"><text><![CDATA[<b>Regra 1 Regra 2 Regra 3 </b>]]></text></component>
+	
+	<component id="ID_txt04"><text><![CDATA[<b>Partes individuais do sistema podem ser projetadas independentemente, mas ainda trabalham juntas perfeitamente.</b>]]></text></component> <component id="ID_txt05"><text><![CDATA[<b>Clique em Play para ver a animação.</b>]]></text></component> <component id="ID_txt01"><text><![CDATA[<b>Usar um modelo de camadas ajuda no projeto de redes de múltiplos usos e de múltiplos fornecedores. </b>]]></text></component>
+	
+	
+	
+  </textcomponents>

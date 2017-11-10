@@ -1,0 +1,9 @@
+﻿<textcomponents>
+
+<component id="ID_title"><text><![CDATA[<b>Handshake triplo TCP (SYN, ACK)</b>]]></text></component>
+
+<component id="ID_table01"><text><![CDATA[<b>Um analisador de protocolo mostra a resposta do servidor no quadro 15</b>]]></text></component>
+
+<component id="ID_table02"><text><![CDATA[<b>• A configuração do flag ACK indica um número de Reconhecimento válido<br>• Número de reconhecimento em resposta ao número inicial da sequência como valor relativo de 1<br>• A configuração do flag SYN indica o número inicial da seqüência para a sessão do servidor para o cliente<br>• Número da porta de destino 1069 corresponde à porta de origem dos clientes<br>• Número da porta de origem 80 (HTTP) indicando o serviço do servidor web (httpd)</b>]]></text></component>
+
+</textcomponents>

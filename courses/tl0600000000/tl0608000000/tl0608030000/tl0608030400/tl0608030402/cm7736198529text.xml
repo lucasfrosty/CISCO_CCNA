@@ -1,0 +1,16 @@
+﻿<textcomponents>
+
+<component id="ID_txt01"><text><![CDATA[<b>Cabo de par trançado blindado (STP) </b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Invólucro</b>]]></text></component>
+  
+<component id="ID_txt03"><text><![CDATA[<b>Blindagem em malha</b>]]></text></component>
+  
+<component id="ID_txt04"><text><![CDATA[<b>Blindagem de folha de alumínio</b>]]></text></component>
+    
+  <component id="ID_txt05"><text><![CDATA[<b>Pares trançados</b>]]></text></component>
+  
+
+
+
+</textcomponents>

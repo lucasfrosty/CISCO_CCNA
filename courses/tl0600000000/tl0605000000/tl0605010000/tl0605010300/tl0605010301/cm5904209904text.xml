@@ -1,0 +1,44 @@
+﻿<textcomponents>
+
+<component id="ID_title"><text><![CDATA[<b>Comunicação sem Conexão</b>]]></text></component>
+
+<component id="ID_titlea"><text><![CDATA[<b>Comunicação sem Conexão</b>]]></text></component>
+
+<component id="ID_txt1_mail"><text><![CDATA[ROTAS POSTAIS]]></text></component>
+
+<component id="ID_txt1_data"><text><![CDATA[REDES DE DADOS]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>Carta</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Caixa Postal</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>Carta</b>]]></text></component>
+
+
+<component id="ID_txt01a"><text><![CDATA[<b>Cabeçalho IP</b>]]></text></component>
+
+
+
+<component id="ID_txt02a"><text><![CDATA[<b>Segmento</b>]]></text></component>
+
+
+
+<component id="ID_txt03a"><text><![CDATA[<b>Cabeçalho IP</b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<b>Uma <font color="#009900">carta</font> é enviada.</b>]]></text></component>
+
+<component id="ID_txt04a"><text><![CDATA[<b>Um <font color="#009900">pacote</font> é enviado.</b>]]></text></component>
+
+
+<component id="ID_txt07"><text><![CDATA[<b>Segmento</b>]]></text></component>
+
+<component id="ID_inst"><text><![CDATA[<b>Clique para comparar redes.</b>]]></text></component>
+
+<component id="ID_insta"><text><![CDATA[<b>Clique para comparar redes.</b>]]></text></component>
+
+<component id="ID_header1"><text><![CDATA[<b>O remetente não sabe:</b>]]></text></component> <component id="ID_header1a"><text><![CDATA[<b>O destinatário não sabe:</b>]]></text></component> <component id="ID_txt1_new"><text><![CDATA[]]></text></component> <component id="ID_txt2_new"><text><![CDATA[<ul><li>se o destinatário está presente</li></ul>]]></text></component> <component id="ID_txt3_new"><text><![CDATA[<ul><li>se a carta chegou</li></ul>]]></text></component> <component id="ID_txt4_new"><text><![CDATA[<ul><li>se o destinatário pode ler a carta</li></ul>]]></text></component> <component id="ID_txt5_new"><text><![CDATA[]]></text></component> <component id="ID_txt6_new"><text><![CDATA[<ul><li>quando chega</li></ul>]]></text></component>
+
+<component id="ID_header2"><text><![CDATA[<b>O remetente não sabe:</b>]]></text></component> <component id="ID_header2b"><text><![CDATA[<b>O destinatário não sabe:</b>]]></text></component> <component id="ID_txt11_new"><text><![CDATA[]]></text></component> <component id="ID_txt12_new"><text><![CDATA[<ul><li>se o destinatário está presente</li></ul>]]></text></component> <component id="ID_txt13_new"><text><![CDATA[<ul><li>se o pacote chegou</li></ul>]]></text></component> <component id="ID_txt14_new"><text><![CDATA[<ul><li>se o destinatário pode ler o pacote</li></ul>]]></text></component> <component id="ID_txt15_new"><text><![CDATA[]]></text></component> <component id="ID_txt16_new"><text><![CDATA[<ul><li>quando chega</li></ul>]]></text></component>
+
+
+</textcomponents>

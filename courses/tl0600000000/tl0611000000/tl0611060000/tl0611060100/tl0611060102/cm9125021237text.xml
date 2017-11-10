@@ -1,0 +1,99 @@
+﻿<textcomponents>
+
+<component id="ID_setup"><text><![CDATA[<b>Use esta atividade para verificar o seu entendimento dos pontos principais neste capítulo.</b>]]></text></component>
+
+<component id="ID_setup2"><text><![CDATA[<ul><li>Uma série de perguntas será apresentada. Isto não é um teste e as suas respostas não são armazenadas.</li><li>Clique <b>Resposta</b> para ver a resposta correta.</li><li>Clique <b>Próxima Pergunta</b> para ir para a próxima pergunta.</li></ul>]]></text></component>
+
+<component id="clickHere"><text><![CDATA[<b>Clique Aqui<br/>para Começar</b>]]></text></component>
+
+<!-- Question 1 --> 
+<component id="ID_Q1_txt01"><text><![CDATA[<b>Resposta</b>]]></text></component> 
+<component id="ID_Q1_txt02"><text><![CDATA[Você consegue responder esta pergunta?<br/>Clique <b>Resposta</b> para ver se você está correto(a).]]></text></component> 
+<component id="ID_Q1_txt3"><text><![CDATA[1. <textformat blockindent='18'>Liste os serviços de rede fornecidos pelo IOS Cisco.</textformat>]]></text></component> 
+<component id="ID_Q1_txt04"><text><![CDATA[<ul><li>Roteamento básico e funções de comutação (switching)</li><li>Acesso confiável e seguro a recursos interligados em rede</li><li>Escalabilidade de Rede </li></ul>]]></text></component> 
+<component id="ID_Q1_txt05"><text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text></component>
+
+<!-- Question 2 --> 
+<component id="ID_Q2_txt01"><text><![CDATA[<b>Resposta</b>]]></text></component> 
+<component id="ID_Q2_txt02"><text><![CDATA[Você consegue responder esta pergunta?<br/>Clique <b>Resposta</b> para ver se você está correto(a).]]></text></component> 
+<component id="ID_Q2_txt03"><text><![CDATA[2. <textformat blockindent='18'>Descreva três maneiras de acessar um dispositivo Cisco para gerenciamento e configuração da CLI.</textformat>]]></text></component> 
+<component id="ID_Q2_txt04"><text><![CDATA[<ul><li>Console</li><li>Telnet ou SSH</li><li>porta AUX</li></ul>]]></text></component> 
+<component id="ID_Q2_txt05"><text><![CDATA[<b>Pergunta<br/>Anterior</b>]]></text></component> <component id="ID_Q2_txt06"><text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text></component>
+
+<!-- Question 3 --> 
+<component id="ID_Q3_txt01"><text><![CDATA[<b>Resposta</b>]]></text></component> 
+<component id="ID_Q3_txt02"><text><![CDATA[Você consegue responder esta pergunta?<br/>Clique <b>Resposta</b> para ver se você está correto(a).]]></text></component> 
+<component id="ID_Q3_txt03"><text><![CDATA[3. <textformat blockindent='18'>Compare a função e o uso dos arquivos running-configuration e startup-configuration.</textformat>]]></text></component> 
+<component id="ID_Q3_txt04"><text><![CDATA[<ul><li>O arquivo running-configuration – usado durante a operação do dispositivo </li><li>O arquivo startup-configutation - armazenado na NVRAM e carregado para fornecer a configuração do dispositivo quando o dispositivo é iniciado e reiniciado.</li></ul>]]></text></component> <component id="ID_Q3_txt05"><text><![CDATA[<b>Pergunta<br/>Anterior</b>]]></text></component> <component id="ID_Q3_txt06"><text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text></component>
+
+<!-- Question 4 --> 
+<component id="ID_Q4_txt01"><text><![CDATA[<b>Resposta</b>]]></text></component> 
+<component id="ID_Q4_txt02"><text><![CDATA[Você consegue responder esta pergunta?<br/>Clique <b>Resposta</b> para ver se você está correto(a).]]></text></component> 
+<component id="ID_Q4_txt03"><text><![CDATA[4. <textformat blockindent='18'>Distinga as funções do modo EXEC usuário IOS Cisco e do modo EXEC privilegiado.</textformat>]]></text></component> 
+<component id="ID_Q4_txt04"><text><![CDATA[<p><b>Modo EXEC usuário</b></p><p>O modo EXEC usuário tem recursos limitados, mas é útil para algumas operações básicas. O modo EXEC usuário está no topo da estrutura hierárquica dos modos. Este modo é a primeira entrada dentro da CLI de um roteador IOS.</p><br/><p>O modo EXEC usuário permite apenas um número limitado de comandos básicos de monitoração. Isto frequentemente é referido apenas como modo de visualização. O nível EXEC usuário não permite a execução de comandos que possam modificar a configuração do dispositivo.</p><br/><p>O modo EXEC usuário pode ser identificado no final do prompt com o símbolo >.</p><br/><p>Switch></p><br/><p><b>Modo EXEC Privilegiado</b></p><p>A execução dos comandos de configuração e de gerenciamento solicita que o administrador da rede use o modo EXEC privilegiado, ou um modo abaixo na hierarquia. </p><br/><p>O modo EXEC privilegiado pode ser identificado no final do prompt com o símbolo #.</p><br/><p>Switch#</p>]]></text></component> <component id="ID_Q4_txt05"><text><![CDATA[<b>Pergunta<br/>Anterior</b>]]></text></component> <component id="ID_Q4_txt06"><text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text></component>
+
+<!-- Question 5 -->
+<component id="ID_Q5_txt01"><text><![CDATA[<b>Resposta</b>]]></text></component> 
+<component id="ID_Q5_txt02"><text><![CDATA[Você consegue responder esta pergunta?<br/>Clique <b>Resposta</b> para ver se você está correto(a).]]></text></component> 
+<component id="ID_Q5_txt03"><text><![CDATA[5. <textformat blockindent='18'>Cite a diferença entre inserir  "?" e "<space>? " diretamente depois de um comando parcial no prompt apropriado, Por exemplo, "cl?" e "clock ?".</textformat>]]></text></component> 
+<component id="ID_Q5_txt04"><text><![CDATA[<p>Ao usar "?" sem um espaço, como com “cl?”, uma exibição de todos os comandos disponíveis que começam com os caracteres “cl” será listada. </p><br/><p>Ao usar “?” com um espaço, como com clock ?”, uma exibição de todos os sub-comandos disponíveis que começam com clock será listada. </p>]]></text></component> <component id="ID_Q5_txt05"><text><![CDATA[<b>Pergunta<br/>Anterior</b>]]></text></component> <component id="ID_Q5_txt06"><text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text></component>
+
+<!-- Question 6 --> 
+<component id="ID_Q6_txt01"><text><![CDATA[<b>Resposta</b>]]></text></component> 
+<component id="ID_Q6_txt02"><text><![CDATA[Você consegue responder esta pergunta?<br/>Clique <b>Resposta</b> para ver se você está correto(a).]]></text></component> 
+<component id="ID_Q6_txt03"><text><![CDATA[6. <textformat blockindent='18'>Qual modo que um prompt de <b>Router#</b> mostra? Como este modo é executado?</textformat>]]></text></component> 
+<component id="ID_Q6_txt04"><text><![CDATA[O prompt exibido mostra <b>modo EXEC</b> privilegiado. Ele é executado no modo EXEC usuário usando o <b>comando</b> enable.
+]]></text></component> <component id="ID_Q6_txt05"><text><![CDATA[<b>Pergunta<br/>Anterior</b>]]></text></component> <component id="ID_Q6_txt06"><text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text></component>
+
+<!-- Question 7 --> 
+<component id="ID_Q7_txt01"><text><![CDATA[<b>Resposta</b>]]></text></component> 
+<component id="ID_Q7_txt02"><text><![CDATA[Você consegue responder esta pergunta?<br/>Clique <b>Resposta</b> para ver se você está correto(a).]]></text></component> 
+<component id="ID_Q7_txt03"><text><![CDATA[7. <textformat blockindent='18'>Determine a finalidade e a diferença dos comandos de configuração <b>service password-encryption </b>e <b>enable secret class.</b></textformat> ]]></text></component> 
+<component id="ID_Q7_txt04"><text><![CDATA[<p>O comando do <b>service password-encryption</b> aplica criptografia fraca para todas as senhas criptografadas. Esta criptografia não se aplica a senhas quando elas são enviadas através da mídia. A finalidade deste comando é impedir que indivíduos não autorizados visualizem senhas no arquivo de configuração.</p><br/><p>O comando <b>enable secret</b> fornece segurança ao modo EXEC privilegiado criptografando a senha.</p>]]></text></component> <component id="ID_Q7_txt05"><text><![CDATA[<b>Pergunta<br/>Anterior</b>]]></text></component> <component id="ID_Q7_txt06"><text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text></component>
+
+<!-- Question 8 -->
+<component id="ID_Q8_txt01"><text><![CDATA[<b>Resposta</b>]]></text></component> 
+<component id="ID_Q8_txt02"><text><![CDATA[Você consegue responder esta pergunta?<br/>Clique <b>Resposta</b> para ver se você está correto(a).]]></text></component> 
+<component id="ID_Q8_txt03"><text><![CDATA[8. <textformat blockindent='18'>Por que caracteres limitados são necessários ao estabelecer uma mensagem do banner?</textformat>]]></text></component> 
+<component id="ID_Q8_txt04"><text><![CDATA[O comando <b>banner motd</b> solicita que o uso dos delimitadores identifique o conteúdo da mensagem do banner.]]></text></component> <component id="ID_Q8_txt05"><text><![CDATA[<b>Pergunta<br/>Anterior</b>]]></text></component> <component id="ID_Q8_txt06"><text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text></component>
+
+<!-- Question 9 --> 
+<component id="ID_Q9_txt01"><text><![CDATA[<b>Resposta</b>]]></text></component> 
+<component id="ID_Q9_txt02"><text><![CDATA[Você consegue responder esta pergunta?<br/>Clique <b>Resposta</b> para ver se você está correto(a).]]></text></component> 
+<component id="ID_Q9_txt03"><text><![CDATA[9. <textformat blockindent='18'>Quais informações devem ser incluídas em uma mensagem do log no banner em um dispositivo Cisco?</textformat>]]></text></component> 
+<component id="ID_Q9_txt04"><text><![CDATA[<p>O conteúdo exato ou redação de um banner depende das leis locais e políticas corporativas. Aqui estão alguns exemplos de informações a se incluir em um banner:</p><ul><li>”Uso do dispositivo é especificamente para pessoas autorizadas.”</li><li>”Atividade pode ser monitorada.” </li><li>”Ação legal será executada para qualquer uso não autorizado.”</li></ul]]></text></component> <component id="ID_Q9_txt05"><text><![CDATA[<b>Pergunta<br/>Anterior</b>]]></text></component> <component id="ID_Q9_txt06"><text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text></component>
+
+<!-- Question 10 --> 
+<component id="ID_Q10_txt01"><text><![CDATA[<b>Resposta</b>]]></text></component> 
+<component id="ID_Q10_txt02"><text><![CDATA[Você consegue responder esta pergunta?<br/>Clique <b>Resposta</b> para ver se você está correto(a).]]></text></component> 
+<component id="ID_Q10_txt03"><text><![CDATA[10. <textformat blockindent='28'>Cite três maneiras para salvar e fazer o back up da configuração ativa de um dispositivo Cisco.</textformat>]]></text></component> 
+<component id="ID_Q10_txt04"><text><![CDATA[<p>Arquivos de configuração podem ser armazenados em um servidor TFTP, um CD, uma memória stick USB, ou um disquete armazenados em um local seguro. Um arquivo de configuração deve também ser incluído na documentação da rede.</p>]]></text></component> <component id="ID_Q10_txt05"><text><![CDATA[<b>Pergunta<br/>Anterior</b>]]></text></component> <component id="ID_Q10_txt06"><text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text></component>
+
+<!-- Question 11 -->
+<component id="ID_Q11_txt01"><text><![CDATA[<b>Resposta</b>]]></text></component> 
+<component id="ID_Q11_txt02"><text><![CDATA[Você consegue responder esta pergunta?<br/>Clique <b>Resposta</b> para ver se você está correto(a).]]></text></component> 
+<component id="ID_Q11_txt03"><text><![CDATA[11. <textformat blockindent='28'>Qual é a finalidade do comando no shutdown ao configurar interfaces em um roteador?</textformat>]]></text></component> 
+<component id="ID_Q11_txt04"><text><![CDATA[<p>Por padrão, as interfaces são desabilitadas. Para habilitar uma interface, insira o comando "no shutdown".</p>]]></text></component> <component id="ID_Q11_txt05"><text><![CDATA[<b>Pergunta<br/>Anterior</b>]]></text></component> <component id="ID_Q11_txt06"><text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text></component>
+
+<!-- Question 12 -->
+<component id="ID_Q12_txt01"><text><![CDATA[<b>Resposta</b>]]></text></component> 
+<component id="ID_Q12_txt02"><text><![CDATA[Você consegue responder esta pergunta?<br/>Clique <b>Resposta</b> para ver se você está correto(a).]]></text></component> 
+<component id="ID_Q12_txt03"><text><![CDATA[12. <textformat blockindent='28'>Quais informações devem ser incluídas na descrição de uma interface de um roteador Cisco?</textformat>]]></text></component> <component id="ID_Q12_txt04"><text><![CDATA[<p>Assim como o nome do host ajuda a identificar o dispositivo em uma rede, a descrição de uma interface indica a finalidade da interface. Uma descrição do quê uma interface faz ou onde ela é conectada deve ser parte da configuração de cada interface. Esta descrição pode ser útil para identificar e corrigir erros.</p>]]></text></component> <component id="ID_Q12_txt05"><text><![CDATA[<b>Pergunta<br/>Anterior</b>]]></text></component> <component id="ID_Q12_txt06"><text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text></component>
+
+<!-- Question 13--> 
+<component id="ID_Q13_txt01"><text><![CDATA[<b>Resposta</b>]]></text></component> 
+<component id="ID_Q13_txt02"><text><![CDATA[Você consegue responder esta pergunta?<br/>Clique <b>Resposta</b> para ver se você está correto(a).]]></text></component> 
+<component id="ID_Q13_txt03"><text><![CDATA[13. <textformat blockindent='28'>Liste os passos a seguir para verificar se um host pode conectar e acessar uma rede com sucesso.</textformat>]]></text></component> 
+<component id="ID_Q13_txt04"><text><![CDATA[<p>Passos para verificar a conexão do host testando o seguinte:</p><ul><li>Teste a pilha</li><li>Teste a placa de rede</li><li>Teste outro host local </li><li>Teste o gateway</li><li>Teste o acesso a um host remoto</li></ul>]]></text></component> <component id="ID_Q13_txt05"><text><![CDATA[<b>Pergunta<br/>Anterior</b>]]></text></component> <component id="ID_Q13_txt06"><text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text></component>
+
+<!-- Question 14 -->
+<component id="ID_Q14_txt01"><text><![CDATA[<b>Resposta</b>]]></text></component> 
+<component id="ID_Q14_txt02"><text><![CDATA[Você consegue responder esta pergunta?<br/>Clique <b>Resposta</b> para ver se você está correto(a).]]></text></component> 
+<component id="ID_Q14_txt03"><text><![CDATA[14. <textformat blockindent='28'>Qual é a finalidade de capturar os resultados dos testes de rede como ping, trace e arp? </textformat>]]></text></component> 
+<component id="ID_Q14_txt04"><text><![CDATA[É usado para criar um registro do tráfego de rede para investigar e corrigir erros e análise do desempenho da rede.]]></text></component> <component id="ID_Q14_txt05"><text><![CDATA[<b>Pergunta<br/>Anterior</b>]]></text></component> <component id="ID_Q14_txt06"><text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text></component>
+
+<component id="ID_conclusionTxt_01">
+<text><![CDATA[<b>Isto conclui as perguntas. Verifique seu entendimento deste capítulo.</b>]]></text>
+</component>
+
+</textcomponents>

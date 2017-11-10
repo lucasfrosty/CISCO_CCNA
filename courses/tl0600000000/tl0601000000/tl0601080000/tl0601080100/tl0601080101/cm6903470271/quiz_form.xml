@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+		<exam id="13233" dateexported="07/28/2008">
+		<name>Teste do Módulo 1</name>
+		<form id="21558" lang="pt"><form-item order="fixed">
+			<ai id="142143" type="mc-sa"><question><![CDATA[Que forma de comunicação é baseada em texto, em tempo real, usada entre duas ou mais pessoas que basicamente usam texto para se comunicar entre si?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Blogs ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Wikis ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Mensagens instantâneas  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Podcasting ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Ferramenta de colaboração ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="142158" type="mc-sa"><question><![CDATA[Que tipo de rede fornece ao consumidor acesso limitado a dados corporativos, como inventário, listas de peças e pedidos?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[intranet ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[extranet  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[redes interconectadas ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Internet ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="142159" type="mc-sa"><question><![CDATA[O que equilibra a importância do tráfego e suas características a fim de gerenciar dados?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[administração de rede ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[tráfego de rede ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[estratégia QoS  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[avaliação da rede ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="142196" type="mc-ma"><question><![CDATA[Que processos ocorrem no tráfego de rede para que as estratégidas de qualidade de serviço funcionem corretamente? (Escolha duas.)  ]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[O tráfego é classificado com base nos requisitos de qualidade de serviço.  ]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[São designadas prioridades a cada classificação de dados de aplicação.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[O tráfego da Internet é sempre designado a uma fila de alta prioridade para processamento. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Filmes digitais são sempre designados à fila de alta prioridade para processamento. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[O tráfego de e-mail é sempre designado à fila de baixa prioridade. ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="142193" type="mc-ma"><question><![CDATA[Quais são os componentes de arquitetura de rede? (Escolha duas.)  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[pessoas que compõem a rede humana ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[serviços programados e protocolos que movem as mensagens pela rede  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[dados transferidos pela rede ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[tecnologias que suportam comunicações em rede  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[corporações que operam e mantêm redes de dados ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="142194" type="mc-ma"><question><![CDATA[Por quais razões as tecnologias de comutação de circuito orientadas à conexão foram rejeitadas quando a Internet estava sendo desenvolvida? (Escolha três.)  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[As tecnologias de comutação de circuito exigem que uma única mensagem seja dividida em múltiplos blocos de mensagem que contêm informações de endereçamento. ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[As primeiras redes de comutação de circuito não estabeleciam automaticamente circuitos alternativos no caso de falha.  ]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[As tecnologias de comutação de circuito requerem que seja estabelecido um circuito aberto entre os pontos finais da rede, mesmo que não estejam sendo transferidos dados ativamente entre os locais.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[A qualidade e consistência das mensagens transmitidas por uma rede de comutação de circuito orientada à conexão não pode ser garantida. ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[É dispendioso estabelecer múltiplos circuitos abertos simultâneos para tolerância a falha.  ]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="142195" type="mc-ma"><question><![CDATA[Por quais razões a tecnologia de comunicações de dados sem conexão de comutação de pacotes foi usada quando se desenvolveu a Internet? (Escolha três.)  ]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[Ela pode se adaptar rapidamente à perda de instalações de transmissão de dados.  ]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Usa eficientemente a infra-estrutura de rede para transferir dados.  ]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Os pacotes de dados podem viajar por múltiplos caminhos de rede simultaneamente.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Permite cobrar o uso da rede pelo tempo em que uma conexão é estabelecida. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Requer que seja estabelecido um circuito de dados entre a origem e o destino antes que os dados possam ser transferidos. ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="142148" type="mc-sa"><question><![CDATA[Qual é o papel do QoS numa rede?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[assegura que todo o tráfego acima dos níveis de largura de banda disponíveis seja descartado ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[estabelece as prioridades de entrega de diferentes comunicações em uma rede  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[determina as prioridades exatas de toda comunicação na rede ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[permite que a largura de banda sem uso seja compartilhada por outras organizações dentro da rede ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item>
+			<ai id="142192" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="142192" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>convergência</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>escalabilidade</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>segurança</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>tolerância à falha</mattext></material></textcomponent></component><component ident="5" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>qualidade de serviço</mattext></material></textcomponent></component><!-- ***********  LABELS  *********** --><!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>limita o impacto de falhas de hardware ou software e fornece mecanismos de recuperação de falha</mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>suporta expansão da infra-estrutura da rede para suportar novos usuários e aplicações</mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>fornece um nível de entrega de dados consistente e ininterrupta para suportar as expectativas dos usuários</mattext></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>protege informações confidenciais e comerciais críticas contra roubo ou alteração</mattext></material></textcomponent></component><!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="760"><material><mattext>Combine as características de uma arquitetura de rede com sua definição arrastando as opções da esquerda para seu equivalente à direita. (Nem todas as opções são usadas.)</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-111.5" targetYspacing="21" yspacing="60" targetH="37"><options><display componentIdent="1" xpos="200" ypos="75" /><display componentIdent="2" xpos="200" ypos="135" /><display componentIdent="3" xpos="200" ypos="195" /><display componentIdent="4" xpos="200" ypos="255" /><display componentIdent="5" xpos="200" ypos="315" /></options><targets><display componentIdent="1" xpos="600" ypos="75" /><display componentIdent="2" xpos="600" ypos="127" /><display componentIdent="3" xpos="600" ypos="179" /><display componentIdent="4" xpos="600" ypos="231" /></targets><stem><display componentIdent="40" xpos="420" ypos="28" /></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident="1"><componentident>1</componentident></scoringzone><scoringzone ident="2"><componentident>2</componentident></scoringzone><scoringzone ident="3"><componentident>3</componentident></scoringzone><scoringzone ident="4"><componentident>4</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="200293" maxvalue="1"><title>sem título</title></decvar><interpretvar varname="200293" view="All">sem descrição </interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>4</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>2</componentident></scoringzonecontains><scoringzonecontains szident="3"><componentident>5</componentident></scoringzonecontains><scoringzonecontains szident="4"><componentident>3</componentident></scoringzonecontains></conditionvar><setvar varname="200293" action="Set">1</setvar><scoringdescription>tolerância a falhas, escalabilidade, qualidade de serviço, segurança. para distrair = convergência</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item><form-item>
+			<ai id="142197" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="142197" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="3" textwidth="332"><material><mattext>um vigia desconecta um dispositivo de rede essencial</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="3" textwidth="332"><material><mattext>um empregado descontente altera informações no banco de dados de clientes</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="3" textwidth="332"><material><mattext>equipe de construção acidentalmente corta um cabo de rede enquanto escava</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="3" textwidth="332"><material><mattext>um concorrente acessa informações sensíveis por meio de uma rede sem fio insegura</mattext></material></textcomponent></component><component ident="5" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="3" textwidth="332"><material><mattext>uma secretária envia informações confidenciais em resposta a um e-mail que falsamente parece vir do chefe dela</mattext></material></textcomponent></component><component ident="6" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="3" textwidth="332"><material><mattext>um hacker conecta-se a um dispositivo de rede e muda as configurações do software de gerenciamento do dispositivo</mattext></material></textcomponent></component><!-- ***********  LABELS  *********** --><component ident="1" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext>segurança de infra-estrutura de rede</mattext></material></textcomponent></component><component ident="2" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext>segurança de conteúdo</mattext></material></textcomponent></component><!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="3" textwidth="300"><material><mattext /></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="3" textwidth="300"><material><mattext /></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="3" textwidth="300"><material><mattext /></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="3" textwidth="300"><material><mattext /></material></textcomponent></component><component ident="5" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="3" textwidth="300"><material><mattext /></material></textcomponent></component><component ident="6" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="3" textwidth="300"><material><mattext /></material></textcomponent></component><!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="760"><material><mattext>As ameaças à segurança de rede podem ser classificadas em relação à segurança da infra-estrutura da rede ou à segurança do conteúdo. Classifique as ameaças à segurança à esquerda arrastando-as para a categoria adequada à direita.</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-111.5" targetYspacing="21" yspacing="70" targetH="35"><options><display componentIdent="1" xpos="200" ypos="75" /><display componentIdent="2" xpos="200" ypos="135" /><display componentIdent="3" xpos="200" ypos="195" /><display componentIdent="4" xpos="200" ypos="255" /><display componentIdent="5" xpos="200" ypos="315" /><display componentIdent="6" xpos="200" ypos="375" /></options><labels><display componentIdent="1" xpos="600" ypos="85.5" containsTargets="3" startTarg="1" labelStyle="1" /><display componentIdent="2" xpos="600" ypos="266.5" containsTargets="3" startTarg="4" labelStyle="1" /></labels><targets><display componentIdent="1" xpos="600" ypos="100" /><display componentIdent="2" xpos="600" ypos="152" /><display componentIdent="3" xpos="600" ypos="204" /><display componentIdent="4" xpos="600" ypos="281" /><display componentIdent="5" xpos="600" ypos="333" /><display componentIdent="6" xpos="600" ypos="385" /></targets><stem><display componentIdent="40" xpos="420" ypos="28" /></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident="1"><componentident>1</componentident><componentident>2</componentident><componentident>3</componentident></scoringzone><scoringzone ident="2"><componentident>4</componentident><componentident>5</componentident><componentident>6</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="200328" maxvalue="1"><title>sem título</title></decvar><interpretvar varname="200328" view="All">sem descrição </interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>1</componentident><componentident>3</componentident><componentident>6</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>2</componentident><componentident>4</componentident><componentident>5</componentident></scoringzonecontains></conditionvar><setvar varname="200328" action="Set">1</setvar><scoringdescription>segurança de infra-estrutura de rede = um vigia desconecta..., 	equipe de construção acidentalmente..., um hacker conecta-se... 	segurança de conteúdo = 	um empregado descontente..., um concorrente acessa..., uma secretária envia...</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item></form></exam> 

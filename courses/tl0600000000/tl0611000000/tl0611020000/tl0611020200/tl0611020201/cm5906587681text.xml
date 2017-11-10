@@ -1,0 +1,3 @@
+﻿<textcomponents>
+<component id="ID_title"><text><![CDATA[<b>Acesso Limitado do Dispositivo - Configuração de Senhas de Console</b>]]></text></component> <component id="ID_txt03"><text><![CDATA[<b>Senha de Console (Console Password)</b>]]></text></component> <component id="ID_txt04"><text><![CDATA[<b>Esta configuração exige um login de console quando o switch é acessado.</b>]]></text></component> <component id="ID_txt05"><text><![CDATA[ ]]></text></component> <component id="ID_txt06"><text><![CDATA[<b>Caracteres de senha não exibidos quando digitados</b>]]></text></component>
+</textcomponents>

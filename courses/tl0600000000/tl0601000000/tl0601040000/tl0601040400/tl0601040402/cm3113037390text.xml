@@ -1,0 +1,23 @@
+﻿<textcomponents>
+<component id="ID_txt01"><text><![CDATA[<b>Usando Filas para Priorizar a Comunicação</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Todas as comunicações têm algum acesso ao meio físico, mas as comunicações de prioridade mais elevada têm uma maior porcentagem nos pacotes.
+</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>Fila de Alta Prioridade</b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<b>Fila de Média Prioridade</b>]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>Fila de Baixa Prioridade</b>]]></text></component>
+
+<component id="ID_txt06"><text><![CDATA[<b>Voice Over IP</b>]]></text></component>
+
+<component id="ID_txt07"><text><![CDATA[<b>Transação Financeira</b>]]></text></component>
+
+<component id="ID_txt08"><text><![CDATA[<b>Página da Web</b>]]></text></component>
+
+<component id="ID_txt09"><text><![CDATA[<b>Link com a Rede</b>]]></text></component>
+
+<component id="ID_caption01"><text><![CDATA[<b>A execução de Filas de acordo com o tipo de dado possibilita que os dados de voz tenham prioridade sobre os dados de transações, que têm prioridade sobre os dados da web.</b>]]></text></component>
+
+</textcomponents>

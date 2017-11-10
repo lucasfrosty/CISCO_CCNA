@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+		<exam id="13241" dateexported="07/28/2008">
+		<name>Teste do Módulo 9</name>
+		<form id="21566" lang="pt"><form-item>
+			<ai id="142181" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="142181" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>Preâmbulo (7 bytes) e Delimitador de Início de Quadro        (1 byte)</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>Seqüência de Checksum do Quadro (4 bytes)</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>Endereço de Destino (6 bytes)</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>Endereço de Origem (6 bytes)</mattext></material></textcomponent></component><component ident="5" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>Comprimento/Tipo (2 bytes)</mattext></material></textcomponent></component><component ident="6" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>802.2 Cabeçalho e Dados (46 a 1500 bytes)</mattext></material></textcomponent></component><!-- ***********  LABELS  *********** --><!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>contém os dados encapsulados de uma camada superior</mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>identifica o destino pretendido</mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>valor igual ou maior que 0x0600 indica o protocolo encapsulado</mattext></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>usado para sincronização entre os dispositivos de origem e destino</mattext></material></textcomponent></component><component ident="5" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>usado para detectar erros em um quadro</mattext></material></textcomponent></component><component ident="6" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>identifica o frame originado pela NIC ou pela interface</mattext></material></textcomponent></component><!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="760"><material><mattext>Arraste os campos do quadro Ethernet à esquerda e solte-os na função apropriada à direita.</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-137.5" targetYspacing="21" yspacing="60" targetH="37"><options><display componentIdent="1" xpos="200" ypos="75" /><display componentIdent="2" xpos="200" ypos="135" /><display componentIdent="3" xpos="200" ypos="195" /><display componentIdent="4" xpos="200" ypos="255" /><display componentIdent="5" xpos="200" ypos="315" /><display componentIdent="6" xpos="200" ypos="375" /></options><targets><display componentIdent="1" xpos="600" ypos="75" /><display componentIdent="2" xpos="600" ypos="127" /><display componentIdent="3" xpos="600" ypos="179" /><display componentIdent="4" xpos="600" ypos="231" /><display componentIdent="5" xpos="600" ypos="283" /><display componentIdent="6" xpos="600" ypos="335" /></targets><stem><display componentIdent="40" xpos="420" ypos="28" /></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident="1"><componentident>1</componentident></scoringzone><scoringzone ident="2"><componentident>2</componentident></scoringzone><scoringzone ident="3"><componentident>3</componentident></scoringzone><scoringzone ident="4"><componentident>4</componentident></scoringzone><scoringzone ident="5"><componentident>5</componentident></scoringzone><scoringzone ident="6"><componentident>6</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="199014" maxvalue="1"><title>sem título</title></decvar><interpretvar varname="199014" view="All">sem descrição </interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>6</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>3</componentident></scoringzonecontains><scoringzonecontains szident="3"><componentident>5</componentident></scoringzonecontains><scoringzonecontains szident="4"><componentident>1</componentident></scoringzonecontains><scoringzonecontains szident="5"><componentident>2</componentident></scoringzonecontains><scoringzonecontains szident="6"><componentident>4</componentident></scoringzonecontains></conditionvar><setvar varname="199014" action="Set">1</setvar><scoringdescription>De cima para baixo: Dados, Endereço de Destino, Comprimento/tipo, Preâmbulo, Checksum do Quadro, Endereço de origem</scoringdescription></responcondition></resprocessing><feedback><correct>Excelente!</correct><incorrect>Tente de novo.</incorrect></feedback></scoring></item></questtestinjterop>]]> </ai></form-item><form-item order="fixed">
+			<ai id="142177" type="mc-sa"><question><![CDATA[Qual é a principal função do CSMA/CD numa rede Ethernet?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[designa endereços MAC aos hosts ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[define a área onde podem ocorrer colisões  ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[identifica o início e o fim do quadro Ethernet ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[fornece um método que determina quando e como os hosts acessam o meio Ethernet  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[cria o cabeçalho no quadro Ethernet quando os dados são encapsulados ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[mapeia um endereço IP para um endereço MAC ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="142182" type="mc-sa"><question><![CDATA[O padrão IEEE 802.3ac foi especificamente projetado para acomodar que tecnologia?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Protocolo de Gerenciamento de Rede Simples ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Address Resolution Protocol (ARP) ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Rede Local Virtual (VLAN)  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Voz sobre IP ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Internet Control Message Protocol ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="65976" type="mc-sa"><question><![CDATA[Qual é a finalidade do controle de acesso aos meios?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Identifica a estação de trabalho que enviou um quadro. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Determina o protocolo de camada 3 que deve processar um quadro. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Identifica qual o formato de quadro Ethernet que deve ser usado na rede.  ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Determina a estação de trabalho em uma rede local de meios compartilhados que terá permissão para transmitir os dados.  ]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="67044" type="mc-sa"><question><![CDATA[Como são detectadas colisões em uma rede Ethernet?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[As estações identificam o campo FCS alterado nos pacotes em colisão. ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[A amplitude do sinal nos meios físicos da rede está acima do normal.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[O tráfego na rede não pode ser detectado devido ao bloqueio ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[A amplitude do sinal nos meios físicos da rede está abaixo do normal. ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="67091" type="mc-sa"><question><![CDATA[Qual é a sub-camada da camada 2 que fornece serviços à camada de rede do modelo OSI?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[FCS ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[IEEE 802.3 ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[LLC  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[MAC ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="87340" type="mc-sa"><question><![CDATA[Qual(is) dos dispositivos exibidos no diagrama deve(m) ter um endereço MAC? <br/><img src="2762.jpg" /> ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Somente o PC. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Somente o roteador. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[O PC e o roteador. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[O PC, o hub e o roteador. ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[O PC, a impressora e o roteador.  ]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="142134" type="mc-sa"><question><![CDATA[Na imagem, o Host A já enviou 50% de um quadro Ethernet de 1 KB ao Host D, quando o Host B deseja transmitir seu próprio quadro ao Host C. O que o Host B deve fazer? <br/><img src="i142134n1v2.jpg" /> ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Host B pode transmitir imediatamente uma vez que esteja conectado em seu próprio segmento de cabo. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Host B deve esperar para receber uma transmissão CSMA do hub, para sinalizar a sua vez. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Host B deve enviar um sinal de solicitação para o Host A transmitindo um quadro em intervalos de tempo. ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Host B deve esperar até ter certeza que o Host A tenha concluído o envio de seu quadro.  ]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="142135" type="mc-ma"><question><![CDATA[Quais dos seguintes são campos de um quadro Ethernet 802.3? (Escolha três.)  ]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[endereço físico de origem  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[endereço lógico de origem ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[identificador de tipo de meio ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[seqüência de verificação do quadro  ]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[endereço físico de destino  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[endereço lógico de destino ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="142180" type="mc-sa"><question><![CDATA[Que tipo de endereço um switch usa para tomar decisões de encaminhamento?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[IP de origem ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[IP de destino ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[MAC de origem ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[MAC de destino  ]]></text>
+							
+						</choice></choices></ai></form-item></form></exam> 

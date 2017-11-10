@@ -1,0 +1,41 @@
+﻿<textcomponents>
+
+
+
+   <component id="play"><text>Play</text></component>
+   
+   <component id="pause"><text>Pausar</text></component>
+   
+   <component id="rewind"><text>Voltar</text></component>
+   
+   <component id="forward"><text>Avançar</text></component>
+   
+   <component id="mute"><text>Mudo</text></component>
+   
+   <component id="unmute"><text>Com Som</text></component>
+   
+   <component id="previous"><text>Reiniciar</text></component>
+   
+   <component id="next"><text>Fim</text></component>
+   
+   <component id="transcript"><text>Transcrição</text></component>
+   
+   <component id="ID_txt01"><text><![CDATA[<b>Camada de Enlace de Dados</b>]]></text></component>
+      
+   <component id="ID_txt02"><text><![CDATA[<b>Os protocolos da camada de enlace de dados regem como formatar um quadro para uso em meios diferentes.</b>]]></text></component>
+   
+   <component id="ID_txt03"><text><![CDATA[<b>Protocolos diferentes podem ser usados para meios diferentes.<b/>]]></text></component>
+      
+   <component id="ID_txt04"><text><![CDATA[<b>Em cada salto pelo caminho, um dispositivo intermediário aceita quadros para um meio, desencapsula o quadro e, então, encaminha os pacotes em um novo quadro. Os cabeçalhos de cada quadro são formatados para o meio específico que cruzará.<b/>]]></text></component>
+   
+   <component id="ID_txt05"><text><![CDATA[<b>Clique em Play para ver a animação.<b/>]]></text></component>
+   
+     <component id="ID_txt06"><text><![CDATA[<b>Quadro<b/>]]></text></component>
+   
+   <component id="tipTitle"><text><![CDATA[Mais informações]]></text></component>
+   
+   <component id="tipBody"><text><![CDATA[É importante entender o significado das palavras "meio" e "mídia ou meios" no contexto deste capítulo. Aqui, tais palavras se referem ao material que realmente carregam os sinais que representam os dados transmitidos. Mídia ou meios são o cabo físico de cobre, fibra óptica ou atmosfera pelo qual os sinais viajam. Neste capítulo, o termo 'mídia ou meios' não se refere à programação de conteúdo, como áudio, animação, TV e vídeo, como utilizado quando nos referimos a conteúdo digital e "multimídia".<br>Uma rede física tem uma conotação separada de uma rede lógica. Redes lógicas são estruturas definidas na camada de Rede pela organização do esquema de endereçamento hierárquico. Redes físicas representam a interconexão de dispositivos em um meio comum. Às vezes, uma rede física também é mencionada como um segmento de rede.]]></text></component>
+   
+   <component id="TipText"><text><![CDATA[Mais informações]]></text></component>
+   
+</textcomponents>

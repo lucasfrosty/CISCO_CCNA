@@ -1,0 +1,6 @@
+﻿<textcomponents>
+<component id="ID_title"><text><![CDATA[<b>Servidor UDP Ouvindo Solicitações</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>Servidor</b>]]></text></component> <component id="ID_txt02"><text><![CDATA[<b>Cliente 1</b>]]></text></component> <component id="ID_txt03"><text><![CDATA[<b>Cliente 2</b>]]></text></component> <component id="ID_txt04a"><text><![CDATA[<b>Aplicações do Servidor</b>]]></text></component> <component id="ID_txt04b"><text><![CDATA[<b>Solicitações DNS do cliente serão recebidas na Porta 53.<br/>Solicitações RADIUS do cliente serão recebidas na Porta 1812.</b>]]></text></component> <component id="ID_txt05"><text><![CDATA[<b>Solicitações de cliente para servidores têm números de porta conhecidos como a porta de destino.</b>]]></text></component>
+
+</textcomponents>

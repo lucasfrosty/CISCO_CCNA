@@ -1,0 +1,9 @@
+﻿<textcomponents>
+
+<component id="ID_title"><text><![CDATA[<b>Handshake Triplo TCP ( ACK)</b>]]></text></component>
+
+<component id="ID_table01"><text><![CDATA[<b>Analista de Protocolo mostra a resposta do cliente para a sessão no quadro 16</b>]]></text></component>
+
+<component id="ID_table02"><text><![CDATA[<b>O segmento TCP neste quadro mostra:<br>• Flag ACK configurada para indicar um número de Reconhecimento válido<br>• Resposta do número de reconhecimento para o número da sequência inicial como valor relativo de 1<br>• Número da porta de origem de 1069 para corresponder<br>• Número da porta de destino  80 (HTTP) indicando o serviço do servidor web (httpd)</b>]]></text></component>
+
+</textcomponents>

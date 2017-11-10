@@ -1,0 +1,22 @@
+﻿<textcomponents>
+
+<component id="ID_title"><text><![CDATA[<b>Rastreando as Conversas</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>A camada de Transporte segmenta os dados e gerencia a separação de dados para diferentes aplicações.  Múltiplas aplicações sendo executadas em um dispositivo recebem os dados corretamente.
+</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Para: você@exemplo.com<br>De: eu@exemplo.com<br>Assunto: E-mail</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>E-MAIL</b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<b>ENVIO DE MENSAGEM INSTANTÂNEA</b>]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>MÚLTIPLAS PÁGINAS WEB</b>]]></text></component>
+
+<component id="ID_txt06"><text><![CDATA[<b>TELEFONIA IP (VOIP)</b>]]></text></component>
+
+<component id="ID_txt07"><text><![CDATA[<b>VÍDEO STREAMING</b>]]></text></component>
+
+<component id="ID_txt08"><text><![CDATA[<b>Rede</b>]]></text></component>
+
+</textcomponents>

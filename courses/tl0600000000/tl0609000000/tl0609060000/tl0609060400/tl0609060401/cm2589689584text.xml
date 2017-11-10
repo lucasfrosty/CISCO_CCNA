@@ -1,0 +1,154 @@
+﻿<textcomponents>
+<component id="ID_checkBtn">
+<text><![CDATA[<b>Verificar</b>]]></text> 
+</component>
+
+<component id="ID_newProblemBtn">
+<text><![CDATA[<b>Novo Problema Prático</b>]]></text> 
+</component>
+
+<component id="ID_helpBtn">
+<text><![CDATA[<b>Ajuda</b>]]></text> 
+</component>
+
+<component id="ID_helpTitle">
+<text><![CDATA[<b>Ajuda</b>]]></text> 
+</component>
+
+<component id="ID_helpContent">
+<text><![CDATA[Esta atividade testa seu conhecimento sobre como um quadro é encaminhado em um switch.<br /><br />Clique no botão "Verificar" para verificar sua resposta. Clique no botão "Nova Prática de Problema" para iniciar uma nova atividade de prática gerada pelo computador.<br /><br />A topologia física e a tabela de endereços MAC do switch é fornecida.  Também é fornecido um quadro que consiste de um endereço de origem e destino do MAC. As atividades geradas por computador terão um par de origem e destino utilizando um dos endereços exibidos na topologia. Atividades personalizadas podem usar quaisquer endereços desejados tanto na tabela MAC quanto no quadro.<br /><br />1.<textformat blockindent="20"> Sua meta é determinar como o comutador lidará com este quadro dada a tabela de endereço MAC mostrada.</textformat><br />2. <textformat blockindent="20">Para a primeria pergunta, verifique os números das portas para indicar onde (se houver algum) o comutador encaminhará este quadro.</textformat><br />3. <textformat blockindent="20">Para a segunda pergunta, verifique as opções correspondentes para indicar como um comutador lidará com o quadro.</textformat><br />4. <textformat blockindent="20">Clique no botão "Verificar" para ver se sua resposta está correta.</textformat><br /><br /><b>Ajuda Adicional:</b><br />"FF" é um endereço MSC de broadcast e é encaminhado para todas as portas com exceção da porta de origem. <br /><br />Um quadro é  <b>inundado</b> para todas as portas (exceto a de origem) apenas se o comutador não tiver o destino MAC dentro da tabela MAC. <br /><br />O comutador apenas adicionará um novo endereço MAC à tabela MAC baseado no endereço MAC de origem.   Se o endereço MAC de origem já está na tabela, nada é adicionado ou aprendido.  Se o endereço MAC de origem não está na tabela, o endereço será adicionado.  <br /><br />Um comutador diminuirá um quadro se os dispositivos de destino e de origem estiverem ambos contados à mesma porta e o comutador tiver o endereço MAC de destino na tabela MAC.  Nesta atividade, isto acontece na única porta conectada ao hub com 2 dispositivos host.<br />]]></text> 
+</component>
+
+<component id="ID_activityTitle">
+<text><![CDATA[<b>Atividade</b>]]></text> 
+</component>
+
+<component id="ID_scenario">
+<text><![CDATA[Determine como o comutador encaminha um quadro baseado nos endereços MAC de Origem e de Destino e as informações na tabela MAC do comutador.<br><br><b>Responda as perguntas abaixo usando as informações fornecidas.</b>]]></text> 
+</component>
+
+<!--Frame Table-->
+<component id="ID_preamble">
+<text><![CDATA[<b>Preâmbulo</b>]]></text> 
+</component>
+
+<component id="ID_dstMac">
+<text><![CDATA[<b>MAC de Destino</b>]]></text> 
+</component>
+
+<component id="ID_srcMac">
+<text><![CDATA[<b>Mac de Origem</b>]]></text> 
+</component>
+
+<component id="ID_length">
+<text><![CDATA[<b>Tipo de Tamanho</b>]]></text> 
+</component>
+
+<component id="ID_enData">
+<text><![CDATA[<b>Dados Encapsulados</b>]]></text> 
+</component>
+
+<component id="ID_endOfFrame">
+<text><![CDATA[<b>Final do quadro</b>]]></text> 
+</component>
+
+<component id="ID_hub">
+<text><![CDATA[<b>Hub</b>]]></text> 
+</component>
+
+<!--MAC Table-->
+<component id="ID_macTable">
+<text><![CDATA[<b>Tabela MAC</b>]]></text> 
+</component>
+
+<!--Questions-->
+<component id="ID_question1">
+<text><![CDATA[<b>1. </b><textformat blockindent="14">Onde o switch encaminhará o quadro?</textformat>]]></text> 
+</component>
+
+<component id="ID_question2">
+<text><![CDATA[<b>2. </b><textformat blockindent="14">Quando o switch encaminha o quadro, qual(is) frase(s) são verdadeira(s)?</textformat>]]></text> 
+</component>
+
+<component id="ID_Q2_choice1">
+<text><![CDATA[Comutador adiciona o endereço MAC de origem à tabela MAC.]]></text> 
+</component>
+
+<component id="ID_Q2_choice2">
+<text><![CDATA[Quadro é um quadro broadcast e será encaminhado para todas as portas.]]></text> 
+</component>
+
+<component id="ID_Q2_choice3">
+<text><![CDATA[Quadro é um quadro unicast e será enviado apenas para a porta específica.]]></text> 
+</component>
+
+<component id="ID_Q2_choice4">
+<text><![CDATA[Quadro é um quadro unicast e será inundado para todas as portas.]]]></text> 
+</component>
+
+<component id="ID_Q2_choice5">
+<text><![CDATA[Quadro é um quadro unicast mas será diminuído no comutador.]]></text> 
+</component>
+
+<!--Feedback text-->
+
+<component id="ID_correct1">
+<text><![CDATA[<b>Correto! Você respondeu com sucesso todas as perguntas baseadas nas informações no quadro e na tabela MAC.</b>]]></text> 
+</component>
+
+<component id="ID_sourceDestNotEntered">
+<text><![CDATA[<b>Insira um endereço de origem e de destino para o quadro.<br> Endereços de destino podem ser FF para indicar um quadro broadcast.</b>]]></text> 
+</component>
+
+<component id="ID_frameBroadcastOnly">
+<text><![CDATA[<b>Incorreto. Na pergunta 2, sua resposta para como o comutador lidará com o quadro baseado no endereço de destino não é verdadeira. Tente novamente</b>]]></text> 
+</component>
+
+<component id="ID_frameUnicastOnly">
+<text><![CDATA[<b>Incorreto. Na pergunta 2, sua resposta para como o comutador lidará com o quadro baseado no endereço de destino não é verdadeira. Tente novamente</b>]]></text> 
+</component>
+
+<component id="ID_frameDropped">
+<text><![CDATA[<b>Incorreto. Na pergunta 2, sua resposta para como o comutador lidará com o quadro baseado no endereço de destino não é verdadeira. Tente novamente</b>]]></text> 
+</component>
+
+<component id="ID_frameDroppedSwitch">
+<text><![CDATA[<b>Incorreto. Na pergunta 2, sua resposta para como o comutador lidará com o quadro baseado no endereço de destino não é verdadeira. Tente novamente</b>]]></text> 
+</component>
+
+<component id="ID_sourceNotInTable">
+<text><![CDATA[<b>Incorreto. Na pergunta 2, sua resposta para como o comutador lidará com o endereço MAC de origem não é verdadeira. Tente novamente</b>]]></text> 
+</component>
+
+<component id="ID_sourceInTable">
+<text><![CDATA[<b>Incorreto. Na pergunta 2, sua resposta para como o comutador lidará com o endereço MAC de origem não é verdadeira. Tente novamente</b>]]></text> 
+</component>
+
+<component id="ID_frameNotForwardedBack">
+<text><![CDATA[<b>Incorreto. Na pergunta 1, a(s) porta(s) que você selecionou não está(ão) correta(s). Tente novamente</b>]]></text> 
+</component>
+
+<component id="ID_incorrectPortChecked">
+<text><![CDATA[<b>Incorreto. Na pergunta 1, a(s) porta(s) que você selecionou não está(ão) correta(s). Tente novamente</b>]]></text> 
+</component>
+
+<component id="ID_incorrectPortNotChecked">
+<text><![CDATA[<b>Incorreto. Na pergunta 1, a(s) porta(s) que você selecionou não está(ão) correta(s). Tente novamente</b>]]></text> 
+</component>
+
+<component id="ID_connectePortNotChecked">
+<text><![CDATA[<b>Incorreto. Na pergunta 1, a(s) porta(s) que você selecionou não está(ão) correta(s). Tente novamente</b>]]></text> 
+</component>
+
+<component id="ID_inactivePortsChecked">
+<text><![CDATA[<b>Incorreto. Na pergunta 1, a(s) porta(s) que você selecionou não está(ão) correta(s). Tente novamente</b>]]></text> 
+</component>
+
+<component id="ID_destPortNotChecked">
+<text><![CDATA[<b>Incorreto. Na pergunta 1, a(s) porta(s) que você selecionou não está(ão) correta(s). Tente novamente</b>]]></text> 
+</component>
+
+<component id="ID_unicastFloodNotChecked">
+<text><![CDATA[<b>Incorreto. Na pergunta 2, sua resposta para como o comutador lidará com o quadro baseado no endereço de destino não é verdadeira. Tente novamente</b>]]></text> 
+</component>
+</textcomponents>

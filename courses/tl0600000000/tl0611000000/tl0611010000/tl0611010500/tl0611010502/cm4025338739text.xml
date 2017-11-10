@@ -1,0 +1,16 @@
+﻿<textcomponents>
+<component id="ID_title"><text><![CDATA[<b>Comando de ajuda de Verificação da Sintaxe</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[ ]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[ ]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>O IOS mostra um <b>"^"</b> para indicar onde o intérprete de comandos não consegue decifrar o comando:</b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<b>O IOS responde com uma mensagem de ajuda indicando que as palavras-chave ou argumentos requeridos foram excluídos do final do comando:</b>]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>O IOS responde com uma mensagem de ajuda para indicar onde não houve caracteres suficiente inseridos para que o intérprete de comandos reconhecesse o comando. </b>]]></text></component>
+
+<component id="ID_txt06"><text><![CDATA[ ]]></text></component>
+
+</textcomponents>

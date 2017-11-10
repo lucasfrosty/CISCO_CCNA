@@ -1,0 +1,70 @@
+﻿<textcomponents>
+
+<component id="ID_title"><text><![CDATA[<b>Campos de Cabeçalho de Pacotes IPv4</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>Byte 1</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Byte 2</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>Byte 3</b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<b>Byte 4</b>]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>Ver.</b>]]></text></component>
+
+<component id="ID_txt06"><text><![CDATA[<b>IHL</b>]]></text></component>
+
+<component id="ID_txt07"><text><![CDATA[<b>Tipo de Serviço</b>]]></text></component>
+
+<component id="ID_txt08"><text><![CDATA[<b>Comprimento do Pacote</b>]]></text></component>
+
+<component id="ID_txt09"><text><![CDATA[<b>Identificação</b>]]></text></component>
+
+<component id="ID_txt10"><text><![CDATA[<b>Flag</b>]]></text></component>
+
+<component id="ID_txt11"><text><![CDATA[<b>Deslocamento de Fragmento</b>]]></text></component>
+
+<component id="ID_txt12"><text><![CDATA[<b>Tempo de Vida</b>]]></text></component>
+
+<component id="ID_txt13"><text><![CDATA[<b>Protocolo</b>]]></text></component>
+
+<component id="ID_txt14"><text><![CDATA[<b>Checksum de Cabeçalho</b>]]></text></component>
+
+<component id="ID_txt15"><text><![CDATA[<b>Endereço de Origem</b>]]></text></component>
+
+<component id="ID_txt16"><text><![CDATA[<b>Endereço de Destino</b>]]></text></component>
+
+<component id="ID_txt17"><text><![CDATA[<b>Opções</b>]]></text></component>
+
+<component id="ID_txt18"><text><![CDATA[<b>Padding</b>]]></text></component>
+
+
+<component id="ID_inst"><text><![CDATA[<b>Baixe a barra de rolagem para ver o objetivo.</b>]]></text></component>
+
+
+<component id="ID_title01"><text><![CDATA[Versão]]></text></component>
+
+<component id="ID_pop01"><text><![CDATA[Número da versão IP. <br><br>]]></text></component>
+
+<component id="ID_title02"><text><![CDATA[IHL (Comprimento do Cabeçalho)]]></text></component>
+
+<component id="ID_pop02"><text><![CDATA[Tamanho do cabeçalho do pacote. Necessário porque o campo Opções significa que o tamanho do cabeçalho pode variar e o protocolo precisa saber onde o cabeçalho termina e os dados começam ao processar o pacote. <br><br>]]></text></component>
+
+<component id="ID_title03"><text><![CDATA[Comprimento do Pacote]]></text></component>
+
+<component id="ID_pop03"><text><![CDATA[Tamanho de todo o pacote, incluindo cabeçalho e dados, em bytes. O comprimento mínimo do pacote é de 20 bytes (cabeçalho de 20 bytes + dados de 0 bytes) e o máximo é de 65.535 — o valor máximo que este campo de 16 bits pode ter. <br><br>]]></text></component>
+
+<component id="ID_title04"><text><![CDATA[Identificação]]></text></component>
+
+<component id="ID_pop04"><text><![CDATA[Identifica exclusivamente fragmentos de um pacote IP original. <br><br>]]></text></component>
+
+<component id="ID_title05"><text><![CDATA[Checksum de Cabeçalho]]></text></component>
+
+<component id="ID_pop05"><text><![CDATA[Utilizado para verificação de erros no cabeçalho do pacote. Em cada salto, o checksum do cabeçalho deve ser comparado ao valor deste campo. Se o valor do checksum do cabeçalho não corresponder ao checksum calculado, o pacote é descartado. Em cada salto, o campo TTL é reduzido e a fragmentação também é possível, portanto o checksum deve ser recalculado em cada salto. Observação: este checksum só se aplica ao cabeçalho, não aos dados encapsulados. <br><br>]]></text></component>
+
+<component id="ID_title06"><text><![CDATA[Opções]]></text></component>
+
+<component id="ID_pop06"><text><![CDATA[Campos de Cabeçalho adicional para fornecer outros serviços; raramente utilizado. <br><br>]]></text></component>
+
+
+</textcomponents>

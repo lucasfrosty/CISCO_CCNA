@@ -1,0 +1,7 @@
+<textcomponents>
+<component id="ID_txt01"><text><![CDATA[<b>Símbolos de Redes de Dados Comuns</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Computador Desktop</b>]]></text></component> <component id="ID_txt03"><text><![CDATA[<b>Laptop</b>]]></text></component> <component id="ID_txt04"><text><![CDATA[<b>Servidor</b>]]></text></component> <component id="ID_txt05"><text><![CDATA[<b>Telefone IP</b>]]></text></component> <component id="ID_txt06"><text><![CDATA[<b>Meios físicos de LAN</b>]]></text></component> <component id="ID_txt07"><text><![CDATA[<b>Meios sem fio</b>]]></text></component> <component id="ID_txt08"><text><![CDATA[<b>Switch</b>]]></text></component> <component id="ID_txt09"><text><![CDATA[<b>Firewall</b>]]></text></component> <component id="ID_txt10"><text><![CDATA[<b>Roteador</b>]]></text></component> <component id="ID_txt11"><text><![CDATA[<b>Roteador sem fio</b>]]></text></component> <component id="ID_txt12"><text><![CDATA[<b>Nuvem</b>]]></text></component> <component id="ID_txt13"><text><![CDATA[<b>Meios físicos para WAN</b>]]></text></component>
+
+
+</textcomponents>

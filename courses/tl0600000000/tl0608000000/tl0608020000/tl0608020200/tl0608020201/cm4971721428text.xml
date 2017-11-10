@@ -1,0 +1,23 @@
+﻿<textcomponents>
+
+<component id="ID_title"><text><![CDATA[<b>Reconhecimento de Sinais do Quadro</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<font color="#990000"><b>A CAMADA FÍSICA DECODIFICA OS SINAIS DO MEIO FÍSICO EM QUADRO EM CÓDIGO BINÁRIO</b></font>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>O padrão específico de sinais denota o início do quadro</b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<b>Sinais representando o conteúdo do quadro</b>]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>O padrão específico de sinais denota o final do quadro</b>]]></text></component>
+
+<component id="ID_txt06"><text><![CDATA[<b>Sinais aleatórios não enquadrados em meios físicos devido a ruído ou interferência</b>]]></text></component>
+
+<component id="ID_txt07"><text><![CDATA[<b>Um padrão específico de bits denota o início do quadro</b>]]></text></component>
+
+<component id="ID_txt08"><text><![CDATA[<b>Padrão de bits representando o conteúdo do quadro passado para a camada de Enlace de Dados</b>]]></text></component>
+
+<component id="ID_txt09"><text><![CDATA[<b>O padrão específico de bits denota o final do quadro</b>]]></text></component>
+
+<component id="ID_txt10"><text><![CDATA[<b>Sinais não enquadrados não decodificados e não passados para a camada de Link de Dados</b>]]></text></component>
+
+</textcomponents>

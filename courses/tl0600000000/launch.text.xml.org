@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>  
+<index>
+    <course>0600000000</course>
+    <lang1>port</lang1>
+    <lang2></lang2>
+    <copyright><content-text>All contents copyright © 2007-2009 Cisco Systems, Inc.</content-text></copyright>
+    <title><content-text>CCNA Exploration 4.0</content-text></title>
+    <subtitle><content-text>Fundamentos de Rede</content-text></subtitle>
+    <!--<subsubtitle><content-text>Small Market Trials Release</content-text></subsubtitle>-->
+<ctbtn><content-text>Conheça o Curso</content-text></ctbtn>
+    <lcbtn><content-text>Abra o Curso</content-text></lcbtn>
+    <selchap><content-text>Escolha o Capítulo</content-text></selchap>
+    <chapters>
+        <chapter value="tour">Conheça o Curso</chapter>
+        <chapter value="intro">Introdução ao Curso</chapter>
+        <chapter value="1">Capítulo 1</chapter>
+        <chapter value="2">Capítulo 2</chapter>
+        <chapter value="3">Capítulo 3</chapter>
+        <chapter value="4">Capítulo 4</chapter>
+        <chapter value="5">Capítulo 5</chapter>
+        <chapter value="6">Capítulo 6</chapter>
+        <chapter value="7">Capítulo 7</chapter>
+        <chapter value="8">Capítulo 8</chapter>
+        <chapter value="9">Capítulo 9</chapter>
+        <chapter value="10">Capítulo 10</chapter>
+        <chapter value="11">Capítulo 11</chapter>
+    </chapters>
+</index>

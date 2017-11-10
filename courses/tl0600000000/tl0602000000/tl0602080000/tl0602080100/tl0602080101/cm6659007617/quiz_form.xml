@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+		<exam id="13234" dateexported="07/28/2008">
+		<name>Teste do Módulo 2</name>
+		<form id="21559" lang="pt"><form-item order="fixed">
+			<ai id="142151" type="mc-sa"><question><![CDATA[Que camada OSI está associada ao endereçamento IP?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[1 ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[2 ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[3  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[4 ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="142152" type="mc-ma"><question><![CDATA[Que tipo de endereçamento é encontrado na Camada 2 do modelo OSI? (Escolha duas.)  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[lógico ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[físico  ]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[MAC  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[IP ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[porta ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="142153" type="mc-sa"><question><![CDATA[Quando um servidor responde a uma solicitação da Internet, o que acontece a seguir no processo de encapsulamento depois que os dados da página da Internet são formatados e separados em segmentos TCP?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[O cliente desencapsula o segmento e abre a página de Internet. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[O cliente acrescenta os endereços físicos adequados aos segmentos para que o servidor possa enviar os dados. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[O servidor converte os dados em bits para transporte pelo meio. ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[O servidor acrescenta o endereço IP de origem e destino a cada cabeçalho de segmento para entregar os pacotes no destino.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[O servidor acrescenta os endereços físicos de origem e destino ao cabeçalho do pacote. ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="142146" type="mc-sa"><question><![CDATA[Que termo descreve um conjunto específico de regras que determina a formatação de mensagens e o processo de encapsulamento usado para enviar dados?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[segmentação ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[protocolo  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[multiplexação ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[QoS ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[remontagem ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="142149" type="mc-ma"><question><![CDATA[Quais destes são protocolos associados à Camada 4 do modelo OSI? (Escolha duas.)  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[IP ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[TCP  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[FTP ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[TFTP ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[UDP  ]]></text>
+							
+						</choice></choices></ai></form-item><form-item>
+			<ai id="142144" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="142144" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>multiplexação</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>PDU</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>QoS</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>encapsulamento</mattext></material></textcomponent></component><component ident="5" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>segmentação</mattext></material></textcomponent></component><component ident="6" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>protocolo</mattext></material></textcomponent></component><!-- ***********  LABELS  *********** --><!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>dividir fluxos de dados em pedaços menores adequados para transmissão</mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>o processo de acrescentar informações específicas de camada ou tags necessárias para transmitir dados</mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>interconectar múltiplos fluxos de dados em um canal de comunicação compartilhado ou meio de rede</mattext></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>regras formais que determinam a estrutura e o processo de comunicação em rede</mattext></material></textcomponent></component><component ident="5" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>termo usado para um pacote de dados, em geral implicando uma camada ou protocolo específico</mattext></material></textcomponent></component><!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="760"><material><mattext>Arraste e solte os termos na sua definição correspondente. (Nem todos os itens são usados.)</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-137.5" targetYspacing="21" yspacing="60" targetH="37"><options><display componentIdent="1" xpos="200" ypos="75" /><display componentIdent="2" xpos="200" ypos="135" /><display componentIdent="3" xpos="200" ypos="195" /><display componentIdent="4" xpos="200" ypos="255" /><display componentIdent="5" xpos="200" ypos="315" /><display componentIdent="6" xpos="200" ypos="375" /></options><targets><display componentIdent="1" xpos="600" ypos="75" /><display componentIdent="2" xpos="600" ypos="127" /><display componentIdent="3" xpos="600" ypos="179" /><display componentIdent="4" xpos="600" ypos="231" /><display componentIdent="5" xpos="600" ypos="283" /></targets><stem><display componentIdent="40" xpos="420" ypos="28" /></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident="1"><componentident>1</componentident></scoringzone><scoringzone ident="2"><componentident>2</componentident></scoringzone><scoringzone ident="3"><componentident>3</componentident></scoringzone><scoringzone ident="4"><componentident>4</componentident></scoringzone><scoringzone ident="5"><componentident>5</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="191021" maxvalue="1"><title>sem título</title></decvar><interpretvar varname="191021" view="All">sem descrição </interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>5</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>4</componentident></scoringzonecontains><scoringzonecontains szident="3"><componentident>1</componentident></scoringzonecontains><scoringzonecontains szident="4"><componentident>6</componentident></scoringzonecontains><scoringzonecontains szident="5"><componentident>2</componentident></scoringzonecontains></conditionvar><setvar varname="191021" action="Set">1</setvar><scoringdescription>De cima para baixo: Segmentação, Encapsulamento, Multiplexação, Protocolo, PDU</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item><form-item>
+			<ai id="142145" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="142145" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>quadros</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>endereço IP</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>endereço MAC</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>endereçamento lógico</mattext></material></textcomponent></component><component ident="5" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>pacotes</mattext></material></textcomponent></component><component ident="6" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>endereçamento físico</mattext></material></textcomponent></component><component ident="7" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>números de portas</mattext></material></textcomponent></component><component ident="8" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>segmentos</mattext></material></textcomponent></component><component ident="9" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>bits</mattext></material></textcomponent></component><component ident="10" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>números de seqüência</mattext></material></textcomponent></component><!-- ***********  LABELS  *********** --><component ident="1" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext><b>Transporte</b></mattext></material></textcomponent></component><component ident="2" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext><b>Rede</b></mattext></material></textcomponent></component><component ident="3" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext><b>Enlace de Dados</b></mattext></material></textcomponent></component><!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext /></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext /></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext /></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext /></material></textcomponent></component><component ident="5" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext /></material></textcomponent></component><component ident="6" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext /></material></textcomponent></component><component ident="7" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext /></material></textcomponent></component><component ident="8" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext /></material></textcomponent></component><component ident="9" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext /></material></textcomponent></component><!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="760"><material><mattext>Arraste os termos de rede da esquerda e solte-os na camada adequada à direita. (Nem todas as opções são usadas.)</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-150" targetYspacing="10" yspacing="50" targetH="27"><options><display componentIdent="1" xpos="200" ypos="75" /><display componentIdent="2" xpos="200" ypos="115" /><display componentIdent="3" xpos="200" ypos="155" /><display componentIdent="4" xpos="200" ypos="195" /><display componentIdent="5" xpos="200" ypos="235" /><display componentIdent="6" xpos="200" ypos="275" /><display componentIdent="7" xpos="200" ypos="315" /><display componentIdent="8" xpos="200" ypos="355" /><display componentIdent="9" xpos="200" ypos="395" /><display componentIdent="10" xpos="200" ypos="435" /></options><labels><display componentIdent="1" xpos="600" ypos="91.5" containsTargets="3" startTarg="1" labelStyle="1" /><display componentIdent="2" xpos="600" ypos="227.5" containsTargets="3" startTarg="4" labelStyle="1" /><display componentIdent="3" xpos="600" ypos="363.5" containsTargets="3" startTarg="7" labelStyle="1" /></labels><targets><display componentIdent="1" xpos="600" ypos="100" /><display componentIdent="2" xpos="600" ypos="137" /><display componentIdent="3" xpos="600" ypos="174" /><display componentIdent="4" xpos="600" ypos="236" /><display componentIdent="5" xpos="600" ypos="273" /><display componentIdent="6" xpos="600" ypos="310" /><display componentIdent="7" xpos="600" ypos="372" /><display componentIdent="8" xpos="600" ypos="409" /><display componentIdent="9" xpos="600" ypos="446" /></targets><stem><display componentIdent="40" xpos="420" ypos="28" /></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident="1"><componentident>1</componentident><componentident>2</componentident><componentident>3</componentident></scoringzone><scoringzone ident="2"><componentident>4</componentident><componentident>5</componentident><componentident>6</componentident></scoringzone><scoringzone ident="3"><componentident>7</componentident><componentident>8</componentident><componentident>9</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="Observable 1" maxvalue="1"><title>Conceitos-chave de camada OSI</title></decvar><interpretvar varname="Observable 1" view="All">Exige que os estudantes reconheçam os relacionamentos entre as camadas OSI e os PDUs chave mais o endereçamento</interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>10</componentident><componentident>7</componentident><componentident>8</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>2</componentident><componentident>4</componentident><componentident>5</componentident></scoringzonecontains><scoringzonecontains szident="3"><componentident>3</componentident><componentident>1</componentident><componentident>6</componentident></scoringzonecontains></conditionvar><setvar varname="Observable 1" action="Set">1</setvar><scoringdescription>O transporte contém: segmentos, números de seqüência, números de portas. A rede contém: pacotes, endereço IP, endereçamento lógico. O enlace contém: quadros, endereço MAC, endereçamento físico. </scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item><form-item>
+			<ai id="142150" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="142150" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>define procedimentos para acesso ao meio </mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>padroniza os formatos de dados entre sistemas</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>roteia pacotes de acordo com endereço de rede exclusivo</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>cabeamento, voltagens, bits e taxa de transferência</mattext></material></textcomponent></component><component ident="5" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>gerencia as sessões e caixas de diálogos para o usuário</mattext></material></textcomponent></component><component ident="6" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>define interfaces entre softwares</mattext></material></textcomponent></component><component ident="7" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>entrega de mensagem de um extremo a outro da rede</mattext></material></textcomponent></component><!-- ***********  LABELS  *********** --><!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>Aplicação</mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>Apresentação</mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>Sessão </mattext></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>Transporte</mattext></material></textcomponent></component><component ident="5" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>Rede</mattext></material></textcomponent></component><component ident="6" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>Enlace de Dados</mattext></material></textcomponent></component><component ident="7" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>Física</mattext></material></textcomponent></component><!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="760"><material><mattext>Arraste e solte a descrição funcional das camadas OSI para o nome adequado da camada.</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-137.5" targetYspacing="16" yspacing="45" targetH="27"><options><display componentIdent="1" xpos="200" ypos="75" /><display componentIdent="2" xpos="200" ypos="115" /><display componentIdent="3" xpos="200" ypos="155" /><display componentIdent="4" xpos="200" ypos="195" /><display componentIdent="5" xpos="200" ypos="235" /><display componentIdent="6" xpos="200" ypos="275" /><display componentIdent="7" xpos="200" ypos="315" /></options><targets><display componentIdent="1" xpos="600" ypos="75" /><display componentIdent="2" xpos="600" ypos="112" /><display componentIdent="3" xpos="600" ypos="149" /><display componentIdent="4" xpos="600" ypos="186" /><display componentIdent="5" xpos="600" ypos="223" /><display componentIdent="6" xpos="600" ypos="260" /><display componentIdent="7" xpos="600" ypos="297" /></targets><stem><display componentIdent="40" xpos="420" ypos="28" /></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident="1"><componentident>1</componentident></scoringzone><scoringzone ident="2"><componentident>2</componentident></scoringzone><scoringzone ident="3"><componentident>3</componentident></scoringzone><scoringzone ident="4"><componentident>4</componentident></scoringzone><scoringzone ident="5"><componentident>5</componentident></scoringzone><scoringzone ident="6"><componentident>6</componentident></scoringzone><scoringzone ident="7"><componentident>7</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="192100" maxvalue="1"><title>sem título</title></decvar><interpretvar varname="192100" view="All">sem descrição </interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>6</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>2</componentident></scoringzonecontains><scoringzonecontains szident="3"><componentident>5</componentident></scoringzonecontains><scoringzonecontains szident="4"><componentident>7</componentident></scoringzonecontains><scoringzonecontains szident="5"><componentident>3</componentident></scoringzonecontains><scoringzonecontains szident="6"><componentident>1</componentident></scoringzonecontains><scoringzonecontains szident="7"><componentident>4</componentident></scoringzonecontains></conditionvar><setvar varname="192100" action="Set">1</setvar><scoringdescription>De cima para baixo: Apresentação, Rede, Físico, Aplicação, Enlace, Sessão, Transporte</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item></form></exam> 

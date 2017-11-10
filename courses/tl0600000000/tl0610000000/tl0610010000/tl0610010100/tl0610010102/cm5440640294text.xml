@@ -1,0 +1,10 @@
+﻿<textcomponents>
+
+<component id="ID_txt01"><text><![CDATA[<b>Conexões Entre Redes</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Pequena LAN utilizando um hub</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>LAN utilizando um switch</b>]]></text></component>
+
+
+</textcomponents>

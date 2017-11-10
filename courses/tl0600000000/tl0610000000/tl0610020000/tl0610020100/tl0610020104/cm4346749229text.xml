@@ -1,0 +1,12 @@
+﻿<textcomponents>
+
+<component id="ID_txt01"><text><![CDATA[<b>Facilidade de Instalação</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>UTP e fibra possuem diferentes requisitos de instalação.</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>Eletroduto para Cabos UTP</b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<b>Eletroduto para Cabos de Fibra</b>]]></text></component>
+
+
+</textcomponents>

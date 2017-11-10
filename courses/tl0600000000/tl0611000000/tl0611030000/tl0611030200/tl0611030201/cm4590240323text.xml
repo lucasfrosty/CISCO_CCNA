@@ -1,0 +1,23 @@
+﻿<textcomponents>
+
+<component id="ID_txt01"><text><![CDATA[<b>Clique para visualizar as diversas saídas do roteador.</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Resumo<br>Rota Estática para<br> 192.168.0.0/16</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>192.168.254.1</b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<b>192.168.254.250</b>]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>Fa0/0<br>192.168.254.254</b>]]></text></component>
+
+<component id="ID_txt06"><text><![CDATA[<b>S0/0/0<br>172.16.0.254</b>]]></text></component>
+
+<component id="ID_Title01"><text><![CDATA[<b>Testando a Interface</b>]]></text></component>
+
+<component id="slide1"><text><![CDATA[<b>Roteador1</b>]]></text></component>
+
+<component id="slide2"><text><![CDATA[<b>Switch1</b>]]></text></component>
+
+<component id="rbutton"><text><![CDATA[<b>Saída do Dispositivo</b>]]></text></component>
+
+</textcomponents>

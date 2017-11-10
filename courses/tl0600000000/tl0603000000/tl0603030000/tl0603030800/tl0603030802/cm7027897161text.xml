@@ -1,0 +1,15 @@
+﻿<textcomponents>
+<component id="ID_title"><text><![CDATA[<b>Telnet: aplicação, serviço e protocolo</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>Cliente telnet <br>Aplicação: Teraterm</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Serviço telnet:<br>Telnet</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>Protocolo telnet: <li>Configurar regras de negociação</li><li>comandos</b></li>]]></text></component>
+
+<component id="ID_table01"><text><![CDATA[<b>Protocolo telnet:</b>]]></text></component>
+
+<component id="ID_table02"><text><![CDATA[<b>• Configurar regras de negociação<br>• Comandos</b>]]></text></component>
+
+
+</textcomponents>

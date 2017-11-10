@@ -1,0 +1,52 @@
+﻿<textcomponents>
+	<component id="play"><text><![CDATA[Play]]></text></component> <component id="pause"><text><![CDATA[Pausar]]></text></component> <component id="rewind"><text><![CDATA[Voltar]]></text></component> <component id="forward"><text><![CDATA[Avançar]]></text></component> <component id="mute"><text><![CDATA[Mudo]]></text></component> <component id="unmute"><text><![CDATA[Com Som]]></text></component> <component id="previous"><text><![CDATA[Reiniciar]]></text></component> <component id="next"><text><![CDATA[Fim]]></text></component> <component id="transcript"><text><![CDATA[Transcrição]]></text></component>
+	
+	<component id="ID_txt01"><text><![CDATA[<b>Multicast</b>]]></text></component>
+    
+    <component id="ID_txt02"><text><![CDATA[<b>Grupo de Host de Destino</b>]]></text></component>
+    
+    <component id="ID_txt03"><text><![CDATA[<b>Host de Origem</b>]]></text></component>
+    
+    <component id="ID_txt04"><text><![CDATA[<b>IP: 192.168.1.5<br>MAC: 00-07-E9-63-CE-53</b>]]></text></component>
+    
+     <component id="ID_txt05"><text><![CDATA[<b>Os endereços IP de destino de multicast e MAC de destino de multicast entregam pacotes/quadros ao grupo de hosts.</b>]]></text></component>
+    
+
+    
+    <component id="ID_txt06"><text><![CDATA[Trailer]]></text></component>
+    
+     <component id="ID_txt07"><text><![CDATA[Dados do Usuário]]></text></component>
+    
+    <component id="ID_txt08"><text><![CDATA[192.168.1.5]]></text></component>
+    
+    <component id="ID_txt09"><text><![CDATA[224.0.0.10]]></text></component>
+    
+    <component id="ID_txt10"><text><![CDATA[00-07-E9-63-CE-53]]></text></component>
+    
+    <component id="ID_txt11"><text><![CDATA[01-00-5E-00-00-0A]]></text></component>
+    
+     <component id="ID_txt12"><text><![CDATA[<b>IP de Origem</b>]]></text></component>
+    
+    <component id="ID_txt13"><text><![CDATA[<b>IP de Destino</b>]]></text></component>
+    
+        <component id="ID_txt14"><text><![CDATA[<b>MAC de Origem</b>]]></text></component>
+    
+     <component id="ID_txt15"><text><![CDATA[<b>MAC de Destino</b>]]></text></component>
+    
+    <component id="ID_txt16"><text><![CDATA[<b>Pacote IP</b>]]></text></component>
+        
+        <component id="ID_txt17"><text><![CDATA[<b>Quadro Ethernet</b>]]></text></component>
+        
+        <component id="ID_txt18"><text><![CDATA[]]></text></component>
+        
+
+                <component id="bubble_01"><text><![CDATA[Eu preciso enviar para um grupo de hosts na rede.]]></text></component>
+        
+	    <component id="ID_inst"><text><![CDATA[<b>Clique em Play para ver uma mensagem de multicast.</b>]]></text></component>
+    
+    
+    
+    
+    
+
+</textcomponents>

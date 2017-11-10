@@ -1,0 +1,27 @@
+﻿<textcomponents>
+<component id="ID_txt01a"><text><![CDATA[<b>Camada de polímero</b>]]></text></component> <component id="ID_txt02a"><text><![CDATA[<b>Revestimento de fibra com 125 mícrons de diâmetro</b>]]></text></component> <component id="ID_txt03a"><text><![CDATA[<b>Número de fibra de vidro = 8-10 mícrons</b>]]></text></component> <component id="ID_txt04a"><text><![CDATA[<b>Produz um caminho direto para a luz</b>]]></text></component> <component id="ID_txt05b"><text><![CDATA[<b>Camada de polímero</b>]]></text></component> <component id="ID_txt06b"><text><![CDATA[<b>Revestimento de fibra com 125 mícrons de diâmetro</b>]]></text></component> <component id="ID_txt07b"><text><![CDATA[<b>Núcleo de fibra=50/62.5 mícrons</b>]]></text></component> <component id="ID_txt08b"><text><![CDATA[<b>Possibilita múltiplos caminhos para a luz</b>]]></text></component> <component id="ID_txt09a"><text><![CDATA[<b>Monomodo</b>]]></text></component> <component id="ID_txt10b"><text><![CDATA[<b>Multimodo</b>]]></text></component> <component id="ID_title"><text><![CDATA[<b>Modos do meio de fibra</b>]]></text></component>
+
+  
+<component id="ID_table01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>&nbsp;</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Núcleo pequeno</li><li>Menos dispersão</li><li>Adequado para aplicações de longa distância (até 100 km (62,14 milhas) </li><li>Normalmente utiliza lasers como fonte de luz em backbones de campus para uma distância de milhares de metros<br/></li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+  
+<component id="ID_table02">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>&nbsp;</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Núcleo maior que o do cabo monomodo (50 mícrons ou maior)</li><li>Permite maior dispersão e, portanto, perda de sinal</li><li>Utilizado para aplicações de longa distância, porém mais curto que o monomodo (até ~2km (6560 pés))</li><li>Normalmente usa LEDs como fonte de luz em redes locais ou distâncias de algumas centenas de metros em uma rede de campus</li></ul></td>
+	</tr> 
+</table>]]></text>
+</component>
+  
+</textcomponents>

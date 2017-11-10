@@ -1,0 +1,69 @@
+﻿<textcomponents>
+<component id="ID_title1"><text><![CDATA[<b>O Processo ARP &#8212; Mapeamento de Endereços</b>]]></text></component>
+
+<component id="ID_title2a"><text><![CDATA[<b>O Processo ARP &#8212; Sem Entrada ARP</b>]]></text></component>
+
+<component id="ID_title3"><text><![CDATA[<b>O Processo ARP &#8212; Solicitação ARP em Broadcast aos Dispositivos</b>]]></text></component>
+
+<component id="ID_title4"><text><![CDATA[<b>O Processo ARP &#8212; Resposta ARP Unicast com o Endereço MAC</b>]]></text></component>
+
+<component id="ID_title5"><text><![CDATA[<b>O Processo ARP &#8212; Endereços IP e MAC Armazenados na Cache ARP</b>]]></text></component>
+
+<component id="ID_title6"><text><![CDATA[<b>O Processo ARP &#8212; Entrada ARP Habilita o Quadro a ser Enviado</b>]]></text></component>
+
+<component id="ID_inst"><text><![CDATA[<b>Clique para ver os passos.</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>10.10.0.1<br><font color = "#003399"><b>00-0d-88-c7-9a-24</b></font><br><font color = "#990000">FFFF.FFFF.FFFF</b></font>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>10.10.0.2<br><font color = "#003399"><b>00-08-a3-b6-ce-04</b></font><br><font color = "#990000">FFFF.FFFF.FFFF</b></font>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>10.10.0.3<br><font color = "#003399"><b>00-0d-56-09-fb-d1</b></font><br><font color = "#990000">FFFF.FFFF.FFFF</b></font>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<b>10.10.0.4<br><font color = "#003399"><b> 00-12-3f-d4-6d-1b</b></font><br><font color = "#990000">FFFF.FFFF.FFFF</b></font>]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>10.10.0.254<br><font color = "#003399"><b>00-10-7b-e7-fa-ef</b></font><br><font color = "#990000">FFFF.FFFF.FFFF</b></font>]]></text></component>
+
+<component id="ID_txt06"><text><![CDATA[<b>A</b>]]></text></component>
+
+<component id="ID_txt07"><text><![CDATA[<b>B</b>]]></text></component>
+
+<component id="ID_txt08"><text><![CDATA[<b>C</b>]]></text></component>
+
+<component id="ID_txt09"><text><![CDATA[<b>D</b>]]></text></component>
+
+<component id="ID_txt10"><text><![CDATA[<b>CACHE ARP de A</b>]]></text></component>
+
+<component id="ID_txt10a"><text><![CDATA[<b>CACHE ARP de A</b>]]></text></component>
+
+<component id="ID_txt10b"><text><![CDATA[<b>CACHE ARP de A</b>]]></text></component>
+
+<component id="ID_txt10c"><text><![CDATA[<b>CACHE ARP de A</b>]]></text></component>
+
+<component id="ID_txt10d"><text><![CDATA[<b>CACHE ARP de A<br/>10.10.0.3 = 00-0d-56-09-fb-d1</b>]]></text></component>
+
+<component id="ID_txt10e"><text><![CDATA[<b>CACHE ARP de A<br>10.10.0.3 = 00-0d-56-09-fb-d1</b>]]></text></component>
+
+
+
+<component id="ID_txt11"><text><![CDATA[<b>Siga os passos para gerar um novo par na tabela ARP quando o destino está na rede local.</b>]]></text></component>
+
+<component id="ID_txt12"><text><![CDATA[<b>Eu preciso enviar um quadro para 172.16.0.10, mas está fora da minha rede e eu não sei o endereço MAC do meu gateway (10.10.0.254).</b>]]></text></component>
+
+<component id="ID_txt13"><text><![CDATA[<b>Se o seu endereço IP é 10.10.0.254, por favor, diga 10.10.0.1(00-0d-88-c7-9a).</b>]]></text></component>
+
+<component id="ID_txt14"><text><![CDATA[<b>Eu sou 10.10.0.254. Então eu respondo com o meu endreço MAC 0060.273A.07BC</b>]]></text></component>
+
+<component id="ID_txt15"><text><![CDATA[<b>Eu preciso enviar um quadro para 10.10.0.3, mas eu não sei o endereço MAC.</b>]]></text></component>
+
+<component id="ID_txt16"><text><![CDATA[<b>Se o seu endereço IP é 10.10.3, por favor, diga 10.10.0.1(00-0d-88-c7-9a-24).</b>]]></text></component>
+
+<component id="ID_txt17"><text><![CDATA[<b>Eu sou 10.10.0.3.<br/>Meu endereço MAC é 00-0d-56-09-fb-d1.</b>]]></text></component>
+
+<component id="ID_txt18"><text><![CDATA[<b>Eu armazenarei 10.10.0.3 e 00-0d-56-09-fb-d1 em minha Cache ARP.</b>]]></text></component>  
+
+<component id="ID_txt19"><text><![CDATA[<b>Agora eu posso enviar o quadro para 10.10.0.3 com o endereço MAC 00-0d-56-09-fb-d1.</b>]]></text></component>  
+
+<component id="ID_txt20"><text><![CDATA[<b>Rede</b>]]></text></component>  
+</textcomponents>
+
+

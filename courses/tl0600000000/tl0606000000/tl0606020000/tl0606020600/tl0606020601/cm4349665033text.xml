@@ -1,0 +1,13 @@
+﻿<textcomponents>
+
+<component id="ID_txt01"><text><![CDATA[<b>Endereços Especiais IPv4</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>O roteador não encaminha endereços TEST-NET e (Link-Local).</b>]]></text></component>
+  
+<component id="ID_txt03"><text><![CDATA[<b>Internet</b>]]></text></component>
+  
+<component id="ID_txt04"><text><![CDATA[<b>A rede que utiliza endereços TEST-NET 192.0.2.0 /24 consegue se comunicar somente dentro da LAN local.</b>]]></text></component>
+  
+<component id="ID_txt05"><text><![CDATA[<b>A Rede Link-Local 169.254.0.0 /16 consegue se comunicar somente dentro da LAN local.</b>]]></text></component>
+  
+</textcomponents>

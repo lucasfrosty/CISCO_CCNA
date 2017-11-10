@@ -1,0 +1,23 @@
+﻿<textcomponents>
+<component id="ID_title"><text><![CDATA[<b>Compartilhamento de Arquivos Usando o Protocolo SMB</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>Solicitações SMB</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Respostas SMB</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>Respostas SMB</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>Cliente</b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<b>Servidor</b>]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>SMB é um protocolo cliente-servidor de solicitações e respostas. Os servidores podem disponibilizar seus recursos para os clientes na rede.</b>]]></text></component>
+
+<component id="ID_txt06"><text><![CDATA[<b>Recursos Compartilhados</b>]]></text></component>
+
+<component id="ID_txt07"><text><![CDATA[<b><li>Sistemas de arquivo</li><li>Impressoras</li><li>Slots de correio</li><li>APIs</li></b>]]></text></component>
+
+<component id="ID_txt08"><text><![CDATA[<b>Impressora</b>]]></text></component>
+
+
+</textcomponents>

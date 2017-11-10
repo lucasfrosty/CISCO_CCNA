@@ -1,0 +1,35 @@
+﻿<textcomponents>
+
+<component id="ID_title"><text><![CDATA[<b>Entidades que Supervisionam a Alocação de Endereço IP  </b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>Global</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>IANA</b>]]></text></component>
+  
+<component id="ID_txt03"><text><![CDATA[<b>AfriNIC</b>]]></text></component>
+  
+<component id="ID_txt04"><text><![CDATA[<b>APNIC</b>]]></text></component>
+  
+<component id="ID_txt05"><text><![CDATA[<b>LACNIC</b>]]></text></component>
+    
+  <component id="ID_txt06"><text><![CDATA[<b>ARIN</b>]]></text></component>
+    
+  <component id="ID_txt07"><text><![CDATA[<b>RIPE NCC</b>]]></text></component>
+    
+  <component id="ID_txt08"><text><![CDATA[<b>Registros Regionais de Internet</b>]]></text></component>
+    
+  <component id="ID_txt09"><text><![CDATA[Região da África]]></text></component>
+    
+  <component id="ID_txt10"><text><![CDATA[Região da Ásia/<br/>Pacífico]]></text></component>
+    
+  <component id="ID_txt11"><text><![CDATA[Região da América Latina e Caribe]]></text></component>
+    
+  <component id="ID_txt12"><text><![CDATA[Região da América do Norte]]></text></component>
+    
+  <component id="ID_txt13"><text><![CDATA[Região da Europa, <br>Oriente Médio e <br>Ásia Central]]></text></component>
+    
+
+  
+  
+  
+</textcomponents>

@@ -1,0 +1,56 @@
+﻿<textcomponents>
+   <component id="ID_title"><text><![CDATA[<b> Entrada de Rota Existente </b>]]></text></component>
+   
+   <component id="ID_txt01"><text><![CDATA[<b>L2</b>]]></text></component>
+
+   <component id="ID_txt02"><text><![CDATA[<b>IP</b>]]></text></component>
+
+   <component id="ID_txt03"><text><![CDATA[<b>Dados</b>]]></text></component> 
+   
+   <component id="ID_txt04"><text><![CDATA[<b>L2</b>]]></text></component> 
+   
+   <component id="ID_txt05"><text><![CDATA[<b>IP</b>]]></text></component>   
+
+   <component id="ID_txt06"><text><![CDATA[<b>Dados</b>]]></text></component> 
+
+   <component id="ID_txt07"><text><![CDATA[<b>R   10.1.2.0 [120/2]</b>]]></text></component>
+   
+   <component id="ID_txt07a"><text><![CDATA[<b>Gateway Padrão: 192.168.1.2 </b>]]></text></component>  
+   
+   <component id="ID_txt08"><text><![CDATA[<b>DADOS PARA A REDE 10.1.2.0</b>]]></text></component>   
+   
+   <component id="ID_txt09"><text><![CDATA[<b>L2</b>]]></text></component>
+   
+   <component id="ID_txt10"><text><![CDATA[<b>IP</b>]]></text></component>   
+
+   <component id="ID_txt11"><text><![CDATA[<b>Dados</b>]]></text></component>      
+   
+   <component id="ID_txt12"><text><![CDATA[<b>L2</b>]]></text></component>   
+
+   <component id="ID_txt13"><text><![CDATA[<b>Rede 10.1.2.0</b>]]></text></component>   
+   
+   <component id="ID_txt14"><text><![CDATA[<b>L2</b>]]></text></component>   
+
+   <component id="ID_txt15"><text><![CDATA[<b>IP</b>]]></text></component>      
+   
+   <component id="ID_txt16"><text><![CDATA[<b>Dados</b>]]></text></component>   
+
+   <component id="ID_txt17"><text><![CDATA[<b>L2</b>]]></text></component>   
+   
+   <component id="ID_txt18a"><text><![CDATA[<b>1. O roteador remove o encapsulamento da Camada 2</b>]]></text></component>
+   
+   <component id="ID_txt18b"><text><![CDATA[<b>2. Roteador extrai o endereço IP de destino<br/></b>]]></text></component>
+   
+   <component id="ID_txt18c"><text><![CDATA[<b>3. O Roteador verifica a tabela de roteamento para encontrar uma correspondência</b>]]></text></component>
+   
+   <component id="ID_txt18d"><text><![CDATA[<b>4. A Rede 10.1.2.0 é encontrada na tabela de roteamento</b>]]></text></component>
+   
+   <component id="ID_txt18e"><text><![CDATA[<b>5. O roteador refaz o encapsulamento do pacote</b>]]></text></component>
+   
+   <component id="ID_txt18f"><text><![CDATA[<b>6. Pacote é enviado à Rede 10.1.2.0</b>]]></text></component>
+
+   <component id="ID_txt19"><text><![CDATA[<b>10.1.2.0</b>]]></text></component>      
+   
+   <component id="ID_inst"><text><![CDATA[<b>Baixe a barra de rolagem para ver as etapas que o roteador executa.</b>]]></text></component>
+
+</textcomponents>

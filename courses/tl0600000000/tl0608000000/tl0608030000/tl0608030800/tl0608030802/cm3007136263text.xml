@@ -1,0 +1,4 @@
+﻿<textcomponents>
+
+<component id="ID_txt03"><text><![CDATA[<b>Boa conexão - Os fios são destrançados até a extensão necessária para inserir o conector.</b>]]></text></component> <component id="ID_txt04"><text><![CDATA[<b>Conexão ruim - Os fios são destrançados com um tamanho desnecessário.</b>]]></text></component> <component id="ID_txt05"><text><![CDATA[<b>Uma terminação imprópria de cabo pode causar impacto ao desempenho da transmissão.</b>]]></text></component> <component id="ID_title"><text><![CDATA[<b>Conectores de Meio Físico de Cobre <br>Terminação RJ-45</b>]]></text></component>
+</textcomponents>

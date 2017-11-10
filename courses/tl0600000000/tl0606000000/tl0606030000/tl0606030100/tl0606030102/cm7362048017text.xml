@@ -1,0 +1,23 @@
+﻿<textcomponents>
+<component id="ID_title"><text><![CDATA[<b>Planejamento e Atribuição de Endereços IPv4<br>Endereços públicos e privados</b>]]></text></component> <component id="PRIVATE ADDRESSES"><text><![CDATA[Endereços privados]]></text></component> <component id="PUBLIC ADDRESSES"><text><![CDATA[Endereços públicos]]></text></component>
+	
+<component id="ID_txt01"><text><![CDATA[<b>Rede local interna</b>]]></text></component> <component id="ID_internet"><text><![CDATA[<b>Internet</b>]]></text></component>
+	
+	
+<component id="ID_txt02"><text><![CDATA[<b>Servidores Web públicos</b>]]></text></component>
+	
+<component id="ID_inst"><text><![CDATA[<b>Passe o mouse para ver o tipo de endereço.</b>]]></text></component>
+	
+<component id="ID_txt03"><text><![CDATA[<b>A conversão do endereço de rede exigida para permitir o acesso à Internet para endereços privados. </b>]]></text></component>
+	
+	<component id="ID_txt03a"><text><![CDATA[<b>Endereço privado </b>]]></text></component>
+	
+		<component id="ID_txt03b"><text><![CDATA[<b>Endereço público </b>]]></text></component>
+	
+		<component id="ID_txt04a"><text><![CDATA[<b>Endereço público </b>]]></text></component>
+	
+		<component id="ID_txt04b"><text><![CDATA[<b>Endereço público </b>]]></text></component>
+	
+<component id="ID_txt04"><text><![CDATA[<b>Os endereços públicos têm acesso à Internet.</b>]]></text></component>
+		
+</textcomponents>

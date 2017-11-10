@@ -1,0 +1,29 @@
+﻿<textcomponents>
+
+<component id="ID_title"><text><![CDATA[<b>Atividade de Conversão de Decimal para Binário</b>]]></text></component>
+
+<component id="ID_titlea"><text><![CDATA[Dado um valor decimal, insira os valores binários corretos para cada posição.]]></text></component>
+
+
+<component id="ID_scenario2_txt"><text><![CDATA[Insira os números para estas 8 posições.]]></text></component>
+
+
+<component id="ID_txt01"><text><![CDATA[Valor Decimal]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[Expoente]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[Posição]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[Bit]]></text></component>
+
+<component id="ID_Correct"><text><![CDATA[Correto]]></text></component>
+
+<component id="ID_Incorrect"><text><![CDATA[Incorreto]]></text></component>
+
+<component id="ID_check"><text><![CDATA[Verifique]]></text></component>
+
+<component id="ID_reset"><text><![CDATA[Reinicialize]]></text></component>
+
+<component id="ID_newnumber"><text><![CDATA[Novo Número]]></text></component>
+
+</textcomponents>

@@ -1,0 +1,20 @@
+﻿<textcomponents>
+<component id="ID_txt01"><text><![CDATA[<b>Protocolo Ethernet</b>]]></text></component>
+<component id="ID_txt02"><text><![CDATA[<b>Um Protocolo da Camada de Enlace de Dados Comum para LANs</b>]]></text></component>
+<component id="ID_txt03"><text><![CDATA[<b>Quadro</b>]]></text></component>
+<component id="ID_txt04"><text><![CDATA[<b>Nome do campo</b>]]></text></component>
+<component id="ID_txt05"><text><![CDATA[<b>Comprimento</b>]]></text></component> 
+<component id="ID_txt06"><text><![CDATA[<b>Preâmbulo</b> - utilizado para sincronização; também contém um delimitador para marcar o final da informação cronometrada.<br><b>Endereço de Destino</b> - Endereço MAC de 48 bits do nó de destino.<br><b>Endereço de Origem</b> - Endereço MAC de 48 bits do nó de origem.<br><b>Tipo</b> - valor para indicar que protocolo de camada superior receberá os dados depois que o processo Ethernet for concluído.<br><b>Dados</b> ou carga - esta é a PDU, normalmente um pacote IPv4, que deve ser transportado pelos meios.<br><b>Seqüência de Verificação do Quadro</b> (FCS) - Um valor utilizado para verificar quadros danificados.]]></text></component>
+<component id="ID_txt12"><text><![CDATA[<b>Preâmbulo</b>]]></text></component> 
+<component id="ID_txt13"><text><![CDATA[<b>Destino</b>]]></text></component> 
+<component id="ID_txt14"><text><![CDATA[<b>Origem</b>]]></text></component>
+<component id="ID_txt15"><text><![CDATA[<b>Tipo</b>]]></text></component>
+<component id="ID_txt16"><text><![CDATA[<b>Dados</b>]]></text></component>
+<component id="ID_txt17"><text><![CDATA[<b>Seqüência de Verificação do Quadro</b>]]></text></component>
+<component id="ID_txt18"><text><![CDATA[<b>8 bytes</b>]]></text></component> 
+<component id="ID_txt19"><text><![CDATA[<b>6 bytes</b>]]></text></component>
+<component id="ID_txt20"><text><![CDATA[<b>6 bytes</b>]]></text></component>
+<component id="ID_txt21"><text><![CDATA[<b>2 bytes</b>]]></text></component>
+<component id="ID_txt22"><text><![CDATA[<b>46 - 1500 bytes</b>]]></text></component>
+<component id="ID_txt23"><text><![CDATA[<b>4 bytes</b>]]></text></component>
+</textcomponents>

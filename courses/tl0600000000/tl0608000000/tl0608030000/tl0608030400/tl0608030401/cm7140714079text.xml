@@ -1,0 +1,18 @@
+﻿<textcomponents>
+<component id="button1"><text><![CDATA[SEÇÃO]]></text></component> 
+<component id="ID_txt01"><text><![CDATA[<b>Revestimento externo</b>]]></text></component>
+<component id="ID_txt02"><text><![CDATA[<b>Blindagem de cobre em malha</b>]]></text></component>
+<component id="ID_txt03"><text><![CDATA[<b>Condutor de cobre</b>]]></text></component>
+<component id="ID_txt04"><text><![CDATA[<b>Isolamento de plástico</b>]]></text></component>
+<component id="ID_txt01a"><text><![CDATA[<b>Revestimento externo</b>]]></text></component> 
+<component id="ID_txt02a"><text><![CDATA[<b>Blindagem de cobre em malha</b>]]></text></component> 
+<component id="ID_txt03a"><text><![CDATA[<b>Condutor de cobre</b>]]></text></component> 
+<component id="ID_txt04a"><text><![CDATA[<b>Isolamento de plástico</b>]]></text></component>
+<component id="ID_txt05"><text><![CDATA[<b>Conectores coaxiais</b>]]></text></component> 
+<component id="ID_txt05a"><text><![CDATA[<b>BNC</b>]]></text></component>
+<component id="ID_txt05b"><text><![CDATA[<b>Tipo N</b>]]></text></component>
+<component id="ID_txt05c"><text><![CDATA[<b>Tipo F</b>]]></text></component>
+<component id="ID_inst"><text><![CDATA[<b>Passe o mouse para alterar a perspectiva.</b>]]></text></component> 
+<component id="ID_title"><text><![CDATA[<b>Design do cabo coaxial</b>]]></text></component>
+
+</textcomponents>

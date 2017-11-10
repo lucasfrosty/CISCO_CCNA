@@ -1,0 +1,36 @@
+﻿<textcomponents>
+   <component id="ID_title"><text><![CDATA[<b>Maior Segurança</b>]]></text></component>
+   
+      <component id="ID_txtnew"><text><![CDATA[<b>Internet</b>]]></text></component>
+   
+   <component id="ID_txt01"><text><![CDATA[<b>Internet</b>]]></text></component>
+
+   <component id="ID_txt02"><text><![CDATA[<b>Todos os usuários têm acesso à Internet.</b>]]></text></component>
+
+   <component id="ID_txt02a"><text><![CDATA[<b>Cada usuário pode atingir servidores em seu próprio departamento.</b>]]></text></component>
+   
+   <component id="ID_txt02b"><text><![CDATA[<b>Cada usuário é impedido de atingir servidores em outros departamentos.</b>]]></text></component> 
+   
+   <component id="ID_txt03"><text><![CDATA[<b>Administrador</b>]]></text></component> 
+   
+   <component id="ID_txt04"><text><![CDATA[<b>Registros do aluno</b>]]></text></component> 
+   
+   <component id="ID_txt05"><text><![CDATA[<b>Pesquisador</b>]]></text></component>   
+
+   <component id="ID_txt06"><text><![CDATA[<b>Pesquisa</b>]]></text></component> 
+
+   <component id="ID_txt07"><text><![CDATA[<b>Aceito</b>]]></text></component>    
+   
+   <component id="ID_txt08"><text><![CDATA[<b>Aceito</b>]]></text></component>   
+   
+   <component id="ID_txt09"><text><![CDATA[<b>Rejeitado</b>]]></text></component>
+   
+   <component id="ID_txt10"><text><![CDATA[<b>Rejeitado</b>]]></text></component>  
+
+   <component id="accessgranted"><text><![CDATA[<b>Acesso Concedido</b>]]></text></component>  
+
+   <component id="accessdenied"><text><![CDATA[<b>Acesso Negado</b>]]></text></component>   
+   
+   <component id="ID_inst"><text><![CDATA[<b>Baixe a barra de rolagem para comparar o acesso do departamento.</b>]]></text></component>
+
+</textcomponents>

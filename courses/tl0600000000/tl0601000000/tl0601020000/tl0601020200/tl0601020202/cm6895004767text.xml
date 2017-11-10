@@ -1,0 +1,7 @@
+﻿<textcomponents>
+<component id="ID_caption1"><text><![CDATA[<b>É mais difícil entregar um pacote grande e volumoso mais rapidamente e sem danos do que entregar vários pacotes pequenos e menos complexos.</b>]]></text></component>
+
+<component id="ID_sent01"><text><![CDATA[<b>ENVIADO</b>]]></text></component> <component id="ID_sent02"><text><![CDATA[<b>ENVIADO</b>]]></text></component> <component id="ID_sent03"><text><![CDATA[<b>ENVIADO</b>]]></text></component> <component id="ID_sent04"><text><![CDATA[<b>ENVIADO</b>]]></text></component> <component id="ID_sentFrom01"><text><![CDATA[<b>Remetente:</b>]]></text></component> <component id="ID_destination01"><text><![CDATA[<b>Destinatário:</b>]]></text></component> <component id="ID_delayed01"><text><![CDATA[<b>ENTREGUE COM ATRASO</b>]]></text></component> <component id="ID_delivered01"><text><![CDATA[<b>ENTREGUE</b>]]></text></component>
+
+
+</textcomponents>

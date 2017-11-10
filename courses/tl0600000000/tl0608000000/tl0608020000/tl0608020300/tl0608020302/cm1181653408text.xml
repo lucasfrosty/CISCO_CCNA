@@ -1,0 +1,99 @@
+﻿<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Dados de Produtividade e Goodput</b>]]></text>
+</component>
+
+<component id="ID_header01">
+<text><![CDATA[<b>Nó Final</b>]]></text>
+</component>
+
+<component id="ID_header02">
+<text><![CDATA[<b>Nó Final</b>]]></text>
+</component>
+
+<component id="ID_osi01">
+<text><![CDATA[<b>Aplicação</b>]]></text>
+</component>
+
+<component id="ID_osi02">
+<text><![CDATA[<b>Apresentação</b>]]></text>
+</component>
+
+<component id="ID_osi03">
+<text><![CDATA[<b>Sessão</b>]]></text>
+</component>
+
+<component id="ID_osi04">
+<text><![CDATA[<b>Transporte</b>]]></text>
+</component>
+
+<component id="ID_osi05">
+<text><![CDATA[<b>Rede</b>]]></text>
+</component>
+
+<component id="ID_osi06">
+<text><![CDATA[<b>Enlace de Dados</b>]]></text>
+</component>
+
+<component id="ID_osi07">
+<text><![CDATA[<b>Físico</b>]]></text>
+</component>
+
+
+<component id="ID_text01">
+<text><![CDATA[<b>Aplicação</b>]]></text>
+</component>
+
+<component id="ID_text02">
+<text><![CDATA[<b>Dados</b>]]></text>
+</component>
+
+<component id="ID_text03">
+<text><![CDATA[<b>Dados</b>]]></text>
+</component>
+
+<component id="ID_text04">
+<text><![CDATA[<b>Dados</b>]]></text>
+</component>
+
+<component id="ID_text05">
+<text><![CDATA[<b>Dados</b>]]></text>
+</component>
+
+<component id="ID_text06">
+<text><![CDATA[<b>Cabeçalho de Rede</b>]]></text>
+</component>
+
+<component id="ID_text07">
+<text><![CDATA[<b>Dados</b>]]></text>
+</component>
+
+<component id="ID_text08">
+<text><![CDATA[<b>Cabeçalho de Quadro</b>]]></text>
+</component>
+
+<component id="ID_text09">
+<text><![CDATA[<b>Cabeçalho de Rede</b>]]></text>
+</component>
+
+<component id="ID_text10">
+<text><![CDATA[<b>Dados</b>]]></text>
+</component>
+
+<component id="ID_text11">
+<text><![CDATA[<b>Trailer de Quadro</b>]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<b>Goodput</b>]]></text>
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[<b>Produtividade</b>]]></text>
+</component>
+
+<component id="ID_txt14">
+<text><![CDATA[<b>A produtividade de dados é o desempenho real da rede. <font color="#993333">Goodput </font>é uma medida da transferência de dados utilizáveis depois que o tráfego auxiliar de protocolo tenha sido removido.</b>]]></text>
+</component>
+
+</textcomponents>

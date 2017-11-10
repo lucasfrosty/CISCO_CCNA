@@ -1,0 +1,29 @@
+﻿<textcomponents>
+
+<component id="ID_title"><text><![CDATA[<b>Captura do Ping do Host</b>]]></text></component>
+
+<component id="ID_inst"><text><![CDATA[<b>Clique para ver os passos.</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>Envie o comando ping.</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Resultados do Ping</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>Clique com o botão direito do mouse na janela de comando e selecione Marcar ou Selecionar Todos.</b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<b>Ou então, clique no ícone da janela de comando e selecione Editar e, depois, Marcar ou Selecionar Todos</b>]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>Marque (selecione) o texto arrastando o cursor da parte superior esquerda para a inferior direita da janela. Pressione Enter.</b>]]></text></component>
+
+<component id="ID_txt06"><text><![CDATA[<b>Cole o texto selecionado no editor de texto e salve o arquivo.</b>]]></text></component>
+
+<component id="ID_txt07"><text><![CDATA[<b>1</b>]]></text></component>
+
+<component id="ID_txt08"><text><![CDATA[<b>2</b>]]></text></component>
+
+<component id="ID_txt09"><text><![CDATA[<b>3</b>]]></text></component>
+
+<component id="ID_txt10"><text><![CDATA[<b>4</b>]]></text></component>
+
+<component id="ID_txt11"><text><![CDATA[<b>5</b>]]></text></component>
+
+</textcomponents>

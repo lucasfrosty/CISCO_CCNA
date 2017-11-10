@@ -1,0 +1,96 @@
+﻿<textcomponents>
+
+
+<component id="ID_title"><text><![CDATA[<b>Campos de cabeçalho do segmento TCP</b>]]></text></component>
+
+<component id="ID_inst"><text><![CDATA[<b>Passe o mouse sobre cada campo para exibir sua função.</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>Bit 0</b>]]></text></component>
+
+
+<component id="ID_txt03"><text><![CDATA[<b>15</b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<b>Número da Porta de Origem</b>]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>Número da Porta de Destino</b>]]></text></component>
+
+<component id="ID_txt06"><text><![CDATA[<b>Número de Sequência</b>]]></text></component>
+
+<component id="ID_txt07"><text><![CDATA[<b>H.Length</b>]]></text></component>
+
+<component id="ID_txt08"><text><![CDATA[<b>(Reservado)</b>]]></text></component>
+
+<component id="ID_txt09"><text><![CDATA[<b>Flags</b>]]></text></component>
+
+<component id="ID_txt10"><text><![CDATA[<b>Tamanho da janela</b>]]></text></component>
+
+<component id="ID_txt11"><text><![CDATA[<b>Checksum TCP</b>]]></text></component>
+
+<component id="ID_txt12"><text><![CDATA[<b>Urgent Pointer</b>]]></text></component>
+
+<component id="ID_txt13"><text><![CDATA[<b>Opções (se houver)</b>]]></text></component>
+
+<component id="ID_txt14"><text><![CDATA[<b>Dados</b>]]></text></component>
+
+<component id="ID_txt15"><text><![CDATA[<b>Os campos do cabeçalho de TCP permitem ao TCP uma comunicação de dados segura e orientada à conexão. </b>]]></text></component>
+
+<component id="ID_txt16"><text><![CDATA[<b>31</b>]]></text></component>
+
+<component id="ID_txt17"><text><![CDATA[<b>Número de Reconhecimento</b>]]></text></component>
+
+
+
+
+
+
+<component id="Title_pop01"><text><![CDATA[Número da Porta de Origem]]></text></component>
+
+<component id="Text_pop01"><text><![CDATA[Sessão TCP no dispositivo que abriu uma conexão - normalmente um valor aleatório acima de 1023. ]]></text></component>
+
+<component id="Title_pop02"><text><![CDATA[Número da Porta de Destino]]></text></component>
+
+<component id="Text_pop02"><text><![CDATA[Identifica o protocolo de camada superior ou aplicação em local remoto. ]]></text></component>
+
+<component id="Title_pop03"><text><![CDATA[Número de Sequência ]]></text></component>
+
+<component id="Text_pop03"><text><![CDATA[Especifica o número do último octeto (byte) em um segmento.]]></text></component>
+
+<component id="Title_pop04"><text><![CDATA[Número de Reconhecimento ]]></text></component>
+
+<component id="Text_pop04"><text><![CDATA[Especifica o octeto seguinte esperado pelo receptor. ]]></text></component>
+
+<component id="Title_pop05"><text><![CDATA[H.Lenght ]]></text></component>
+
+<component id="Text_pop05"><text><![CDATA[Comprimento do cabeçalho - especifica o comprimento do cabeçalho do segmento em bytes ]]></text></component>
+
+<component id="Title_pop06"><text><![CDATA[Flags]]></text></component>
+
+<component id="Text_pop06"><text><![CDATA[Usado no gerenciamento de sessão e no tratamento de segmentos.  ]]></text></component>
+
+<component id="Title_pop07"><text><![CDATA[Tamanho da janela ]]></text></component>
+
+<component id="Text_pop07"><text><![CDATA[É o valor da janela dinâmica (quantos octetos podem ser enviados antes da espera do reconhecimento). ]]></text></component>
+
+<component id="Title_pop08"><text><![CDATA[Checksum TCP]]></text></component>
+
+<component id="Text_pop08"><text><![CDATA[Usado para verificação de erro no cabeçalho e dados.]]></text></component>
+
+<component id="Title_pop09"><text><![CDATA[Urgent Pointer ]]></text></component>
+
+<component id="Text_pop09"><text><![CDATA[Usado somente com um sinalizador URG (Urgente) flag.]]></text></component>
+
+<component id="Title_pop10"><text><![CDATA[Opções]]></text></component>
+
+<component id="Text_pop10"><text><![CDATA[Informações opcionais]]></text></component>
+
+<component id="Title_pop11"><text><![CDATA[Dados]]></text></component>
+
+<component id="Text_pop11"><text><![CDATA[Dados da aplicação]]></text></component>
+
+
+
+
+
+
+
+</textcomponents>

@@ -1,0 +1,38 @@
+﻿<textcomponents>
+
+
+<component id="slide1"><text><![CDATA[<b>1</b>]]></text></component> <component id="slide2"><text><![CDATA[<b>2</b>]]></text></component> <component id="slide3"><text><![CDATA[<b>3</b>]]></text></component> <component id="slide4"><text><![CDATA[<b>4</b>]]></text></component> <component id="slide5"><text><![CDATA[<b>5</b>]]></text></component> <component id="slide6"><text><![CDATA[<b>6</b>]]></text></component>
+
+<component id="overlay1"><text><![CDATA[<b>Intervalo para AtlantaHQ</b>]]></text></component>
+
+<component id="overlay2"><text><![CDATA[<b>Endereços Alocados</b>]]></text></component>
+
+<component id="overlay3"><text><![CDATA[<b>Intervalo para PerthHQ</b>]]></text></component>
+
+<component id="overlay4"><text><![CDATA[<b>Endereços Alocados</b>]]></text></component>
+
+<component id="overlay5"><text><![CDATA[<b>Intervalo para SydneyHQ</b>]]></text></component>
+
+<component id="overlay6"><text><![CDATA[<b>Intervalo para CorpusHQ</b>]]></text></component>
+
+<component id="overlay7"><text><![CDATA[<b>Intervalo para WAN (3)</b>]]></text></component>
+
+<component id="overlay8"><text><![CDATA[<b>Endereços Alocados</b>]]></text></component>
+
+
+
+<component id="header01"><text><![CDATA[<b>/25 (1 bit para sub-rede)<br>2 sub-redes<br>126 hosts</b>]]></text></component>
+
+
+<component id="header02"><text><![CDATA[<b>/26 (2 bits para sub-rede)<br>4 sub-redes<br>62 hosts</b>]]></text></component>
+
+<component id="header03"><text><![CDATA[<b>/27 (3 bits para sub-rede)<br>8 sub-redes<br>30 hosts</b>]]></text></component>
+
+<component id="header04"><text><![CDATA[<b>/28 (4 bits para sub-rede)<br>16 sub-redes<br>14 hosts</b>]]></text></component>
+
+<component id="header05"><text><![CDATA[<b>/29 (5 bits para sub-rede)<br>32 sub-redes<br>6 hosts</b>]]></text></component>
+
+<component id="header06"><text><![CDATA[<b>/30 (6 bits para sub-rede)<br>64 sub-redes<br>2 hosts</b>]]></text></component>
+
+
+</textcomponents>

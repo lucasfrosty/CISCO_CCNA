@@ -1,0 +1,13 @@
+﻿<textcomponents>
+
+<component id="ID_summary">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#FFFFFF"><b>Neste capítulo você aprendeu a:</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Explicar o papel de protocolos e serviços da camada Física no apoio a comunicações em redes de dados.</li><li>Descrever a finalidade da sinalização e da codificação da camada Física utilizadas em redes.</li><li>Descrever o papel de sinais utilizados para representar bits enquanto um quadro é transportado pelos meios locais.</li><li>Identificar as características básicas dos meios de rede de cobre, fibra e sem fio.</li><li>Descrever a utilização básica dos meios de rede de cobre, fibra e sem fio.</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+</textcomponents>

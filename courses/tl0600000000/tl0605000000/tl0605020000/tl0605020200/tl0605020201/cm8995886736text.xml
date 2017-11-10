@@ -1,0 +1,13 @@
+﻿<textcomponents>
+
+<component id="ID_txt01"><text><![CDATA[<b>Todos os dispositivos nesta rede estão conectados em um domínio de broadcast quando o switch é configurado para as configurações padrão de fábrica. Uma vez que os switches encaminham broadcasts por padrão, os broadcasts são processadas por todos os dispositivos nesta rede.</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Substituir o switch por um roteador cria 2 sub-redes IP, portanto, 2 domínios distintos de broadcast. Todos os dispositivos são conectados, mas broadcasts locais são incluídas. </b>]]></text></component>
+
+
+<component id="btnZero"><text><![CDATA[<b>Começar</b>]]></text></component>
+
+<component id="btnOne"><text><![CDATA[<b>Otimizar Agrupamento</b>]]></text></component>
+
+
+</textcomponents>

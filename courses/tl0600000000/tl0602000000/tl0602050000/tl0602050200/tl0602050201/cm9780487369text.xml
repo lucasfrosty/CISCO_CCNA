@@ -1,0 +1,7 @@
+﻿<textcomponents>
+<component id="ID_title"><text><![CDATA[<b>Endereçando a PDU</b>]]></text></component> 
+<component id="ID_caption"><text><![CDATA[<b>O cabeçalho da PDU contém campos de endereços dos dispositivos.</b>]]></text></component>
+
+<component id="ID_network"><text><![CDATA[<b>Rede</b>]]></text></component> <component id="myText_txt"><text><![CDATA[<b>Dados</b>]]></text></component> <component id="myText2_txt"><text><![CDATA[<b>Endereço</b>]]></text></component> <component id="myText3_txt"><text><![CDATA[<b>Endereço</b>]]></text></component> <component id="ID_txt01"><text><![CDATA[<b>DEST</b>]]></text></component> <component id="ID_txt02"><text><![CDATA[<b>Endereço</b>]]></text></component> <component id="ID_txt03"><text><![CDATA[<b>Dados</b>]]></text></component> <component id="ID_box1"><text><![CDATA[<b>ENDEREÇO<BR>DISPOSITIVO<BR>DESTINO</b>]]></text></component> <component id="ID_box2"><text><![CDATA[<b>ENDEREÇO<BR>DISPOSITIVO<BR>ORIGEM</b>]]></text></component> <component id="ID_box3"><text><![CDATA[<b>Dados</b>]]></text></component> <component id="ID_txt04_2"><text><![CDATA[<b>Destino</b>]]></text></component> <component id="ID_txt05_2"><text><![CDATA[<b>Origem</b>]]></text></component> <component id="ID_txt06_2"><text><![CDATA[<b>Dados</b>]]></text></component> <component id="ID_txt07_2"><text><![CDATA[<b>PDU</b>]]></text></component>
+
+</textcomponents>

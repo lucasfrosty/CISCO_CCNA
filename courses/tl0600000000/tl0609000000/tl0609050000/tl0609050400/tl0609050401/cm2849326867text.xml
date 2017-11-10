@@ -1,0 +1,55 @@
+﻿<textcomponents>
+
+<component id="ID_txt01"><text><![CDATA[<b>O quadro básico Ethernet pode ser aplicado a difrentes tipos de rede</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Sedes</b>]]></text></component>
+  
+<component id="ID_txt03"><text><![CDATA[<b>Locais do Cliente</b>]]></text></component>
+  
+<component id="ID_txt04"><text><![CDATA[<b>Locais do Cliente</b>]]></text></component>
+  
+<component id="ID_txt05"><text><![CDATA[<b>Filial</b>]]></text></component>
+  
+<component id="ID_txt06"><text><![CDATA[<b>WAN</b>]]></text></component>
+  
+<component id="ID_txt07"><text><![CDATA[<b>Rede de Área Metropolitana</b>]]></text></component>
+  
+<component id="ID_txt08"><text><![CDATA[<b>Rede de Acesso</b>]]></text></component>
+  
+  <component id="ID_txt09"><text><![CDATA[<b>Filial</b>]]></text></component>
+  
+  <component id="ID_txt10"><text><![CDATA[<b>Filial</b>]]></text></component>
+  
+
+ 
+  
+<component id="ID_txt11"><text><![CDATA[<b>Ethernet</b>]]></text></component>
+  
+<component id="ID_txt12"><text><![CDATA[8]]></text></component>
+  
+<component id="ID_txt13"><text><![CDATA[6]]></text></component>
+  
+<component id="ID_txt14"><text><![CDATA[6]]></text></component>
+  
+<component id="ID_txt15"><text><![CDATA[2]]></text></component>
+  
+<component id="ID_txt16"><text><![CDATA[46 a 1500]]></text></component>
+  
+<component id="ID_txt17"><text><![CDATA[4]]></text></component>
+  
+  <component id="ID_txt18"><text><![CDATA[Preâmbulo]]></text></component>
+  
+  <component id="ID_txt19"><text><![CDATA[Endereço de Destino]]></text></component>
+  
+  <component id="ID_txt20"><text><![CDATA[Endreço de Origem]]></text></component>
+  
+  <component id="ID_txt21"><text><![CDATA[Tipo]]></text></component>
+  
+   <component id="ID_txt22"><text><![CDATA[Dados]]></text></component>
+  
+   <component id="ID_txt23"><text><![CDATA[Sequência de Verificação do Quadro]]></text></component>
+  
+  
+<component id="ID_txt24"><text><![CDATA[<b>O quadro básico Ethernet pode ser aplicado a difrentes tipos de rede.</b>]]></text></component>
+
+</textcomponents>

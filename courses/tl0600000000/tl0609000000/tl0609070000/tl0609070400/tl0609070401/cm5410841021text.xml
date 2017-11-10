@@ -1,0 +1,37 @@
+﻿<textcomponents>
+
+<component id="ID_title"><text><![CDATA[<b>Problemas com ARP:<br><li>Broadcasts, overhead nos Meios<li>Segurança</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>Meio Físico Compartilhado (multi-acesso)</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Broadcasts ARP podem inundar os meios locais.</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>Uma mensagem ARP falsa pode fornecer um endereço MAC incorreto que capturará quadros utilizando tal endereço (chamado de spoof).</b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<b>Ethernet</b>]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>8</b>]]></text></component>
+
+<component id="ID_txt06"><text><![CDATA[<b>6</b>]]></text></component>
+
+<component id="ID_txt07"><text><![CDATA[<b>6</b>]]></text></component>
+
+<component id="ID_txt08"><text><![CDATA[<b>2</b>]]></text></component>
+
+<component id="ID_txt09"><text><![CDATA[<b>46 a 1500</b>]]></text></component>
+
+<component id="ID_txt10"><text><![CDATA[<b>4</b>]]></text></component>
+
+<component id="ID_txt11"><text><![CDATA[<b>Preâmbulo</b>]]></text></component>
+
+<component id="ID_txt12"><text><![CDATA[<font color = "#990000"><b>Endereço de Destino</b></font>]]></text></component>
+
+<component id="ID_txt13"><text><![CDATA[<b>Endreço de Origem</b>]]></text></component>
+
+<component id="ID_txt14"><text><![CDATA[<b>Tipo</b>]]></text></component>
+
+<component id="ID_txt15"><text><![CDATA[<b>Dados</b>]]></text></component>
+
+<component id="ID_txt16"><text><![CDATA[<b>Sequência de Verificação do Quadro</b>]]></text></component>
+
+</textcomponents>

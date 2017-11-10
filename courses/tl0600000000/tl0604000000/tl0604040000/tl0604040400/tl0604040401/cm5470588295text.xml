@@ -1,0 +1,130 @@
+﻿<textcomponents>
+
+
+
+<component id="ID_inst"><text><![CDATA[<b>Clique para ver os tipos de portas usadas.</b>]]></text></component>
+
+<component id="ID_title"><text><![CDATA[<b>Clientes Enviando Solicitações UDP</b>]]></text></component>
+
+
+<component id="Button01"><text><![CDATA[Reinicialize]]></text></component>
+
+<component id="Button02"><text><![CDATA[Solicitar Portas de Destino]]></text></component>
+
+<component id="Button03"><text><![CDATA[Solicitar Portas de Origem]]></text></component>
+
+<component id="Button04"><text><![CDATA[Responder Portas de Destino]]></text></component>
+
+<component id="Button05"><text><![CDATA[Responder Portas de Origem]]></text></component>
+
+
+
+
+<component id="ID_txt01"><text><![CDATA[<b>Cliente 1</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Servidor</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>Cliente 2</b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<b>Solicitação de Autenticação do Usuário 2 RADIUS:</b>]]></text></component>
+<component id="ID_txt04_1"><text><![CDATA[<b>Porta de Origem 51152</b>]]></text></component>
+<component id="ID_txt04_2"><text><![CDATA[<b>Porta de Destino 1812</b>]]></text></component>
+
+<component id="ID_txt06"><text><![CDATA[<b>DNS: Porta 53<br/>RADIUS: Porta 1812</b>]]></text></component>
+
+<component id="ID_txt07"><text><![CDATA[<b>Solicitação de DNS do Cliente 1:</b>]]></text></component>
+<component id="ID_txt07_1"><text><![CDATA[<b>Porta de Origem 49152</b>]]></text></component>
+<component id="ID_txt07_2"><text><![CDATA[<b>Porta de Destino 53</b>]]></text></component>
+
+
+
+<component id="ID_txt01a"><text><![CDATA[<b>Cliente 1</b>]]></text></component>
+
+<component id="ID_txt02a"><text><![CDATA[<b>Servidor</b>]]></text></component>
+
+<component id="ID_txt03a"><text><![CDATA[<b>Cliente 2</b>]]></text></component>
+
+<component id="ID_txt04a"><text><![CDATA[<b>Solicitação de Autenticação de Usuário do Cliente 2 RADIUS:</b>]]></text></component>
+<component id="ID_txt04a_1"><text><![CDATA[<b>Porta de Origem 51152</b>]]></text></component>
+<component id="ID_txt04a_2"><text><![CDATA[<b>Porta de Destino 1812</b>]]></text></component>
+<component id="ID_txt06a"><text><![CDATA[<b>DNS: Porta 53<br/>RADIUS: Porta 1812</b>]]></text></component>
+
+<component id="ID_txt07a"><text><![CDATA[<b>Solicitação de DNS do Cliente 1:</b>]]></text></component>
+<component id="ID_txt07a_1"><text><![CDATA[<b>Porta de Origem 49152</b>]]></text></component>
+<component id="ID_txt07a_2"><text><![CDATA[<b>Porta de Destino 53</b>]]></text></component>
+<component id="ID_txt08a"><text><![CDATA[<b>Solicitações de cliente para servidor UDP utilizam números de porta conhecidos como a porta de destino.</b>]]></text></component>
+
+
+
+
+
+<component id="ID_txt01b"><text><![CDATA[<b>Cliente 1</b>]]></text></component>
+
+<component id="ID_txt02b"><text><![CDATA[<b>Servidor</b>]]></text></component>
+
+<component id="ID_txt03b"><text><![CDATA[<b>Cliente 2</b>]]></text></component>
+
+<component id="ID_txt04b"><text><![CDATA[<b>Solicitação de Autenticação de Usuário do Cliente 2 RADIUS:</b>]]></text></component>
+<component id="ID_txt04b_1"><text><![CDATA[<b>Porta de Origem 51152</b>]]></text></component>
+<component id="ID_txt04b_2"><text><![CDATA[<b>Porta de Destino 1812</b>]]></text></component>
+<component id="ID_txt06b"><text><![CDATA[<b>DNS: Porta 53<br/>RADIUS: Porta 1812</b>]]></text></component>
+
+<component id="ID_txt07b"><text><![CDATA[<b>Solicitação de DNS do Cliente 1:</b>]]></text></component>
+<component id="ID_txt07b_1"><text><![CDATA[<b>Porta de Origem 49152</b>]]></text></component>
+<component id="ID_txt07b_2"><text><![CDATA[<b>Porta de Destino 53</b>]]></text></component>
+<component id="ID_txt08b"><text><![CDATA[<b>Use números padrões de porta como porta de origem.</font></b>]]></text></component>
+
+
+
+
+<component id="ID_txt01c"><text><![CDATA[<b>Cliente 1</b>]]></text></component>
+
+<component id="ID_txt02c"><text><![CDATA[<b>Servidor</b>]]></text></component>
+
+<component id="ID_txt03c"><text><![CDATA[<b>Cliente 2</b>]]></text></component>
+
+<component id="ID_txt04c"><text><![CDATA[<b>Cliente 2 esperando resposta do servidor RADIUS</b>]]></text></component>
+<component id="ID_txt04c_1"><text><![CDATA[<b>na Porta 51152</b>]]></text></component>
+<component id="ID_txt06c"><text><![CDATA[<b>DNS: Porta 53<BR/>RADIUS: Porta 1812</b>]]></text></component>
+
+<component id="ID_txt07c"><text><![CDATA[<b>Cliente 1 esperando resposta do servidor DNS na Porta 49152</b>]]></text></component>
+<component id="ID_txt07c_1"><text><![CDATA[<b>na Porta 49152</b>]]></text></component>
+
+<component id="ID_txt08c"><text><![CDATA[<b>Respostas do servidor para clientes UDP utilizam números de porta aleatórios como a porta de destino.</b>]]></text></component>
+
+<component id="ID_txt09c"><text><![CDATA[<b>Resposta de DNS do Servidor:</b>]]></text></component>
+<component id="ID_txt09c_1"><text><![CDATA[<b>Porta de Origem 53</b>]]></text></component>
+<component id="ID_txt09c_2"><text><![CDATA[<b>Porta de Destino 49152</b>]]></text></component>
+<component id="ID_txt10c"><text><![CDATA[<b>Resposta de RADIUS do Servidor:</b>]]></text></component>
+<component id="ID_txt10c_1"><text><![CDATA[<b>Porta de Origem 1812</b>]]></text></component>
+<component id="ID_txt10c_2"><text><![CDATA[<b>Porta de Destino 51152</b>]]></text></component>
+
+
+
+<component id="ID_txt01d"><text><![CDATA[<b>Cliente 1</b>]]></text></component>
+
+<component id="ID_txt02d"><text><![CDATA[<b>Servidor</b>]]></text></component>
+
+<component id="ID_txt03d"><text><![CDATA[<b>Cliente 2</b>]]></text></component>
+
+<component id="ID_txt04d"><text><![CDATA[<b>Cliente 2 esperando resposta do servidor RADIUS</b>]]></text></component>
+<component id="ID_txt04d_1"><text><![CDATA[<b>na Porta 51152</b>]]></text></component>
+<component id="ID_txt06d"><text><![CDATA[<b>DNS: Porta 53<br/>RADIUS: Porta 1812</b>]]></text></component>
+
+<component id="ID_txt07d"><text><![CDATA[<b>Cliente 1 esperando resposta do servidor DNS</b>]]></text></component>
+<component id="ID_txt07d_1"><text><![CDATA[<b>na Porta 51152</b>]]></text></component>
+<component id="ID_txt08d"><text><![CDATA[<b>Respostas do servidor para clientes UDP utilizam números de porta conhecidos como a porta de origem.</b>]]></text></component>
+
+<component id="ID_txt09d"><text><![CDATA[<b>Resposta de DNS do Servidor:</b>]]></text></component>
+<component id="ID_txt09d_1"><text><![CDATA[<b>Porta de Origem 53</b>]]></text></component>
+<component id="ID_txt09d_2"><text><![CDATA[<b>Porta de Destino 49152</b>]]></text></component>
+<component id="ID_txt10d"><text><![CDATA[<b>Resposta de RADIUS do Servidor:</b>]]></text></component>
+<component id="ID_txt10d_1"><text><![CDATA[<b>Porta de Origem 1812</b>]]></text></component>
+<component id="ID_txt10d_2"><text><![CDATA[<b>Porta de Destino 51152</b>]]></text></component>
+
+
+
+
+
+
+</textcomponents>

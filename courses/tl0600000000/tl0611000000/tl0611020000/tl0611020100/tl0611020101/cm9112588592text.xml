@@ -1,0 +1,12 @@
+﻿<textcomponents>
+<component id="ID_title"><text><![CDATA[<b>Configuração Básica Usando IOS Cisco</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>?</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>?</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>?</b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<b>Sem nomes, os dispositivos de rede são difíceis de serem identificados com a finalidade de configuração.</b>]]></text></component>
+
+</textcomponents>

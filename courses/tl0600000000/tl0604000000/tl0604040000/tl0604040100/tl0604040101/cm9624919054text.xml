@@ -1,0 +1,7 @@
+﻿<textcomponents>
+
+<component id="ID_title"><text><![CDATA[<b>Transporte de Dados Auxiliares UDP</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>Rede</b>]]></text></component> <component id="ID_txt02"><text><![CDATA[<b>Remetente</b>]]></text></component> <component id="ID_txt03"><text><![CDATA[<b>Destinatário</b>]]></text></component> <component id="ID_txt04"><text><![CDATA[<b>UDP não estabelece uma conexão antes de enviar dados.</b>]]></text></component> <component id="ID_txt05"><text><![CDATA[<b>UDP fornece transporte de dados auxiliares porque tem um pequeno cabeçalho de datagrama e nenhum tráfego de gerenciamento de rede.</b>]]></text></component> <component id="ID_txt06"><text><![CDATA[<b>Dados</b>]]></text></component>
+  
+</textcomponents> 

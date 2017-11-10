@@ -1,0 +1,39 @@
+﻿<textcomponents>
+   <component id="ID_txt01"><text><![CDATA[<b>Teste de Conectividade com uma LAN Remota<br/>Execute o ping para um host remoto</b>]]></text></component> <component id="ID_txt02"><text><![CDATA[<b>10.0.1.0]]></text></component>
+   
+   <component id="ID_txt03"><text><![CDATA[<b>10.0.0.0]]></text></component>
+   
+   <component id="ID_txt04"><text><![CDATA[<b>10.0.0.254<br/>255.255.255.0</b>]]></text></component>
+   
+   <component id="ID_txt05"><text><![CDATA[<b>10.0.1.254<br/>255.255.255.0</b>]]></text></component>
+   
+   <component id="ID_txt06"><text><![CDATA[<b>F1</b>]]></text></component>
+   
+   <component id="ID_txt07"><text><![CDATA[<b>F0</b>]]></text></component>
+   
+   <component id="ID_txt08"><text><![CDATA[<b>Ping 10.0.1.1</b>]]></text></component>
+   
+   <component id="ID_txt09"><text><![CDATA[<b>10.0.0.1<br/>255.255.255.0</b>]]></text></component>
+   
+   <component id="ID_txt10"><text><![CDATA[<b>10.0.0.2<br/>255.255.255.0</b>]]></text></component>
+   
+   <component id="ID_txt11"><text><![CDATA[<b>10.0.0.2<br/>255.255.255.0</b>]]></text></component>
+   
+   <component id="ID_txt12"><text><![CDATA[<b>10.0.0.253<br/>255.255.255.0</b>]]></text></component>
+   
+   <component id="ID_txt13"><text><![CDATA[<b>RESPOSTA de ECHO</b>]]></text></component>
+   
+   <component id="ID_txt13a"><text><![CDATA[<b>SOLICITAÇÃO de ECHO</b>]]></text></component>
+
+   <component id="ID_txt14"><text><![CDATA[<b>10.0.1.1<br/>255.255.255.0</b>]]></text></component>
+   
+   <component id="ID_txt15"><text><![CDATA[<b>10.0.1.2<br/>255.255.255.0</b>]]></text></component>
+   
+   <component id="ID_txt16"><text><![CDATA[<b>10.0.1.2<br/>255.255.255.0</b>]]></text></component>
+   
+   <component id="ID_txt17"><text><![CDATA[<b>10.0.1.253<br/>255.255.255.0</b>]]></text></component>
+   
+   <component id="ID_inst"><text><![CDATA[<b>Clique em Play para ver a animação.</b>]]></text></component>
+   
+   <component id="play"><text>Play</text></component> <component id="pause"><text>Pausar</text></component> <component id="rewind"><text>Voltar</text></component> <component id="forward"><text>Avançar</text></component> <component id="mute"><text>Mudo</text></component> <component id="unmute"><text>Com Som</text></component> <component id="previous"><text>Reiniciar</text></component> <component id="next"><text>Fim</text></component> <component id="transcript"><text>Transcrição</text></component>
+</textcomponents>

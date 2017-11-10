@@ -1,0 +1,5 @@
+﻿<textcomponents>
+<component id="ID_table01">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>Neste capítulo você aprendeu a:</b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Descrever a estrutura de uma rede, incluindo os dispositivos e meios necessários para a comunicação bem-sucedida.</li><li>Explicar a função de protocolos na comunicação da rede.</li><li>Explicar as vantagens de utilizar um modelo em camadas para descrever a funcionalidade de rede.</li><li>Descrever a função de cada camada em dois modelos de rede reconhecidos: O modelo TCP/IP e o modelo OSI.</li><li>Descrever a importância de endereçar e nomear esquemas de comunicações em rede.</li></ul></td></tr></table>]]></text> 
+  </component>
+</textcomponents>

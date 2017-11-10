@@ -1,0 +1,7 @@
+﻿<textcomponents>
+
+<component id="ID_title"><text><![CDATA[<b>Capturando o Traceroute</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>Saída do trace de amostra</b>]]></text></component>
+
+</textcomponents>

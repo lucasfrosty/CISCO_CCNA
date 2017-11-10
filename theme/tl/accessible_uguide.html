@@ -1,0 +1,93 @@
+﻿<html>
+	<head>
+		<title>Guia do Usuário em Tópicos</title>
+	</head>
+
+	<body>
+		<h1>Guia do Usuário em Tópicos</h1>
+		<h2>Índice</h2>
+		<ol>
+			<li><a href="#níveldocurso">Nível do curso</a></li>
+			<li><a href="#apresentaçãodemídia">Apresentação de mídia</a></li>
+			<li><a href="#layoutdepágina ">Layout de página </a></li>
+			<li><a href="#navegaçãopeloteclado">Navegação pelo teclado</a></li>
+		</ol>
+
+
+		<br><br>
+		<a href="javascript:window.close();">Fechar Janela</a><br>
+		<a href="javascript:scroll(0,0);">Voltar para o Topo</a>
+		<br><br>
+		<a name="courselevel"></a>
+		<h2>1.	Nível do curso</h2>
+		<p>O atributo de nível do curso altera o nível em que o conteúdo do curso é exibido. As opções são: “capítulo”, “seção”, “tópico” ou “página”. O nível padrão é “capítulo”.</p>
+		<ul>
+			<li>Nível de capítulo – Exibe todas as seções, os tópicos e as páginas no capítulo atual.</li>
+			<li>Nível de seção – Exibe todos os tópicos e as páginas da seção atual.</li>
+			<li>Nível de tópicos – Exibe todas as páginas do tópico atual.</li>
+			<li>Nível de páginas – Exibe somente a página atual.</li>
+		</ul>
+		<br/><br/><img src="accessible_uguide_images/courselevel.png" width="296" height="103" alt="Course level selecton box" border="1"/>
+		<br><br><br>
+		<a href="javascript:window.close();">Fechar Janela</a><br>
+		<a href="javascript:scroll(0,0);">Voltar ao Topo</a>
+		<br><br>
+		<a name="apresentaçãodemídia"></a>
+		<h2>2.	Apresentação de mídia</h2>
+		<p>O atributo de apresentação de mídia altera o formato de reprodução da mídia de cada página. As opções são: “todas as opções”, “reprodução breve”, “reprodução total” ou “mídia interativa visual”. O padrão é “todas as opções”.
+		</p>
+		<ul>
+			<li>Somente reprodução de mídia e texto – Uma descrição escrita de cada item de mídia é apresentado cada vez em que aparecem no curso. Esta opção é totalmente acessível através do teclado.</li> 
+			<li>Somente mídia interativa visual – Por padrão, nenhuma mídia é reproduzida. Cada vez em que um item de mídia aparece no curso, o usuário poderá selecionar qual método de apresentação para reproduzir a mídia. Esta seleção é feita para para cada item de mídia, os quais podem ser reproduzidos em qualquer formato.</li> 
+			<li>Reprodução de texto e mídia visual – Por padrão, nenhuma mídia é exibida. Cada vez em que um item de mída aparece no curso, o usuário pode selecionar o método de apresentção para reproduzir a mídia. Esta seleção ocorre para cada item de mídia, os quais podem ser reproduzidos em qualquer formato.</li>
+		</ul>
+		<br/><br/><img src="accessible_uguide_images/mediapresentation.png" width="266" height="82" alt="Media presentation selecton box" border="1"/>
+		<br><br><br>
+		<a href="javascript:window.close();">Fechar Janela</a><br>
+		<a href="javascript:scroll(0,0);">Voltar para o Topo</a>
+		<br><br>
+		<a name="pagelayout"></a>
+		<h2>3. Layout de página</h2>
+		<p>Todas as páginas possuem formatação igual, porém o conteúdo é baseado no nível do curso selecionado antes de início.</p>
+		<p>Os primeiros itens encontrados são os links de ferramentas do curso. Tais links abrirão uma área na parte superior da página com a ferramenta selecionada. As duas ferramentas disponíveis são “Pesquisa” e “Glossário”. O final da área de ferramentas é marcado com uma régua horizontal.</p>
+		<ul>
+			<li>Pesquisa – É aberto em uma nova janela. Contém um campo de entrada em que podem ser digitados quaisquer termos de busca. Após enviar a pesquisa, é gerada uma lista de páginas contendo os termos de busca encontrados no corpo do texto de cada página. Estas são listadas na ordem que aparecem no curso.<br/><br/><img src="accessible_uguide_images/search.png" width="640" height="132" alt="Search Tool" border="1"/><br/><br/></li>
+			<li>Glossário – É aberto em uma nova janela. Contém uma lista com índice de termos do glossário que podem ser seleionados para exibir a definição correspondente. Esta ferramenta também é iniciada quando um termo do glossário vinculado for selecionado dentro do corpo do texto de uma página.<br/><br/><img src="accessible_uguide_images/glossary.png" width="884" height="481" alt="Glossary Tool" border="1"/><br/><br/></li>
+		</ul>
+		<p>O próximo item é o índice do curso. Esta caixa de seleção contém a lista completa de itens de um curso, separados pela visualização do nível do curso selecionada. Este recurso pode ser usado como uma navegação rápida no curso. Para usar o índice, selecione o item desejado da lista, em seguida o botão “select” para navegar pelo item. O final da área do índice do curso é marcado com uma régua horizontal.<br><img src="accessible_uguide_images/courseindex.png" width="383" height="45" alt="Course Index" border="1"/><br/><br/></p>
+		<p>O número de seções, tópicos e páginas exibidos depende da seleção do nível do curso feita no início. O final do nivel de conteúdo é marcado com uma régua horizontal.<br/><br/><img src="accessible_uguide_images/titles.png" width="792" height="131" alt="Title Formats" border="1"/><br/><br/></p>
+		<p>O conteúdo do curso é exibido próximo e no seguinte formato:</p>
+		<ul>
+			<li>Título e subtítulo do curso na guia  &lt;h1&gt;</li>
+			<li>Número e título o capítulo na guia  &lt;h2&gt;</li>
+			<li>Número e título da seção na guia  &lt;h3&gt;</li>
+			<li>Número e título do tópico em negrito e em itálico</li>
+			<li>Número da página em negrito</li>
+		</ul>
+		<p>Os elementos finais de uma página são os elementos de navegação “próximo”, “anterior” e “topo”.<br/><br/><img src="accessible_uguide_images/nav.png" width="123" height="72" alt="Navigation Elements" border="1"/><br/><br/></p>
+		<ul>
+			<li>Ir para o próximo – Navega até o próximo capítulo, seção, tópico ou página, dependendo do nível do curso selecionado.</li>
+			<li>Ir para o anterior – Navega até o capítulo anterior, dependendo do nível do curso selecionado.</li>
+			<li>Ir para o topo – Retorna para o topo da página atual.</li>
+		</ul>
+		<br><br>
+		<a href="javascript:window.close();">Fechar Janela</a><br>
+		<a href="javascript:scroll(0,0);">Voltar para o Topo</a>
+		<br><br>
+		<a name="keyboardnav"></a>
+		<h2>4. Navegação pelo teclado</h2>
+		<p>Os seguintes comandos do teclado podem ser usados para acessar ferramentas e navegar pelo curso:</p>
+		<ul>
+			<li>Ferramenta de pesquisa alternada: Control+Shift+S – Abre a ferramenta de pesquisa em uma nova janela.</li>
+			<li>Ferramenta de glossário alternado: Control+Shift+G – Abre a ferramenta glossário em uma nova janela.</li>
+			<li>Ir para o próximo: Control+Shift+Seta direita – Navega até o próximo capítulo, seção, tópico ou página, dependendo do nível de curso selecionado.</li>
+			<li>Ir para o anterior: Control+Shift+Seta esquerda – Navega até o capítulo, seção, tópico ou página anterior, dependendo do nível de curso selecionado.</li>
+			<li>Focalizar próximo elemento: Control+Shift+Seta para baixo – Focaliza o próximo elemento da página. Semelhante à tecla Shift+Tab. </li>
+			<li>Focalizar elemento anterior: Control+Shift+Seta para cima - Focaliza o elemento anterior da página. Semelhante ao comando Shift+Tab. </li>
+		</ul>
+		<p><i>Observação: Alguns plug-ins de navegador e outros softwares de overlay, como leitores de tela, podem anular esses comandos do teclado.</i></p>
+		<br><br>
+		<a href="javascript:window.close();">Fechar Janela</a><br>
+		<a href="javascript:scroll(0,0);">Voltar ao Topo</a>
+	</body>
+</html>

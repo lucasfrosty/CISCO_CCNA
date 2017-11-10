@@ -1,0 +1,16 @@
+﻿<textcomponents>
+<component id="ID_txt01"><text><![CDATA[<b>Interação</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Pilha de Protocolos</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>Servidor web</b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<b>Protocolo de Transferência de Hipertexto (Hypertext Transfer Protocol) (HTTP)</b>]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>Protocolo de Controle de Transmissão (Transmission Control Protocol) (TCP)</b>]]></text></component>
+
+<component id="ID_txt06"><text><![CDATA[<b>Protocolo Internet (Internet Protocol) (IP)</b>]]></text></component>
+
+<component id="ID_txt07"><text><![CDATA[<b>Ethernet</b>]]></text></component>
+
+</textcomponents>

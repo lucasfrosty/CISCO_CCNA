@@ -1,0 +1,9 @@
+﻿<textcomponents>
+
+<component id="ID_inst"><text><![CDATA[<b>Clique para ver um caso de desempenho.</b>]]></text></component> <component id="ID_title"><text><![CDATA[<b>Características das LANs baseadas em Switches</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>Cada host acessa a rede com largura de banda completa.</b>]]></text></component> <component id="ID_txt02"><text><![CDATA[<b>R2</b>]]></text></component> <component id="ID_txt03"><text><![CDATA[<b>Cada host acessa a rede com largura de banda completa.</b>]]></text></component> <component id="ID_txt04"><text><![CDATA[<b>Cada host acessa a rede com largura de banda completa.</b>]]></text></component> <component id="ID_txt05"><text><![CDATA[<b>Rede livre de colisões&#8212;múltiplos domínios de colisão.</b>]]></text></component> <component id="ID_txt06"><text><![CDATA[<b>Full duplex permite comunicações em ambas as direções ao mesmo tempo.</b>]]></text></component> <component id="ID_txt07"><text><![CDATA[<b>2</b>]]></text></component> <component id="ID_txt08"><text><![CDATA[<b>Rede livre de colisões&#8212;múltiplos domínios de colisão.</b>]]></text></component>
+ 
+  <component id="Dedicated bandwidth"><text><![CDATA[Largura de Banda Dedicada]]></text></component> <component id="Collision Free"><text><![CDATA[Livre de Colisão]]></text></component> <component id="Full-Duplex"><text><![CDATA[Full Duplex]]></text></component> <component id="Reset"><text><![CDATA[Reiniciar]]></text></component>
+
+</textcomponents>

@@ -1,0 +1,6 @@
+﻿
+<textcomponents>
+<component id="ID_table01">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>Neste capítulo você aprendeu a:</b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Descrever como as redes afetam nosso cotidiano.</li><li>Descrever o papel das redes de dados nas redes humanas.</li><li>Identificar os principais componentes de qualquer rede de dados.</li><li>Identificar as oportunidades e desafios apresentados por redes convergidas.</li><li>Descrever as características de arquiteturas de rede: tolerância a falhas, escalabilidade, qualidade de serviço e segurança.</li><li>Instalar e utilizar clientes IRC e um servidor Wiki.</li></ul></td></tr></table>]]></text> 
+  </component>
+</textcomponents>

@@ -1,0 +1,9 @@
+﻿<textcomponents>
+
+<component id="ID_title"><text><![CDATA[<b>Endereçamento de Dispositivos Finais</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>Para atribuições estáticas manuais,<br/>insira endereços</b>]]></text></component>
+<component id="ID_txt02"><text><![CDATA[<b>Endereço IP</b>]]></text></component>
+<component id="ID_txt03"><text><![CDATA[<b>Máscara de sub-rede</b>]]></text></component>
+<component id="ID_txt04"><text><![CDATA[<b>Gateway padrão</b>]]></text></component>
+</textcomponents>

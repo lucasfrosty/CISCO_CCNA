@@ -1,0 +1,90 @@
+﻿<textcomponents>
+
+<component id="ID_header1"><text><![CDATA[<b>Esquema de Endereçamento: Exemplo com 6 redes</b>]]></text></component>
+
+<component id="ID_header2"><text><![CDATA[<b>Sub-rede</b>]]></text></component>
+
+<component id="ID_header3"><text><![CDATA[<b>Endereço de rede</b>]]></text></component>
+
+<component id="ID_header4"><text><![CDATA[<b>Intervalo de host</b>]]></text></component>
+
+<component id="ID_header5"><text><![CDATA[<b>Endereço de broadcast</b>]]></text></component>
+
+<component id="ID_address1">
+<text><![CDATA[<b>Endereço:</b>]]></text>
+</component>
+<component id="ID_mask1">
+<text><![CDATA[<b>Máscara:</b>]]></text>
+</component>
+<component id="ID_address2">
+<text><![CDATA[<b>Endereço:</b>]]></text>
+</component>
+<component id="ID_mask2">
+<text><![CDATA[<b>Máscara:</b>]]></text>
+</component>
+<component id="ID_address3">
+<text><![CDATA[<b>Endereço:</b>]]></text>
+</component>
+<component id="ID_mask3">
+<text><![CDATA[<b>Máscara:</b>]]></text>
+</component>
+<component id="ID_address4">
+<text><![CDATA[<b>Endereço:</b>]]></text>
+</component>
+<component id="ID_mask4">
+<text><![CDATA[<b>Máscara:</b>]]></text>
+</component>
+<component id="ID_address5">
+<text><![CDATA[<b>Endereço:</b>]]></text>
+</component>
+<component id="ID_mask5">
+<text><![CDATA[<b>Máscara:</b>]]></text>
+</component>
+<component id="ID_address6">
+<text><![CDATA[<b>Endereço:</b>]]></text>
+</component>
+<component id="ID_mask6">
+<text><![CDATA[<b>Máscara:</b>]]></text>
+</component>
+<component id="ID_address7">
+<text><![CDATA[<b>Endereço:</b>]]></text>
+</component>
+<component id="ID_mask7">
+<text><![CDATA[<b>Máscara:</b>]]></text>
+</component>
+<component id="ID_address8">
+<text><![CDATA[<b>Endereço:</b>]]></text>
+</component>
+<component id="ID_mask8">
+<text><![CDATA[<b>Máscara:</b>]]></text>
+</component>
+<component id="ID_address9">
+<text><![CDATA[<b>Endereço:</b>]]></text>
+</component>
+<component id="ID_mask9">
+<text><![CDATA[<b>Máscara:</b>]]></text>
+</component>
+
+
+<component id="ID_title02"><text><![CDATA[<b>Pegue Bits Emprestados para Sub-redes</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>Começe com este endereço</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Crie 8 sub-redes</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>Roteador A</b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<b>RoteadorB</b>]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>Três bits são emprestados para fornecer oito sub-redes.</b>]]></text></component>
+
+<component id="ID_buttonOne"><text><![CDATA[<b>Sub-rede</b>]]></text></component>
+
+<component id="ID_buttonTwo"><text><![CDATA[<b>Esquema de Endereçamento</b>]]></text></component>
+
+
+<component id="ID_inst"><text><![CDATA[<b>Clique para ver o esquema de endereçamento.
+</b>]]></text></component>
+
+
+</textcomponents>

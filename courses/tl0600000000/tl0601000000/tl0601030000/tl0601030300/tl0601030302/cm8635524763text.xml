@@ -1,0 +1,24 @@
+﻿<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Redes Inteligentes Estão Conectando o Mundo</b>]]></text></component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Redes inteligentes permitem que dispositivos portáteis recebam notícias e e-mails, e enviem textos.</b>]]></text></component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Vídeo conferência ao redor do mundo está na palma de sua mão.</b>]]></text></component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Telefones conectados mundialmente para compartilhar voz, texto e imagens.
+</b>]]></text></component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Jogos online conectam milhares de pessoas continuamente.
+</b>]]></text></component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>A Rede Humana está em todos os lugares.</b>]]></text></component>
+
+
+</textcomponents>

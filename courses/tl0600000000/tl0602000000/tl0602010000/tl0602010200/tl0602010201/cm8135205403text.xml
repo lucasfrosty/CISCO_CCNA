@@ -1,0 +1,21 @@
+﻿<textcomponents>
+   <component id="ID_txt01"><text><![CDATA[<b>Comunicação da mensagem</b>]]></text></component>
+   
+   <component id="ID_txt01_1"><text><![CDATA[<b>Comunicação da mensagem</b>]]></text></component> 
+   
+   <component id="segmentation"><text>Segmentação</text></component>
+   
+   <component id="multiplexing"><text>Multiplexação</text></component>
+
+
+   <component id="play"><text>Play</text></component> <component id="pause"><text>Pausar</text></component> <component id="rewind"><text>Voltar</text></component> <component id="forward"><text>Avançar</text></component> <component id="mute"><text>Mudo</text></component>
+   
+   <component id="unmute"><text>Com Som</text></component>
+   
+   <component id="previous"><text>Reiniciar</text></component> <component id="next"><text>Fim</text></component> <component id="transcript"><text>Transcrição</text></component> <component id="ID_txt02"><text><![CDATA[<b>Diversas comunicações são intercaladas, dividindo a largura da banda com cada usuário.</b>]]></text></component>
+
+       <component id="ID_txt02_1"><text><![CDATA[<b>Diversas comunicações são intercaladas, dividindo a largura da banda com cada usuário.</b>]]></text></component> <component id="ID_txt03"><text><![CDATA[<b>Clique em cada guia. Em seguida, clique em Play para ver a animação.</b>]]></text></component> <component id="ID_txt04"><text><![CDATA[<i>Segmentação</i> - <b>divisão da comunicação em partes.</b>]]></text></component> <component id="ID_txt05"><text><![CDATA[<i>Multiplexação</i> - <b>intercalação das partes à medida que são transportadas no meio.</b>]]></text></component>
+       
+
+    
+</textcomponents>

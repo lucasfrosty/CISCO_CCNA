@@ -1,0 +1,11 @@
+﻿<textcomponents>
+
+<component id="ID_txt01"><text><![CDATA[<b>Pontos de Acesso WLAN e Adaptadores</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Ponto de Acesso sem Fio</b>]]></text></component>
+  
+<component id="ID_txt03"><text><![CDATA[<b>Adaptadores sem Fio</b>]]></text></component>
+  
+<component id="ID_txt04"><text><![CDATA[<b>Adaptadores sem Fio</br></b>]]></text></component>
+
+</textcomponents>

@@ -1,0 +1,14 @@
+﻿<textcomponents>
+
+<component id="ID_title"><text><![CDATA[<b>Testando a Atribuição da Placa de Rede Local</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>C:\>ping 10.0.0.5</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Verifique se o endereço da placa de rede do host está ligada e pronta para transmitir sinais através do meio físico fazendo o ping no seu próprio endereço IP.</b>]]></text></component>
+
+<component id="ID_scroll"><text><![CDATA[<b><font face="Courier New Dynamic">Endereço IP. . . . .  . . . : 10.0.0.5<br>Máscara de Sub-rede . . .  . . . : 255.255.255.0<br>Gateway Padrão. . . . : 10.0.0.254</font></b>]]></text></component>
+
+
+
+
+</textcomponents>

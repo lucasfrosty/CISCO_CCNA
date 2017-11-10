@@ -1,0 +1,15 @@
+﻿<textcomponents>
+
+<component id="ID_txt01"><text><![CDATA[<b>Conjuntos de Protocolos são regras que trabalham juntas para ajudar a resolver um problema.</b>]]></text></component> 
+
+<component id="ID_txt02"><text><![CDATA[<b>Camada de Conteúdo</b>]]></text></component> 
+
+<component id="ID_txt03"><text><![CDATA[<b>Camada de Regras</b>]]></text></component> 
+
+<component id="ID_txt04"><text><![CDATA[<b>Camada física</b>]]></text></component> 
+
+<component id="ID_txt05"><text><![CDATA[<b>Conjunto de Aplicações do Protocolo de Conversação<br/><font color="#FF0000">1. Use uma Linguagem Comum<br/>2. Aguarde Sua Vez<br/>3. Sinalize Quando Terminar</font></b>]]></text></component> 
+
+<component id="ID_txt06"><text><![CDATA[<b>Onde é o Café?</b>]]></text></component>
+
+</textcomponents>

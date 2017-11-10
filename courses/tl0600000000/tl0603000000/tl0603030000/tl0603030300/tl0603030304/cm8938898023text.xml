@@ -1,0 +1,19 @@
+﻿<textcomponents>
+<component id="ID_caption01"><text><![CDATA[<b>O protocolo SMTP é usado para enviar e-mail.<br>O protocolo POP é usado para receber e-mail.</b>]]></text></component> 
+<component id="ID_txt16"><text><![CDATA[<b>Servidor de E-mail - MDA</b>]]></text></component> 
+<component id="ID_txt01"><text><![CDATA[<b>Agente de Correio de Usuário<br>(MUA)</b>]]></text></component> 
+<component id="ID_txt02"><text><![CDATA[Cliente]]></text></component> 
+<component id="ID_txt03"><text><![CDATA[<b>Remetente</b>]]></text></component> 
+<component id="ID_txt04"><text><![CDATA[Enviar E-mail]]></text></component> 
+<component id="ID_txt05"><text><![CDATA[<b>SMTP</b>]]></text></component> 
+<component id="ID_txt06"><text><![CDATA[Encaminhar E-mail]]></text></component> 
+<component id="ID_txt07"><text><![CDATA[<b>Agente de Transferência de Correio<br>(MTA)</b>]]></text></component> 
+<component id="ID_txt08"><text><![CDATA[<b>SMTP</b>]]></text></component> 
+<component id="ID_txt09"><text><![CDATA[<b>Agente de Transferência de Correio<br>(MTA)</b>]]></text></component> 
+<component id="ID_txt10"><text><![CDATA[<b>Agente de Entrega de Correio<br>(MDA)</b>]]></text></component> 
+<component id="ID_txt11"><text><![CDATA[Entregar E-mail]]></text></component> 
+<component id="ID_txt12"><text><![CDATA[<b>POP</b>]]></text></component> 
+<component id="ID_txt13"><text><![CDATA[<b>Destinatário</b>]]></text></component> 
+<component id="ID_txt14"><text><![CDATA[Cliente]]></text></component> 
+<component id="ID_txt15"><text><![CDATA[<b>Agente de Correio de Usuário<br>(MUA)</b>]]></text></component>
+</textcomponents>

@@ -1,0 +1,5 @@
+﻿<textcomponents>
+   <component id="ID_caption01"><text><![CDATA[<b>O IP versão 4 (IPv4) é a forma atual de endereçamento utilizada na Internet.</b>]]></text></component>
+
+   <component id="ID_txt01"><text><![CDATA[<b>Vejo que recebi o endereço IP 192.168.1.5. <br>Agora, os outros hosts podem me encontrar.</b>]]></text></component>
+</textcomponents>

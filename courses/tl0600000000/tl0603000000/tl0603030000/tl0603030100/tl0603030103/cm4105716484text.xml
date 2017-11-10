@@ -1,0 +1,16 @@
+﻿<textcomponents>
+<component id="txt01"><text><![CDATA[<b>Cabeçalho</b>]]></text></component> 
+<component id="txt02"><text><![CDATA[<b>Pergunta</b>]]></text></component> 
+<component id="txt03"><text><![CDATA[<b>Resposta</b>]]></text></component> 
+<component id="txt04"><text><![CDATA[<b>Autoridade</b>]]></text></component> 
+<component id="txt05"><text><![CDATA[<b>Adicional</b>]]></text></component> 
+<component id="txt06"><text><![CDATA[A pergunta do nome do servidor]]></text></component> 
+<component id="txt07"><text><![CDATA[Registros de Recursos respondendo a pergunta]]></text></component> 
+<component id="txt08"><text><![CDATA[Registros de Recursos apontando uma autoridade]]></text></component> 
+<component id="txt09"><text><![CDATA[Registros de Recursos (retendo) informações adicionais]]></text></component> 
+<component id="ID_title"><text><![CDATA[<b>Formato de Mensagem DNS</b>]]></text></component> 
+<component id="myTable"><text><![CDATA[O DNS usa o mesmo formato de mensagens para:]]></text></component> 
+<component id="myTable02"><text><![CDATA[<li>Todos os tipos de consultas de clientes e respostas de servidores</li><li>Mensagens de erro</li><li>A transferência de informações de registros de recursos entre servidores</li>]]></text></component>
+  
+</textcomponents>
+

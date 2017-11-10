@@ -1,0 +1,16 @@
+﻿<textcomponents>
+<component id="ID_caption01"><text><![CDATA[<b>Ethernet é a tecnologia LAN de uso predominante hoje em dia.</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>Meio Compartilhado (multi-acesso)</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Meio Estendido (multi-acesso com dispositivo de rede da camada 1)</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>Ponto-A-Ponto</b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<b>Meio COMPARTILHADO</b>]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>ENDEREÇAMENTO</b>]]></text></component>
+
+<component id="ID_txt06"><text><![CDATA[<b>COMUTAÇÃO</b>]]></text></component>
+
+</textcomponents>

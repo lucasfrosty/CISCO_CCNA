@@ -1,0 +1,4 @@
+﻿<textcomponents>
+
+  <component id="ID_txt02"><text><![CDATA[<b>Os cabos devem ser conectados corretamente. </b>]]></text></component> <component id="ID_txt03"><text><![CDATA[<b>A separação dos cabos de dados dos de energia elétrica devem cumprir as normas de segurança.</b>]]></text></component> <component id="ID_txt04"><text><![CDATA[<b>Verifique se há danos na instalação. </b>]]></text></component> <component id="ID_txt05"><text><![CDATA[<b>O equipamento deve ser aterrado apropriadamente.</b>]]></text></component> <component id="ID_title"><text><![CDATA[<b>Segurança do meio de cobre</b>]]></text></component>
+</textcomponents>

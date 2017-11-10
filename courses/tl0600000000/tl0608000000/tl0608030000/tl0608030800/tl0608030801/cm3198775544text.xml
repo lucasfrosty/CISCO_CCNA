@@ -1,0 +1,11 @@
+﻿<textcomponents>
+
+<component id="ID_txt01"><text><![CDATA[<b>Conectores de Meio Físico de Cobre</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>110 bloco punch down</b>]]></text></component>
+  
+<component id="ID_txt03"><text><![CDATA[<b>Conectores RJ-45 UTP</b>]]></text></component>
+  
+<component id="ID_txt04"><text><![CDATA[<b>Tomada RJ-45 UTP</br></b>]]></text></component>
+
+</textcomponents>

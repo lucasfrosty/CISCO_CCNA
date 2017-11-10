@@ -1,0 +1,12 @@
+﻿<textcomponents>
+
+<component id="ID_txt01"><text><![CDATA[<b>Servidor</b>]]></text></component> 
+<component id="ID_txt02"><text><![CDATA[<b>Processo FTP</b>]]></text></component> 
+<component id="ID_txt03"><text><![CDATA[<b>Rede</b>]]></text></component> 
+<component id="ID_txt04"><text><![CDATA[<b>Cliente</b>]]></text></component> 
+<component id="ID_txt05"><text><![CDATA[<b>Conexão de controle:<br>o cliente abre a conexão ao servidor primeiro para controle do tráfego.</b>]]></text></component> 
+<component id="ID_txt06"><text><![CDATA[<b>Conexão de dados:<br>o cliente abre a segunda conexão para tráfego de dados.</b>]]></text></component> 
+<component id="ID_txt07"><text><![CDATA[<b>Obter dados</b>]]></text></component> 
+<component id="ID_txt08"><text><![CDATA[<b>Com base em comandos enviados por conexão de controle, os dados podem ser carregados do servidor ou transferidos do cliente.</b>]]></text></component>
+
+</textcomponents>

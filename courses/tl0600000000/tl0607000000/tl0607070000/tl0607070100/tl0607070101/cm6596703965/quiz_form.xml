@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+		<exam id="13239" dateexported="07/28/2008">
+		<name>Teste do Módulo 7</name>
+		<form id="21564" lang="pt"><form-item order="fixed">
+			<ai id="142176" type="mc-sa"><question><![CDATA[Que campo do quadro é criado por um nó de origem e usado pelo nó de destino para assegurar que um sinal de dados transmitido não tenha sido alterado por interferência, distorção, ou perda de sinal?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[campo de verificação de erro da camada de transporte ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[campo de seqüência de verificação de quadro  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[campo do protocolo UDP ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[campo de processo de correção de erro ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[campo de controle de fluxo ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="142175" type="mc-sa"><question><![CDATA[Que esquema de endereçamento da camada de enlace é usado numa topologia lógica ponto-a-ponto?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[endereçamento IPv4 ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[endereçamento IPv6 ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[endereçamento de anel ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[endereçamento multiacesso ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[O endereçamento de Camada 2 não é necessário para esta topologia  ]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="142174" type="mc-sa"><question><![CDATA[Para que os hosts usam os endereços da camada de enlace?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[entrega remota ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[entrega local e remota ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[entrega local  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[entrega remota usando roteadores ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="142173" type="mc-ma"><question><![CDATA[Que partes básicas são comuns a todo tipo de quadro suportado pela camada de enlace? (Escolha três.)  ]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[cabeçalho  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[campo de tipo ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[tamanho de MTU ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[dados  ]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[trailer  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[valor CRC ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="142170" type="mc-ma"><question><![CDATA[Quais são as características do método MAC(Media Access Control)?  (Escolha duas.)  ]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[É conhecido como método de acesso determinístico.  ]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Não há colisões quando esse tipo de método é usado.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Qualquer estação pode transmitir a qualquer momento. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[A largura de banda é usada de forma mais eficiente do que em um método de acesso baseado em contenção. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[As estações devem determinar se o meio está carregando um sinal antes que elas possam transmitir. ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="142124" type="mc-sa"><question><![CDATA[Quais são subcamadas da camada de enlace?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[ACL, LMC ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[MAC, LAC ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[MAC, LLC  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[OSI, LLC ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="142141" type="mc-ma"><question><![CDATA[Quais das seguintes são detalhes do encapsulamento da camada de enlace? (Escolha duas.)  ]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[São acrescentados um cabeçalho e um trailer.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Os dados são convertidos em pacotes. ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Os pacotes são colocados em quadros.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Os quadros são dividos em segmentos. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Os pacotes são mudados em bits para viajar pela Internet. ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="142133" type="mc-sa"><question><![CDATA[O que é obtido por meio do processo de encapsulamento na camada de enlace?  ]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[Os pacotes são colocados em quadros.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Os dados são colocados em um pacote. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Os pacotes são dividos em segmentos. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Os dados são convertidos para transmissão pela Internet. ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item>
+			<ai id="142171" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="142171" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>determinístico</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>Ethernet</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>topologia física em anel</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>sem colisões</mattext></material></textcomponent></component><component ident="5" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>não-determinístico</mattext></material></textcomponent></component><component ident="6" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>Somente uma estação pode transmitir por vez.</mattext></material></textcomponent></component><component ident="7" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>As estações podem transmitir a qualquer momento.</mattext></material></textcomponent></component><component ident="8" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>passagem de token</mattext></material></textcomponent></component><component ident="9" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>uso mais eficiente da largura de banda</mattext></material></textcomponent></component><!-- ***********  LABELS  *********** --><component ident="1" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext>acesso controlado</mattext></material></textcomponent></component><component ident="2" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext>acesso baseado em contenção</mattext></material></textcomponent></component><!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext /></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext /></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext /></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext /></material></textcomponent></component><component ident="5" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext /></material></textcomponent></component><component ident="6" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext /></material></textcomponent></component><component ident="7" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext /></material></textcomponent></component><component ident="8" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext /></material></textcomponent></component><!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="760"><material><mattext>Arraste as características à esquerda para os métodos de controle de acesso ao meio apropriados à direita. (Nem todas as opções são usadas.)</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-124" targetYspacing="10" yspacing="45" targetH="27"><options><display componentIdent="1" xpos="200" ypos="75" /><display componentIdent="2" xpos="200" ypos="115" /><display componentIdent="3" xpos="200" ypos="155" /><display componentIdent="4" xpos="200" ypos="195" /><display componentIdent="5" xpos="200" ypos="235" /><display componentIdent="6" xpos="200" ypos="275" /><display componentIdent="7" xpos="200" ypos="315" /><display componentIdent="8" xpos="200" ypos="355" /><display componentIdent="9" xpos="200" ypos="395" /></options><labels><display componentIdent="1" xpos="600" ypos="91.5" containsTargets="4" startTarg="1" labelStyle="1" /><display componentIdent="2" xpos="600" ypos="264.5" containsTargets="4" startTarg="5" labelStyle="1" /></labels><targets><display componentIdent="1" xpos="600" ypos="100" /><display componentIdent="2" xpos="600" ypos="137" /><display componentIdent="3" xpos="600" ypos="174" /><display componentIdent="4" xpos="600" ypos="211" /><display componentIdent="5" xpos="600" ypos="273" /><display componentIdent="6" xpos="600" ypos="310" /><display componentIdent="7" xpos="600" ypos="347" /><display componentIdent="8" xpos="600" ypos="384" /></targets><stem><display componentIdent="40" xpos="420" ypos="28" /></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident="1"><componentident>1</componentident><componentident>2</componentident><componentident>3</componentident><componentident>4</componentident></scoringzone><scoringzone ident="2"><componentident>5</componentident><componentident>6</componentident><componentident>7</componentident><componentident>8</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="197949" maxvalue="1"><title>sem título</title></decvar><interpretvar varname="197949" view="All">sem descrição </interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>4</componentident><componentident>6</componentident><componentident>8</componentident><componentident>1</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>9</componentident><componentident>7</componentident><componentident>2</componentident><componentident>5</componentident></scoringzonecontains></conditionvar><setvar varname="197949" action="Set">1</setvar><scoringdescription>controlado = determinístico, sem colisões, Somente uma estação pode transmitir por vez, passagem de token. baseado em contenção = Ethernet, não-determinístico, As estações podem transmitir a qualquer momento., uso mais eficiente da largura de banda. para distrair = topologia física do anel</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item><form-item>
+			<ai id="142172" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="142172" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>conecta dois nós diretamente</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>CSMA/CD</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>determinístico</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>circuito virtual lógico </mattext></material></textcomponent></component><component ident="5" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>não se exige cabeçalho de quadro</mattext></material></textcomponent></component><component ident="6" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>passagem de token</mattext></material></textcomponent></component><component ident="7" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>meio compartilhado</mattext></material></textcomponent></component><!-- ***********  LABELS  *********** --><component ident="1" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext>Ponto-a-ponto</mattext></material></textcomponent></component><component ident="2" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext>Multiacesso</mattext></material></textcomponent></component><component ident="3" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext>Anel</mattext></material></textcomponent></component><!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext /></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext /></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext /></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext /></material></textcomponent></component><component ident="5" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext /></material></textcomponent></component><component ident="6" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext /></material></textcomponent></component><!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="760"><material><mattext>Arraste as características à esquerda para o tipo de topologia apropriado à direita. (Nem todas as opções são usadas.)</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-150" targetYspacing="10" yspacing="53" targetH="27"><options><display componentIdent="1" xpos="200" ypos="75" /><display componentIdent="2" xpos="200" ypos="115" /><display componentIdent="3" xpos="200" ypos="155" /><display componentIdent="4" xpos="200" ypos="195" /><display componentIdent="5" xpos="200" ypos="235" /><display componentIdent="6" xpos="200" ypos="275" /><display componentIdent="7" xpos="200" ypos="315" /></options><labels><display componentIdent="1" xpos="600" ypos="91.5" containsTargets="2" startTarg="1" labelStyle="1" /><display componentIdent="2" xpos="600" ypos="190.5" containsTargets="2" startTarg="3" labelStyle="1" /><display componentIdent="3" xpos="600" ypos="289.5" containsTargets="2" startTarg="5" labelStyle="1" /></labels><targets><display componentIdent="1" xpos="600" ypos="100" /><display componentIdent="2" xpos="600" ypos="137" /><display componentIdent="3" xpos="600" ypos="199" /><display componentIdent="4" xpos="600" ypos="236" /><display componentIdent="5" xpos="600" ypos="298" /><display componentIdent="6" xpos="600" ypos="335" /></targets><stem><display componentIdent="40" xpos="420" ypos="28" /></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident="1"><componentident>1</componentident><componentident>2</componentident></scoringzone><scoringzone ident="2"><componentident>3</componentident><componentident>4</componentident></scoringzone><scoringzone ident="3"><componentident>5</componentident><componentident>6</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="198148" maxvalue="1"><title>sem título</title></decvar><interpretvar varname="198148" view="All">sem descrição </interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>1</componentident><componentident>4</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>2</componentident><componentident>7</componentident></scoringzonecontains><scoringzonecontains szident="3"><componentident>3</componentident><componentident>6</componentident></scoringzonecontains></conditionvar><setvar varname="198148" action="Set">1</setvar><scoringdescription>ponto a ponto = conecta dois nós diretamente, circuito virtual lógico; multiacesso = CSMA/CD, meio compartilhado; anel = determinístico, passagem de token. para distrair = cabeçalho sem quadro</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item></form></exam> 

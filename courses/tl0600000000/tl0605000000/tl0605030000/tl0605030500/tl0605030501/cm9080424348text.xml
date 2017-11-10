@@ -1,0 +1,12 @@
+﻿<textcomponents>
+
+<component id="ID_title"><text><![CDATA[<b>Roteie Entradas em uma Tabela de Roteamento</b>]]></text></component>
+
+<component id="caption_01"><text><![CDATA[<b>Pacotes com endereços de host de destino em uma das dimensões da rede mostrada serão correspondidos com o próximo salto que leva a essa rede.</b>]]></text></component>
+
+
+<component id="output_text_01"><text><![CDATA[<b>A tabela de roteamento mostra as redes de destino.
+</b>]]></text></component>
+
+
+</textcomponents>

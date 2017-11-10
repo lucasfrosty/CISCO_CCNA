@@ -1,0 +1,15 @@
+﻿<textcomponents>
+
+<component id="ID_txt01"><text><![CDATA[<b>A Conexão de Gerenciamento do Dispositivos</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Dispositivo com Console</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>RJ-45 para RJ-45<br/>Cabo Rollover</b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<b>Adaptador RJ-45 para DB-9<br/>TERMINAL rotulado</b>]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<li>Os PCs requerem um adaptador RJ-45 para DB-9 ou RJ-45 para DB-25.</li><li>As configurações de portas COM são 9600 bps, 8 bits de dados, sem paridade, (1 bit de parada), sem controle de fluxo.<br/>Isso proporciona acesso ao controle da console.</li><li>A porta AUX pode ser usada para um console conectado a um modem.</li>]]></text></component>
+
+
+
+</textcomponents>

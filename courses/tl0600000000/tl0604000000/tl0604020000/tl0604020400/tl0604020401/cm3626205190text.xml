@@ -1,0 +1,9 @@
+﻿<textcomponents>
+<component id="ID_title"><text><![CDATA[<b>Handshake Triplo TCP (SYN)</b>]]></text></component>
+
+<component id="ID_table01"><text><![CDATA[<b>Analisador de Protocolos mostra solicitação inicial do cliente por sessão no quadro 14</b>]]></text></component>
+
+<component id="ID_table02"><text><![CDATA[<b>Segmento TCP neste quadro mostra:<BR>• flag SYN configurado para validar um número de seqüência inicial<BR>• Número inicial de seqüência randomizada válido (valor relativo é 0)<BR>• Porta de origem aleatória 1069<BR>• Porta de destino bem conhecida é 80 (porta HTTP) indica servidor da web  (httpd)</b>]]></text></component>
+
+
+</textcomponents>

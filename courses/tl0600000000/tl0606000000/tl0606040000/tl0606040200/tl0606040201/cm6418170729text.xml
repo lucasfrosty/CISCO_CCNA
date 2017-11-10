@@ -1,0 +1,15 @@
+﻿<textcomponents>
+<component id="ID_inst"><text><![CDATA[<b>Passe para ver a operação AND.</b>]]></text></component> <component id="ID_title"><text><![CDATA[<b>Aplicação da Máscara de Sub-rede</b>]]></text></component> <component id="ID_txt01"><text><![CDATA[<b>Um dispositivo com endereço 192.0.0.1 pertence à rede 192.0.0.0</b>]]></text></component> <component id="ID_txt02"><text><![CDATA[<b>Bits mais significativos<br/>Prefixo /16</b>]]></text></component> <component id="ID_txt09"><text><![CDATA[<b>Bits menos significativos</b>]]></text></component> <component id="ID_txt10"><text><![CDATA[<b>Host<br/>Endereço</b>]]></text></component> <component id="ID_txt11"><text><![CDATA[<b>Sub-rede<br/>Máscara</b>]]></text></component><component id="ID_txt12"><text><![CDATA[<b>Endereço<br/>de Rede</b>]]></text></component> <component id="ID_txt13"><text><![CDATA[<b>1 no host AND 1 na máscara resulta 1 no endereço de rede.</b>]]></text></component> <component id="ID_txt14"><text><![CDATA[<b>0 no host AND 1 na máscara resulta 0 no endereço de rede.</b>]]></text></component> <component id="ID_txt15"><text><![CDATA[<b>0 no host AND 0 na máscara resulta 0 no endereço de rede. </b>]]></text></component> <component id="ID_txt17"><text><![CDATA[<b>Rede</b>]]></text></component> <component id="ID_txt18"><text><![CDATA[<b>AND</b>]]></text></component> <component id="ID_txt18a"><text><![CDATA[<b>AND</b>]]></text></component> <component id="ID_txt18b"><text><![CDATA[<b>AND</b>]]></text></component> <component id="ID_txt18c"><text><![CDATA[<b>AND</b>]]></text></component>
+
+<component id="ID_txt20"><text><![CDATA[<b>1 no host AND 0 na máscara resulta 0 no endereço de rede.</b>]]></text></component>
+
+<component id="button_1"><text><![CDATA[<b>1 e 1</b>]]></text></component>
+
+<component id="button_2"><text><![CDATA[<b>0 e 1</b>]]></text></component>
+
+<component id="button_3"><text><![CDATA[<b>0 e 0</b>]]></text></component>
+
+<component id="button_4"><text><![CDATA[<b>1 e 0</b>]]></text></component>
+
+
+</textcomponents>

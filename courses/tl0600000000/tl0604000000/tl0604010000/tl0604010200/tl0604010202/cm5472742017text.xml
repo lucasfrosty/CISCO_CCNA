@@ -1,0 +1,27 @@
+﻿<textcomponents>
+
+<component id="ID_title"><text><![CDATA[<b>Serviços da Camada de Transporte</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[Para: você@exemplo.com<br>De: eu@exemplo.com<br>Assunto: E-mail]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>E-MAIL</b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<b>ENVIO DE MENSAGEM INSTANTÂNEA</b>]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>MÚLTIPLAS PÁGINAS WEB</b>]]></text></component>
+
+<component id="ID_txt06"><text><![CDATA[<b>TELEFONIA IP (VOIP)</b>]]></text></component>
+
+<component id="ID_txt07"><text><![CDATA[<b>VÍDEO STREAMING</b>]]></text></component>
+
+<component id="ID_txt08"><text><![CDATA[<b>Estabelecimento uma Sessão</b><br>garante que a aplicação está pronta para receber os dados.]]></text></component>
+
+<component id="ID_txt09"><text><![CDATA[<b>Entrega na Mesma Ordem</b><br>garante que os dados sejam entregues sequencialmente como foram enviados.]]></text></component>
+
+<component id="ID_txt10"><text><![CDATA[<b>Entrega Confiável</b> significa que segmentos perdidos são reenviados para que os dados sejam recebidos completos.]]></text></component>
+
+<component id="ID_txt11"><text><![CDATA[<b>Controle de Fluxo</b> gerencia a entrega de dados se há congestionamento no host.]]></text></component>
+
+
+
+</textcomponents>

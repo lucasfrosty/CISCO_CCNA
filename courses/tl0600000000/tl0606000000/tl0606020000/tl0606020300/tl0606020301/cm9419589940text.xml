@@ -1,0 +1,17 @@
+﻿<textcomponents>
+   <component id="play"><text>Play</text></component> <component id="pause"><text>Pausar</text></component> <component id="rewind"><text>Voltar</text></component> <component id="forward"><text>Avançar</text></component> <component id="mute"><text>Mudo</text></component> <component id="unmute"><text>Com Som</text></component> <component id="previous"><text>Reiniciar</text></component> <component id="next"><text>Fim</text></component> <component id="transcript"><text>Transcrição</text></component>
+   
+   <component id="ID_title"><text><![CDATA[<b>Transmissão Unicast</b>]]></text></component>
+
+<component id="ID_inst"><text><![CDATA[<b>Clique em Play para visualizar a animação.</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>Origem: 172.16.4.1<br>Destino: 172.16.4.253 </b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>172.16.4.1</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>172.16.4.2</b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<b>172.16.4.3</b>]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>172.16.4.253</b>]]></text></component>
+</textcomponents>

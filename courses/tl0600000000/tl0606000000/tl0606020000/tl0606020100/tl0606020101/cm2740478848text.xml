@@ -1,0 +1,12 @@
+﻿<textcomponents>
+<component id="ID_title"><text><![CDATA[<b>Tipos de Endereços</b>]]></text></component> <component id="ID_txt01"><text><![CDATA[<b>Rede</b>]]></text></component> <component id="ID_txt02"><text><![CDATA[<b>Host</b>]]></text></component> <component id="ID_txt13"><text><![CDATA[<b>10.0.0.0 é usado para ver a rede como um todo.  Todos os dispositivos nesta rede têm os mesmos bits de endereço de rede.</b>]]></text></component>
+	
+<component id="ID_txt14"><text><![CDATA[<b>Cada host nesta rede tem um único endereço.</b>]]></text></component>
+	
+<component id="ID_txt15"><text><![CDATA[<b>O Endereço de Broadcast é usado para enviar pacotes para cada host na rede que compartilha a mesma porção de endereços.</b>]]></text></component>
+	
+<component id="ID_inst"><text><![CDATA[<b>Passe o mouse para aprender mais.</b>]]></text></component>
+
+<component id="btn1"><text><![CDATA[<b>Endereço de Rede</b>]]></text></component> <component id="btn2"><text><![CDATA[<b>Endereço de Broadcast</b>]]></text></component> <component id="btn3"><text><![CDATA[<b>Endereço de Host</b>]]></text></component>
+
+</textcomponents>

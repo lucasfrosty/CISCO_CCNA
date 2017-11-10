@@ -1,0 +1,26 @@
+﻿<textcomponents>
+
+
+<component id="ID_inst"><text><![CDATA[<b>Clique para ver os detalhes.</b>]]></text></component>
+
+<component id="ID_title"><text><![CDATA[<b>Encerramento de Sessão TCP (FIN)</b>]]></text></component>
+
+<component id="ID_title_02"><text><![CDATA[<b>Encerramento de Sessão TCP (ACK)</b>]]></text></component>
+
+
+<component id="Button_01"><text><![CDATA[<b>FIN</b>]]></text></component>
+
+<component id="Button_02"><text><![CDATA[<b>ACK</b>]]></text></component>
+
+
+
+<component id="ID_table01"><text><![CDATA[Um analisador de protocolo mostra detalhes do quadro 20, solicitação TCP FIN.]]></text></component>
+
+<component id="ID_table02"><text><![CDATA[Portas de origem e destino <br>Conteúdo e valores do campo de cabeçalho]]></text></component>
+
+<component id="ID_table03"><text><![CDATA[Um analisador de protocolo mostra detalhes do quadro 21, resposta TCP ACK.]]></text></component>
+
+<component id="ID_table04"><text><![CDATA[Portas de origem e destino <br>Conteúdo e valores do campo de cabeçalho]]></text></component>
+
+
+</textcomponents>

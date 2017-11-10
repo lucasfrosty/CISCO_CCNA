@@ -1,0 +1,29 @@
+﻿<textcomponents>
+	<component id="play"><text><![CDATA[Play]]></text></component> 
+	<component id="pause"><text><![CDATA[Pausar]]></text></component> 
+	<component id="rewind"><text><![CDATA[Voltar]]></text></component> 
+	<component id="forward"><text><![CDATA[Avançar]]></text></component> 
+	<component id="mute"><text><![CDATA[Mudo]]></text></component> 
+	<component id="unmute"><text><![CDATA[Com Som]]></text></component> 
+	<component id="previous"><text><![CDATA[Reiniciar]]></text></component> 
+	<component id="next"><text><![CDATA[Fim]]></text></component> 
+	<component id="transcript"><text><![CDATA[Transcrição]]></text></component>
+	
+    <component id="ID_txt01"><text><![CDATA[<b>Os dados se originam com um dispositivo final, fluem pela rede e chegam em um dispositivo final.</b>]]></text></component>
+    
+    <component id="ID_txt02"><text><![CDATA[<b>Mensagens podem tomar rotas alternativas.</b>]]></text></component>
+    
+    <component id="ID_txt03"><text><![CDATA[<b>LAN</b>]]></text></component>  
+    
+    <component id="ID_txt04"><text><![CDATA[<b>LAN</b>]]></text></component>
+    
+    <component id="ID_txt05"><text><![CDATA[<b>Meio Físico</b>]]></text></component>
+    
+    <component id="ID_txt06"><text><![CDATA[<b>Rede Interconectada</b>]]></text></component>
+    
+    <component id="ID_txt07new"><text><![CDATA[Se (a) então]]></text></component>
+    
+    <component id="ID_txt08"><text><![CDATA[<b>Processos em execução em dispositivos de rede direcionam o fluxo de dados para atingir o melhor desempenho.</b>]]></text></component> 
+	<component id="ID_txt09"><text><![CDATA[<b>Clique em Play para ver a animação.</b>]]></text></component>
+
+</textcomponents>

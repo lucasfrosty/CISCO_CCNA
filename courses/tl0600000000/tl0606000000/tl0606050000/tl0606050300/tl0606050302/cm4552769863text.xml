@@ -1,0 +1,78 @@
+﻿<textcomponents>
+
+<component id="ID_button01"><text><![CDATA[<b>1</b>]]></text></component>
+
+<component id="ID_button02"><text><![CDATA[<b>2</b>]]></text></component>
+
+
+<component id="ID_header01"><text><![CDATA[<b>Requisitos Atuais</b>]]></text></component>
+
+<component id="ID_header02"><text><![CDATA[<b>Total de Endereços Desperdiçados</b>]]></text></component>
+
+<component id="ID_txt01_01"><text><![CDATA[<b>AtlantaHQ</b>]]></text></component>
+
+<component id="ID_txt02_01"><text><![CDATA[<b>SydneyHQ</b>]]></text></component>
+
+<component id="ID_txt03_01"><text><![CDATA[<b>PerthHQ</b>]]></text></component>
+
+<component id="ID_txt04_01"><text><![CDATA[<b>CorpusHQ</b>]]></text></component>
+
+<component id="ID_txt05_01"><text><![CDATA[<b>Requisitos de endereçamento de CorpusHQ= 10<br><br>Hosts fornecidos por uma sub-rede /26 = 62<br>Endereços de hosts não utilizados = 52</b>]]></text></component>
+
+<component id="ID_txt06_01"><text><![CDATA[<b>Requisitos de endereçamento de SydneyHQ= 10<br><br>Hosts fornecidos por uma subrede de /26 = 62<br>Endereços de hosts não utilizados = 52</b>]]></text></component>
+
+
+<component id="ID_txt07_01"><text><![CDATA[<b>Requisitos de endereçamento da WAN3= 2<br><br>Hosts fornecidos por uma subrede /26 = 62<br>Endereços de hosts não utilizados = 60</b>]]></text></component>
+
+
+<component id="ID_txt08_01"><text><![CDATA[<b>Requisitos de endereçamento da WAN1= 2<br><br>Hosts fornecidos por uma sub-rede /26 = 62<br>Endereços de hosts não utilizados = 60</b>]]></text></component>
+
+
+<component id="ID_txt09_01"><text><![CDATA[<b>Requisitos de endereçamento de AtlantaHQ = 58<br><br>Hosts fornecidos por uma sub-rede /26 = 62<br>Endereços de hosts não utilizados = 4</b>]]></text></component>
+
+
+<component id="ID_txt10_01"><text><![CDATA[<b>Requisitos de endereçamento da WAN2= 2<br><br>Hosts fornecidos por uma sub-rede /26 = 62<br>Endereços de hosts não utilizados = 60</b>]]></text></component>
+
+
+<component id="ID_txt11_01"><text><![CDATA[<b>Requisitos de endereçamento de PerthHQ= 26<br><br>Hosts fornecidos por uma sub-rede /26 = 62<br>Endereços de hosts não utilizados = 36</b>]]></text></component>
+
+
+
+
+
+<component id="ID_txt01_02"><text><![CDATA[<b>AtlantaHQ</b>]]></text></component>
+
+<component id="ID_txt02_02"><text><![CDATA[<b>58 endereços de host</b>]]></text></component>
+
+<component id="ID_txt03_02"><text><![CDATA[<b>PerthHQ</b>]]></text></component>
+
+<component id="ID_txt04_02"><text><![CDATA[<b>26 endereços de host</b>]]></text></component>
+
+<component id="ID_txt05_02"><text><![CDATA[<b>SydneyHQ</b>]]></text></component>
+
+<component id="ID_txt06_02"><text><![CDATA[<b>10 endereços de host</b>]]></text></component>
+
+<component id="ID_txt07_02"><text><![CDATA[<b>CorpusHQ</b>]]></text></component>
+
+<component id="ID_txt08_02"><text><![CDATA[<b>10 endereços de host</b>]]></text></component>
+
+<component id="ID_txt09_02"><text><![CDATA[<b>Links WAN</b>]]></text></component>
+
+<component id="ID_txt10_02"><text><![CDATA[<b>2 endereços de host (cada)</b>]]></text></component>
+
+<component id="ID_txta"><text><![CDATA[<b>4 endereços</b>]]></text></component>
+
+<component id="ID_txtb"><text><![CDATA[<b>36 endereços</b>]]></text></component>
+
+<component id="ID_txtc"><text><![CDATA[<b>52 endereços</b>]]></text></component>
+
+<component id="ID_txtd"><text><![CDATA[<b>52 endereços</b>]]></text></component>
+
+<component id="ID_txte"><text><![CDATA[<b>60 endereços</b>]]></text></component>
+
+<component id="ID_inst"><text><![CDATA[<b>Clique para ver os passos.</b>]]></text></component>
+
+<component id="ID_title"><text><![CDATA[<b>Requisitos de Rede: Usar a divisão padrão de sub-redes seria ineficiente.</b>]]></text></component>
+
+
+</textcomponents>

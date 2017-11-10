@@ -1,0 +1,31 @@
+﻿<textcomponents>
+
+<component id="ID_txt01"><text><![CDATA[<b>Ethernet</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Ethernet é definida pelos protocolos da camada de Enlace e da camada Física.</b>]]></text></component>
+  
+<component id="ID_txt03"><text><![CDATA[Meio]]></text></component>
+  
+<component id="ID_txt04"><text><![CDATA[<b>Aplicação</br></b>]]></text></component>
+  
+<component id="ID_txt05"><text><![CDATA[<b>Apresentação</br></b>]]></text></component>
+
+
+<component id="ID_txt06"><text><![CDATA[<b>Sessão</br></b>]]></text></component>
+  
+<component id="ID_txt07"><text><![CDATA[<b>Transporte</br></b>]]></text></component>
+  
+<component id="ID_txt08"><text><![CDATA[<b>Rede</br></b>]]></text></component>
+  
+<component id="ID_txt09"><text><![CDATA[<b>Enlace de Dados</br></b>]]></text></component>
+  
+<component id="ID_txt09a"><text><![CDATA[<b>LLC</br></b>]]></text></component>
+  
+<component id="ID_txt09b"><text><![CDATA[<b>MAC</br></b>]]></text></component>
+  
+<component id="ID_txt10"><text><![CDATA[<b>Física</br></b>]]></text></component>
+  
+<component id="ID_txt11"><text><![CDATA[<b>802.2</br></b>]]></text></component>
+  
+<component id="ID_txt12"><text><![CDATA[<b>802.3</b>]]></text></component> <component id="ID_txt13"><text><![CDATA[<b>Ethernet</b>]]></text></component>
+</textcomponents>

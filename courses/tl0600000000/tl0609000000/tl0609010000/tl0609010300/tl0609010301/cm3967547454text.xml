@@ -1,0 +1,33 @@
+﻿<textcomponents>
+
+<component id="ID_txt01"><text><![CDATA[<b>Logical Link Control (LLC)</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Subcamada Logical Link Control</b>]]></text></component>
+  
+<component id="ID_txt03"><text><![CDATA[<b>802.3 Controle de Acesso ao Meio</b>]]></text></component>
+  
+<component id="ID_txt04"><text><![CDATA[<b>Subcamada de Sinalização Física</br></b>]]></text></component>
+  
+<component id="ID_txt05"><text><![CDATA[<b>Meio Físico</br></b>]]></text></component>
+
+
+<component id="ID_txt06"><text><![CDATA[<b>10BASE5 500m) 50 Ohm Coax N-Style</b>]]></text></component>
+  
+<component id="ID_txt07"><text><![CDATA[<b>10BASE2 (185m) 50 Ohm Coax BNC</b>]]></text></component>
+  
+<component id="ID_txt08"><text><![CDATA[<b>10BASE-T (100m) 100 Ohm UTP RJ-45</b>]]></text></component>
+  
+<component id="ID_txt09"><text><![CDATA[<b>100BASE-TX (100m) 100 Ohm UTP RJ-45</b>]]></text></component>
+  
+<component id="ID_txt10"><text><![CDATA[<b>1000BASE-CX (25m) 150 Ohm STP mini-DB-9</b>]]></text></component>
+  
+<component id="ID_txt11"><text><![CDATA[<b>1000BASE-T (100m) 100 Ohm UTP RJ-45</b>]]></text></component>
+  
+  
+<component id="ID_txt12"><text><![CDATA[<b>1000BASE-ST (220-550m) MM Fiber SC</b>]]></text></component>
+  
+<component id="ID_txt13"><text><![CDATA[<b>1000BASE-LX (550-5000m) MM or SM Fiber SC</b>]]></text></component>
+
+<component id="myTable"><text><![CDATA[<table><tr><td><ul><li>Executa a conexão com as camadas superiores</li><li>Enquadra o pacote da camada de rede</li><li>Identifica o protocolo da camada de rede</li><li>Permancece relativamente independente do equipamento físico</li></ul></table>]]></text></component>
+
+</textcomponents>

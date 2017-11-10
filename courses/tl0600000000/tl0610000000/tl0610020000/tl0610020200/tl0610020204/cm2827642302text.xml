@@ -1,0 +1,45 @@
+﻿<textcomponents>
+<component id="ID_title"><text><![CDATA[<b>Fazendo Conexões LAN</b>]]></text></component> <component id="STRAIGHT-THROUGH"><text><![CDATA[DIRETO]]></text></component> <component id="CROSS-OVER"><text><![CDATA[CRUZADO (CROSSOVER)]]></text></component> <component id="ALL TYPES"><text><![CDATA[TODOS OS TIPOS]]></text></component>
+
+<component id="ID_subtitle1"><text><![CDATA[<b>Escolha o tipo de cabo UTP correto e categoria semelhante para conectar diferentes dispositivos intermediários e dispositivos finais em uma LAN.</b>]]></text></component>
+
+<component id="ID_subtitle2"><text><![CDATA[<b>Identifique o tipo de cabo UTP correto e categoria semelhante para conectar diferentes dispositivos intermediários e dispositivos finais em uma LAN.</b>]]></text></component>
+
+<component id="ID_subtitle3"><text><![CDATA[<b>Identifique o tipo de cabo UTP correto e categoria semelhante para conectar diferentes dispositivos intermediários e dispositivos finais em uma LAN.</b>]]></text></component>
+
+<component id="ID_subtitle4"><text><![CDATA[<b>Identifique o tipo de cabo UTP correto e categoria semelhante para conectar diferentes dispositivos intermediários e dispositivos finais em uma LAN.</b>]]></text></component>
+
+<component id="ID_inst"><text><![CDATA[<b>Passe o mouse para ver o tipo de cabo.</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>Largura de banda compartilhada por 6 hosts</b>]]></text></component>
+
+<component id="ID_txt02a"><text><![CDATA[<b>Cabo Direto 10 Mbps Categoria 5</b>]]></text></component>
+
+<component id="ID_txt02b"><text><![CDATA[<b>Cabo Direto 100 Mbps Categoria 5</b>]]></text></component>
+
+<component id="ID_txt02c"><text><![CDATA[<b>Cabo Direto 10 Mbps Categoria 5</b>]]></text></component>
+
+<component id="ID_txt03a"><text><![CDATA[<b>Cabo Crossover 1000 Mbps Categoria 5</b>]]></text></component>
+
+<component id="ID_txt02new"><text><![CDATA[<b>Cabo Direto 10 Mbps Categoria 5</b>]]></text></component>
+
+<component id="ID_txt03b"><text><![CDATA[<b>Cabo Crossover 1000 Mbps Categorias 3, 4, 5</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>Mesma largura de banda compartilhada por 12 hosts</b>]]></text></component>
+
+<component id="ID_txt03new"><text><![CDATA[<b>Cabo Crossover 1000 Mbps Categoria 5</b>]]></text></component>
+
+<component id="ID_txt04a"><text><![CDATA[<b>Cabo Direto 100 Mbps Categoria 5</b>]]></text></component>
+
+<component id="ID_txt04b"><text><![CDATA[<b>Cabo Crossover 100 Mbps Categoria 5</b>]]></text></component>
+
+<component id="ID_txt04c"><text><![CDATA[<b>Cabo Direto 100 Mbps Categoria 5</b>]]></text></component>
+
+<component id="ID_txt04d"><text><![CDATA[<b>Cabo Crossover 10 Mbps Categoria 5</b>]]></text></component>
+
+<component id="ID_txt04e"><text><![CDATA[<b>Cabo Direto 10 Mbps Categoria 5</b>]]></text></component>
+
+
+</textcomponents>
+
+

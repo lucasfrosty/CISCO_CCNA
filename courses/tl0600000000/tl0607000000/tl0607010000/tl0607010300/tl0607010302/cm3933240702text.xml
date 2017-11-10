@@ -1,0 +1,17 @@
+<textcomponents>
+
+<component id="ID_title"><text><![CDATA[<b>Formatando Dados para Transmissão</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>Início do Quadro</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>CABEÇALHO</b>]]></text></component>
+  
+<component id="ID_txt03"><text><![CDATA[<b>Pacote<br>(Dados)</b>]]></text></component>
+  
+<component id="ID_txt04"><text><![CDATA[<b>TRAILER</b>]]></text></component>
+  
+<component id="ID_txt05"><text><![CDATA[<b>Endereçamento</b>]]></text></component>
+  
+  <component id="ID_txt06"><text><![CDATA[<b>Tipo</b>]]></text></component> <component id="ID_txt07"><text><![CDATA[<b>Controle de Qualidade</b>]]></text></component> <component id="ID_txt08"><text><![CDATA[<b>Detecção de Erros</b>]]></text></component> <component id="ID_txt09"><text><![CDATA[<b>Final do Quadro</b>]]></text></component> <component id="ID_txt10"><text><![CDATA[<b> 1    0     1    0     0     1     1     1     0     0     1     1     0     0     1     1     1     0     0     1     0     0     1</b>]]></text></component> <component id="ID_txt11"><text><![CDATA[<b>Um padrão específico de bits denota o início do quadro.</b>]]></text></component> <component id="ID_txt12"><text><![CDATA[<b>Outro padrão específico de bits denota o final do quadro.</b>]]></text></component> <component id="ID_txt13"><text><![CDATA[<b>DADOS</b>]]></text></component>
+  
+ </textcomponents>

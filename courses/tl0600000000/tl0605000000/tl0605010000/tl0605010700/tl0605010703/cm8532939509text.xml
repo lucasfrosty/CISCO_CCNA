@@ -1,0 +1,46 @@
+﻿<textcomponents>
+
+<component id="ID_title"><text><![CDATA[<b>Pacote IPv4</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>Byte 1</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Byte 2</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>Byte 3</b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<b>Byte 4</b>]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>Ver=4</b>]]></text></component>
+
+<component id="ID_txt06"><text><![CDATA[<b>IHL=5</b>]]></text></component>
+
+<component id="ID_txt07"><text><![CDATA[<b>Tipo de Serviço</b>]]></text></component>
+
+<component id="ID_txt08"><text><![CDATA[<b>Comprimento do Pacote=472</b>]]></text></component>
+
+<component id="ID_txt09"><text><![CDATA[<b>Identificação=111</b>]]></text></component>
+
+<component id="ID_txt10"><text><![CDATA[<b>Flag=0</b>]]></text></component>
+
+<component id="ID_txt11"><text><![CDATA[<b>Deslocamento de Fragmento=0</b>]]></text></component>
+
+<component id="ID_txt12"><text><![CDATA[<b>Tempo de Vida=123</b>]]></text></component>
+
+<component id="ID_txt13"><text><![CDATA[<b>Protocolo=6</b>]]></text></component>
+
+<component id="ID_txt14"><text><![CDATA[<b>Checksum de Cabeçalho</b>]]></text></component>
+
+<component id="ID_txt15"><text><![CDATA[<b>Endereço de Origem</b>]]></text></component>
+
+<component id="ID_txt16"><text><![CDATA[<b>Endereço de Destino</b>]]></text></component>
+
+<component id="ID_txt17"><text><![CDATA[<b>Opções</b>]]></text></component>
+
+<component id="ID_txt18"><text><![CDATA[<b>Dados</b>]]></text></component>
+
+<component id="ID_txt19"><text><![CDATA[<b>Dados</b>]]></text></component>
+
+<component id="ID_txt20"><text><![CDATA[<b>Dados</b>]]></text></component>
+
+
+</textcomponents>

@@ -1,0 +1,17 @@
+﻿<textcomponents>
+
+<component id="ID_title"><text><![CDATA[<b></b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>Rede Local</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Gateway</b>]]></text></component>
+  
+<component id="ID_txt03"><text><![CDATA[<b>Este host tem os endereços para os hosts em sua própria rede.</b>]]></text></component>
+  
+<component id="ID_txt04"><text><![CDATA[<b>O endereço para este destino é desconhecido, portanto pacotes são transmitidos ao gateway.</b>]]></text></component>
+  
+<component id="ID_txt05"><text><![CDATA[<b>Os hosts não sabem como entregar dados a dispositivos em uma rede remota - esta é a função do gateway.</b>]]></text></component>
+  
+  <component id="ID_txt06"><text><![CDATA[<b>Externo</b>]]></text></component>
+  
+</textcomponents>

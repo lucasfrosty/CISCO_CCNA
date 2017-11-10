@@ -1,0 +1,14 @@
+﻿<textcomponents>
+
+<component id="ID_txt01"><text><![CDATA[<b>Meio Físico de Cobre</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Cabo coaxial</b>]]></text></component>
+  
+<component id="ID_txt03"><text><![CDATA[<b>Cabo de par trançado não blindado </b>]]></text></component>
+  
+<component id="ID_txt04"><text><![CDATA[<b>Conexões RJ-45</b>]]></text></component>
+  
+
+
+
+</textcomponents>

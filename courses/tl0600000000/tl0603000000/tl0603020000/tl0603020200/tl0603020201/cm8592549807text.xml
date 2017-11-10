@@ -1,0 +1,26 @@
+﻿<textcomponents>
+<component id="ID_title"><text><![CDATA[<b>Servidores</b>]]></text></component>
+
+
+
+<component id="ID_txt02"><text><![CDATA[<b>Software dos Processos</b>]]></text></component>
+
+<component id="ID_txt02a"><text><![CDATA[<b>Hardware do Drive de Disco</b>]]></text></component>
+
+<component id="ID_txt02b"><text><![CDATA[<b>tente<</font>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>Rede</b>]]></text></component>
+
+<component id="ID_txt4a"><text><![CDATA[<b>Cliente</b>]]></text></component>
+
+<component id="ID_txt06"><text><![CDATA[<b>Servidores são repositórios de informações.<br>Processos controlam a entrega de arquivos aos clientes.</b>]]></text></component>
+
+<component id="ID_txt4b"><text><![CDATA[<b>Cliente</b>]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>Servidor</b>]]></text> 
+
+</component>
+
+
+
+</textcomponents>

@@ -1,0 +1,23 @@
+﻿<textcomponents>
+
+<component id="ID_txt01"><text><![CDATA[<b>Física</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Enlace de Dados</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>Rede</b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<b>Transporte</b>]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>Camadas superiores</b>]]></text></component>
+
+<component id="ID_txt06"><text><![CDATA[<b>Bits de temporização e sincronização</b>]]></text></component>
+
+<component id="ID_txt07"><text><![CDATA[<b>Endereços físicos de destino e origem</b>]]></text></component>
+
+<component id="ID_txt08"><text><![CDATA[<b>Endereços de rede lógica de destino e origem</b>]]></text></component>
+
+<component id="ID_txt09"><text><![CDATA[<b>Número de processos de destino e origem (portas)</b>]]></text></component>
+
+<component id="ID_txt10"><text><![CDATA[<b>Dados de aplicação codificados</b>]]></text></component>
+
+</textcomponents>

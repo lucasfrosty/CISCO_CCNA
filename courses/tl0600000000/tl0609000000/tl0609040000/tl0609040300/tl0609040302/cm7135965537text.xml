@@ -1,0 +1,30 @@
+﻿<textcomponents>
+
+<component id="ID_title"><text><![CDATA[<b>Sincronização de quadro para comunicações assíncronas </b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>Nome dos campos</b>]]></text></component>
+  
+  <component id="ID_txt02"><text><![CDATA[<b>A</b>]]></text></component>
+  
+<component id="ID_txt03"><text><![CDATA[<b>B</b>]]></text></component>
+  
+<component id="ID_txt04"><text><![CDATA[<b>C</b>]]></text></component>
+  
+  <component id="ID_txt05"><text><![CDATA[<b>D</b>]]></text></component>
+  
+  <component id="ID_txt06"><text><![CDATA[<b>E</b>]]></text></component>
+  
+  <component id="ID_txt07"><text><![CDATA[<b>Campo de Início do Quadro</b>]]></text></component>
+  
+  <component id="ID_txt08"><text><![CDATA[<b>Campo de Endereço</b>]]></text></component>
+  
+  <component id="ID_txt09"><text><![CDATA[<b>Campo de Tipo/ Comprimento</b>]]></text></component>
+  
+  <component id="ID_txt10"><text><![CDATA[<b>Campo de Dados</b>]]></text></component>
+  
+  <component id="ID_txt11"><text><![CDATA[<b>Campo FCS </b>]]></text></component>
+  
+  <component id="ID_txt12"><text><![CDATA[<b>A Ethernet de 10 Mbps ou de menor velocidade utilizam os primeiros 64 bits do Preâmblulo do quadro para sincronização do receptor.</b>]]></text></component>
+  
+     
+</textcomponents>

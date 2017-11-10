@@ -1,0 +1,26 @@
+﻿<textcomponents>
+
+<component id="ID_txt01"><text><![CDATA[<b>Determinando o Número de Hosts na Rede</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Inclua estes dispositivos na contagem:</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>Interfaces do Roteador</b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[Conte o número de interfaces e não o número de roteadores</b>]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>Impressoras</b>]]></text></component>
+
+<component id="ID_txt06"><text><![CDATA[<b>Telefones IP</b>]]></text></component>
+
+<component id="ID_txt07"><text><![CDATA[Conte também outros dispositivos IP]]></text></component>
+
+<component id="ID_txt08"><text><![CDATA[<b>Endereços de Gerenciamento do Switch</b>]]></text></component>
+
+<component id="ID_txt09"><text><![CDATA[<b>Usuários de Administração</b>]]></text></component>
+
+<component id="ID_txt10"><text><![CDATA[<b>Usuários Gerais</b>]]></text></component>
+
+<component id="ID_txt11"><text><![CDATA[<b>Servidores</b>]]></text></component>
+
+
+</textcomponents>

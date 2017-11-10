@@ -1,0 +1,12 @@
+﻿<textcomponents>
+<component id="ID_title"><text><![CDATA[<b>Modos Primários do IOS</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b><font color="#003399">Modo EXEC Usuário</font><br/>Exame limitado do roteador. Acesso remoto.<br/><br/><font face="_typewriter">Switch><br>Roteador></font></b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b><font color="#003399">Modo de Configuração Global</font><br/>Comandos de configuração global.<br/><br/><font face="_typewriter">Switch(config)#<br>Roteador(config)#</font></b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b><font color="#003399">Modo EXEC Privilegiado</font><br/>Exame detalhado do roteador, Limpeza e teste. Manipulação de arquivos. Acesso remoto.<br/><font face="_typewriter">Switch#<br>Roteador#</font></b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<b><font color="#003399">Outros Modos de Configuração</font><br/>Configurações de serviços ou interfaces específicas.<br/><br/><font face="_typewriter">Switch(config-<i>modo</i>)#<br>Roteador(config-<i>modo</i>)#</font></b>]]></text></component>
+
+</textcomponents>

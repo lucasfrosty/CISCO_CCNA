@@ -1,0 +1,12 @@
+﻿<textcomponents>
+
+<component id="play"><text><![CDATA[Play]]></text></component> <component id="pause"><text><![CDATA[Pausar]]></text></component> <component id="rewind"><text><![CDATA[Voltar]]></text></component> <component id="forward"><text><![CDATA[Avançar]]></text></component> <component id="mute"><text><![CDATA[Mudo]]></text></component> <component id="unmute"><text><![CDATA[Com Som]]></text></component> <component id="previous"><text><![CDATA[Reiniciar]]></text></component> <component id="next"><text><![CDATA[Fim]]></text></component> <component id="transcript"><text><![CDATA[Transcrição]]></text></component>
+
+<component id="ID_title"><text><![CDATA[<b>Contando Sub-redes</b>]]></text></component>
+
+<component id="ID_inst"><text><![CDATA[<b>Clique em Play para visualizar a animação.</b>]]></text></component>
+
+
+
+
+</textcomponents>

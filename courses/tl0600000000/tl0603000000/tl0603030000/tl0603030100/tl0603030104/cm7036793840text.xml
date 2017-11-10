@@ -1,0 +1,16 @@
+﻿<textcomponents>
+<component id="txt1"><text><![CDATA[<b>Servidores de domínio de nível superior</b>]]></text></component> 
+<component id="txt2"><text><![CDATA[<b>Servidores de domínio de nível secundário</b>]]></text></component> 
+<component id="txt3"><text><![CDATA[<b>Servidor DNS local</b>]]></text></component> 
+<component id="txt4"><text><![CDATA[<b>Cliente DNS</b>]]></text></component> 
+<component id="txt5"><text><![CDATA[<b>cisco.com</b>]]></text></component> 
+<component id="txt6"><text><![CDATA[<b>Hierarquia de servidores DNS que contêm os registros dos recursos correspondentes aos nomes com endereços.</b>]]></text></component> 
+<component id="txt7"><text><![CDATA[<b>Servidor DNS raiz</b>]]></text></component> 
+<component id="txt8"><text><![CDATA[<b>.com</b>]]></text></component> 
+<component id="txt9"><text><![CDATA[<b>.org</b>]]></text></component> 
+<component id="txt10"><text><![CDATA[<b>.au</b>]]></text></component> 
+<component id="txt11"><text><![CDATA[<b>.co</b>]]></text></component> 
+<component id="bbl1"><text><![CDATA[Tenho os registros para:<BR>www.cisco.com<BR>mail.cisco.com]]></text></component> 
+<component id="bbl2"><text><![CDATA[Tenho registros para localizar quem tem conhecimento de :<BR>cisco.com<BR>linksys.com]]></text></component> 
+<component id="bbl3"><text><![CDATA[Tenho registros para localizar quem tem conhecimento de:<BR>.com<BR>.org<BR>.au<BR>.co]]></text></component>
+</textcomponents>

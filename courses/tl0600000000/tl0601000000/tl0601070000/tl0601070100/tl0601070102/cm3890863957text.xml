@@ -1,0 +1,163 @@
+﻿<textcomponents>
+
+<component id="ID_setup">
+<text><![CDATA[<b>Use esta atividade para verificar o seu entendimento dos pontos principais deste capítulo.</b>]]></text>
+</component>
+
+<component id="ID_setup2">
+<text><![CDATA[<ul><li>Uma série de perguntas será apresentada. Isto não é um teste e as suas respostas não serão armazenadas.</li><li>Clique em <b>Resposta</b> para ver a resposta.</li><li>Clique em <b>Próxima Pergunta</b> para avançar para a próxima pergunta.</li></ul>]]></text>
+</component>
+
+<component id="clickHere">
+<text><![CDATA[<b>Clique Aqui<br/>para Iniciar</b>]]></text>
+</component>
+
+<!-- Question 1 -->
+
+<component id="ID_Q1_txt01">
+<text><![CDATA[<b>Resposta</b>]]></text>
+</component>
+<component id="ID_Q1_txt02">
+<text><![CDATA[Você consegue responder esta pergunta?<br/>Clique em <b>Resposta</b> para ver se você acertou.]]></text>
+</component>
+<component id="ID_Q1_txt03">
+<text><![CDATA[Descreva os fatores internos que impactam a comunicação em rede.]]></text>
+</component>
+<component id="ID_Q1_txt04">
+<text><![CDATA[<p>Os fatores internos que interferem na comunicação estão relacionados à natureza da comunicação em si. A comunicação pode variar em complexidade e importância. Mensagens claras e concisas geralmente são mais fáceis de entender do que mensagens complexas. As comunicações importantes requerem mais cuidado para garantir que o significado seja recebido adequadamente.</p><br/><p>Os fatores internos que afetam a qualidade da comunicação incluem:</p><ul><li>O tamanho da mensagem</li><li>A complexidade da mensagem</li><li>A importância da mensagem</li></ul>]]></text>
+</component>
+<component id="ID_Q1_txt05">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+<!-- Question 2 -->
+
+<component id="ID_Q2_txt01">
+<text><![CDATA[<b>Resposta</b>]]></text>
+</component>
+<component id="ID_Q2_txt02">
+<text><![CDATA[Você consegue responder esta pergunta?<br/>Clique em <b>Resposta</b> para ver se você acertou.]]></text>
+</component>
+<component id="ID_Q2_txt03">
+<text><![CDATA[Descreva os fatores externos que impactam a comunicação em rede.]]></text>
+</component>
+<component id="ID_Q2_txt04">
+<text><![CDATA[<p>Os fatores externos que afetam a qualidade da comunicação estão relacionados aos processos que os dispositivos usam para conversar entre si, e incluem:</p><ul><li>Se a confirmação da mensagem retornar ao remetente</li><li>A qualidade do caminho entre o remetente e o receptor</li><li>O número de vezes que a mensagem tem que alterar sua forma</li><li>A quantidade de outras mensagens na rede de comunicação</li><li>O número de vezes que a mensagem é reformatada</li><li>A quantidade de tempo alocada para uma comunicação satisfatória</li></ul>]]></text>
+</component>
+<component id="ID_Q2_txt05">
+<text><![CDATA[<b>Pergunta<br/>Anterior</b>]]></text>
+</component>
+<component id="ID_Q2_txt06">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+
+<!-- Question 3 -->
+
+<component id="ID_Q3_txt01">
+<text><![CDATA[<b>Resposta</b>]]></text>
+</component>
+<component id="ID_Q3_txt02">
+<text><![CDATA[Você consegue responder esta pergunta?<br/>Clique em <b>Resposta</b> para ver se você acertou.]]></text>
+</component>
+<component id="ID_Q3_txt03">
+<text><![CDATA[Descreva as tecnologias suportadas por redes que impactam o modo como as pessoas aprendem, trabalham e se divertem. ]]></text>
+</component>
+<component id="ID_Q3_txt04">
+<text><![CDATA[Inclui mensagens instantâneas, blogs, podcasting, ferramentas de colaboração que utilizam tecnologias de texto, gráficas, de áudio e vídeo tanto em redes de dados fixas quanto móveis.]]></text>
+</component>
+<component id="ID_Q3_txt05">
+<text><![CDATA[<b>Pergunta<br/>Anterior</b>]]></text>
+</component>
+<component id="ID_Q3_txt06">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+<!-- Question 4 -->
+
+<component id="ID_Q4_txt01">
+<text><![CDATA[<b>Resposta</b>]]></text>
+</component>
+<component id="ID_Q4_txt02">
+<text><![CDATA[Você consegue responder esta pergunta?<br/>Clique em <b>Resposta</b> para ver se você acertou.]]></text>
+</component>
+<component id="ID_Q4_txt03">
+<text><![CDATA[O que são dados? O que é uma rede de dados? O que é uma rede convergida?]]></text>
+</component>
+<component id="ID_Q4_txt04">
+<text><![CDATA[<p><b>Dados:</b></p><p>Dados são informações, como arquivos, áudio, chamadas telefônicas e vídeo compartilhadas através da rede.</p><br/><p><b>Uma rede de dados consiste em:</b></p><ul><li>Dispositivos que se comunicam entre si</li><li>Um meio de conectar estes dispositivos uns com os outros—uma mídia que possa transportar mensagens de um dispositivo para outro</li><li>As mensagens digitais ou unidades de informação que viajarão de um dispositivo para outro</li><li>Regras ou acordos para governar como as mensagens são enviadas, direcionadas e recebidas</li></ul><br/><p><b>Redes convergidas:</b></p><p>Tradicionalmente, o telefone, as comunicações de dados entre computadores, o rádio e a televisão possuíam redes separadas, e cada um deles requeria uma tecnologia diferente para transportar seus sinais de comunicação particulares. Além disso, cada serviço tinha seu próprio conjunto de regras e padrões para garantir o sucesso da comunicação de seu serviço através de uma mídia específica.</p><br/><p>Agora, a tecnologia pode consolidar estas redes díspares  em uma plataforma—uma plataforma que definimos como a rede convergida. O fluxo de voz, rádio, vídeo  e dados viajando através da mesma rede elimina a necessidade de criar e manter redes separadas. À medida que as redes convergidas se tornam mais comuns, as empresas e os usuários individuais podem usar uma única rede para seus serviços em vez de gerenciar e usar redes físicas separadas para cada tipo de serviço. Nós ainda temos muitos pontos de contato e muitos dispositivos - por exemplo, computadores pessoais, telefones, TVs, assistentes pessoais e caixas registradores em pontos de venda - mas somente uma rede comum. Agora, uma rede transporta múltiplos tipos de mensagens e informações.</p>]]></text>
+</component>
+<component id="ID_Q4_txt05">
+<text><![CDATA[<b>Pergunta<br/>Anterior</b>]]></text>
+</component>
+<component id="ID_Q4_txt06">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+<!-- Question 5 -->
+
+<component id="ID_Q5_txt01">
+<text><![CDATA[<b>Resposta</b>]]></text>
+</component>
+<component id="ID_Q5_txt02">
+<text><![CDATA[Você consegue responder esta pergunta?<br/>Clique em <b>Resposta</b> para ver se você acertou.]]></text>
+</component>
+<component id="ID_Q5_txt03">
+<text><![CDATA[Por que a Qualidade de Serviço é importante em uma rede de dados?]]></text>
+</component>
+<component id="ID_Q5_txt04">
+<text><![CDATA[<p>As redes de dados convergidas transportam múltiplos tipos de comunicação. Porém, os recursos das redes de dados estão sempre restringidos por orçamentos, limitações físicas e tecnologia. A existência destas limitações significa que as decisões precisam ser tomadas levando em conta a prioridade dos diferentes tipos de comunicação.</p><br/><p>O gerenciamento dos diferentes tipos de comunicação envolve equilibrar tanto a importância do tráfego quanto suas características. Estes dois fatores são considerados no desenvolvimento de uma estratégia de Qualidade de Serviço (QoS) para o gerenciamento de dados em uma determinada rede de dados.</p>]]></text>
+</component>
+<component id="ID_Q5_txt05">
+<text><![CDATA[<b>Pergunta<br/>Anterior</b>]]></text>
+</component>
+<component id="ID_Q5_txt06">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+<!-- Question 6 -->
+
+<component id="ID_Q6_txt01">
+<text><![CDATA[<b>Resposta</b>]]></text>
+</component>
+<component id="ID_Q6_txt02">
+<text><![CDATA[Você consegue responder esta pergunta?<br/>Clique em <b>Resposta</b> para ver se você acertou.]]></text>
+</component>
+<component id="ID_Q6_txt03">
+<text><![CDATA[O que acontece na ausência de um mecanismo de QoS adequadamente elaborado e implementado?]]></text>
+</component>
+<component id="ID_Q6_txt04">
+<text><![CDATA[<p>Sem mecanismos de QoS adequadamente elaborados e implementados, os pacotes de dados serão descartados sem consideração às características do aplicativo ou prioridade.</p>
+]]></text>
+</component>
+<component id="ID_Q6_txt05">
+<text><![CDATA[<b>Pergunta<br/>Anterior</b>]]></text>
+</component>
+<component id="ID_Q6_txt06">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+<!-- Question 7 -->
+
+<component id="ID_Q7_txt01">
+<text><![CDATA[<b>Resposta</b>]]></text>
+</component>
+<component id="ID_Q7_txt02">
+<text><![CDATA[Você consegue responder esta pergunta?<br/>Clique em <b>Resposta</b> para ver se você acertou.]]></text>
+</component>
+<component id="ID_Q7_txt03">
+<text><![CDATA[O que significa segurança no contexto das redes de dados?]]></text>
+</component>
+<component id="ID_Q7_txt04">
+<text><![CDATA[<p>A segurança nas redes de dados tem dois aspectos:</p><ul><li>Interceptação das comunicações de dados - a criptografia dos dados pode recusar estas interceptações.</li><li>O acesso não-autorizado à rede e seus dados - nomes de usuários para fins de autenticação, senhas e classificações são ferramentas para evitar isso - além da segurança física)</li></ul><br/><p>Os intrusos podem querer obter acesso às informações para obterem vantagens monetárias. Eles roubam registros financeiros ou negociam segredos comerciais com concorrentes. Para outros, o roubo de dados é meramente um jogo do qual eles podem se gabar. Eles querem somente obter acesso porque "eles conseguem". Eles freqüentemente se gabam de suas últimas conquistas online. Muitos têm habilidades limitadas em informática e redes e estão fazendo esta atividade somente pela diversão. Algumas pessoas, alteram, destroem dados ou perturbam os processos da rede. Alguns são funcionários descontentes que decidem causar estragos nos dados empresariais.</p>]]></text>
+</component>
+<component id="ID_Q7_txt05">
+<text><![CDATA[<b>Pergunta<br/>Anterior</b>]]></text>
+</component>
+<component id="ID_Q7_txt06">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_conclusion">
+<text><![CDATA[<b>Isto conclui as perguntas. Verifique seu entendimento deste capítulo.</b>]]></text>
+</component>
+</textcomponents>

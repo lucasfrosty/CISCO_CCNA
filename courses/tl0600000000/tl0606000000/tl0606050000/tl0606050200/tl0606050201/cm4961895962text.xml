@@ -1,0 +1,64 @@
+﻿<textcomponents>
+
+<component id="ID_instruct"><text><![CDATA[<b>Clique para ver um passo.</b>]]></text></component>
+  
+<component id="ID_title"><text><![CDATA[<b>Sub-rede</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b><font color="#800000">Matriz Corporativa</font></b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b><font color="#800080">Escritório Jurídico</font></b>]]></text></component>
+  
+  <component id="ID_txt03"><text><![CDATA[<b><font color="#00ff00">Escritório de Vendas</font></b>]]></text></component>
+  
+  <component id="ID_txt04"><text><![CDATA[<b><font color="#0080ff">Escritório do RH</font></b>]]></text></component>
+  
+  <component id="ID_txt05"><text><![CDATA[<b>vendas</b>]]></text></component>
+  
+  <component id="ID_txt06"><text><![CDATA[<b>vendas</b>]]></text></component>
+  
+  <component id="ID_txt07"><text><![CDATA[<b>vendas</b>]]></text></component>
+  
+  <component id="ID_txt08"><text><![CDATA[<b>vendas</b>]]></text></component>
+  
+  <component id="ID_txt09"><text><![CDATA[<b>RH</b>]]></text></component>
+  
+  <component id="ID_txt10"><text><![CDATA[<b>RH</b>]]></text></component>
+  
+  <component id="ID_txt11"><text><![CDATA[<b>RH</b>]]></text></component>
+  
+  <component id="ID_txt12"><text><![CDATA[<b>RH</b>]]></text></component>
+  
+  <component id="ID_txt13"><text><![CDATA[<b>Jurídico</b>]]></text></component>
+  
+  <component id="ID_txt14"><text><![CDATA[<b>Jurídico</b>]]></text></component>
+  
+  <component id="ID_txt15"><text><![CDATA[<b>Neste exemplo, o número total de hosts na rede corporativa = 800 hosts.</b>]]></text></component>
+  
+  <component id="ID_txt16"><text><![CDATA[<b>Escolha um bloco de endereços para acomodar os hosts.172.16.0.0 /22 = 1022 endereços de host.</b>]]></text></component>
+  
+  <component id="ID_txt17"><text><![CDATA[<b>Matriz Corporativa = 500</b>]]></text></component>
+  
+  <component id="ID_txt18"><text><![CDATA[<b>172.16.0.0 /23</b>]]></text></component>
+  
+  <component id="ID_txt19"><text><![CDATA[<b>Escritório Jurídico = 20</b>]]></text></component>
+  
+  <component id="ID_txt20"><text><![CDATA[<b>172.16.3.64 /27</b>]]></text></component>
+  
+  <component id="ID_txt21"><text><![CDATA[<b>Escritório do RH = 50</b>]]></text></component>
+  
+  <component id="ID_txt22"><text><![CDATA[<b>172.16.3.0 /26</b>]]></text></component>
+  
+  <component id="ID_txt23"><text><![CDATA[<b>Escritório de Vendas = 200</b>]]></text></component>
+    
+    <component id="ID_txt24"><text><![CDATA[<b>172.16.2.0 /24</b>]]></text></component>
+  
+  <component id="ID_txt25"><text><![CDATA[<b>WAN1 = 2</b>]]></text></component>
+  
+  <component id="ID_txt26"><text><![CDATA[<b>WAN2 = 2</b>]]></text></component>
+  
+  <component id="ID_txt27"><text><![CDATA[<b>WAN3 = 2</b>]]></text></component>
+  
+  <component id="ID_txt28"><text><![CDATA[<b>Distribua os maiores blocos primeiro.</b>]]></text></component>
+  
+  
+</textcomponents>

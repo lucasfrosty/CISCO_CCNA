@@ -1,0 +1,30 @@
+﻿<textcomponents>
+
+
+<component id="ID_txt01"><text><![CDATA[<b>Conectores de Meio Físico de Fibra</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Conector ST</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b> O conector ST é amplamente usado com fibra multimodo</b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<b>Monomodo (LC) </b>]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>Conector Lucent Monomodo (LC)</b>]]></text></component>
+
+<component id="ID_txt06"><text><![CDATA[<b>Multimodo Duplex (LC) </b>]]></text></component>
+
+<component id="ID_txt07"><text><![CDATA[<b>Conector Multimodo Duplex LC </b>]]></text></component>
+
+
+<component id="ID_txt08"><text><![CDATA[<b>Conector SC</b>]]></text></component>
+
+
+<component id="ID_txt09"><text><![CDATA[<b>O conector SC é amplamente usado com fibra monomodo</b>]]></text></component>
+
+<component id="ID_txt10"><text><![CDATA[<b>Multimodo Duplex (LC) </b>]]></text></component>
+
+<component id="ID_txt11"><text><![CDATA[<b>Conector Multimodo LC</b>]]></text></component>
+
+
+
+</textcomponents>

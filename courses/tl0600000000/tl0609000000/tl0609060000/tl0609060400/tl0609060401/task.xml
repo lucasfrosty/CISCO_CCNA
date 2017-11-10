@@ -1,0 +1,205 @@
+﻿<avalontask>
+   <r2data taskid="99999" type="simulation" language="EN" title="Sample Linksys Item">
+<!-- data required by R2 will go here -->	
+</r2data>
+   <guitext file="guitext.xml">Versão em inglês da interface gráfica do usuário vai aqui.</guitext>
+   <variables/>
+   <textcomponents>
+      <component type="text" id="instructiontext123"><text variable="true" translate="true"><![CDATA[Esta demostração descreve o comportamento dos pacotes quando eles passam através dos hubs.  Inicie a demostração selecionando Atividade e pressionando o botão <i>Enviar</i> .<br><br>Você pode reproduzir a demostração selecionando o botão <i>Reiniciar</i> e depois selecionando o botão <i>Enviar</i> .<br><br>Responda cada pergunta selecionando o botão da pergunta e escolhendo a resposta correta.  Você pode obter feedback selecionando o botão <i>Nota</i> .]]></text></component> <!-- question #1 text --> <component type="text" id="q1stemt"><!-- note use of "do not translate" tag --> <text variable="false" translate="false"><![CDATA[Nesta rede, se um PC (o PC de origem) conectado ao HubA envia uma mensagem para outro PC (o PC de destino), também conectado ao HubA. Quais dispositivos receberão a mensagem?]]></text></component> <component type="text" id="q1o1t"><text variable="false" translate="false"><![CDATA[Apenas o PC de destino]]></text></component> <component type="text" id="q1o2t"><text variable="false" translate="false"><![CDATA[Apenas os PCs conectados ao HubA.]]></text></component> <component type="text" id="q1o3t"><text variable="false" translate="false"><![CDATA[Todos os PCs conectados ao HubA e ao HubB, mas o HubB não encaminhará a mensagem mais adiante.]]></text></component> <component type="text" id="q1o4t"><text variable="false" translate="false"><![CDATA[Todos os PCs conectados a cada hub da rede.]]></text></component> <!-- question #2 text --> <component type="text" id="q2stemt"><!-- note use of variable --> <text variable="false" translate="false"><![CDATA[Nesta rede, se um PC (o PC de origem) conectado ao HubA envia uma mensagem para outro PC (o PC de destino) conectado ao HubB, quais dispositivos receberão a mensagem?]]></text></component> <component type="text" id="q2o1t"><text variable="false" translate="false"><![CDATA[Apenas o PC de destino.]]></text></component> <component type="text" id="q2o2t"><text variable="false" translate="false"><![CDATA[Todos os PCs conectados apenas ao HubB.]]></text></component> <component type="text" id="q2o3t"><text variable="false" translate="false"><![CDATA[Todos os PCs conectados ao HubA e o PC de destino apenas no HubB.]]></text></component> <component type="text" id="q2o4t"><text variable="false" translate="false"><![CDATA[Todos os PCs conectados ao HubA e todos os PCs conectados apenas ao HubB..]]></text></component> <component type="text" id="q2o5t"><text variable="false" translate="false"><![CDATA[Todos os PCs conectados a cada hub na rede.]]></text></component> <!-- question #3 text --> <component type="text" id="q3stemt"><!-- note use of variable --> <text variable="false" translate="false"><![CDATA[O que acontece se dois dispositivos enviam informações através da rede ao mesmo tempo?]]></text></component> <component type="text" id="q3o1t"><text variable="false" translate="false"><![CDATA[Os dispositivos enviarão as mensagens simultaneamente, mas os dois quadros colidirão e os dispositivos devem transmitir a mensagem novamente em um intervalo padrão]]></text></component> <component type="text" id="q3o2t"><text variable="false" translate="false"><![CDATA[Os dispositivos enviarão as mensagens simultaneamente, mas o hub manterá dois caminhos separados de conversa e as mensagens serão passadas aos dispositivos de destino corretos.]]></text></component> <component type="text" id="q3o3t"><text variable="false" translate="false"><![CDATA[O hub não permitirá que múltiplos dispositivos enviem mensagem simultaneamente, portanto cada dispositivo deve esperar que o hub solicite a mensagem]]></text></component> <component type="text" id="q3o4t"><text variable="false" translate="false"><![CDATA[O hub não permitirá que múltiplos dispositivos enviem mensagens simultaneamente, portanto cada dispositivo deve enviar um quadro "solicitação para transmitir" ao hub]]></text></component> <!-- question #4 text --> <component type="text" id="q4stemt"><!-- note use of variable --> <text variable="false" translate="false"><![CDATA[Quem recebe uma mensagem distorcida quando uma colisão acontece em uma rede com hubs?  ]]></text></component> <component type="text" id="q4o1t"><text variable="false" translate="false"><![CDATA[Apenas o PC de destino]]></text></component> <component type="text" id="q4o2t"><text variable="false" translate="false"><![CDATA[Todos os PCs conectados ao hub onde a colisão aconteceu.]]></text></component> <component type="text" id="q4o3t"><text variable="false" translate="false"><![CDATA[Todos os PCs conectados a cada hub na rede]]></text></component> <component type="text" id="q4o4t"><text variable="false" translate="false"><![CDATA[Um hub não encaminhará uma mensagem distorcida de uma colisão]]></text></component> <component type="text" id="q4o5t"><text variable="false" translate="false"><![CDATA[Uma colisão nunca acontecerá em uma rede com hubs]]></text></component> <!-- FEEDBACK text  only showing feedback for one option of one question here..  --> <component type="text" id="q1o1incorrectfeedbackt"><text variable="false" translate="false"><![CDATA[Um hub não lê um quadro, ele simplesmente envia a mensagem para todas as portas.]]></text></component> <component type="text" id="q2o1incorrectfeedbackt"><text variable="false" translate="false"><![CDATA[Um hub não lê um quadro, ele simplesmente enviará a mensagem para todas as portas.]]></text></component> <component type="text" id="q3o1incorrectfeedbackt"><text variable="false" translate="false"><![CDATA[O hub não decide quando os hosts podem se comunicar, nem previne colisões quando dois hosts se comunicam simultaneamente.  Cabe ao host transmitir novamente.]]></text></component> <component type="text" id="q4o1incorrectfeedbackt"><text variable="false" translate="false"><![CDATA[Um hub não determina o que deve ser encaminhado, ele simplesmente envia tudo, incluindo mensagens distorcidas, para todas as portas.]]></text></component> <!-- TITLES--> <component type="text" id="txt_questiontitle1"><text variable="false" translate="false"><![CDATA[Pergunta nº 1]]></text></component> <component type="text" id="txt_questiontitle2"><text variable="false" translate="false"><![CDATA[Pergunta nº 2]]></text></component> <component type="text" id="txt_questiontitle3"><text variable="false" translate="false"><![CDATA[Pergunta nº 3]]></text></component> <component type="text" id="txt_questiontitle4"><text variable="false" translate="false"><![CDATA[Pergunta nº 4]]></text></component> <component type="text" id="txt_instructions"><text variable="false" translate="false"><![CDATA[Instruções]]></text></component> <component type="text" id="txt_scenario"><text variable="false" translate="false"><![CDATA[Cenário]]></text></component> <component type="text" id="txt_questions"><text variable="false" translate="false"><![CDATA[Perguntas]]></text></component> <!--<component type='text' id='txt_activitytitle1'>                 <text variable='false' translate='false'>                     <![CDATA[Topology1]]>                 </text>             </component>             <component type='text' id='txt_activitytitle2'>                 <text variable='false' translate='false'>                     <![CDATA[Topology2]]>                 </text>             </component>--> <component type="text" id="txt_activitytitle3"><text variable="false" translate="false"><![CDATA[Atividade]]></text></component>
+          </textcomponents>
+   <graphiccomponents>
+    <!-- <component type='graphic' id='gr_item1' >           <icon x='0' y='0' width='450' height='400' id='icon_item1' />       </component>       <component type='graphic' id='gr_item2' >           <icon x='0' y='10' width='800' height='300' id='icon_item2' />       </component>--> <component type="graphic" id="gr_item3"> 
+         <icon x="0" y="10" width="700" height="300" id="icon_item3"/>
+      </component>
+   </graphiccomponents>
+<hwcomponents>
+   <!-- **     testlet question components     ** 			we've already defined the text for the questions, so now we need to associate those text objects with 			the individual questions in a pool and then draw those questions from the pool --> <component type="questionpool" id="qpool"><!-- note that this pool contains 4 questions and the testlet is going to contain 4 questions		so this essentially randomizes the order of the questions within the testlet.  If two additional questions were		added to the pool then the candidate would only see a selection of 4 of the 6 questions in the pool. -->
+                <question questiontype="mc" randomizeoptions="false" id="q1">
+                    <stem id="q1stem" textsrc="q1stemt"/>
+                    <option incfeedback="q1o1incorrectfeedbackt" id="q1o1" textsrc="q1o1t"/>
+                    <option incfeedback="q1o1incorrectfeedbackt" id="q1o2" textsrc="q1o2t"/>
+                    <option incfeedback="q1o1incorrectfeedbackt" id="q1o3" textsrc="q1o3t"/>
+                    <option incfeedback="q1o1incorrectfeedbackt" id="q1o4" textsrc="q1o4t"/>
+                </question>
+                <question questiontype="mc" randomizeoptions="false" id="q2">
+                    <stem id="q2stem" textsrc="q2stemt"/>
+                    <option incfeedback="q2o1incorrectfeedbackt" id="q2o1" textsrc="q2o1t"/>
+                    <option incfeedback="q2o1incorrectfeedbackt" id="q2o2" textsrc="q2o2t"/>
+                    <option incfeedback="q2o1incorrectfeedbackt" id="q2o3" textsrc="q2o3t"/>
+                    <option incfeedback="q2o1incorrectfeedbackt" id="q2o4" textsrc="q2o4t"/>
+                    <option incfeedback="q2o1incorrectfeedbackt" id="q2o5" textsrc="q2o5t"/>
+                </question>
+				 <question questiontype="mc" randomizeoptions="false" id="q3">
+                    <stem id="q3stem" textsrc="q3stemt"/>
+                    <option incfeedback="q3o1incorrectfeedbackt" id="q3o1" textsrc="q3o1t"/>
+                    <option incfeedback="q3o1incorrectfeedbackt" id="q3o2" textsrc="q3o2t"/>
+                    <option incfeedback="q3o1incorrectfeedbackt" id="q3o3" textsrc="q3o3t"/>
+                    <option incfeedback="q3o1incorrectfeedbackt" id="q3o4" textsrc="q3o4t"/>
+                </question>
+				<question questiontype="mc" randomizeoptions="false" id="q4">
+                    <stem id="q4stem" textsrc="q4stemt"/>
+                    <option incfeedback="q4o1incorrectfeedbackt" id="q4o1" textsrc="q4o1t"/>
+                    <option incfeedback="q4o1incorrectfeedbackt" id="q4o2" textsrc="q4o2t"/>
+                    <option incfeedback="q4o1incorrectfeedbackt" id="q4o3" textsrc="q4o3t"/>
+                    <option incfeedback="q4o1incorrectfeedbackt" id="q4o4" textsrc="q4o4t"/>
+                    <option incfeedback="q4o1incorrectfeedbackt" id="q4o5" textsrc="q4o5t"/>
+                </question>
+			</component> <!-- the actual question components simply draw from the question pool(s) --> <component type="question" id="question1">
+                <draw questionpool="qpool"/>
+                <!--   did it this way so that in the future we might have conditions on the question selection.. i.e.             <condition var='num' value='50' operator='gt'>               <draw pool='anotherquestionpool'  />             </condition>    --></component> <component type="question" id="question2">
+                <draw questionpool="qpool"/>
+            </component> <component type="question" id="question3">
+                <draw questionpool="qpool"/>
+            </component> <component type="question" id="question4">
+                <draw questionpool="qpool"/>
+            </component>
+		</hwcomponents>
+      <presentation delivery="cert">
+      <mainstage bgcolor="#FFFFFF" theme="ccna" historylog="all" tooltips="true" contextmenu="false"/>
+        <graphicmap> 
+         <map id="icon_item1" src="item1" location="library"/>
+         <map id="icon_item2" src="item2" location="library"/>
+         <map id="icon_item3" src="item3" location="library"/>
+      </graphicmap> 
+         <window id="win_instructions" resize="all" width="400" minwidth="50" maxwidth="600" height="250" minheight="50" maxheight="500" titletextid="txt_instructions" visible="true" depth="200" y="25" x="140"> 
+         <element id="ele_instructions" src="instructiontext123" container="textClip" width="450" html="true" wordwrap="true"/> 
+      </window>
+       	  <!--  window components for the individual questions --> 
+            <window titletextid="txt_questiontitle1" minimize="false" minheight="250" height="408" minwidth="220" visible="false" depth="348" width="580" y="5" x="130" id="win111" resize="all"><!-- note that there's no maxheight or maxwidth.. the window can expand to fill the screen --> <!--   indicate which library clip is used to display the mc question.. in this case it has a linkage id of mc_task in the library  -->
+                <element src="question1" container="mc_task" id="testletQ1"/>
+            </window>
+            <window maxwidth="582" titletextid="txt_questiontitle2" minimize="false" minheight="250" maxheight="408" height="408" minwidth="220" visible="false" depth="349" width="580" y="5" x="150" id="win222" resize="all">
+                <element src="question2" container="mc_task" id="testletQ2"/>
+            </window>
+			<window maxwidth="582" titletextid="txt_questiontitle3" minimize="false" minheight="250" maxheight="408" height="408" minwidth="220" visible="false" depth="350" width="580" y="5" x="170" id="win223" resize="all">
+                <element src="question3" container="mc_task" id="testletQ3"/>
+            </window>
+			<window maxwidth="582" titletextid="txt_questiontitle4" minimize="false" minheight="250" maxheight="408" height="408" minwidth="220" visible="false" depth="351" width="580" y="5" x="190" id="win224" resize="all">
+                <element src="question4" container="mc_task" id="testletQ4"/>
+            </window>
+			<!--  window component for the question index -->
+		<window id="win999" resize="none" minimize="true" maxwidth="250" titletextid="txt_questions" minheight="225" visible="false" maxheight="390" height="368" minwidth="90" width="116" depth="396" y="25" x="5">
+                 <element id="questionindex" container="questionIndex" src="questionIndex" gradebtn="true" fback="all"/>
+            </window>
+      <!-- <window id='win_item1' resize='all' width='450' height='400' titletextid='txt_activitytitle1' minimize='true' visible='false' depth='100' y='20' x='170'>           <element id='ele_item1' src='gr_item1' x='0' y='40'  depth='101' />        </window>         <window id='win_item2' resize='all' width='780' height='400' titletextid='txt_activitytitle2' minimize='true' visible='false' depth='110' y='35' x='20'>           <element id='ele_item2' src='gr_item2' x='0' y='20'  depth='111' />        </window> -->
+        <window id="win_item3" resize="none" width="700" height="400" titletextid="txt_activitytitle3" minimize="true" visible="false" depth="120" y="25" x="130"> 
+         <element id="ele_item3" src="gr_item3" x="0" y="40" depth="121"/> 
+      </window> 
+       </presentation>
+    <scoring>
+            <testlet>
+                <subtask ident="98765" tasksrc="q1">
+                    <!-- scoring for question #1    shows partial scoring  -->
+                       <resprocessing resprocident="rp_58699">
+                        <outcomes>
+                            <decvar varname="52064" maxvalue="1">
+                                <title>valor da resposta</title>
+                            </decvar>
+                        </outcomes>
+                        <respcondition>
+                            <conditionvar>
+                                <!--  they chose option 4 so totally correct so earned 5 points for this question -->
+                                <varequal respident="58699">
+                                    <componentident>q1o4</componentident>
+                                </varequal>
+                            </conditionvar>
+                            <setvar action="Set" varname="52064">1</setvar>
+                        </respcondition>
+                        <respcondition>
+                            <conditionvar>
+                                <!--  default "incorrect" for this question 0 points-->
+                                <varequal respident="58699">
+                                    <componentident>outro</componentident>
+                                </varequal>
+                            </conditionvar>
+                            <setvar action="Set" varname="52064">0</setvar>
+                        </respcondition>
+                    </resprocessing>
+                </subtask>
+                <subtask ident="98766" tasksrc="q2">
+                    <!-- scoring for question #2   in this case it's all or nothing.. either they choose 1 and get 5 points or they get 0-->
+                    <resprocessing resprocident="rp_58700">
+                        <outcomes>
+                            <decvar varname="52065" maxvalue="1">
+                                <title>valor da resposta</title>
+                            </decvar>
+                        </outcomes>
+                        <respcondition>
+                            <conditionvar>
+                                <!--  they chose option 1  so totally correct so earned 5 points for this question -->
+                                <varequal respident="58700">
+                                    <componentident>q2o5</componentident>
+                                </varequal>
+                            </conditionvar>
+                            <setvar action="Set" varname="52065">1</setvar>
+                        </respcondition>
+                        <respcondition>
+                            <conditionvar>
+                                <!--  default "incorrect" for this question 0 points-->
+                                <varequal respident="58700">
+                                    <componentident>outro</componentident>
+                                </varequal>
+                            </conditionvar>
+                            <setvar action="Set" varname="52065">0</setvar>
+                        </respcondition>
+                    </resprocessing>
+                </subtask>
+				<subtask ident="98767" tasksrc="q3">
+                    <!-- scoring for question #3   in this case it's all or nothing.. either they choose 3 and get 5 points or they get 0-->
+                    <resprocessing resprocident="rp_58701">
+                        <outcomes>
+                            <decvar varname="52066" maxvalue="1">
+                                <title>valor da resposta</title>
+                            </decvar>
+                        </outcomes>
+                        <respcondition>
+                            <conditionvar>
+                                <!--  they chose option 3 so totally correct so earned 5 points for this question -->
+                                <varequal respident="58701">
+                                    <componentident>q3o1</componentident>
+                                </varequal>
+                            </conditionvar>
+                            <setvar action="Set" varname="52066">1</setvar>
+                        </respcondition>
+                        <respcondition>
+                            <conditionvar>
+                                <!--  default "incorrect" for this question 0 points-->
+                                <varequal respident="58701">
+                                    <componentident>outro</componentident>
+                                </varequal>
+                            </conditionvar>
+                            <setvar action="Set" varname="52066">0</setvar>
+                        </respcondition>
+                    </resprocessing>
+                </subtask>
+				<subtask ident="98768" tasksrc="q4">
+                    <!-- scoring for question #4   in this case it's all or nothing.. either they choose 2 and get 5 points or they get 0-->
+                       <resprocessing resprocident="rp_58702">
+                        <outcomes>
+                            <decvar varname="52067" maxvalue="1">
+                                <title>valor da resposta</title>
+                            </decvar>
+                        </outcomes>
+                        <respcondition>
+                            <conditionvar>
+                                <!--  they chose option 4 so totally correct so earned 5 points for this question -->
+                                <varequal respident="58702">
+                                    <componentident>q4o3</componentident>
+                                </varequal>
+                            </conditionvar>
+                            <setvar action="Set" varname="52067">1</setvar>
+                        </respcondition>
+                        <respcondition>
+                            <conditionvar>
+                                <!--  default "incorrect" for this question 0 points-->
+                                <varequal respident="58702">
+                                    <componentident>outro</componentident>
+                                </varequal>
+                            </conditionvar>
+                            <setvar action="Set" varname="52067">0</setvar>
+                        </respcondition>
+                    </resprocessing>
+                </subtask>
+			</testlet>
+        </scoring>
+	</avalontask>

@@ -1,0 +1,19 @@
+﻿<textcomponents>
+
+<component id="ID_Title"><text><![CDATA[<b>Fatores que Determinam a Seleção do Switch LAN</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>Custo</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Apenas um grande switch central</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>Diversos switches conectados a um switch central</b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<b>Uma falha em qualquer um desses switches afetará os PCs conectados diretamente.</b>]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>A falha de qualquer switch central não interrompe a operação da rede.</b>]]></text></component>
+
+<component id="ID_txt06"><text><![CDATA[<b>Dois switches centrais com redundância</b>]]></text></component>
+
+
+
+</textcomponents>

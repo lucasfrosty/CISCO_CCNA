@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+		<exam id="13235" dateexported="07/28/2008">
+		<name>Teste do Módulo 3</name>
+		<form id="21560" lang="pt"><form-item order="fixed">
+			<ai id="142147" type="mc-ma"><question><![CDATA[Quais as camadas do modelo OSI que compõem a camada de Aplicação do modelo TCP/IP? (Escolha três.)  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[enlace de dados ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[rede ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[transporte ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[sessão  ]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[apresentação  ]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[aplicação  ]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="142156" type="mc-sa"><question><![CDATA[Que protocolo é usado para transferir páginas de Internet do servidor para o cliente?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[HTML ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[SMTP ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[HTTP  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[SSH ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Telnet ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[POP ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="142198" type="mc-sa"><question><![CDATA[Analise a imagem.  Que termo se aplica à transferência de dados na direção indicada pela seta? <br/><img src="i142198n1v1.jpg" /> ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[baixar arquivo ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[leitura de dados ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[escrever dados ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[carregar arquivo  ]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="142155" type="mc-ma"><question><![CDATA[Que protocolos usam autenticação e criptografia para assegurar os dados que viajam entre cliente e servidor? (Escolha duas.)  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[HTTP ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[DNS ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[HTTPS  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[SMTP ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[SSH  ]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="142199" type="mc-sa"><question><![CDATA[Analise a imagem. Qual é o domínio de nível superior da URL exibida? <br/><img src="i142199n1v1.jpg" /> ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[cisco.com ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[.com  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[www.cisco.com ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[www ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[netacad ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[http:// ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item>
+			<ai id="142154" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="142154" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>NS</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>CNAME</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>MX</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>A </mattext></material></textcomponent></component><!-- ***********  LABELS  *********** --><!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>endereço do dispositivo</mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>nome de servidor autoritativo</mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>nome canônico ou Nome de Domínio completo (FQDN) para um host</mattext></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>mapeia um nome de domínio numa lista de servidores de mensageria para aquele domínio</mattext></material></textcomponent></component><!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="760"><material><mattext>Arraste cada tipo de registro de recurso DNS à esquerda e solte-o no recurso que ele identifica à direita.</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-137.5" targetYspacing="21" yspacing="60" targetH="37"><options><display componentIdent="1" xpos="200" ypos="75" /><display componentIdent="2" xpos="200" ypos="135" /><display componentIdent="3" xpos="200" ypos="195" /><display componentIdent="4" xpos="200" ypos="255" /></options><targets><display componentIdent="1" xpos="600" ypos="75" /><display componentIdent="2" xpos="600" ypos="127" /><display componentIdent="3" xpos="600" ypos="179" /><display componentIdent="4" xpos="600" ypos="231" /></targets><stem><display componentIdent="40" xpos="420" ypos="28" /></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident="1"><componentident>1</componentident></scoringzone><scoringzone ident="2"><componentident>2</componentident></scoringzone><scoringzone ident="3"><componentident>3</componentident></scoringzone><scoringzone ident="4"><componentident>4</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="193812" maxvalue="1"><title>sem título</title></decvar><interpretvar varname="193812" view="All">sem descrição </interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>4</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>1</componentident></scoringzonecontains><scoringzonecontains szident="3"><componentident>2</componentident></scoringzonecontains><scoringzonecontains szident="4"><componentident>3</componentident></scoringzonecontains></conditionvar><setvar varname="193812" action="Set">1</setvar><scoringdescription>De cima para baixo: A, NS, CNAME, MX</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item><form-item>
+			<ai id="142157" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="142157" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>resolve questões de entrega final</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>envia mensagens entre os servidores usando SMTP</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>recupera mensagens usando POP</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>realiza a entrega real para a caixa de entrada do usuário</mattext></material></textcomponent></component><component ident="5" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>recebe mensagens do cliente</mattext></material></textcomponent></component><component ident="6" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>cliente usado para acessar e ler mensagens</mattext></material></textcomponent></component><!-- ***********  LABELS  *********** --><component ident="1" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext>MTA</mattext></material></textcomponent></component><component ident="2" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext>MDA</mattext></material></textcomponent></component><component ident="3" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext>MUA</mattext></material></textcomponent></component><!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext /></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext /></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext /></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext /></material></textcomponent></component><component ident="5" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext /></material></textcomponent></component><component ident="6" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext /></material></textcomponent></component><!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="760"><material><mattext>Arraste as funções à esquerda e solte-as no componente de e-mail adequado à direita.</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-150" targetYspacing="10" yspacing="62" targetH="27"><options><display componentIdent="1" xpos="200" ypos="75" /><display componentIdent="2" xpos="200" ypos="115" /><display componentIdent="3" xpos="200" ypos="155" /><display componentIdent="4" xpos="200" ypos="195" /><display componentIdent="5" xpos="200" ypos="235" /><display componentIdent="6" xpos="200" ypos="275" /></options><labels><display componentIdent="1" xpos="600" ypos="91.5" containsTargets="2" startTarg="1" labelStyle="1" /><display componentIdent="2" xpos="600" ypos="190.5" containsTargets="2" startTarg="3" labelStyle="1" /><display componentIdent="3" xpos="600" ypos="289.5" containsTargets="2" startTarg="5" labelStyle="1" /></labels><targets><display componentIdent="1" xpos="600" ypos="100" /><display componentIdent="2" xpos="600" ypos="137" /><display componentIdent="3" xpos="600" ypos="199" /><display componentIdent="4" xpos="600" ypos="236" /><display componentIdent="5" xpos="600" ypos="298" /><display componentIdent="6" xpos="600" ypos="335" /></targets><stem><display componentIdent="40" xpos="420" ypos="28" /></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident="1"><componentident>1</componentident><componentident>2</componentident></scoringzone><scoringzone ident="2"><componentident>3</componentident><componentident>4</componentident></scoringzone><scoringzone ident="3"><componentident>5</componentident><componentident>6</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="193823" maxvalue="1"><title>sem título</title></decvar><interpretvar varname="193823" view="All">sem descrição </interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>2</componentident><componentident>5</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>4</componentident><componentident>1</componentident></scoringzonecontains><scoringzonecontains szident="3"><componentident>6</componentident><componentident>3</componentident></scoringzonecontains></conditionvar><setvar varname="193823" action="Set">1</setvar><scoringdescription>O MTA encaminha entre servidores e recebe e-mail do cliente. O MDA realiza a entrega real e resolve questões  de entrega final  O MUA é o cliente para ler mensagens e recuperá-las usando POP</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item><form-item order="fixed">
+			<ai id="142142" type="mc-sa"><question><![CDATA[Um administrador de rede está tentando corrigir uma falha de acesso a www.cisco.com. Digitar o endereço IP do servidor web no navegador faz a página de Internet aparecer corretamente. Que protocolo da camada de aplicação é responsável pela falha?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[DHCP ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[DNS  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[CDP ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[HTTP ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[HTTPS ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[SSL ]]></text>
+							
+							
+						</choice></choices></ai></form-item></form></exam> 

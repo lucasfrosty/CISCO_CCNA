@@ -1,0 +1,27 @@
+﻿<textcomponents>
+	<component id="DEVICES"><text><![CDATA[DISPOSITIVOS]]></text></component> 
+	<component id="SERVICES"><text><![CDATA[SERVIÇOS]]></text></component> 
+	<component id="MEDIA"><text><![CDATA[MEIOS FÍSICOS]]></text></component>
+	
+	<component id="ID_txt01"><text><![CDATA[<b>Redes usam dispositivos, meios físicos e serviços.</b>]]></text></component> 
+	<component id="ID_txt02"><text><![CDATA[<b>Redes Interconectadas</b>]]></text></component> 
+	<component id="ID_txt03"><text><![CDATA[<b>Clique em cada categoria.</b>]]></text></component> 
+	<component id="ID_txt04"><text><![CDATA[<b>Dispositivos</b>]]></text></component> 
+	<component id="ID_txt04a"><text><![CDATA[<b>Dispositivos</b>]]></text></component> 
+	<component id="ID_txt04b"><text><![CDATA[<b>Dispositivos</b>]]></text></component> 
+	<component id="ID_txt04c"><text><![CDATA[<b>Dispositivos</b>]]></text></component> 
+	<component id="ID_txt05"><text><![CDATA[<b>Meio Físico</b>]]></text></component> 
+	<component id="ID_txt05a"><text><![CDATA[<b>Meio Físico</b>]]></text></component> 
+	<component id="ID_txt05b"><text><![CDATA[<b>Meio Físico</b>]]></text></component> 
+	<component id="ID_txt05c"><text><![CDATA[<b>Meio Físico</b>]]></text></component>
+
+	<component id="ID_txt06"><text><![CDATA[<b>Meio Físico</b>]]></text></component> 
+	<component id="ID_txt06a"><text><![CDATA[<b>Processos e<br>Serviços</b>]]></text></component> 
+	<component id="ID_txt06b"><text><![CDATA[<b>Serviços<br>(Software)</b>]]></text></component> 
+	<component id="ID_txt06c"><text><![CDATA[<b>Serviços<br>(Software)</b>]]></text></component> 
+	<component id="ID_txt06d"><text><![CDATA[Regra 1 Regra 2 Regra 3]]></text></component> 
+	<component id="ID_txt06e"><text><![CDATA[{ If (a) then }]]></text></component> 
+	<component id="ID_txt07a"><text><![CDATA[<b>LAN</b>]]></text></component> 
+	<component id="ID_txt07b"><text><![CDATA[<b>LAN</b>]]></text></component>
+
+</textcomponents>

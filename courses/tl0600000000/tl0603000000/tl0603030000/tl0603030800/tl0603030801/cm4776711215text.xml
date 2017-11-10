@@ -1,0 +1,34 @@
+﻿<textcomponents>
+
+
+<component id="ID_title"><text><![CDATA[<b>Telnet </b>]]></text></component> <component id="ID_inst"><text><![CDATA[<b>Clique aqui para ver o Telnet.</b>]]></text></component> <component id="ID_inst2"><text><![CDATA[<b>Clique para Reiniciar.</b>]]></text></component>
+
+
+<component id="ID_txt01"><text><![CDATA[<b>Computador1[raiz]$ dir<br/>cache lib lock mail spool www local log<br/>tmp   yp</b>]]></text></component>
+
+
+
+<component id="ID_txt02"><text><![CDATA[<b>Terminal físico</b>]]></text></component>
+
+
+<component id="ID_txt01b"><text><![CDATA[<b>Computador1[raiz]$ dir<br/>cache lib lock mail spool www local log<br/>tmp   yp</b>]]></text></component>
+
+<component id="ID_txt02b"><text><![CDATA[<b>Rede</b>]]></text></component>
+
+<component id="ID_txt03b"><text><![CDATA[Endereço IP<br/>192.168.2.2]]></text></component>
+
+<component id="ID_txt04b"><text><![CDATA[<b>Terminal virtual</b>]]></text></component>
+
+<component id="ID_txt05b"><text><![CDATA[<b>O Telnet fornece um modo de usar um computador, conectado através da rede, para acessar um dispositivo de rede como se o teclado e o monitor estivessem diretamente conectados ao dispositivo.</b>]]></text></component>
+
+<component id="ID_txt06b"><text><![CDATA[<b>Cliente<br/>Telnet</b>]]></text></component>
+
+<component id="ID_txt07b"><text><![CDATA[<b>Servidor<br/>Telnet</b>]]></text></component>
+
+<component id="button1"><text><![CDATA[<b>Começar</b>]]></text></component>
+
+<component id="button2"><text><![CDATA[<b>Telnet</b>]]></text></component>
+
+
+
+</textcomponents>

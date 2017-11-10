@@ -1,0 +1,18 @@
+﻿<textcomponents>
+
+<component id="ID_title"><text><![CDATA[<b>Conversão Binário para Decimal</b>]]></text></component> <component id="ID_txt04"><text><![CDATA[<b>1 BYTE / 1 Octeto</b>]]></text></component> <component id="ID_txt06"><text><![CDATA[<b>245</b>]]></text></component>
+  
+<component id="ID_txt07"><text><![CDATA[<b>Expoente</b>]]></text></component> <component id="ID_txt08"><text><![CDATA[<b>Posição</b>]]></text></component> <component id="ID_txt09"><text><![CDATA[<b>Bits</b>]]></text></component> <component id="ID_txt10"><text><![CDATA[<b>Adicione estes números<br>juntos</b>]]></text></component>
+  
+<component id="ID_txt11"><text><![CDATA[<b>Decimal</b>]]></text></component>  
+  
+  
+<component id="ID_txt13"><text><![CDATA[<b>Um 1 nesta posição significa que 64 é adicionado ao total.</b>]]></text></component>
+  
+<component id="ID_txt14"><text><![CDATA[<b>Um 0 nesta posição significa que 0 é adicionado ao total.</b>]]></text></component>
+  
+<component id="ID_txt15"><text><![CDATA[<b>11110101 em Binário = Número Decimal 245</b>]]></text></component>  
+  
+</textcomponents>
+
+

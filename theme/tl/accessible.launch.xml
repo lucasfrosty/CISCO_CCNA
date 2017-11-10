@@ -1,0 +1,12 @@
+﻿<launch>
+	<userguide><content-text>Abrir o Guia do usuário em uma nova janela.</content-text></userguide>
+	<heading1><content-text>1. Selecionar o nível em que deseja visualizar o curso.</content-text></heading1>
+	<chlevel><content-text>Nível do Capítulo</content-text></chlevel>
+	<selevel><content-text>Nível da Seção</content-text></selevel>
+	<tolevel><content-text>Nível do Assunto</content-text></tolevel>
+	<palevel><content-text>Nível da Página</content-text></palevel>
+	<heading2><content-text>2. Selecione a apresentação default de mídia.</content-text></heading2>
+	<transcript><content-text>Somente Transcrição de Texto da Mídia</content-text></transcript>
+	<visual><content-text>Somente Mídia Interativa Visual</content-text></visual>
+	<choice><content-text>Transcrição de Texto e Mídia Visual</content-text></choice>
+</launch>

@@ -1,0 +1,26 @@
+﻿<textcomponents>
+
+<component id="ID_title1"><text><![CDATA[<b>Alteração de Formato</b>]]></text></component>
+
+<component id="ID_title2"><text><![CDATA[<b>Alteração de Formato</b>]]></text></component>
+
+<component id="ID_title3"><text><![CDATA[<b>Re-endereçamento</b>]]></text></component>
+
+<component id="ID_caption1"><text><![CDATA[<b>Fatores externos afetarão a comunicação.</b>]]></text></component>
+
+<component id="ID_caption2"><text><![CDATA[<b>Informações que têm de ser re-codificadas e decodificadas várias vezes podem não ser transmitidas com sucesso.</b>]]></text></component>
+
+<component id="ID_caption3"><text><![CDATA[<b>Mensagens que têm de ser re-endereçadas e redirecionadas várias vezes podem não ser entregues com sucesso.</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>INTRANSIT</b>]]></text></component> <component id="ID_txt02"><text><![CDATA[<b>INTRANSIT</b>]]></text></component> <component id="ID_txt03"><text><![CDATA[<b>Notícias do Mundo</b>]]></text></component> <component id="ID_txt04"><text><![CDATA[<b>Previsão do Tempo</b>]]></text></component> <component id="ID_txt05"><text><![CDATA[<b>Condições do Trânsito</b>]]></text></component> <component id="ID_txt01_2"><text><![CDATA[<b>PARA:</b>]]></text></component> <component id="ID_txt02_2"><text><![CDATA[<b>Postado<br>02 de janeiro<br>2007</b>]]></text></component> <component id="ID_txt03_2"><text><![CDATA[<b>Sistemas XYZ<br>High Street<br>Londres Reino Unido</b>]]></text></component> <component id="ID_txt04_2"><text><![CDATA[<b>Parque Industrial<br>Pittsburg EUA</b>]]></text></component> <component id="ID_txt05_2"><text><![CDATA[<b>Precinto de Tecnologia<br>Cingapura</b>]]></text></component> <component id="ID_txt06_2"><text><![CDATA[<b>Redirecionado<br/>Jan 01 07</b>]]></text></component> <component id="ID_txt07_2"><text><![CDATA[<b>Redirecionado<br/>Jan 12 07</b>]]></text></component> <component id="ID_txt08_2"><text><![CDATA[<b>Redirecionado<br/>Jan 20 07</b>]]></text></component>
+
+<component id="ID_txt01_2b"><text><![CDATA[<b>PARA:</b>]]></text></component> <component id="ID_txt02_2b"><text><![CDATA[<b>Postado<br>02 de janeiro<br>2007</b>]]></text></component> <component id="ID_txt03_2b"><text><![CDATA[<b>Sistemas XYZ<br>High Street<br>Londres Reino Unido</b>]]></text></component> <component id="ID_txt04_2b"><text><![CDATA[<b>Parque Industrial<br>Pittsburg EUA</b>]]></text></component> <component id="ID_txt05_2b"><text><![CDATA[<b>Precinto de Tecnologia<br>Cingapura</b>]]></text></component> <component id="ID_txt06_2b"><text><![CDATA[<b>Redirecionado<br/>Jan 01 07</b>]]></text></component> <component id="ID_txt07_2b"><text><![CDATA[<b>Redirecionado<br/>Jan 12 07</b>]]></text></component> <component id="ID_txt08_2b"><text><![CDATA[<b>Redirecionado<br/>Jan 20 07</b>]]></text></component>
+
+<component id="ID_txt01_2c"><text><![CDATA[<b>PARA:</b>]]></text></component> <component id="ID_txt02_2c"><text><![CDATA[<b>Postado<br>02 de janeiro<br>2007</b>]]></text></component> <component id="ID_txt03_2c"><text><![CDATA[<b>Sistemas XYZ<br>High Street<br>Londres Reino Unido</b>]]></text></component> <component id="ID_txt04_2c"><text><![CDATA[<b>Parque Industrial<br>Pittsburg EUA</b>]]></text></component> <component id="ID_txt05_2c"><text><![CDATA[<b>Precinto de Tecnologia<br>Cingapura</b>]]></text></component> <component id="ID_txt06_2"><text><![CDATA[<b>Redirecionado<br/>Jan 01 07</b>]]></text></component> <component id="ID_txt07_2c"><text><![CDATA[<b>Redirecionado<br/>Jan 12 07</b>]]></text></component> <component id="ID_txt08_2c"><text><![CDATA[<b>Redirecionado<br/>Jan 20 07</b>]]></text></component>
+
+<component id="ID_txt01_3"><text><![CDATA[Ela chegará em algumas horas.]]></text></component> <component id="ID_txt02_3"><text><![CDATA[Ela chegará em duas horas.]]></text></component> <component id="ID_txt03_3"><text><![CDATA[Ele chegará em duas horas.]]></text></component> <component id="ID_txt04_3"><text><![CDATA[Quem vem?<br>Quando?]]></text></component> <component id="ID_txt05_3"><text><![CDATA[<b>Telefone</b>]]></text></component> <component id="ID_txt06_3"><text><![CDATA[<b>Mensagem escrita</b>]]></text></component> <component id="ID_txt07_3"><text><![CDATA[<b>Mensagem lida em voz alta</b>]]></text></component> <component id="ID_sent01"><text><![CDATA[<b>ENVIADA</b>]]></text></component> <component id="ID_sent02"><text><![CDATA[<b>ENVIADA</b>]]></text></component> <component id="ID_sent03"><text><![CDATA[<b>ENVIADA</b>]]></text></component> <component id="ID_sent04"><text><![CDATA[<b>ENVIADA</b>]]></text></component> <component id="ID_sentFrom01"><text><![CDATA[<b>ENVIADA DE:</b>]]></text></component> <component id="ID_delivered01"><text><![CDATA[<b>ENTREGUE</b>]]></text></component> <component id="ID_delayed01"><text><![CDATA[<b>?COM ATRASO?</b>]]></text></component> <component id="ID_destination01"><text><![CDATA[<b>DESTINO:</b>]]></text></component>
+
+<component id="button1"><text><![CDATA[<B>Formato</B>]]></text></component> <component id="button2"><text><![CDATA[<B>Re-endereçamento</B>]]></text></component> <component id="ID_click"><text><![CDATA[<B>Clique para ver como um fator externo afeta a comunicação.</B>]]></text></component>
+
+
+</textcomponents>

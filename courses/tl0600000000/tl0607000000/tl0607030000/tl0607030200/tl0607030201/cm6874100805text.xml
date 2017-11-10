@@ -1,0 +1,41 @@
+﻿<textcomponents>
+<component id="webServerTitle"><text><![CDATA[FCS]]></text></component>
+
+<component id="Bodytxt01"><text><![CDATA[O campo <b>Início do Quadro</b> informa os outros dispositivos da rede que um quadro está sendo transportado no meio.]]></text></component>
+
+<component id="Bodytxt02"><text><![CDATA[O campo <b>Endereço</b> armazena os endereços de enlace de dados de origem e destino.]]></text></component>
+
+<component id="Bodytxt03"><text><![CDATA[O campo <b>Tipo/Comprimento</b> é um campo opcional utilizado por alguns protocolos para determinar o tipo de dados recebidos ou o comprimento do quadro.]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>Início do Quadro</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Endereço</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>Tipo/ Comprimento</b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<b>Dados</b>]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>FCS</b>]]></text></component> <component id="ID_txt06"><text><![CDATA[<b>STOP FRAME</b>]]></text></component>
+
+<component id="ID_txt07"><text><![CDATA[<b>Cabeçalho</b>]]></text></component>
+
+<component id="ID_title"><text><![CDATA[<b>Função do cabeçalho</b>]]></text></component>
+
+<component id="ID_inst"><text><![CDATA[<b>Passe o mouse para aprender mais.</b>]]></text></component>
+
+<component id="ID_title0"><text><![CDATA[Início do Quadro]]></text></component>
+
+<component id="ID_box0"><text><![CDATA[O campo<b>Início do Quadro</b> informa os outros dispositivos da rede que um quadro está sendo transportado no meio.]]></text></component>
+
+<component id="ID_title1"><text><![CDATA[Endereço]]></text></component>
+
+<component id="ID_box1"><text><![CDATA[O campo <b>Endereço</b> armazena os endereços de enlace de dados de origem e destino.]]></text></component>
+
+<component id="ID_title2"><text><![CDATA[Tipo/ Comprimento]]></text></component>
+
+<component id="ID_box2"><text><![CDATA[O campo <b>Tipo/Comprimento</b> é um campo opcional utilizado por alguns protocolos para determinar o tipo de dados recebidos ou o comprimento do quadro.]]></text></component>
+
+
+
+
+</textcomponents>

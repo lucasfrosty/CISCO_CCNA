@@ -1,0 +1,16 @@
+﻿<textcomponents>
+
+<component id="ID_txt01"><text><![CDATA[<b>Interferência Externa em Meios de Cobre</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Fontes de interferência aos sinais de dados em meios de cobre</b>]]></text></component>
+  
+<component id="ID_txt03"><text><![CDATA[<b>Luz fluorescente</b>]]></text></component>
+  
+<component id="ID_txt04"><text><![CDATA[<b>Motores elétricos</b>]]></text></component>
+    
+  <component id="ID_txt05"><text><![CDATA[<b>Ondas de rádio</b>]]></text></component>
+  
+
+
+
+</textcomponents>

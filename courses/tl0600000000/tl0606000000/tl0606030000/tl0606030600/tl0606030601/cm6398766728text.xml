@@ -1,0 +1,38 @@
+﻿<textcomponents>
+<component id="HEADER"><text><![CDATA[Cabeçalho]]></text></component> <component id="ADDRESSES"><text><![CDATA[Endereços]]></text></component>		
+	
+<component id="ID_title"><text><![CDATA[<b>Cabeçalho IPv6</b>]]></text></component>
+	
+<component id="ID_txt01"><text><![CDATA[<b>Endreço de Origem</b>]]></text></component>
+	
+<component id="ID_txt02"><text><![CDATA[<b>Endereço de Destino</b>]]></text></component>
+	
+<component id="ID_txt03"><text><![CDATA[<b>Versão 6</b>]]></text></component>
+	
+<component id="ID_txt04"><text><![CDATA[<b>Classe de Tráfego de 8 bits</b>]]></text></component>
+	
+<component id="ID_txt05"><text><![CDATA[<b>Rótulo de Fluxo de 20 bits</b>]]></text></component>
+	
+<component id="ID_txt06"><text><![CDATA[<b>2001:0db8:0000:0000:0000:0000:1428:57ab</b>]]></text></component>
+	
+<component id="ID_txt07"><text><![CDATA[<b>Comprimento de Payload de 16 bits</b>]]></text></component>
+		
+<component id="ID_txt08"><text><![CDATA[<b>Próximo Hdr de 8 bits</b>]]></text></component>
+		
+<component id="ID_txt09"><text><![CDATA[<b>3ffe:6a88:85a3:08d3:1319:8a2e:0370:7344</b>]]></text></component>
+
+<component id="ID_txt10"><text><![CDATA[<b>Limite de Salto de 8 bits</b>]]></text></component> 
+
+<component id="ID_txt13"><text><![CDATA[<b>A estrutura simplificada do cabeçalho permite processamento mais rápido</b>]]></text></component>
+	
+<component id="ID_txt15"><text><![CDATA[<b>Os endereços têm 128 bits</b>]]></text></component>
+	
+<component id="ID_inst"><text><![CDATA[<b>Passe o mouse para aprender mais.</b>]]></text></component>
+	
+<component id="ID_txt16"><text><![CDATA[<b>A estratégia de cabeçalho opcional permite a personalização e desenvolvimento futuro</b>]]></text></component>
+	
+<component id="ID_txt17"><text><![CDATA[<b>Os endereços são expressos como 8 valores hexadecimais, separados por dois pontos</b>]]></text></component>
+	
+<component id="ID_txt18"><text><![CDATA[<b>Cada campo possui 16 bits.<br/>8 X 16 = 128</b>]]></text></component>
+
+</textcomponents>

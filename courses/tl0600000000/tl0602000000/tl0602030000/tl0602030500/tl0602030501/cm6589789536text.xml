@@ -1,0 +1,11 @@
+﻿<textcomponents>
+
+<component id="ID_txt06"><text><![CDATA[<b>Para: 38.3.202.102</b>]]></text></component>
+
+<component id="ID_txt09"><text><![CDATA[<b>Muitos tipos diferentes de dispositivos podem se comunicar utilizando os mesmos conjuntos de protocolos. Isso acontece porque os protocolos especificam a funcionalidade da rede e não a tecnologia subjacente para suportar esta funcionalidade.</b>]]></text></component>
+
+
+<component id="ID_network"><text><![CDATA[<b>Rede</b>]]></text></component>
+
+
+</textcomponents>

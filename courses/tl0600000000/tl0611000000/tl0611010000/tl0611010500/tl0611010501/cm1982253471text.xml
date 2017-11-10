@@ -1,0 +1,12 @@
+﻿<textcomponents>
+<component id="ID_title"><text><![CDATA[<b>Ajuda Relacionada ao Contexto</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[ ]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[ ]]></text> </component>
+
+<component id="ID_txt03"><text><![CDATA[<b><font color="#006600">Explicações de Comandos</font><br/><font color="#FF6600">Mensagens de comandos incompletos</font><br/><font color="#990000">Mensagens de entrada inválidas</font><br/>Formatos variáveis</b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<b>Exemplo de uma sequência de comando usando a ajuda relacionada ao contexto CLI</b>]]></text></component>
+
+</textcomponents>

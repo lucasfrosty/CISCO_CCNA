@@ -1,0 +1,15 @@
+﻿<textcomponents>
+
+<component id="ID_Title"><text><![CDATA[<b>Calculando Endereços para Requisitos de Hosts</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>Rede A: <br>14 hosts</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Rede B: <br>28 hosts</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>Rede C: <br>2 hosts</b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<b>Rede D: <br>7 hosts</b>]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>Rede E: <br>28 hosts</b>]]></text></component>
+
+</textcomponents>

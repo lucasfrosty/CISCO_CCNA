@@ -1,0 +1,11 @@
+﻿<textcomponents>
+<component id="ID_txt01"><text><![CDATA[<b>Comunicação das Mensagens</b>]]></text></component> 
+<component id="ID_txt02"><text><![CDATA[<b>1</b>]]></text></component> 
+<component id="ID_txt03"><text><![CDATA[<b>2</b>]]></text></component> 
+<component id="ID_txt04"><text><![CDATA[<b>3</b>]]></text></component> 
+<component id="ID_txt05"><text><![CDATA[<b>Diversas partes são rotuladas para facilitar no direcionamento e na remontagem.</b>]]></text></component> 
+<component id="ID_txt06"><text><![CDATA[<b>O rotulamento fornece a organização e montagem das partes quando elas chegam.</b>]]></text></component> 
+<component id="ID_txt07"><text><![CDATA[<b>1</b>]]></text></component> 
+<component id="ID_txt08"><text><![CDATA[<b>2</b>]]></text></component> 
+<component id="ID_txt09"><text><![CDATA[<b>3</b>]]></text></component>
+</textcomponents>

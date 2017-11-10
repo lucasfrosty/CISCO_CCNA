@@ -1,0 +1,75 @@
+﻿<textcomponents>
+<component id="ID_title"><text><![CDATA[<b>Controle de Acesso ao Meio para Meios Compartilhados</b>]]></text></component> <component id="ID_title1"><text><![CDATA[<b>Acesso Controlado</b>]]></text></component> <component id="ID_title2"><text><![CDATA[<b>Acesso com Base em Contenção (Disputa)</b>]]></text></component>
+	
+	
+<component id="ID_txt01"><text><![CDATA[<b>Meios Compartilhados</b>]]></text></component>
+	
+	
+<component id="ID_txt02"><text><![CDATA[<b>QUADRO</b>]]></text></component>
+	
+<component id="ID_inst"><text><![CDATA[<b>Clique para ver um método de controle de acesso.</b>]]></text></component>
+	
+<component id="ID_txt03"><text><![CDATA[<b>QUADRO</b>]]></text></component>
+	
+<component id="ID_txt04"><text><![CDATA[<b>Meios Compartilhados</b>]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>Método</b>]]></text></component>
+
+<component id="ID_txt06"><text><![CDATA[<b>Características</b>]]></text></component>
+
+<component id="ID_txt07"><text><![CDATA[<b>Exemplo</b>]]></text></component>
+
+<component id="ID_txt08"><text><![CDATA[<b>Acesso Controlado</b>]]></text></component>
+
+<component id="ID_txt09"><text><![CDATA[<b><li>Apenas uma estação transmite por vez<br><li>Dispositivos que desejam transmitir devem esperar a sua vez<br><li>Nenhuma colisão<br><li>Algumas redes determinísticas utilizam passagem de token</b>]]></text></component>
+
+<component id="ID_txt10"><text><![CDATA[<b><li>Token Ring<br><li>FDDI</b>]]></text></component>
+		
+<component id="ID_txt11"><text><![CDATA[<b>Meios Compartilhados</b>]]></text></component>
+
+<component id="ID_txt12"><text><![CDATA[<b>Método</b>]]></text></component>
+
+<component id="ID_txt13"><text><![CDATA[<b>Acesso com Base em Contenção (Disputa)</b>]]></text></component>
+
+<component id="ID_txt14"><text><![CDATA[<b><ul><li>Estações podem transmitir a qualquer momento</li><li>Há colisões</li><li>Há mecanismos para resolver a contenção ou disputa:</li></ul>         &#8226; CSMA/CD para redes Ethernet<br>         &#8226; CSMA/CA para redes sem fio 802.11</b>]]></text></component>
+
+<component id="ID_txt15"><text><![CDATA[<b><li>Ethernet<br><li>Sem Fio</b>]]></text></component>
+
+<component id="ID_txt16"><text><![CDATA[<b>Características</b>]]></text></component>
+
+<component id="ID_txt17"><text><![CDATA[<b>Exemplo</b>]]></text></component>
+
+<component id="ID_txt18"><text><![CDATA[<b>QUADRO</b>]]></text></component>
+
+<component id="ID_txt19"><text><![CDATA[<b>QUADRO</b>]]></text></component>
+
+<component id="ID_txt20"><text><![CDATA[<b>QUADRO</b>]]></text></component>
+
+<component id="ID_txt21"><text><![CDATA[<b>QUADRO</b>]]></text></component>
+
+<component id="bubble_01"><text><![CDATA[<b>Precisamos de regras sobre como compartilhar os meios.</b>]]></text></component>
+
+<component id="bubble_02"><text><![CDATA[<b>Precisamos de regras sobre como compartilhar os meios.</b>]]></text></component>
+
+<component id="bubble_03"><text><![CDATA[<b>Precisamos de regras sobre como compartilhar os meios.</b>]]></text></component>
+
+<component id="bubble_04"><text><![CDATA[<b>Tento enviar quando estou pronto.</b>]]></text></component>
+
+<component id="bubble_05"><text><![CDATA[<b>Tento enviar quando estou pronto.</b>]]></text></component>
+
+<component id="bubble_06"><text><![CDATA[<b>Tento enviar quando estou pronto.</b>]]></text></component>
+
+<component id="bubble_07"><text><![CDATA[<b>Tenho um pacote para enviar, mas não é a minha vez. Esperarei.</b>]]></text></component>
+
+<component id="bubble_08"><text><![CDATA[<b>Não tenho nada para enviar.</b>]]></text></component>
+
+<component id="bubble_09"><text><![CDATA[<b>É minha vez de enviar. Enviarei agora.</b>]]></text></component>
+
+<component id="CONTROLLED"><text><![CDATA[CONTROLADO]]></text></component>
+
+<component id="CONTENTION-BASED"><text><![CDATA[COM BASE EM CONTENÇÃO (DISPUTA)]]></text></component>
+
+<component id="reset"><text><![CDATA[REINICIAR]]></text></component>
+
+
+</textcomponents>

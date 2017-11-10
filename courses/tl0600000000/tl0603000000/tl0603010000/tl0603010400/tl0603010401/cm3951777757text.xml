@@ -1,0 +1,42 @@
+﻿<textcomponents>
+<component id="transcript"><text><![CDATA[Transcrição]]></text></component> <component id="ID_txt01"><text><![CDATA[<b>7 Aplicação]]></text></component>
+
+<component id="ID_txt01a"><text><![CDATA[<b>7 Aplicação]]></text></component>
+
+
+<component id="ID_txt02"><text><![CDATA[<b>6 Apresentação]]></text></component>
+
+<component id="ID_txt02a"><text><![CDATA[<b>6 Apresentação]]></text></component> 
+<component id="ID_txt03"><text><![CDATA[<b>5 Sessão]]></text></component>
+
+<component id="ID_txt03a"><text><![CDATA[<b>5 Sessão]]></text></component> 
+<component id="ID_txt04"><text><![CDATA[<b>4 Transporte]]></text></component>
+
+<component id="ID_txt04a"><text><![CDATA[<b>4 Transporte]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>3 Rede]]></text></component>
+
+<component id="ID_txt05a"><text><![CDATA[<b>3 Rede]]></text></component> 
+<component id="ID_txt06"><text><![CDATA[<b>2 Enlace de Dados]]></text></component>
+
+<component id="ID_txt06a"><text><![CDATA[<b>2 Enlace de Dados]]></text></component> 
+<component id="ID_txt07"><text><![CDATA[<b>1 Física]]></text></component>
+
+<component id="ID_txt07a"><text><![CDATA[<b>1 Física]]></text>
+
+</component>
+
+<component id="ID_txt09"><text><![CDATA[<b>7 Aplicação]]></text></component> 
+<component id="ID_txt12"><text><![CDATA[<b><font color="#3333CC">PROTOCOLOS</font></b>]]></text>
+
+
+</component> <component id="ID_txt10"><text><![CDATA[<b>Os protocolos da camada de Aplicações fornecem as regras para a comunicação entre os Aplicações.]]></text></component>
+
+
+<component id="ID_header1"><text><![CDATA[<b>Protocolos:</b>]]></text></component>
+
+<component id="ID_table_01"><text><![CDATA[Definem processos na outra extremidade da comunicação<br/>Definem os tipos de mensagens<br/>Definem a sintaxe das mensagens<br/>Definem o significado de todos os campos informacionais<br/>Definem como as mensagens são enviadas e a resposta esperada<br/>Definem a interação com a próxima camada mais baixa]]></text></component>
+
+
+
+</textcomponents>

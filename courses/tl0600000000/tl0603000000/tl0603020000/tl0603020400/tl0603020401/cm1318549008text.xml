@@ -1,0 +1,23 @@
+﻿<textcomponents>
+<component id="ID_title"><text><![CDATA[<b>Rede Ponto-a-Ponto </b>]]></text></component>
+
+<component id="ID_txt01a"><text><![CDATA[<b>Sim. Enviar a página para impressão e eu imprimirei. Enquanto isso, eu acessarei um arquivo a partir do seu drive.</b>]]></text></component>
+
+<component id="ID_txt01b"><text><![CDATA[<b>Eu compartilharei um arquivo que tenho armazenado na minha unidade de disco rígido. Você pode imprimir as instruções?</b>]]></text></component>
+
+<component id="ID_txt02a"><text><![CDATA[<b>Ponto</b>]]></text></component>
+
+<component id="ID_txt02b"><text><![CDATA[<b>Servidor de Impressão<br>Cliente de Arquivo</br></b>]]></text></component>
+
+<component id="ID_txt03a"><text><![CDATA[<b>Ponto</b>]]></text></component>
+
+<component id="ID_txt03b"><text><![CDATA[<b>Cliente de impressão<br>Servidor de arquivo</br></b>]]></text></component>
+
+
+<component id="ID_txt04"><text><![CDATA[<b>Em uma troca ponto-a-ponto, ambos os dispositivos são considerados iguais no processo de comunicação.</b>]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>Impressora</b>]]></text></component>
+
+<component id="ID_txt06"><text><![CDATA[<b>Impressora conectada diretamente</b>]]></text></component>
+
+</textcomponents>

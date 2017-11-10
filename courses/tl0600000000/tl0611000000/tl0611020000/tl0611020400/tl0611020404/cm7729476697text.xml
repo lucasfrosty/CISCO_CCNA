@@ -1,0 +1,16 @@
+﻿<textcomponents>
+
+<component id="btn1"><text><![CDATA[<b>Switch 1</b>]]></text></component> <component id="btn2"><text><![CDATA[<b>Switch 2</b>]]></text></component>
+
+<component id="ID_title"><text><![CDATA[<b>Configuração do switch </b>]]></text></component>
+
+<component id="ID_caption"><text><![CDATA[<b>Clique para ver a saída de diferentes dispositivos.</b>]]></text></component>
+
+
+<component id="output_text_01"><text><![CDATA[<b>Configuração da interface.</b>]]></text></component>
+
+<component id="output_text_02"><text><![CDATA[<b>Observe as mudanças imediatas que indicam o modo IOS atual.</b>]]></text></component>
+
+
+
+</textcomponents>

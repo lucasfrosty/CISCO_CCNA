@@ -1,0 +1,20 @@
+﻿<textcomponents>
+
+<component id="ID_txt01"><text><![CDATA[<b>Cabo de Par Trançado (UTP) Não Blindado</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Invólucro Externo</b>]]></text></component>
+  
+<component id="ID_txt03"><text><![CDATA[<b>Par Trançado</b>]]></text></component>
+  
+<component id="ID_txt04"><text><![CDATA[<b>Código de Cores<br>Plástico</br><br>Isolamento</br></b>]]></text></component>
+    
+<component id="ID_txt05"><text><![CDATA[<b>Protege o fio de cobre contra danos físicos</b>]]></text></component>
+    
+<component id="ID_txt06"><text><![CDATA[<b>Protege o sinal contra interferência</b>]]></text></component>
+    
+<component id="ID_txt07"><text><![CDATA[<b>Isola eletricamente os fios uns dos outros e identifica cada par</b>]]></text></component>
+  
+
+
+
+</textcomponents>

@@ -1,0 +1,77 @@
+﻿<textcomponents>
+
+	<component id="ID_title"><text><![CDATA[<b>CCNA Exploration 1</b><br/>Mensagem aos Estudantes]]></text></component>
+
+<component id="ID_tourTitle"><text><![CDATA[<b>Visão Geral da Interface do Usuário do CCNA Discovery e do CCNA Exploration</b>]]></text></component>
+
+<component id="ID_txtIntro1"><text><![CDATA[<b>A Fimidade deste tour é:</b>]]></text></component>
+
+<component id="ID_txtIntro2"><text><![CDATA[<ul><li>Oferecer uma visão geral da nova Interface Gráfica do Usuário</li><li>Destacar algumas funções novas</li></ul>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[    ]]></text></component>
+   
+<component id="ID_txt02"><text><![CDATA[    ]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[    ]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[    ]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[O curso e o currículo são nomeados na área superior direita.]]></text></component>
+
+<component id="ID_txt06"><text><![CDATA[A área superior esquerda indica a sua localização no curso.]]></text></component>
+
+<component id="ID_txt07a"><text><![CDATA[Capítulo]]></text></component> <component id="ID_txt07b"><text><![CDATA[Seção]]></text></component> <component id="ID_txt07c"><text><![CDATA[Tópico]]></text></component> <component id="ID_txt07d"><text><![CDATA[Páginas dentro de um tópico têm números, mas não nomes. O círculo verde indica a página atual.]]></text></component>
+
+<component id="ID_txt08"><text><![CDATA[A área inferior direita suporta navegação.]]></text></component>
+
+<component id="ID_txt09"><text><![CDATA[A caixa de localização detalhada combina todas as informações de localização fornecidas no topo da tela usando uma notação capítulo.seção.tópico.página.<br/><br/>Você pode digitar uma localização para a qual você deseja ir na caixa de localização.]]></text></component>
+
+<component id="ID_txt10"><text><![CDATA[Depois, clique no ícone 'ir para' para ir para a página especificada.]]></text></component>
+
+<component id="ID_txt11"><text><![CDATA[A barra Status/Navegação da Seção exibe segmentos para representar cada seção do capítulo. Sua localização atual dentro do capítulo é realçada em verde. Posicionar o cursor sobre uma seção exibe o título dessa seção.<br/><br/>Você pode clicar em qualquer seção desse capítulo para acessar rapidamente essa seção.]]></text></component>
+
+<component id="ID_txt12"><text><![CDATA[Seções de introdução e resumo são indicadas em amarelo. A seção em azul escuro ao Fim indica um teste.]]></text></component>
+
+<component id="ID_txt13"><text><![CDATA[Os botões Próxima e Anterior o levam até a próxima página ou à página anterior.]]></text></component>
+
+<component id="ID_txt14"><text><![CDATA[A parte inferior esquerda da interface contém funções de índice, pesquisa, glossário e ferramentas.]]></text></component>
+
+<component id="ID_txt15"><text><![CDATA[O botão de tradução permite a alternância imediata de um texto para outro idioma, caso disponível. Nenhum segundo idioma está disponível antes da versão em inglês.]]></text></component>
+
+<component id="ID_txt16"><text><![CDATA[Se houver texto em uma página, ele será exibido do lado esquerdo.]]></text></component>
+
+<component id="ID_txt17"><text><![CDATA[A barra de rolagem aparecerá se houver texto que não pode ser visto.]]></text></component>
+
+<component id="ID_txt18"><text><![CDATA[Gráficos hotspot fornecem informações adicionais quando você passa o mouse sobre uma área em particular no gráfico.]]></text></component>
+
+<component id="ID_txt19"><text><![CDATA[A ferramenta Dica fornece uma janela de pop-up contendo dicas úteis.]]></text></component>
+
+<component id="ID_txt20"><text><![CDATA[O ícone Mais Informações abre uma janela de pop-up que fornece mais informações sobre o assunto sendo tratado.]]></text></component>
+
+<component id="ID_txt21"><text><![CDATA[O botão Índice do Curso abre uma janela de índice que pode ser usada para navegar para qualquer seção do curso.]]></text></component>
+
+<component id="ID_txt22"><text><![CDATA[As guias à direita no topo da tela permitem navegação através do esquema de tópicos do curso completo, ou podem limitar as páginas do curso para apenas aquelas contendo atividades ou laboratórios.]]></text></component>
+
+<component id="ID_txt23"><text><![CDATA[O botão Glossário abre uma janela de glossário que fornece definições para termos usados no curso.]]></text></component>
+
+<component id="ID_txt24"><text><![CDATA[O glossário é ordenado alfabeticamente e contém links para cada letra na parte superior da janela.]]></text></component>
+
+<component id="ID_txt25"><text><![CDATA[O termo do glossário aparece à esquerda e a definição aparece à direita.]]></text></component>
+
+<component id="ID_txt26"><text><![CDATA[O botão Pesquisar abre uma janela de pesquisa.]]></text></component>
+
+<component id="ID_txt27"><text><![CDATA[Para fazer uma pesquisa, digite uma palavra dentro do campo de busca no alto da tela e clique no botão "Busca".]]></text></component>
+
+<component id="ID_txt28"><text><![CDATA[O botão Ferramentas Globais abre uma janela contendo links a ferramentas comuns para o curso.]]></text></component>
+
+
+<component id="ID_interface2_txt1"><text><![CDATA[3 Conectando à Rede]]></text></component> <component id="ID_interface2_txt2"><text><![CDATA[3.1 Redes e Seus Benefícios]]></text></component> <component id="ID_interface2_txt3"><text><![CDATA[3.1.1 O que é uma Rede?]]></text></component> <component id="ID_interface2_txt4"><text><![CDATA[Español]]></text></component> <component id="ID_interface2_txt5"><text><![CDATA[CCNA Discovery<br>Rede Doméstica e Para Pequena Empresa v4.0]]></text></component>
+
+
+<component id="ID_interfaceTXT_txt1"><text><![CDATA[3 Conectando à Rede]]></text></component> <component id="ID_interfaceTXT_txt2"><text><![CDATA[3.1 Redes e Seus Benefícios]]></text></component> <component id="ID_interfaceTXT_txt3"><text><![CDATA[3.1.1 O que é uma Rede?]]></text></component> <component id="ID_interfaceTXT_txt5"><text><![CDATA[CCNA Discovery<br>Rede Doméstica e Para Pequena Empresa v4.0]]></text></component> <component id="ID_interfaceTXT_txt6"><text><![CDATA[<b>Determinação de Caminho e Detalhes da Função de Comutação</b><br/><br/>Você consegue descrever os detalhes exatos do que acontece a um pacote na Camada 2 e na Camada 3 quando ele viaja da origem para o destino? Se não, estude a animação e continue com a discussão até que você consiga descrever o processo por si mesmo(a). <br/><br/><b>Clique em Play para visualizar a animação.</b><br/><br/><b>Passo 1: o PC1 tem um pacote a ser enviado ao PC2</b><br/><br/>O PC1 encapsula o pacote IP dentro de um quadro Ethernet com o endereço MAC de destino da interface Fastethernet 0/0 de R1.<br/><br/>Como o PC1 sabe encaminhar o pacote para R1 e não diretamente ao PC2? O PC1 determinou que os endereços IP de origem e de destino estão em redes diferentes. <br/><br/>O PC1 conhece a rede à qual ele pertence fazendo uma operação <b>AND </b>no seu próprio endereço IP e máscara de sub-rede, o que resulta em seu endereço de rede. O PC1 faz a mesma operação <b>AND </b>usando o endereço IP de destino do pacote e a máscara de sub-rede do PC1. Se o resultado é o mesmo da sua própria rede, o PC1 sabe que o endereço IP de destino está na sua própria rede e que ele não precisa encaminhar o pacote ao gateway padrão, o roteador. Se a operação <b>AND </b>resultar em um endereço de rede diferente, o PC1 sabe que o endereço IP de destino não está na sua própria rede e que ele deve encaminhar este pacote ao gateway padrão, o roteador.<br/><br/><b>Nota:</b> Se uma operação <b>AND </b>com o endereço IP de destino do pacote e a máscara de sub-rede do PC1 resultar em um endereço de rede diferente do qual o PC1 determinou para ser seu próprio endereço de rede, este endereço não reflete necessariamente o endereço real da rede remota. O PC1 apenas sabe que se o endereço IP de destino está na sua própria rede, as máscaras serão as mesmas e os endereços de rede seriam os mesmos. A máscara da rede remota pode ser uma máscara diferente. Se o endereço IP de destino resulta em um endereço de rede diferente, o PC1 não saberá o endereço de rede remota atual - ele apenas sabe que ele não está na sua própria rede.<br/><br/>Como o PC1 determina o endereço MAC do gateway padrão, o roteador R1? O PC1 verifica a sua tabela ARP para o endereço IP do gateway padrão e seu endereço MAC associado.<br/><br/>O que acontece se esta entrada não existir na tabela ARP? O PC1 envia uma solicitação ARP e o roteador R1 envia de volta uma resposta ARP.<br/><br/><b>Passo 2: O Roteador R1 recebe o quadro Ethernet</b><br/><br/>1. O Roteador R1 examina o endereço MAC de destino, que corresponde ao endereço MAC da interface de recepção, FastEthernet 0/0. O R1 portanto copiará o quadro dentro do seu buffer.<br/><br/>2. O R1 vê que o campo Tipo é 0x800, o que significa que o quadro Ethernet contém um pacote IP na porção de dados do quadro. <br/><br/>3. O R1 desencapsula o quadro Ethernet.<br/><br/>4. Como o endereço IP de destino do pacote não combina com nenhuma rede diretamente conectada ao R1, o roteador consulta sua tabela de roteamento para rotear este pacote. O R1 procura na tabela de roteamento por um endereço de rede e máscara de sub-rede que incluiriam o endereço IP de destino deste pacote como um endereço de host nessa rede. Neste exemplo, a tabela de roteamento tem uma rota para a rede 192.168.4.0/24.  O endereço IP de destino do pacote é 192.168.4.10, que é um endereço IP de host dessa rede.<br/><br/>A rota de R1 para a rede 192.168.4.0/24 possui o endereço IP 192.168.2.2 de próximo salto e a interface de saída FastEthernet 0/1. Isto signiifca que o pacote IP será encapsulado em um novo quadro Ethernet com o endereço MAC de destino do endereço IP do roteador de próximo salto. Como a interface de saída está em uma rede Ethernet, o R1 deve resolver o endereço IP de próximo salto com um endereço MAC de destino.<br/><br/>5. O R1 consulta o endereço IP 192.168.2.2 de próximo salto nao sua cache ARP para sua interface FastEthernet 0/1. Se a entrada não está na cache ARP, o R1 envia uma solicitação ARP pela sua interface FastEthernet 0/1. O R2 envia de volta uma resposta ARP. O R1 depois atualiza a sua cache ARP com uma entrada para 192.168.2.2 e o endereço MAC associado.<br/><br/>6. O pacote IP é agora encapsulado dentro de um novo quadro Ethernet e encaminhado pela interface FastEthernet 0/1 de R1.]]></text></component>
+
+	<component id="play"><text><![CDATA[Play]]></text></component> <component id="pause"><text><![CDATA[Pausar]]></text></component> <component id="rewind"><text><![CDATA[Voltar]]></text></component> <component id="forward"><text><![CDATA[Avançar]]></text></component> <component id="mute"><text><![CDATA[Mudo]]></text></component> <component id="unmute"><text><![CDATA[Com Som]]></text></component> <component id="previous"><text><![CDATA[Reiniciar]]></text></component> <component id="next"><text><![CDATA[Fim]]></text></component> <component id="transcript"><text><![CDATA[Transcrição]]></text></component>
+	
+</textcomponents>
+
+

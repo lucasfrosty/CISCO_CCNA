@@ -1,0 +1,17 @@
+﻿<textcomponents>
+<component id="ID_caption01"><text><![CDATA[<b>O processo do Agente de Transferência de Correio administra a manipulação de e-mail entre servidores e servidores.</b>]]></text></component> 
+<component id="ID_txt14"><text><![CDATA[<b>Servidor de E-mail - MTA</b>]]></text></component> 
+<component id="bbl1"><text><![CDATA[<b>O destinatário está na minha lista de destinatários?<br>Não.  Encaminhe  e-mail a outro servidor.</b>]]></text></component> 
+<component id="ID_txt02"><text><![CDATA[<b>Servidor<br>SMTP/POP3</b>]]></text></component> 
+<component id="ID_txt03"><text><![CDATA[<b>Agente de Transferência de Correio<br>(MTA)</b>]]></text></component> 
+<component id="ID_txt04"><text><![CDATA[<b>Agente de Transferência de Correio<br>(MTA)</b>]]></text></component> 
+<component id="ID_txt05"><text><![CDATA[<b>Servidor<br>SMTP/POP3</b>]]></text></component> 
+<component id="ID_txt06"><text><![CDATA[<b>Destinatário</b>]]></text></component> 
+<component id="ID_txt07"><text><![CDATA[<b>Cliente</b>]]></text></component> 
+<component id="ID_txt08"><text><![CDATA[<b>Agente do Usuário de Correio<br>(MUA)</b>]]></text></component> 
+<component id="ID_txt09"><text><![CDATA[<b>Remetente</b>]]></text></component> 
+<component id="ID_txt10"><text><![CDATA[<b>Cliente</b>]]></text></component> 
+<component id="ID_txt11"><text><![CDATA[<b>Agente do Usuário de Correio<br>(MUA)</b>]]></text></component> 
+<component id="ID_txt12"><text><![CDATA[<b>Enviar E-mail</b>]]></text></component> 
+<component id="ID_txt13"><text><![CDATA[<b>destinatário@domínio.com</b>]]></text></component>
+</textcomponents>

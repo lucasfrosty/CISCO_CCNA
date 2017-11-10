@@ -1,0 +1,6 @@
+﻿<textcomponents>
+<component id="ID_txt01"><text><![CDATA[<b>Comparando os modelos OSI e TCP/IP</b>]]></text></component> <component id="ID_txt02"><text><![CDATA[<b>Modelo OSI</b>]]></text></component> <component id="ID_txt03"><text><![CDATA[<b>Modelo TCP/IP</b>]]></text></component> <component id="ID_txt04"><text><![CDATA[<b>7. Aplicação</b>]]></text></component> <component id="ID_txt05"><text><![CDATA[<b>6. Apresentação</b>]]></text></component> <component id="ID_txt06"><text><![CDATA[<b>5. Sessão</b>]]></text></component> <component id="ID_txt07"><text><![CDATA[<b>4. Transporte</b>]]></text></component> <component id="ID_txt08"><text><![CDATA[<b>3. Rede</b>]]></text></component> <component id="ID_txt09"><text><![CDATA[<b>2. Enlace de Dados</b>]]></text></component> <component id="ID_txt10"><text><![CDATA[<b>1. Física</b>]]></text></component> <component id="ID_txt11"><text><![CDATA[<b>Aplicação</b>]]></text></component> <component id="ID_txt12"><text><![CDATA[<b>Transporte</b>]]></text></component> <component id="ID_txt13"><text><![CDATA[<b>Internet</b>]]></text></component> <component id="ID_txt14"><text><![CDATA[<b>Acesso à<br/>Rede</b>]]></text></component> <component id="ID_txt15"><text><![CDATA[<b>Os paralelos principais estão nas camadas de Transporte e de Rede.</b>]]></text></component>
+
+
+
+</textcomponents>

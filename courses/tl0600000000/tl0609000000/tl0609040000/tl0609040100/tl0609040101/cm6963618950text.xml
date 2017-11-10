@@ -1,0 +1,16 @@
+﻿<textcomponents>
+
+<component id="ID_txt01"><text><![CDATA[<b>Carrier Sense Multiple Access with Collision Detection (CSMA/CD)</b>]]></text></component>
+  
+  <component id="ID_txt02"><text><![CDATA[<b>O CSMA/CD controla o acesso ao meio compartilhado. Em caso de colisão, o problema é detectado e os quadros são retransmitidos.</b>]]></text></component>
+  
+<component id="ID_txt03"><text><![CDATA[<b>A</b>]]></text></component>
+  
+<component id="ID_txt04"><text><![CDATA[<b>B</b>]]></text></component>
+  
+<component id="ID_txt05"><text><![CDATA[<b>C</b>]]></text></component>
+  
+<component id="ID_txt06"><text><![CDATA[<b>D</b>]]></text></component>
+  
+<component id="ID_title"><text><![CDATA[<b>Controle de acesso ao meio em Ethernet</b>]]></text></component>
+</textcomponents>

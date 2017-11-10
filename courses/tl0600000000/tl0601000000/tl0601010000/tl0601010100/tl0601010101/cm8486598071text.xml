@@ -1,0 +1,6 @@
+﻿<textcomponents>
+<component id="tipTitle"><text>Informações adicionais</text></component> <component id="tipBody"><text><![CDATA[<b>Organizações da Internet</b><br>A Internet Society (ISOC) oferece liderança na solução de questões que confrontam o futuro da Internet, e mantém parceria com os grupos responsáveis pelos padrões de infra-estrutura da Internet, incluindo Internet Engineering Task Force (IETF) e Internet Architecture Board (IAB).<br>Algumas das principais organizações que colaboram na administração e desenvolvimento da Internet são:
+<br><b>ISOC</b>: Internet Society: http://www.isoc.org/isoc/ <br><b>IAB</b>: Internet Architecture Board: http://www.iab.org/<br><b>IETF</b>: Internet Engineering Task Force: http://www.ietf.org/<br><b>IRTF</b>: Internet Research Task Force: http://www.irtf.org/<br><b>IANA</b>: Internet Assigned Numbers Authority: http://www.iana.org/<br><br><b>Nota: Infoplease </b>é uma excelente fonte de informações de recursos e estatísticas na Internet: http://www.infoplease.com/ipa/A0873826.html]]></text></component> <component id="TipText"><text><![CDATA[Informações adicionais]]></text></component>
+   
+
+</textcomponents>

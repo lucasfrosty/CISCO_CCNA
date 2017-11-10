@@ -1,0 +1,12 @@
+﻿<textcomponents>
+<component id="ID_txt01"><text><![CDATA[<b>TCP/IP</b>]]></text></component> <component id="ID_txt02"><text><![CDATA[<b>Usuários trocando dados</b>]]></text></component> <component id="ID_txt03"><text><![CDATA[<b>CAMADAS SUPERIORES</b>]]></text></component> <component id="ID_txt04"><text><![CDATA[<b>Sessão TCP (processo) em progresso</b>]]></text></component> <component id="ID_txt05"><text><![CDATA[<b>CAMADA DE TRANSPORTE</b>]]></text></component> <component id="ID_txt06"><text><![CDATA[<b>Segmento TCP</b>]]></text></component> <component id="ID_txt07"><text><![CDATA[<b>Segmento TCP</b>]]></text></component> <component id="ID_txt08"><text><![CDATA[<b>Cabeçalho IP</b>]]></text></component> <component id="ID_txt09"><text><![CDATA[<b>Segmento</b>]]></text></component> <component id="ID_txt10"><text><![CDATA[<b>Cabeçalho IP</b>]]></text></component> <component id="ID_txt11"><text><![CDATA[<b>Segmento</b>]]></text></component> <component id="ID_txt12"><text><![CDATA[<b>Segmentos TCP encapsulados dentro de pacotes IP</b>]]></text></component> <component id="ID_txt13"><text><![CDATA[<b>CAMADA DA REDE</b>]]></text></component> <component id="ID_txt14"><text><![CDATA[<b>Pacotes IP fluem através da rede interconectada.</b>]]></text></component>
+
+<component id="ID_txt15"><text><![CDATA[<b>• Sem conexão - Nenhuma conexão é estabelecida antes do envio dos pacotes de dados.<br><br>• Melhor Esforço (não confiável) - Nenhum auxiliar é usado para garantir a entrega do pacote.<br><br>• Meio físico Independente - Opera independentemente do meio que está carregando os dados.
+</b>]]></text></component>
+
+<component id="ID_txt16"><text><![CDATA[<b>Pacote</b>]]></text></component>
+
+<component id="ID_txt17"><text><![CDATA[<b>Pacote</b>]]></text></component>
+
+
+</textcomponents>

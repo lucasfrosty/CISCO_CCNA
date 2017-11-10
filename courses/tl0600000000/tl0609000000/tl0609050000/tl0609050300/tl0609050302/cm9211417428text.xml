@@ -1,0 +1,31 @@
+﻿<textcomponents>
+
+<component id="ID_txt01"><text><![CDATA[<b>Suporte de Link de Fibra 1000Base-X</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[Configuração de Link]]></text></component>
+  
+<component id="ID_txt03"><text><![CDATA[125/62.5 &#181;m fibra ótica multimodo]]></text></component>
+  
+  
+<component id="ID_txt04"><text><![CDATA[125/50 &#181;m fibra ótica multimodo]]></text></component>
+  
+<component id="ID_txt05"><text><![CDATA[125/10 &#181;m fibra ótica de monomodo]]></text></component>
+  
+<component id="ID_txt07"><text><![CDATA[1000Base-SX (Comprimento de onda 850 nm)]]></text></component>
+   
+  
+<component id="ID_txt08"><text><![CDATA[Suportado]]></text></component>
+  
+<component id="ID_txt09"><text><![CDATA[Suportado]]></text></component>
+  
+<component id="ID_txt10"><text><![CDATA[Não suportado]]></text></component>
+  
+<component id="ID_txt12"><text><![CDATA[1000Base-LX (Comprimento de onda 1300 nm)]]></text></component>
+  
+<component id="ID_txt13"><text><![CDATA[Suportado]]></text></component>
+  
+<component id="ID_txt14"><text><![CDATA[Suportado]]></text></component>
+  
+<component id="ID_txt15"><text><![CDATA[Suportado]]></text></component>
+  
+</textcomponents>

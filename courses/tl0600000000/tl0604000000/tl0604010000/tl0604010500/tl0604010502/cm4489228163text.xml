@@ -1,0 +1,41 @@
+﻿<textcomponents>
+<component id="ID_title1"><text><![CDATA[<b>Números das Portas</b>]]></text></component>
+
+
+<component id="ID_inst"><text><![CDATA[<b>Clique aqui para ver os exemplos de números de portas.</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>Faixa de Números de Portas</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Grupo de Portas</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>0 a 1023</b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<b>Portas conhecidas (Contato)</b>]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>1024 a 49151</b>]]></text></component>
+
+<component id="ID_txt06"><text><![CDATA[<b>Portas Registradas </b>]]></text></component>
+
+<component id="ID_txt07"><text><![CDATA[<b>49152 a 65535</b>]]></text></component>
+
+<component id="ID_txt08"><text><![CDATA[<b>Portas Privadas e/ou Dinâmicas</b>]]></text></component>
+
+<component id="ID_txt09"><text><![CDATA[<b>Portas TCP Registradas:<br/>1863	MSN Messenger<br/>8008	Alternar HTTP<br/>8080	Alternar HTTP</b>]]></text></component>
+
+<component id="ID_txt10"><text><![CDATA[<b>Portas TCP Conhecidas:<br/>21       FTP<br/>23       Telnet<br/>25       SMTP<br/>80       HTTP<br/>110     POP3 <br/>194     Internet Relay Chat (IRC)<br/>443     HTTP Seguro (HTTPS)</b>]]></text></component>
+
+<component id="ID_txt11"><text><![CDATA[<b>Portas UDP Registradas:<br/>1812	Protocolo de Autenticação RADIUS <br/>2000	Cisco SCCP (VoIP) <br/>5004	RTP (Protocolo de Transporte de Voz e Vídeo) <br/>5060	SIP (VoIP)</b>]]></text></component>
+
+<component id="ID_txt12"><text><![CDATA[<b>Portas UDP Conhecidas:<br/>69 	TFTP<br/>520	RIP</b>]]></text></component>
+
+<component id="ID_txt13"><text><![CDATA[<b>Portas Comuns TCP/UDP Registradas:<br/>1433	MS SQL<br/>2948	WAP (MMS)</b>]]></text></component>
+
+<component id="ID_txt14"><text><![CDATA[<b>Portas ComunsTCP/UDP Conhecidas:<br/>53      &nbsp;DNS<br/>161	SNMP<br/>531	AOL Instant Messenger, IRC</b>]]></text></component>
+
+	<component id="btn01"><text>Reiniciar</text></component> <component id="btn02"><text>Portas TCP</text></component> <component id="btn03"><text>Portas UDP</text></component> <component id="btn04"><text>Portas Comuns TCP/UDP</text></component> 
+
+
+  
+</textcomponents>
+
+

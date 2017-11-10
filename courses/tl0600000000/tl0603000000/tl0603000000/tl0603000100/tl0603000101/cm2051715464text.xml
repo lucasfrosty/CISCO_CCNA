@@ -1,0 +1,42 @@
+﻿<textcomponents>
+<component id="transcript"><text><![CDATA[Transcrição]]></text></component> 
+
+<component id="ID_txt01"><text><![CDATA[<b>Aplicação]]></text></component>
+
+<component id="ID_txt01a"><text><![CDATA[<b>Aplicação]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Apresentação]]></text></component>
+
+<component id="ID_txt02a"><text><![CDATA[<b>Apresentação]]></text></component> 
+
+<component id="ID_txt03"><text><![CDATA[<b>Sessão]]></text></component>
+
+<component id="ID_txt03a"><text><![CDATA[<b>Sessão]]></text></component> 
+
+<component id="ID_txt04"><text><![CDATA[<b>Transporte]]></text></component>
+
+<component id="ID_txt04a"><text><![CDATA[<b>Transporte]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>Rede]]></text></component>
+
+<component id="ID_txt05a"><text><![CDATA[<b>Rede]]></text></component> 
+
+<component id="ID_txt06"><text><![CDATA[<b>Enlace de Dados]]></text></component>
+
+<component id="ID_txt06a"><text><![CDATA[<b>Enlace de Dados]]></text></component> 
+
+<component id="ID_txt07"><text><![CDATA[<b>Física]]></text></component>
+
+<component id="ID_txt07a"><text><![CDATA[<b>Física]]></text></component>
+
+<component id="ID_txt08"><text><![CDATA[<b>Modelo OSI]]></text></component>
+
+<component id="ID_txt08a"><text><![CDATA[<b>Modelo OSI]]></text></component>
+
+<component id="ID_txt09"><text><![CDATA[<b>Rede]]></text></component>
+
+<component id="ID_txt10"><text><![CDATA[<b>A camada de Aplicação fornece a conexão para a rede.]]></text></component> 
+
+<component id="ID_title"><text><![CDATA[<b>Conectando Redes Humanas e de Dados</b>]]></text></component>
+
+</textcomponents>

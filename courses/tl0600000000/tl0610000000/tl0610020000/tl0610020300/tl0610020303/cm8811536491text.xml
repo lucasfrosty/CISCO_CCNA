@@ -1,0 +1,43 @@
+﻿<textcomponents>
+
+
+<component id="DCE-DTE Connection"><text><![CDATA[Conexão DCE-DTE]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>Conexões Seriais WAN no Laboratório</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Passe o mouse para ver o fim do cabo serial</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>Fa0/0</b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<b>S0/0(DCE)</b>]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>S0/1(DTE)</b>]]></text></component>
+
+<component id="ID_txt06"><text><![CDATA[<b>Fa0/0</b>]]></text></component>
+
+<component id="ID_txt07"><text><![CDATA[<b>Rx</b>]]></text></component>
+
+<component id="ID_txt08"><text><![CDATA[<b>Tx</b>]]></text></component>
+
+<component id="ID_txt09"><text><![CDATA[<b>Tx</b>]]></text></component>
+
+<component id="ID_txt10"><text><![CDATA[<b>Rx</b>]]></text></component>
+
+<component id="ID_txt11"><text><![CDATA[<b>Tx</b>]]></text></component>
+
+<component id="ID_txt12"><text><![CDATA[<b>Rx</b>]]></text></component>
+
+<component id="ID_txt13"><text><![CDATA[<b>Tx</b>]]></text></component>
+
+<component id="ID_txt14"><text><![CDATA[<b>Rx</b>]]></text></component>
+
+<component id="ID_txt15"><text><![CDATA[<b>Cabo DCE</b>]]></text></component>
+
+<component id="ID_txt16"><text><![CDATA[<b>Tx = Transmissão</b>]]></text></component>
+
+<component id="ID_txt17"><text><![CDATA[<b>Rx = Recepção</b>]]></text></component>
+
+<component id="ID_txt18"><text><![CDATA[<b>Cabo DTE</b>]]></text></component>
+
+
+</textcomponents>

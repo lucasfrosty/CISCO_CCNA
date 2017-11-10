@@ -1,0 +1,86 @@
+﻿<textcomponents>
+
+<component id="ID_title"><text><![CDATA[<b>Reconhecimento de segmentos TCP</b>]]></text></component>
+
+<component id="ID_txt001"><text><![CDATA[<b>Iniciar com byte no. 1, <br/>Estou enviando 10 bytes.</b>]]></text></component>
+
+<component id="ID_txt002"><text><![CDATA[<b>Recebi 10 bytes <br/>iniciando com byte no1.<br/>Espero o byte no. 11 em seguida.</b>]]></text></component>
+
+
+<component id="ID_txt01"><text><![CDATA[<b>Porta de Origem</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Porta de Destino</b>]]></text></component>
+  
+<component id="ID_txt03"><text><![CDATA[<b>Número de Sequência</b>]]></text></component>
+  
+<component id="ID_txt04"><text><![CDATA[<b>Números de reconhecimento</b>]]></text></component>
+  
+<component id="ID_txt05"><text><![CDATA[<b>...</b>]]></text></component>
+  
+<component id="ID_txt06"><text><![CDATA[<b>Rede</b>]]></text></component>
+  
+<component id="ID_txt07"><text><![CDATA[<b>Origem</b>]]></text></component>
+
+<component id="ID_txt08"><text><![CDATA[<b>Destino</b>]]></text></component>
+  
+<component id="ID_txt09"><text><![CDATA[<b>Seq.</b>]]></text></component>
+  
+<component id="ID_txt10"><text><![CDATA[<b>Rec.</b>]]></text></component>
+  
+<component id="ID_txt11"><text><![CDATA[<b>1028</b>]]></text></component>
+  
+<component id="ID_txt12"><text><![CDATA[<b>23</b>]]></text></component>
+  
+<component id="ID_txt13"><text><![CDATA[<b>1</b>]]></text></component>
+
+<component id="ID_txt14"><text><![CDATA[<b>1</b>]]></text></component>
+  
+<component id="ID_txt15"><text><![CDATA[<b>...</b>]]></text></component>
+  
+<component id="ID_txt07a"><text><![CDATA[<b>Origem</b>]]></text></component>
+
+<component id="ID_txt08a"><text><![CDATA[<b>Destino</b>]]></text></component>
+  
+<component id="ID_txt09a"><text><![CDATA[<b>Seq.</b>]]></text></component>
+  
+<component id="ID_txt10a"><text><![CDATA[<b>Rec.</b>]]></text></component>
+  
+<component id="ID_txt11a"><text><![CDATA[<b>1028</b>]]></text></component>
+  
+<component id="ID_txt12a"><text><![CDATA[<b>23</b>]]></text></component>
+  
+<component id="ID_txt13a"><text><![CDATA[<b>11</b>]]></text></component>
+
+<component id="ID_txt14a"><text><![CDATA[<b>1</b>]]></text></component>
+  
+<component id="ID_txt15a"><text><![CDATA[<b>...</b>]]></text></component>
+  
+<component id="ID_txt07b"><text><![CDATA[<b>Origem</b>]]></text></component>
+
+<component id="ID_txt08b"><text><![CDATA[<b>Destino</b>]]></text></component>
+  
+<component id="ID_txt09b"><text><![CDATA[<b>Seq.</b>]]></text></component>
+  
+<component id="ID_txt10b"><text><![CDATA[<b>Rec.</b>]]></text></component>
+  
+<component id="ID_txt11b"><text><![CDATA[<b>23</b>]]></text></component>
+  
+<component id="ID_txt12b"><text><![CDATA[<b>1028</b>]]></text></component>
+  
+<component id="ID_txt13b"><text><![CDATA[<b>1</b>]]></text></component>
+
+<component id="ID_txt14b"><text><![CDATA[<b>11</b>]]></text></component>
+  
+<component id="ID_txt15b"><text><![CDATA[<b>...</b>]]></text></component>
+  
+<component id="ID_txt16"><text><![CDATA[<b>10 bytes</b>]]></text></component>
+  
+<component id="ID_txt17"><text><![CDATA[<b>mais bytes iniciando com o byte 11</b>]]></text></component>
+  
+<component id="ID_txt18"><text><![CDATA[<b>Receber 4501- 6000</b>]]></text></component>
+  
+<component id="ID_txt19"><text><![CDATA[<b>Número de reconhecimento 6001</b>]]></text></component>
+  
+<component id="ID_txt20"><text><![CDATA[<b><br>O<font color="#993333"> tamanho da janela </font>determina o número de bytes enviados antes de um reconhecimento.</br><br>O número de <font color="#993333">reconhecimento </font>é o número do próximo byte esperado.</b></br>]]></text></component>
+  
+</textcomponents> 

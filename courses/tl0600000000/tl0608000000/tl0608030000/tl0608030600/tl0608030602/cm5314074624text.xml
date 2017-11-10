@@ -1,0 +1,17 @@
+﻿<textcomponents>
+
+
+<component id="ID_txt01"><text><![CDATA[<b>Projeto de Cabeamento com Meios de Fibra</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>A fibra fornece comunicação full duplex com um cabo dedicado a cada direção.</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>Tx</b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<b>Rx</b>]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>Rx</b>]]></text></component>
+
+<component id="ID_txt06"><text><![CDATA[<b>Tx</b>]]></text></component>
+
+
+</textcomponents>

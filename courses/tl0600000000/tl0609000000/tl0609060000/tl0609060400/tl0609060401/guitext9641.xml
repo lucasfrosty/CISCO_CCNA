@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<mainnode>
+<guiText>
+		<macTable>
+		<![CDATA[Tabela MAC]]>
+		</macTable>
+                <port1>
+               <![CDATA[Fa1]]>
+      	        </port1>
+                <port2>
+               <![CDATA[Fa2]]>
+      	        </port2>
+                <port3>
+               <![CDATA[Fa3]]>
+      	        </port3>
+		<port4>
+               <![CDATA[Fa4]]>
+      	        </port4>
+		<port5>
+               <![CDATA[Fa5]]>
+      	        </port5>
+		<port6>
+               <![CDATA[Fa6]]>
+      	        </port6>
+		<port7>
+               <![CDATA[Fa7]]>
+      	        </port7>
+		<port8>
+               <![CDATA[Fa8]]>
+      	        </port8>
+		<port9>
+               <![CDATA[Fa9]]>
+      	        </port9>
+		<port10>
+               <![CDATA[Fa10]]>
+      	        </port10>
+		<port11>
+               <![CDATA[Fa11]]>
+      	        </port11>
+		<port12>
+               <![CDATA[Fa12]]>
+      	        </port12>
+                <qport1>
+               <![CDATA[Fa1]]>
+      	        </qport1>
+                <qport2>
+               <![CDATA[Fa2]]>
+      	        </qport2>
+                <qport3>
+               <![CDATA[Fa3]]>
+      	        </qport3>
+                <qport4>
+               <![CDATA[Fa4]]>
+      	        </qport4>
+		<qport5>
+               <![CDATA[Fa5]]>
+      	        </qport5>
+		<qport6>
+               <![CDATA[Fa6]]>
+      	        </qport6>
+		<qport7>
+               <![CDATA[Fa7]]>
+      	        </qport7>
+		<qport8>
+               <![CDATA[Fa8]]>
+      	        </qport8>
+		<qport9>
+               <![CDATA[Fa9]]>
+      	        </qport9>
+		<qport10>
+               <![CDATA[Fa10]]>
+      	        </qport10>
+                <qport11>
+               <![CDATA[Fa11]]>
+               </qport11>
+   		<qport12>
+               <![CDATA[Fa12]]>
+      	        </qport12>
+                  
+ 		<hub>
+		<![CDATA[HUB]]>
+		</hub>
+
+                <time>
+		<![CDATA[Tempo]]>
+		</time>
+		<preamble>
+		<![CDATA[Preâmbulo]]>
+		</preamble>
+		<dstMac>
+		<![CDATA[MAC de Destino]]>
+		</dstMac>
+		<sourceMac>
+		<![CDATA[MAC de Origem]]>
+		</sourceMac>		<length>			<![CDATA[Comprimento Tipo]]>		</length>		<encapsulatedData>			<![CDATA[Dados Encapsulados]]>		</encapsulatedData>		<endOfFrame>			<![CDATA[Final do quadro]]>		</endOfFrame>		<question1>			<![CDATA[1. Onde o switch encaminhará o quadro?]]>		</question1>		<question2>			<![CDATA[2. Quando o switch encaminha o quadro, qual(is) frase(s) são verdadeira(s)?]]>		</question2>		<learnedCheck>			<![CDATA[Switch adiciona o endereço MAC de origem à tabela MAC.]]>		</learnedCheck>		<broadcastCheck>			<![CDATA[O quadro é um quadro broadcast e será encaminhado para todas as portas.]]>		</broadcastCheck>		<unicastOnlyCheck>			<![CDATA[O quadro é um quadro unicast e será enviado apenas para a porta específica.]]>		</unicastOnlyCheck>		<unicastFloodCheck>			<![CDATA[O quadro é um quadro unicast e será inundado (enviado) para todas as portas.]]>		</unicastFloodCheck>		<unicastDropCheck>			<![CDATA[O quadro é um quadro unicast mas será descartado pelo switch.]]>		</unicastDropCheck>			<checkBtn>			<![CDATA[<b>Verificar</b>]]>		</checkBtn>		<newProblemBtn>			<![CDATA[<b>Novo Problema</b>]]>		</newProblemBtn>		<myInputBtn>			<![CDATA[<b>Tente Com Minha Entrada</b>]]>		</myInputBtn>		<helpBtn>			<![CDATA[<b>Ajuda</b>]]>		</helpBtn>		<helpTitle>			<![CDATA[Ajuda]]>		</helpTitle>		<helpContent>			<![CDATA[Esta atividade testa o seu conhecimento de como um quadro é encaminhado em um switch.<br><br>Clique no botão "Verificar" para verificar a sua resposta.<br>Clique no botão "Novo Problema" para inciciar uma nova atividade prática.<br><br>A topologia física e a tabela MAC do switch são fornecidas a você. Um quadro constituído de um endereço MAC de origem e de destino também é fornecido a você.<br><br>Estas atividades terão um par de origem e de destino usando um dos endereços mostrados na topologia.  Atividades personalizadas podem usar quaisquer endereços desejados tanto na tabela MAC quanto no quadro.<br><br>1. Sua meta é determinar como o switch lidará com este quadro dada a tabela MAC mostrada.<br>2. Para a primeria pergunta, verifique os números das portas para indicar onde (se houver algum) o switch encaminhará este quadro.<br>3. Para a segunda pergunta, verifique as opções correspondentes para indicar como um switch lidará com o quadro.<br>4. Clique no botão "Verificar" para ver se sua resposta está correta.<br><br><br>Ajuda Adicional:<br>"FF" é um endereço MAC de broadcast e é encaminhado para todas as portas com exceção da porta de origem. <br><br>Um quadro é  <b>inundado</b> em todas as portas (exceto a de origem) apenas se o switch não tiver o MAC de destino na tabela MAC. <br><br>O switch apenas adicionará um novo endereço MAC à tabela MAC baseado no endereço MAC de origem.   Se o endereço MAC de origem já está na tabela, nada é adicionado ou aprendido.  Se o endereço MAC de origem não está na tabela, o endereço será adicionado.  <br><br>Um switch descartará um quadro se os dispositivos de destino e de origem estiverem ambos conectados à mesma porta e o switch tiver o endereço MAC de destino na tabela MAC.  Nesta atividade, isto acontece na única porta conectada ao hub com 2 dispositivos.  <br>]]>		</helpContent>	<activityTitle>			<![CDATA[<b>Atividade</b>]]>
+		</activityTitle>		<scenario1>			<![CDATA[Determine como o switch encaminha um quadro baseado nos endereços MAC de Origem e de Destino e nas informações da tabela MAC do switch.<br><br><b>Responda as perguntas abaixo usando as informações fornecidas.</b>]]>		</scenario1></guiText>	<errorMessages>		<sourceDestNotEntered>			<![CDATA[Insira um endereço de origem e de destino para o quadro.<br> Endereços de destino podem ser FF para indicar um quadro broadcast.]]>		</sourceDestNotEntered>		<frameBroadcastOnly> 			<![CDATA[Incorreto. Na pergunta 2, sua resposta para como o switch lidará com o quadro baseado no endereço de destino não está correta.  Tente novamente]]>		</frameBroadcastOnly> 		<frameUnicastOnly> 			<![CDATA[Incorreto. Na pergunta 2, sua resposta para como o switch lidará com o quadro baseado no endereço de destino não está correta.  Tente novamente]]>		</frameUnicastOnly> 		<frameDropped> 			<![CDATA[Incorreto. Na pergunta 2, sua resposta para como o switch lidará com o quadro baseado no endereço de destino não está correta.  Tente novamente]]>		</frameDropped> 		<frameDroppedSwitch> 			<![CDATA[Incorreto. Na pergunta 2, sua resposta para como o switch lidará com o quadro baseado no endereço de destino não está correta.  Tente novamente]]>		</frameDroppedSwitch> 		<sourceNotInTable>				<![CDATA[Incorreto. Na pergunta 2, sua resposta para como o switch lidará com o endereço MAC de origem não está correta.  Tente novamente]]>		</sourceNotInTable>		<sourceInTable>				<![CDATA[Incorreto. Na pergunta 2, sua resposta para como o switch lidará com o endereço MAC de origem não é verdadeira.  Tente novamente]]>		</sourceInTable>		<frameNotForwardedBack>			<![CDATA[Incorreto.  Na pergunta 1, a(s) porta(s) que você selecionou não está(ão) correta(s).  Tente novamente]]>		</frameNotForwardedBack>		<incorrectPortChecked>			<![CDATA[Incorreto. Na pergunta 1, a(s) porta(s) que você selecionou não está(ão) correta(s). Tente novamente]]>		</incorrectPortChecked>		<incorrectPortNotChecked>			<![CDATA[Incorreto. Na pergunta 1, a(s) porta(s) que você selecionou não está(ão) correta(s). Tente novamente]]>		</incorrectPortNotChecked>		<connectePortNotChecked>			<![CDATA[Incorreto. Na pergunta 1, a(s) porta(s) que você selecionou não está(ão) correta(s). Tente novamente]]>		</connectePortNotChecked>		<inactivePortsChecked>			<![CDATA[Incorreto. Na pergunta 1, a(s) porta(s) que você selecionou não está(ão) correta(s). Tente novamente]]>		</inactivePortsChecked>		<destPortNotChecked>			<![CDATA[Incorreto.  Na pergunta 1, a(s) porta(s) que você selecionou não está(ão) correta(s).  Tente novamente]]>		</destPortNotChecked>		<unicastFloodNotChecked>			<![CDATA[Incorreto. Na pergunta 2, sua resposta para como o switch lidará com o quadro baseado no endereço de destino não está correta.  Tente novamente]]>		</unicastFloodNotChecked>		</errorMessages>	<correctMessages>		<correct1>			<![CDATA[<b>Correto! Você respondeu com sucesso todas as perguntas baseadas nas informações do quadro e da tabela MAC.</b>]]>		</correct1>		<correct2>			<![CDATA[correto descartado]]>		</correct2>		<correct3>			<![CDATA[correto broadcast]]>		</correct3>			<correct4>			<![CDATA[correto unicast]]>		</correct4>		<correct4>			<![CDATA[correto inundação unicast]]>		</correct4>	</correctMessages>	 </mainnode>

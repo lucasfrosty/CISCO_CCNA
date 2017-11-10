@@ -1,0 +1,90 @@
+﻿<textcomponents>
+
+<component id="ID_title"><text><![CDATA[<b>Campos de Cabeçalho de Pacotes IPv4</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>Byte 1</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Byte 2</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>Byte 3</b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<b>Byte 4</b>]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>Ver.</b>]]></text></component>
+
+<component id="ID_txt06"><text><![CDATA[<b>IHL</b>]]></text></component>
+
+<component id="ID_txt07"><text><![CDATA[<b>Tipo de Serviço</b>]]></text></component>
+
+<component id="ID_txt08"><text><![CDATA[<b>Comprimento do Pacote</b>]]></text></component>
+
+<component id="ID_txt09"><text><![CDATA[<b>Identificação</b>]]></text></component>
+
+<component id="ID_txt10"><text><![CDATA[<b>Flag</b>]]></text></component>
+
+<component id="ID_txt11"><text><![CDATA[<b>Deslocamento de Fragmento</b>]]></text></component>
+
+<component id="ID_txt12"><text><![CDATA[<b>Tempo de Vida</b>]]></text></component>
+
+<component id="ID_txt13"><text><![CDATA[<b>Protocolo</b>]]></text></component>
+
+<component id="ID_txt14"><text><![CDATA[<b>Checksum de Cabeçalho</b>]]></text></component>
+
+<component id="ID_txt15"><text><![CDATA[<b>Endereço de Origem</b>]]></text></component>
+
+<component id="ID_txt16"><text><![CDATA[<b>Endereço de Destino</b>]]></text></component>
+
+<component id="ID_txt17"><text><![CDATA[<b>Opções</b>]]></text></component>
+
+<component id="ID_txt18"><text><![CDATA[<b>Padding</b>]]></text></component>
+
+
+
+
+
+<component id="ID_inst"><text><![CDATA[<b>Baixe a barra de rolagem para ver o objetivo.</b>]]></text></component>
+
+
+
+
+
+<component id="ID_title01"><text><![CDATA[Tipo de Serviço]]></text></component>
+
+<component id="ID_pop01"><text><![CDATA[Prioridade de QoS de dados: permite ao roteador oferecer prioridade a informações de voz e rede através de dados regulares.]]></text></component>
+
+<component id="ID_title02"><text><![CDATA[Tempo de Vida]]></text></component>
+
+<component id="ID_pop02"><text><![CDATA[Número de saltos antes do pacote ser descartado: este valor é decrementado a cada salto para enviar que os pacotes sejam transportados pela rede em ciclos de roteamento.]]></text></component>
+
+<component id="ID_title03"><text><![CDATA[Protocolo]]></text></component>
+
+<component id="ID_pop03"><text><![CDATA[Tipo de payload de protocolo de dados: indica se os dados são um datagrama UDP ou segmento TCP uma vez que os protocolos da camada de transporte gerenciam o recebimento das PDUs de maneira distinta.]]></text></component>
+
+<component id="ID_title04"><text><![CDATA[Endereço de Origem]]></text></component>
+
+<component id="ID_pop04"><text><![CDATA[Endereços IPv4 do host que está enviando o pacote: permanece inalterado durante a passagem do pacote pela rede. Permite ao host de destino responder ao host de origem, se necessário.]]></text></component>
+
+<component id="ID_title05"><text><![CDATA[Endereço de Destino ]]></text></component>
+
+<component id="ID_pop05"><text><![CDATA[Endereços IPv4 do host que está recebendo o pacote: permanece inalterado durante a passagem do pacote pela rede. Permite aos roteadores de cada salto encaminhar o pacote até o destino.]]></text></component>
+
+<component id="ID_title06"><text><![CDATA[Flag]]></text></component>
+
+<component id="ID_pop06"><text><![CDATA[Esses 3 bits representam os sinalizadores de controle, como DF e MF.]]></text></component>
+
+<component id="ID_title07"><text><![CDATA[Deslocamento de Fragmento]]></text></component>
+
+<component id="ID_pop07"><text><![CDATA[Esses 13 bits permitem ao receptor determinar o local de um fragmento em especial no datagrama IP de origem.]]></text></component>
+
+
+
+
+
+
+
+
+
+
+
+
+</textcomponents>

@@ -1,0 +1,10 @@
+﻿<textcomponents>
+<component id="ID_txt01"><text><![CDATA[<b>Padrões são protocolos e acordos que são amplamente usados e aceitos.</b>]]></text></component> 
+<component id="ID_txt02"><text><![CDATA[<b>Camada de Conteúdo</b>]]></text></component> 
+<component id="ID_txt03"><text><![CDATA[<b>Conjunto de Aplicações do Protocolo de Conversa<br/><font color="#FF0000">1. Use uma Linguagem Comum<br/>2. Aguarde Sua Vez<br/>3. Sinalize Quando Terminado</font></b>]]></text></component> 
+<component id="ID_txt04"><text><![CDATA[<b>Camada de regras</b>]]></text></component> 
+<component id="ID_txt05"><text><![CDATA[<b>Camada física</b>]]></text></component> 
+<component id="ID_txt06"><text><![CDATA[<b><font color="#3333CC">Padrão</font><br/>Aguarde 2 segundos para sinalizar parado</b>]]></text></component> 
+<component id="ID_txt07"><text><![CDATA[<b>Onde é o Café?</b>]]></text></component>
+
+</textcomponents>

@@ -1,0 +1,43 @@
+﻿<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Convenções de Comandos IOS</b>]]></text>
+</component>
+
+  <component id="ID_txt13">
+      <text><![CDATA[<b>Ao descrever o uso dos comandos, geralmente usamos estas convenções.</b>]]></text> 
+  </component>
+  
+  <component id="ID_newTable">
+      <text><![CDATA[<table header='top' headerstyle='black' glow='true' glowcolor='#808080' cellpadding='2'>
+    <tr>
+      <td bgcolor='#F2F2F2' width="150%"><font color='#FFFFFF'><b>Convenção</b></font></td>
+      <td bgcolor='#F2F2F2' ><font color='#FFFFFF'><b>Descrição</b></font></td>
+	</tr>
+    <tr>
+      <td bgcolor='#F2F2F2'><b><font face="_typewriter">negrito</font></b></td>
+      <td bgcolor='#F2F2F2'>O texto em negrito indica comandos e palavras-chave inseridos exatamente como mostrados.</td>
+    </tr>
+    <tr>
+      <td bgcolor='#DDDDDD'><i>itálico</i></td>
+      <td bgcolor='#DDDDDD'>O texto em itálico indica os argumentos nos quais o usuário fornece os valores.</td>
+    </tr>
+    <tr bgcolor="#F2F2F2">
+      <td bgcolor='#F2F2F2'>[X]</td>
+      <td bgcolor='#F2F2F2'>Os colchetes encerram um elemento opcional (palavra-chave ou argumento).</td>
+    </tr>   
+	<tr bgcolor="#DDDDDD">
+      <td bgcolor='#DDDDDD'>I</td>
+      <td bgcolor='#DDDDDD'>Uma linha vertical indica uma escolha dentro de um conjunto opcional ou requerido de palavras-chave ou argumentos</td>
+    </tr>
+    <tr bgcolor="#F2F2F2">
+      <td bgcolor='#F2F2F2'>[X I Y]</td>
+      <td bgcolor='#F2F2F2'>Os colchetes encerram um elemento opcional (palavra-chave ou argumento).</td>
+    </tr>   
+    <tr bgcolor="#DDDDDD">  
+      <td bgcolor='#DDDDDD'>{X I Y}</td>
+      <td bgcolor='#DDDDDD'>As chaves que encerram palavras-chave ou argumentos separados por uma linha vertical indicam uma escolha requerida.</td>
+    </tr> 
+  </table>]]></text> 
+  </component>
+  
+  </textcomponents>

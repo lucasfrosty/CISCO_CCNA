@@ -1,0 +1,66 @@
+﻿<textcomponents>
+
+
+<component id="ID_title"><text><![CDATA[<b>Protocolo HTTP</b>]]></text></component>
+
+
+<component id="ID_inst"><text><![CDATA[<b>Clique aqui para ver os passos utilizados pro HTTP.</b>]]></text></component>
+
+
+
+<component id="ID_txt01"><text><![CDATA[<b>Servidor HTTP</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Rede</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>Cliente</b>]]></text></component>
+
+
+
+
+<component id="ID_txt01b"><text><![CDATA[<b>Servidor HTTP</b>]]></text></component>
+
+<component id="ID_txt02b"><text><![CDATA[<b>Rede</b>]]></text></component>
+
+<component id="ID_txt03b"><text><![CDATA[<b>Cliente</b>]]></text></component>
+
+<component id="ID_txt04b"><text><![CDATA[<b>Solicitar uma página</b>]]></text></component>
+
+
+
+<component id="ID_txt01c"><text><![CDATA[<b>Servidor HTTP</b>]]></text></component>
+
+<component id="ID_txt02c"><text><![CDATA[<b>Rede</b>]]></text></component>
+
+<component id="ID_txt03c"><text><![CDATA[<b>Cliente</b>]]></text></component>
+
+<component id="ID_txt04c"><text><![CDATA[<b>Resposta HTTP</b>]]></text></component>
+
+<component id="ID_txt05c"><text><![CDATA[<b>Resposta HTTP</b>]]></text></component>
+
+<component id="ID_txt06c"><text><![CDATA[<b>Código HTML para página web</b>]]></text></component>
+
+<component id="ID_txt07c"><text><![CDATA[<b>Em resposta à solicitação, o servidor HTTP retorna um código para uma página Web.</b>]]></text></component>
+
+
+<component id="ID_txt01d"><text><![CDATA[<b>Servidor HTTP</b>]]></text></component>
+
+<component id="ID_txt02d"><text><![CDATA[<b>Rede</b>]]></text></component>
+
+<component id="ID_txt03d"><text><![CDATA[<b>Cliente</b>]]></text></component>
+
+<component id="ID_txt04d"><text><![CDATA[<b>Página Web</b>]]></text></component>
+
+<component id="ID_txt05d"><text><![CDATA[<b>O navegador interpreta o código HTML e exibe uma página Web.</b>]]></text></component>
+
+
+<component id="button1"><text><![CDATA[<b>Começar</b>]]></text></component>
+
+<component id="button2"><text><![CDATA[<b>1</b>]]></text></component>
+
+<component id="button3"><text><![CDATA[<b>2</b>]]></text></component>
+
+<component id="button4"><text><![CDATA[<b>3</b>]]></text></component>
+
+
+
+</textcomponents>

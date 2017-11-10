@@ -1,0 +1,144 @@
+﻿<textcomponents>
+   
+<component id="ID_title"><text><![CDATA[<b>Converter Decimal em Binário</b>]]></text></component>
+
+<component id="ID_inst"><text><![CDATA[<b>Clique nos botões para mais informações.</b>]]></text></component>
+
+<component id="ID_txt01a"><text><![CDATA[<b>172.16.4.20</b>]]></text></component>
+
+<component id="ID_txt01b"><text><![CDATA[<b>Separe e converta cada número decimal separadamente</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>172</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>10101100</b>]]></text></component>
+
+<component id="ID_txt02a"><text><![CDATA[<b>16</b>]]></text></component>
+
+<component id="ID_txt02b"><text><![CDATA[<b>00010000</b>]]></text></component>
+
+<component id="ID_txt03a"><text><![CDATA[<b>4</b>]]></text></component>
+
+<component id="ID_txt03b"><text><![CDATA[<b>00000100</b>]]></text></component>
+
+<component id="ID_txt04a"><text><![CDATA[<b>20</b>]]></text></component>
+
+<component id="ID_txt04b"><text><![CDATA[<b>00010100</b>]]></text></component>
+
+<component id="ID_txt04c"><text><![CDATA[<b>10101100 000100000000010000010100</b>]]></text></component>
+
+<component id="ID_txt04d"><text><![CDATA[<b>Endereço binário IPv4 </b>]]></text></component>
+
+<component id="ID_clip1_txt1"><text><![CDATA[Começamos com o <b>172</b>.]]></text></component>
+
+<component id="ID_clip1_txt2"><text><![CDATA[<b>é maior que 128, inserir um 1 na posição 128</b>]]></text></component>
+
+<component id="ID_clip1_txt3"><text><![CDATA[<b>e subtrair 128</b>]]></text></component>
+
+<component id="ID_clip1_txt4"><text><![CDATA[<b>é menor que 64, inserir um 0 na posição 64</b>]]></text></component>
+
+<component id="ID_clip1_txt5"><text><![CDATA[<b>é maior que 32, inserir um 1 na posição 32</b>]]></text></component>
+
+<component id="ID_clip1_txt6"><text><![CDATA[<b>e subtrair 32</b>]]></text></component>
+
+<component id="ID_clip1_txt7"><text><![CDATA[<b>é menor que 16, inserir um 0 na posição 16</b>]]></text></component>
+
+<component id="ID_clip1_txt8"><text><![CDATA[<b>é maior que 8, inserir um 1 na posição 8</b>]]></text></component>
+
+<component id="ID_clip1_txt9"><text><![CDATA[<b>e subtrair 8</b>]]></text></component>
+
+<component id="ID_clip1_txt10"><text><![CDATA[<b>é igual a 4, inserir um 1 na posição 4</b>]]></text></component>
+
+<component id="ID_clip1_txt11"><text><![CDATA[<b>e subtrair 4</b>]]></text></component>
+
+<component id="ID_clip1_txt12"><text><![CDATA[<b>é menor que 2, inserir um 0 na posição 2</b>]]></text></component>
+
+<component id="ID_clip1_txt13"><text><![CDATA[<b>é menor que 1, inserir um 0 na posição 1</b>]]></text></component>
+
+<component id="ID_clip1_txt14"><text><![CDATA[<b>CONCLUÍDO</b>]]></text></component>
+
+<component id="ID_clip1_txt15"><text><![CDATA[Resposta: <b>172 = 10101100</b>]]></text></component>
+
+<component id="ID_clip2_txt1"><text><![CDATA[Em seguida, convertemos o <b>16</b>.]]></text></component>
+
+<component id="ID_clip2_txt2"><text><![CDATA[<b>é menor que 128, inserir um 0 na posição 128</b>]]></text></component>
+
+<component id="ID_clip2_txt3"><text><![CDATA[<b>é menor que 64, inserir um 0 na posição 64</b>]]></text></component>
+
+<component id="ID_clip2_txt4"><text><![CDATA[<b>é menor que 32, inserir um 0 na posição 32</b>]]></text></component>
+
+<component id="ID_clip2_txt5"><text><![CDATA[<b>é igual a 16, inserir um 1 na posição 16</b>]]></text></component>
+
+<component id="ID_clip2_txt6"><text><![CDATA[<b>e subtrair 16</b>]]></text></component>
+
+<component id="ID_clip2_txt7"><text><![CDATA[<b>é menor que 8, inserir um 0 na posição 8</b>]]></text></component>
+
+<component id="ID_clip2_txt8"><text><![CDATA[<b>é menor que 4, inserir um 0 na posição 4</b>]]></text></component>
+
+<component id="ID_clip2_txt9"><text><![CDATA[<b>é menor que 2, inserir um 0 na posição 2</b>]]></text></component>
+
+<component id="ID_clip2_txt10"><text><![CDATA[<b>é menor que 1, inserir um 0 na posição 1</b>]]></text></component>
+
+<component id="ID_clip2_txt11"><text><![CDATA[<b>CONCLUÍDO</b>]]></text></component>
+
+<component id="ID_clip2_txt12"><text><![CDATA[Resposta: <b>16 = 00010000</b>]]></text></component>
+
+<component id="ID_clip3_txt1"><text><![CDATA[Em seguida, convertemos o <b>4</b>.]]></text></component>
+
+<component id="ID_clip3_txt2"><text><![CDATA[<b>é menor que 128, inserir um 0 na posição 128</b>]]></text></component>
+
+<component id="ID_clip3_txt3"><text><![CDATA[<b>é menor que 64, inserir um 0 na posição 64</b>]]></text></component>
+
+<component id="ID_clip3_txt4"><text><![CDATA[<b>é menor que 32, inserir um 0 na posição 32</b>]]></text></component>
+
+<component id="ID_clip3_txt5"><text><![CDATA[<b>é menor que 16, inserir um 0 na posição 16</b>]]></text></component>
+
+<component id="ID_clip3_txt6"><text><![CDATA[<b>é menor que 8, inserir um 0 na posição 8</b>]]></text></component>
+
+<component id="ID_clip3_txt7"><text><![CDATA[<b>é igual a 4, inserir um 1 na posição 4</b>]]></text></component>
+
+<component id="ID_clip3_txt8"><text><![CDATA[<b>e subtrair 4</b>]]></text></component>
+
+<component id="ID_clip3_txt9"><text><![CDATA[<b>é menor que 2, inserir um 0 na posição 2</b>]]></text></component>
+
+<component id="ID_clip3_txt10"><text><![CDATA[<b>é menor que 1, inserir um 0 na posição 1</b>]]></text></component>
+
+<component id="ID_clip3_txt11"><text><![CDATA[<b>CONCLUÍDO</b>]]></text></component>
+
+<component id="ID_clip3_txt12"><text><![CDATA[Resposta: <b>4 = 00000100</b>]]></text></component>
+
+<component id="ID_clip4_txt1"><text><![CDATA[Por último, convertemos o <b>20</b>.]]></text></component>
+
+<component id="ID_clip4_txt2"><text><![CDATA[<b>é menor que 128, inserir um 0 na posição 128</b>]]></text></component>
+
+<component id="ID_clip4_txt3"><text><![CDATA[<b>é menor que 64, inserir um 0 na posição 64</b>]]></text></component>
+
+<component id="ID_clip4_txt4"><text><![CDATA[<b>é menor que 32, inserir um 0 na posição 32</b>]]></text></component>
+
+<component id="ID_clip4_txt5"><text><![CDATA[<b>é maior que 16, inserir um 1 na posição 16</b>]]></text></component>
+
+<component id="ID_clip4_txt6"><text><![CDATA[<b>e subtrair 16</b>]]></text></component>
+
+<component id="ID_clip4_txt7"><text><![CDATA[<b>é menor que 8, inserir um 0 na posição 8</b>]]></text></component>
+
+<component id="ID_clip4_txt8"><text><![CDATA[<b>é igual a 4, inserir um 1 na posição 4</b>]]></text></component>
+
+<component id="ID_clip4_txt9"><text><![CDATA[<b>e subtrair 4</b>]]></text></component>
+
+<component id="ID_clip4_txt10"><text><![CDATA[<b>é menor que 2, inserir um 0 na posição 2</b>]]></text></component>
+
+<component id="ID_clip4_txt11"><text><![CDATA[<b>é menor que 1, inserir um 0 na posição 1</b>]]></text></component>
+
+<component id="ID_clip4_txt12"><text><![CDATA[<b>CONCLUÍDO</b>]]></text></component>
+
+<component id="ID_clip4_txt13"><text><![CDATA[Resposta: <b>20 = 00010100</b>]]></text></component>
+
+<component id="ID_btn1"><text><![CDATA[<b>1</b>]]></text></component>
+
+<component id="ID_btn2"><text><![CDATA[<b>2</b>]]></text></component>
+
+<component id="ID_btn3"><text><![CDATA[<b>3</b>]]></text></component>
+
+<component id="ID_btn4"><text><![CDATA[<b>4</b>]]></text></component>
+
+<component id="ID_btn5"><text><![CDATA[<b>5</b>]]></text></component>
+</textcomponents>

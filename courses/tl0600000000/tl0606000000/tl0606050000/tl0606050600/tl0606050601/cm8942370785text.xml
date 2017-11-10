@@ -1,0 +1,81 @@
+﻿<textcomponents>
+	
+<component id="txt_activity"><text><![CDATA[<b>Atividade</b>]]></text></component>
+	
+<component id="txt_instructions"><text><![CDATA[Dado o endereço de rede e a máscara de sub-rede, defina o intervalo de hosts, o endereço de broadcast e o próximo endereço de rede. Clique no octeto na tabela para inserir as suas informações.]]></text></component>
+	
+<component id="txt_correct"><text><![CDATA[<b>Correto</b>]]></text></component>
+	
+<component id="txt_incorrect"><text><![CDATA[<b>Incorreto</b>]]></text></component>
+	
+<component id="txt_netdec"><text><![CDATA[<b>Endereço de rede em decimal</b>]]></text></component> <component id="txt_netdec0"><text><![CDATA[10]]></text></component>
+	
+<component id="txt_netdec1"><text><![CDATA[55]]></text></component>
+	
+<component id="txt_netdec2"><text><![CDATA[119]]></text></component>
+	
+<component id="txt_netdec3"><text><![CDATA[128]]></text></component>
+	
+<component id="txt_smdec"><text><![CDATA[<b>Máscara de Sub-rede em decimal</b>]]></text></component>
+	
+<component id="txt_smdec0"><text><![CDATA[255]]></text></component>
+	
+<component id="txt_smdec1"><text><![CDATA[255]]></text></component>
+	
+<component id="txt_smdec2"><text><![CDATA[255]]></text></component>
+	
+<component id="txt_smdec3"><text><![CDATA[128]]></text></component>
+	
+<component id="txt_netbin"><text><![CDATA[<b>Endereço de rede em binário</b>]]></text></component>
+	
+<component id="txt_netbin0"><text><![CDATA[00001010]]></text></component>
+	
+<component id="txt_netbin1"><text><![CDATA[00110111]]></text></component>
+	
+<component id="txt_netbin2"><text><![CDATA[01110111]]></text></component>
+	
+<component id="txt_netbin3"><text><![CDATA[10000000]]></text></component>
+	
+<component id="txt_smbin"><text><![CDATA[<b>Máscara de Sub-rede em binário</b>]]></text></component>
+	
+<component id="txt_smbin0"><text><![CDATA[11111111]]></text></component>
+	
+<component id="txt_smbin1"><text><![CDATA[11111111]]></text></component>
+	
+<component id="txt_smbin2"><text><![CDATA[11111111]]></text></component>
+	
+<component id="txt_smbin3"><text><![CDATA[10000000]]></text></component>
+	
+<component id="txt_first"><text><![CDATA[<b>Primeiro Endereço IP de Host Válido em decimal</b>]]></text></component> <component id="txt_last"><text><![CDATA[<b>Último Endereço IP de Host Válido em decimal</b>]]></text></component> <component id="txt_badec"><text><![CDATA[<b>Endereço de Broadcast em decimal</b>]]></text></component> <component id="txt_nnetdec"><text><![CDATA[<b>Próximo Endereço de Rede em decimal</b>]]></text></component>
+	
+<component id="firstoctet"><text><![CDATA[1º octeto]]></text></component>
+	
+<component id="firstoctet0"><text><![CDATA[1º octeto]]></text></component> 
+	
+<component id="firstoctet1"><text><![CDATA[1º octeto]]></text></component> 
+	
+<component id="firstoctet2"><text><![CDATA[1º octeto]]></text></component>
+	
+<component id="firstoctet3"><text><![CDATA[1º octeto]]></text></component>
+	
+<component id="secondoctet"><text><![CDATA[2º octeto]]></text></component> <component id="secondoctet0"><text><![CDATA[2º octeto]]></text></component> <component id="secondoctet1"><text><![CDATA[2º octeto]]></text></component> <component id="secondoctet2"><text><![CDATA[2º octeto]]></text></component> <component id="secondoctet3"><text><![CDATA[2º octeto]]></text></component> <component id="thirdoctet"><text><![CDATA[3º octeto]]></text></component>
+  
+<component id="thirdoctet0"><text><![CDATA[3º octeto]]></text></component>
+  
+<component id="thirdoctet1"><text><![CDATA[3º octeto]]></text></component>
+  
+<component id="thirdoctet2"><text><![CDATA[3º octeto]]></text></component>
+  
+<component id="thirdoctet3"><text><![CDATA[3º octeto]]></text></component> 
+	
+<component id="fourthoctet"><text><![CDATA[4º octeto]]></text></component> 
+  
+<component id="fourthoctet0"><text><![CDATA[4º octeto]]></text></component> <component id="fourthoctet1"><text><![CDATA[4º octeto]]></text></component> <component id="fourthoctet2"><text><![CDATA[4º octeto]]></text></component> <component id="fourthoctet3"><text><![CDATA[4º octeto]]></text></component>
+                  
+	<component id="txt_check"><text><![CDATA[Verifique]]></text></component>
+	
+<component id="txt_reset"><text><![CDATA[Reiniciar]]></text></component>
+	
+<component id="txt_newnumber"><text><![CDATA[Novo Número]]></text></component>
+
+</textcomponents>

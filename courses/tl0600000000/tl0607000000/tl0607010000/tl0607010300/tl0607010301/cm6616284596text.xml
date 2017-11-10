@@ -1,0 +1,17 @@
+﻿<textcomponents>
+
+<component id="ID_title"><text><![CDATA[<b>Serviços da Camada de Enlace de Dados</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>3 Camada de Rede</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>CABEÇALHO</b>]]></text></component>
+  
+<component id="ID_txt03"><text><![CDATA[<b>Pacote<br>(Dados)</b>]]></text></component>
+  
+<component id="ID_txt04"><text><![CDATA[<b>TRAILER</b>]]></text></component>
+  
+<component id="ID_txt05"><text><![CDATA[<b>Quadro</b>]]></text></component>
+  
+  <component id="ID_txt06"><text><![CDATA[<b>Camada Física</b>]]></text></component>
+  
+ </textcomponents>

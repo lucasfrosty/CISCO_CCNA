@@ -1,0 +1,16 @@
+﻿<textcomponents>
+
+<component id="ID_txt01"><text><![CDATA[<b>Exemplo de Interfaces de Dispositivos</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Interface Console</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>Interfaces Seriais</b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<b>Interfaces FastEthernet</b>]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>Interface Auxiliar</b>]]></text></component>
+
+<component id="ID_txt06"><text><![CDATA[<b>Roteador por trás do painel</b>]]></text></component>
+
+
+</textcomponents>

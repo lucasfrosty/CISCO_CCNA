@@ -1,0 +1,33 @@
+﻿<textcomponents>
+
+<component id="ID_title"><text><![CDATA[<b>Interpretação de Resultados de Teste</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>192.168.23.2/24</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>192.168.23.3/24</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>Host 1</b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<b>192.168.23.254/24</b>]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>RoteadorA</b>]]></text></component>
+
+<component id="ID_txt06"><text><![CDATA[<b>RoteadorB</b>]]></text></component>
+
+<component id="ID_txt07"><text><![CDATA[<b>RoteadorC</b>]]></text></component>
+
+<component id="ID_txt08"><text><![CDATA[<b>RoteadorD</b>]]></text></component>
+
+<component id="ID_txt09"><text><![CDATA[<b>192.168.11.254/24</b>]]></text></component>
+
+<component id="ID_txt10"><text><![CDATA[<b>192.168.11.1/24</b>]]></text></component>
+
+<component id="ID_txt11"><text><![CDATA[<b>192.168.11.2/24</b>]]></text></component>
+
+<component id="ID_txt13"><text><![CDATA[<font face = "courier new dynamic"><b>Endereço IP. . . . : 192.168.23.3<br>Máscara de Sub-rede . . . : 255.255.255.0<br>Gateway Padrão. : 192.168.23.<font color = "#990000">253</font></b>]]></text></component>
+
+<component id="ID_txt15"><text><![CDATA[<b>Um ping do Host 1 para um endereço de gateway correto sucede.</b>]]></text></component>
+
+<component id="ID_txt15_1"><text><![CDATA[<b>Um ping do Host 1 falha porque o endereço de gateway é configurado incorretamente no host.</b>]]></text></component>
+
+</textcomponents>

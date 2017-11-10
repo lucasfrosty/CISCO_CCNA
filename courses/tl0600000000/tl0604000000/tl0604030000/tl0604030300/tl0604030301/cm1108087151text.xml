@@ -1,0 +1,21 @@
+﻿<textcomponents>
+   <component id="play"><text>Play</text></component> <component id="pause"><text>Pausar</text></component> <component id="rewind"><text>Voltar</text></component> <component id="forward"><text>Avançar</text></component> <component id="mute"><text>Mudo</text></component> <component id="unmute"><text>Com Som</text></component> <component id="previous"><text>Reiniciar</text></component> <component id="next"><text>Fim</text></component>
+   
+   <component id="bubble_txt01"><text><![CDATA[<b>Eu estou enviando este arquivo com FTP usando TCP, para certificar que você o recebe!</b>]]></text></component>
+    
+    <component id="bubble_txt02"><text><![CDATA[<b>Eu recebi os primeiros três, enviarei uma confirmação.</b>]]></text></component>
+     
+      <component id="bubble_txt03"><text><![CDATA[<b>Eu recebi uma confirmação, enviarei o próximo grupo.</b>]]></text></component>
+   
+    <component id="bubble_txt04"><text><![CDATA[<b>Eu perdi o segundo grupo, não enviarei confirmação.</b>]]></text></component> <component id="bubble_txt05"><text><![CDATA[<b>Não recebi confirmação, re-enviarei o último grupo.</b>]]></text></component>
+     
+      <component id="bubble_txt06"><text><![CDATA[<b>Eu recebi o próximo grupo. Enviarei uma confirmação.</b>]]></text></component>
+   
+<component id="ID_txt02"><text><![CDATA[<b>ISP 1</b>]]></text></component> <component id="ID_txt03"><text><![CDATA[<b>ISP 2</b>]]></text></component> <component id="ID_txt04"><text><![CDATA[<b>Cluster de Servidores</b>]]></text></component> <component id="ID_txt05"><text><![CDATA[<b>Web</b>]]></text></component>
+  
+   <component id="ID_txt06"><text><![CDATA[<b>Segmento 1</b>]]></text></component> <component id="ID_title"><text><![CDATA[<b>Retransmissão TCP</b>]]></text></component> <component id="ID_inst"><text><![CDATA[<b>Clique Play para ver a animação.</b>]]></text></component>
+  
+
+ <component id="ID_txt07"><text><![CDATA[<b>Transferência de Arquivo FTP usando TCP</b>]]></text></component>
+  
+</textcomponents>

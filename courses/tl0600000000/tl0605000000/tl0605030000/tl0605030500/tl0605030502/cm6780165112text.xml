@@ -1,0 +1,10 @@
+﻿<textcomponents>
+
+<component id="ID_title"><text><![CDATA[<b>A tabela de roteamento mostra a rota padrão 0.0.0.0.</b>]]></text></component>
+
+
+<component id="output_text_01"><text><![CDATA[<b>Os pacotes com endereços de hosts de destino não contidos em nenhum dos intervalos de rede mostrados, serão transmitidos ao gateway como último recurso.
+</b>]]></text></component>
+
+
+</textcomponents>

@@ -1,0 +1,49 @@
+﻿<textcomponents>
+
+<component id="ID_txt01"><text><![CDATA[<b>Modelo OSI</b>]]></text></component>
+
+<component id="ID_instruct"><text><![CDATA[<b>Passe o mouse sobre uma camada para descrição.</b>]]></text></component>
+
+<component id="applicationTitle"><text>Aplicação</text></component>
+
+<component id="applicationBody"><text>A camada de Aplicação fornece os meios para conectividade ponto-a-ponto entre indivíduos na rede humana usando redes de dados.</text></component>
+
+<component id="presentationTitle"><text>Apresentação</text></component>
+
+<component id="presentationBody"><text>A camada de Apresentação fornece uma representação comum de dados transferidos entre serviços da camada de Aplicação.</text></component>
+
+<component id="sessionTitle"><text>Sessão</text></component>
+
+<component id="sessionBody"><text>A camada de Sessão fornece serviços à camada de Apresentação para organizar seu diálogo e para gerenciar a troca de dados.</text></component>
+
+<component id="transportTitle"><text>Transporte</text></component>
+
+<component id="transportBody"><text>A camada de Transporte define os serviços para segmentar, transferir e reunir os dados para comunicações individuais entre dispositivos finais.</text></component>
+
+<component id="networkTitle"><text>Rede</text></component>
+
+<component id="networkBody"><text>A camada de Rede fornece serviços para trocar pedaços individuais de dados através da rede entre dispositivos finais identificados.</text></component>
+
+<component id="datalinkTitle"><text>Enlace de Dados</text></component>
+
+<component id="datlinkBody"><text>Os protocolos da camada de Enlace de Dados descrevem métodos para trocar quadros de dados entre dispositivos através de uma meio físico comum.</text></component>
+
+<component id="physicalTitle"><text>Física</text></component>
+
+<component id="physicalBody"><text>Os protocolos da camada Física descrevem os meios mecânicos, elétricos, funcionais e procedimentais para ativar, manter e desativar conexões físicas para transmissão de bits para e/ou a partir de um dispositivo de rede.</text></component>
+
+<component id="ID_application"><text>7. Aplicação</text></component>
+
+<component id="ID_presentation"><text>6. Apresentação</text></component>
+
+<component id="ID_session"><text>5. Sessão</text></component>
+
+<component id="ID_transport"><text>4. Transporte</text></component>
+
+<component id="ID_network"><text>3. Rede</text></component>
+
+<component id="ID_datalink"><text>2. Enlace de Dados</text></component>
+
+<component id="ID_physical"><text>1. Física</text></component>
+
+</textcomponents>

@@ -1,0 +1,21 @@
+﻿<textcomponents>
+
+<component id="ID_txtTitle1"><text>Servidor DNS (DNS)</text></component> <component id="ID_txtBody1"><text><![CDATA[<li>Serviço que fornece o endereço IP de um site ou nome de domínio para que um host possa se conectar a ele</li>]]></text></component>
+
+<component id="ID_txtTitle2"><text>Servidor Telnet</text></component> <component id="ID_txtBody2"><text><![CDATA[<li>Serviço que permite que os administradores se conectem a um host em uma localização remota e controlem o host como se eles estivessem conectados localmente</li>]]></text></component>
+
+<component id="ID_txtTitle3"><text>Servidor de E-mail</text></component> <component id="ID_txtBody3"><text><![CDATA[<li>Usa o Protocolo SMTP, o protocolo POP3 ou o Protocolo IMAP</li><li>Usado para enviar mensagens de e-mail de clientes para servidores através da Internet</li><li>Destinatários são especificados usando o formato usuário@xyz</li>]]></text></component>
+
+
+<component id="ID_txtTitle4"><text>Servidor DHCP</text></component> <component id="ID_txtBody4"><text><![CDATA[<li>Serviço que designa o gateway padrão da máscara de sub-rede do endereço IP e outras informações aos clientes</li>]]></text></component>
+
+<component id="ID_txtTitle5"><text>Servidor Web</text></component> <component id="ID_txtBody5"><text><![CDATA[<li>Protocolo HTTP</li><li>Usado para transferir informações entre clientes web e servidores web</li><li>A maioria das páginas da web são acessadas usando HTTP</li>]]></text></component>
+
+<component id="ID_txtTitle6"><text>Servidor FTP (File Transfer Protocol)</text></component> <component id="ID_txtBody6"><text><![CDATA[<li>Serviço que permite o download e o upload de arquivos entre um cliente e o servidor</li>]]></text></component>
+
+
+
+
+    <component id="ID_txt01"><text><![CDATA[<b>Cluster de Servidores</b>]]></text></component> <component id="ID_txt02"><text><![CDATA[<b>Servidor DNS</b>]]></text></component> <component id="ID_txt03"><text><![CDATA[<b>Servidor Telnet</b>]]></text></component> <component id="ID_txt04"><text><![CDATA[<b>Servidor de E-mail</b>]]></text></component> <component id="ID_txt05"><text><![CDATA[<b>Servidor DHCP</b>]]></text></component> <component id="ID_txt06"><text><![CDATA[<b>Servidor Web</b>]]></text></component> <component id="ID_txt07"><text><![CDATA[<b>Servidor FTP</b>]]></text></component> <component id="ID_inst"><text><![CDATA[<b>Passe o mouse sobre cada servidor para uma breve descrição dos serviços de rede fornecidos.</b>]]></text></component> <component id="ID_txt08"><text><![CDATA[<b>Relacionamento Cliente-Servidor</b>]]></text></component>
+
+</textcomponents>

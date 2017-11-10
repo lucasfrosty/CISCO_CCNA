@@ -1,0 +1,19 @@
+﻿<textcomponents>
+
+<component id="ID_title"><text><![CDATA[<b>Modelo Cliente/Servidor</b>]]></text></component> <component id="ID_inst"><text><![CDATA[<b>Passe o mouse sobre uma ação.</b>]]></text></component>
+
+<component id="DOWNLOAD"><text><![CDATA[Download]]></text></component>
+
+<component id="UPLOAD"><text><![CDATA[Upload]]></text></component>
+
+
+<component id="ID_label1"><text><![CDATA[<b>SERVIDOR</b>]]></text></component> 
+<component id="ID_label2"><text><![CDATA[<b>Rede</b>]]></text></component> 
+<component id="ID_label3"><text><![CDATA[<b>CLIENTE</b>]]></text></component> 
+<component id="ID_label4"><text><![CDATA[<b>Recursos são armazenados no servidor.</b>]]></text></component> 
+<component id="ID_label5"><text><![CDATA[<b>Um cliente é uma combinação de hadrware/software que as pessoas usam diretamente.</b>]]></text></component> 
+<component id="ID_label6"><text><![CDATA[<b>Os arquivos são descarregados do sevidor para o cliente.</b>]]></text></component> 
+<component id="ID_label7"><text><![CDATA[<b>Download</b>]]></text></component> 
+<component id="ID_label8"><text><![CDATA[<b>Upload</b>]]></text></component> 
+<component id="ID_txt02"><text><![CDATA[<b>Os arquivos são carregados do cliente para o servidor.</b>]]></text></component>
+</textcomponents>

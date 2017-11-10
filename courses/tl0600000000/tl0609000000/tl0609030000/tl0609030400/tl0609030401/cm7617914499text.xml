@@ -1,0 +1,9 @@
+﻿<textcomponents>
+
+<component id="ID_title01"><text><![CDATA[<b>Diferentes camadas de endereçamento</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>Endereços IP usados para comunicação entre redes</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Endereços MAC usados em redes através do meio local</b>]]></text></component>
+
+</textcomponents>

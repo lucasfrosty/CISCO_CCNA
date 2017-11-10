@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+		<exam id="13237" dateexported="07/28/2008">
+		<name>Teste do Módulo 5</name>
+		<form id="21562" lang="pt"><form-item order="fixed">
+			<ai id="142126" type="mc-sa"><question><![CDATA[Que protocolo sem conexão fornece serviços de camada de rede?  ]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[IP  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[TCP ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[UDP ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[OSI ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="142125" type="mc-sa"><question><![CDATA[Que protocolo é sem conexão?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[TCP ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[UDP  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[FTP ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[SMTP ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="142122" type="mc-sa"><question><![CDATA[Que parte de um endereço de camada de rede o roteador usa durante a determinação de caminho?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[O endereço do host ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[O endereço do roteador ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[O endereço do servidor ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[O endereço de rede  ]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="142127" type="mc-sa"><question><![CDATA[Que dispositivo da camada de rede pode separar uma rede em diferentes domínios de broadcast?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[hub ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[bridge ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[switch ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[roteador  ]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="142123" type="mc-sa"><question><![CDATA[Que problema de camada de rede é evitado ou reduzido ao se usar endereçamento consistente fim-a-fim?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Reduz a chance de loops infinitos. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Evita split horizons. ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Reduz transmissões desnecessárias.  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Reduz problemas de contagem até o infinito. ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="142163" type="mc-ma"><question><![CDATA[Que comandos podem ser usados para visualizar uma tabela de roteamento de hosts? (Escolha duas.)  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[ipconfig /all ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[netstat -r  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[ping ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[route PRINT  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[telnet ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="142162" type="mc-ma"><question><![CDATA[Que informações a respeito de uma rota estão contidas numa tabela de roteamento? (Escolha três.)  ]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[próximo salto  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[endereço do host de origem ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[métrica  ]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[endereço da rede de destino  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[último salto ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[gateway padrão ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="142161" type="mc-ma"><question><![CDATA[Que problemas são causados pelo tráfego excessivo de broadcast num segmento de rede? (Escolha três.)  ]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[consome largura de banda da rede  ]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[aumenta o overhead da rede  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[requer esquemas complexos de endereçamento ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[interrompe outras funções do host  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[divide as redes com base na propriedade ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[requer hardware avançado ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="142160" type="mc-ma"><question><![CDATA[Quais são os principais fatores que devem ser considerados ao agrupar hosts em uma rede comum? (Escolha três.)  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[gateways ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[propósito  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[endereçamento físico ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[versão de software ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[localização geográfica  ]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[proprietário  ]]></text>
+							
+						</choice></choices></ai></form-item></form></exam> 

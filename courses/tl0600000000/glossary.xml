@@ -1,0 +1,2008 @@
+﻿<glossary>
+<content-glossary id="cg8964682759" index="A">
+<term><content-text>ACK</content-text></term>
+<definition><content-text><p>Para o TCP, o ACK é usado no handshake triplo inicial para confirmar o número de seqüência da estação de envio, e quando realmente são enviados dados, o ACK é usado para confirmar os segmentos enviados. </p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>confirmação</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5425444489" index="A">
+<term><content-text>Address Resolution Protocol (ARP)</content-text></term>
+<definition><content-text><p>Protocolo de Resolução de Endereços. É um método para encontrar o endereço de hardware do host quando só se conhece seu endereço da camada de rede. Usado principalmente para converter endereços IP em endereços MAC Ethernet.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>ARP</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8454983667" index="A">
+<term><content-text>algoritmo de backoff</content-text></term>
+<definition><content-text><p>Quando é detectada uma colisão, cada remetente inclui um atraso antes de retransmitir. Cada remetente escolhe um atraso aleatório entre 0 e d (d é um valor padrão de atraso). Se ocorrer outra colisão, cada computador dobra o intervalo do qual o atraso é escolhido, quer dizer, o atraso aleatório passa a estar entre 0 e 2d. Se ocorrer outra colisão, o intervalo passa a estar entre 0 e 4d, e assim por diante, ou seja, depois de cada colisão, o intervalo de atraso aleatório aumenta.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>back off,CSMA/CD</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4628194658" index="A">
+<term><content-text>algoritmos hash</content-text></term>
+<definition><content-text><p>Método reproduzível de transformar alguns tipos de dados em um número (relativamente) pequeno que pode servir como &quot;impressão digital&quot; dos dados. O algoritmo &quot;corta e mistura&quot; (i.e., substitui ou transpõe) os dados para criar essas inpressões digitais, chamadas valores hash.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg6790368922" index="A">
+<term><content-text>American National Standards Institute (ANSI)</content-text></term>
+<definition><content-text><p>O Instituto Nacional de Padronização Americano é uma organização privada sem fins lucrativos que supervisiona o desenvolvimento de padrões de consenso voluntário para produtos, serviços, processos, sistemas e pessoal nos Estados Unidos.</p></content-text></definition>
+<variations><content-text>ANSI</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9382566516" index="A">
+<term><content-text>AND</content-text></term>
+<definition><content-text><p>Uma operação booleana usada para combinar termos de busca e encontrar um resultado. Se x = 1 e y =1, então z = 1. Se x = 1 e y = 0, então z = 0. Se x = 0 e y = 1, então z = 0. Se x = 0 e y = 0, então z = 0.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>lógica digital</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5428587741" index="A">
+<term><content-text>aplicações</content-text></term>
+<definition><content-text><p>Um software completo projetado para os usuários finais.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>Programas</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5074990825" index="A">
+<term><content-text>aplicação cliente telnet</content-text></term>
+<definition><content-text><p>Programa de emulação de terminal que permite conexão remota de um host com um dispositivo.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>telnet</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3805230482" index="A">
+<term><content-text>ARP</content-text></term>
+<definition><content-text><p>Address Resolution Protocol (Protocolo de Resolução de Endereços). Um host que quer descobrir o endereço MAC de outro host e para isso, envia uma solicitação ARP pela rede. O host da rede que tem o endereço IP da solicitação, responde então com seu endereço MAC. </p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg1605645951" index="A">
+<term><content-text>ARP poisoning</content-text></term>
+<definition><content-text><p>Envio de mensagens ARP falsas para uma LAN Ethernet. Esses quadros contêm endereços MAC falsos que &quot;confundem&quot; os dispositivos de rede, como switches. Em resultado disso, quadros destinados a um nó podem ser enviados por engano para outro nó. Também conhecido como falsificação ARP.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg6797786905" index="A">
+<term><content-text>arquiteturas de rede redundantes</content-text></term>
+<definition><content-text><p>Arquitetura de rede projetada para eliminar o tempo ocioso na rede causado por um único ponto de falha.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7099696997" index="A">
+<term><content-text>assinaturas digitais</content-text></term>
+<definition><content-text><p>Tipo de criptografia assimétrica usada para simular as propriedades de segurança de uma assinatura em forma digital em vez de em forma escrita.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg6460750813" index="A">
+<term><content-text>atenuação</content-text></term>
+<definition><content-text><p>Perda da intensidade do sinal ao longo de um cabo elétrico ou óptico.</p></content-text></definition>
+<variations><content-text>Atenuação</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg6468814169" index="A">
+<term><content-text>autenticação</content-text></term>
+<definition><content-text><p>Processo pelo qual uma pessoa deve provar que é usuário legítimo de certo recurso.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8505312190" index="B">
+<term><content-text>backbone de Internet</content-text></term>
+<definition><content-text><p>Linha de alta velocidade ou série de conexões que forma um caminho principal dentro de uma rede. O termo backbone de Internet é muitas vezes usados para descrever as principais conexões da rede que compõe a Internet.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4194606492" index="B">
+<term><content-text>backoff</content-text></term>
+<definition><content-text><p>O tempo de espera para retransmissão (em geral aleatório) imposto por protocolos MAC que sofreram conflito de transmissão (colisão), depois que um nó da rede determina que o meio físico já está em uso.</p></content-text></definition>
+<variations><content-text>back-off</content-text></variations>
+<seealso><content-text>CSMA/CD</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7163054753" index="B">
+<term><content-text>baixar arquivo</content-text></term>
+<definition><content-text><p>Transferir dados (em geral um arquivo) de um computador para o computador que você está usando.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3059897570" index="B">
+<term><content-text>binário</content-text></term>
+<definition><content-text><p>Sistema de numeração caracterizado por uns e zeros (1 = ligado, 0 = desligado).</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5012284331" index="B">
+<term><content-text>bit mais significativo</content-text></term>
+<definition><content-text><p>A posição do bit num número binário que tem o maior valor. Às vezes é chamado de bit mais à esquerda.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5538727628" index="B">
+<term><content-text>bits</content-text></term>
+<definition><content-text><p>Um bit é um dígito binário, com valor 0 ou 1. Em computação, dígitos binários são unidades de armazenamento e comunicação de informações.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>binário</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg6305966086" index="B">
+<term><content-text>blogs</content-text></term>
+<definition><content-text><p>Um blog é um site onde as entradas tem o estilo de diário. Um blog é criado pelo usuário, e pode-se fazer mudanças nele por meio de modelos ou alternado o código HTML do próprio blog. Os visitantes podem deixar posts no blog. Blog é a abreviatura de Weblog.</p></content-text></definition>
+<variations><content-text>Blog</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg1633031101" index="B">
+<term><content-text>bridge</content-text></term>
+<definition><content-text><p>Dispositivo camada 2 que conecta múltiplos segmentos de rede na camada de enlace de dados do modelo OSI.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>switch</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2527078961" index="B">
+<term><content-text>bridging</content-text></term>
+<definition><content-text><p>Bridging ou Comutação. O processo de enviar quadros de uma porta para outra ou de um segmento para outro.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9196297579" index="B">
+<term><content-text>broadcast</content-text></term>
+<definition><content-text><p>Forma de transmissão em que um dispositivo transmite a todos os dispositivos dentro da rede ou para outra rede.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>broadcast limitado</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg1620144335" index="B">
+<term><content-text>broadcast direcionado</content-text></term>
+<definition><content-text><p>Uma única cópia de um broadcast direcionado é roteada para a rede específica, de onde é difundida para todos os terminais naquela rede.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5905315350" index="B">
+<term><content-text>broadcast limitado</content-text></term>
+<definition><content-text><p>Um broadcast enviado para uma rede específica ou uma série de redes.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3301082872" index="B">
+<term><content-text>burned-in-address</content-text></term>
+<definition><content-text><p>O endereço MAC de uma placa de interface de rede. É chamado de &quot;burned-in&quot; (marcado a fogo) porque o endereço não pode ser alterado.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>endereço MAC</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4294864560" index="C">
+<term><content-text>cabeçalho</content-text></term>
+<definition><content-text><p>Dados de informações no início do bloco de dados que o dispositivo usa para processar o datagrama.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8021807442" index="C">
+<term><content-text>cabo cruzado Ethernet (Crossover)</content-text></term>
+<definition><content-text><p>Cabeamento UTP onde a ordem dos pinos em uma extremidade segue a ordem dos pinos 568a e a outra extremidade do cabo segue a ordem dos pinos 568b. Usado ao conectar dois equipamentos que têm os mesmos pinos em ambas as portas.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>Cabo direto Ethernet</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4006506834" index="C">
+<term><content-text>cabo de console</content-text></term>
+<definition><content-text><p>Um cabo de modem que é muito usado para conectar um terminal de computador à porta de console do roteador ou do switch.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2182562050" index="C">
+<term><content-text>Cabo direto Ethernet (straight-through)</content-text></term>
+<definition><content-text><p>Cabeamento UTP onde a ordem dos pinos em uma extremidade segue a ordem dos pinos 568a e a outra extremidade do cabo segue a mesma ordem dos pinos 568a. Usado ao conectar um computador ou um roteador a um switch.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>cabo cruzado para ethernet</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8593750401" index="C">
+<term><content-text>cache</content-text></term>
+<definition><content-text><p>Armazenamento temporário onde se pode guardar dados acessados com freqüência. Depois que os dados foram armazenados na cache, pode-se acessar essa cópia em vez de acessar os dados originais, reduzindo o tempo médio de acesso. Por exemplo, servidor proxy que tem cache.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>cache ARP</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5610142530" index="C">
+<term><content-text>cache ARP</content-text></term>
+<definition><content-text><p>Armazenagem de entradas ARP que mostra o endereço MAC e o endereço IP associado.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>tabela ARP</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9300355158" index="C">
+<term><content-text>canal</content-text></term>
+<definition><content-text><p>O meio usado para transportar informações do remetente para o receptor.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3028355647" index="C">
+<term><content-text>Carrier Sense Multiple Access (CSMA)</content-text></term>
+<definition><content-text><p>Um protocolo no qual um único nó que quer transmitir aguarda uma onda portadora antes de tentar enviar. Se é detectada uma portadora, o nó aguarda que a transmissão em progresso acabe antes de iniciar sua própria transmissão.</p></content-text></definition>
+<variations><content-text>CSMA</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg6460587111" index="C">
+<term><content-text>CCNA</content-text></term>
+<definition><content-text><p>Cisco Certified Network Associate. A certificação de nível Associate criada pela Cisco Systems.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg6157252943" index="C">
+<term><content-text>circuito virtual</content-text></term>
+<definition><content-text><p>Método pelo qual os dados são passados para um destino por mais de um circuito de comunicação real. Os usuários finais não notam a comutação intermediária entre origem e destino. O Frame-Relay é uma tecnologia de comutação de pacotes que usa circuitos virtuais.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3423594008" index="C">
+<term><content-text>cliente</content-text></term>
+<definition><content-text><p>Cliente é um sistema de computadores que acessa um serviço em outro computador, remotamente, acessando a rede.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>Host</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9231023536" index="C">
+<term><content-text>cliente multicast</content-text></term>
+<definition><content-text><p>Membro de um grupo multicast. Todo cliente multicast em cada grupo tem o mesmo endereço IP. Os endereços multicast começam com 224.*.*.* e terminam com 239.*.*.*</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg1019964882" index="C">
+<term><content-text>cliente de e-mail</content-text></term>
+<definition><content-text><p>Programa usado para baixar e enviar e-mails. Os clientes de e-mail usam pop3 para receber e-mails e SMTP para enviá-los.</p></content-text></definition>
+<variations><content-text>Cliente de e-mail</content-text></variations>
+<seealso><content-text>MUA</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7858313761" index="C">
+<term><content-text>coaxiais</content-text></term>
+<definition><content-text><p>Componentes que têm o mesmo eixo comum. No caso do cabo coaxial, há três camadas diferentes de material cercando o material condutor interno. O condutor externo, o isolador e o invólucro protetor externo.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3469642771" index="C">
+<term><content-text>código</content-text></term>
+<definition><content-text><p>Conjunto de símbolos utilizado para comunicar informações ou instruções.</p></content-text></definition>
+<variations><content-text>Código</content-text></variations>
+<seealso><content-text>codificação,decodificação</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4687427731" index="C">
+<term><content-text>codificação</content-text></term>
+<definition><content-text><p>O processo de transformar dados em outra forma. Codificação de linha é o processo pelo qual as informações de uma fonte são convertidas em símbolos a serem comunicados.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>criptografia,decodificação,codificação Manchester</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8712791014" index="C">
+<term><content-text>codificação Manchester</content-text></term>
+<definition><content-text><p>Código de linha no qual cada bit de dados é assinalado por pelo menos uma transição de nível de voltagem.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>codificação,decodificação</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7393116882" index="C">
+<term><content-text>colaborativo (sistemas de informação)</content-text></term>
+<definition><content-text><p>Sistemas de informação que permitem a criação de um documento ou documentos que pode(m) ser editado(s) por mais de uma pessoa em tempo real.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7333973781" index="C">
+<term><content-text>colisão de dados</content-text></term>
+<definition><content-text><p>Quando duas estações transmitem ao mesmo tempo numa topologia multi-acesso e todos os quadros de ambas as estações de envio colidem um com o outro, alterando a estrutura original do quadro e criando fragmentos.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5899689544" index="C">
+<term><content-text>Collison</content-text></term>
+<definition><content-text><p>Colisão. Na Ethernet, o resultado de dois nós transmitindo simultaneamente. Os quadros de cada dispositivo sofrem colisão e são danificados quando se encontram no meio físico.</p></content-text></definition>
+<variations><content-text>colisão</content-text></variations>
+<seealso><content-text>domínio de colisão</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8511696898" index="C">
+<term><content-text>Command Line Interface (CLI)</content-text></term>
+<definition><content-text><p>Interface de Linha de Comando. Método de interagir com computadores inserindo entradas em texto. A CLI pode, em geral, ser considerada em consistir sintaxe e semântica. A sintaxe é a gramática que todos os comandos devem seguir. </p></content-text></definition>
+<definition><content-text><p>Interface de Linha de Comando. Método de interagir com computadores inserindo entradas em texto. A CLI pode, em geral, ser considerada em consistir sintaxe e semântica. A sintaxe é a gramática que todos os comandos devem seguir. </p></content-text></definition>
+<variations><content-text>CLI,Interface de Linha de Comando</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg6036258004" index="C">
+<term><content-text>comutação transparente</content-text></term>
+<definition><content-text><p>Significa descobrir os endereços de origem de quadros que chegam e acrescentá-los à tabela de comutação. Depois que a tabela é preenchida e quando um quadro é recebido nas interfaces da bridge, a mesma procura o endereço de destino do quadro na sua tabela de comutação e o quadro é encaminhado para a porta indicada.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>bridge</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8408560304" index="C">
+<term><content-text>conduíte (cabeamento)</content-text></term>
+<definition><content-text><p>Tubo ou duto para proteger fios ou cabos elétricos.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9769130470" index="C">
+<term><content-text>condutor (cabeamento)</content-text></term>
+<definition><content-text><p>Em geral um conduíte externo à prova de fogo no qual é colocado o cabeamento da rede a fim de manter a rede física organizada e o cabeamento a salvo. </p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8051073641" index="C">
+<term><content-text>conector Smart Serial</content-text></term>
+<definition><content-text><p>As interfaces Cisco Smart Serial têm conectores de 26 pinos e podem automaticamente detectar conectores RS-232, RS-449, RS-530, X.21, ou V.35.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg6498243994" index="C">
+<term><content-text>conector Winchester</content-text></term>
+<definition><content-text><p>Conector fêmea de cabo serial v.35 de 34 pinos .</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg1352693523" index="C">
+<term><content-text>confiável</content-text></term>
+<definition><content-text><p>Fonte de informações que é altamente confiável e conhecida por sua exatidão.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4350071199" index="C">
+<term><content-text>confirmação</content-text></term>
+<definition><content-text><p>As confirmações são sinais enviados pelas estações de destino às estações de origem para confirmar a recepção dos dados. </p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>ACK</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8328321530" index="C">
+<term><content-text>congestionamento</content-text></term>
+<definition><content-text><p>Estado de uma rede em que não há largura de banda suficiente para suportar a quantidade de tráfego na rede.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5746010509" index="C">
+<term><content-text>conjunto de aplicações</content-text></term>
+<definition><content-text><p>Grupo de componentes que trabalham em cooperação. O TCP/IP é um exemplo de conjunto de aplicações de protocolo. Os protocolos envolvidos no TCP/IP trabalham juntos para prover comunicação entre redes de computadores.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>TCP/IP</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5858756608" index="C">
+<term><content-text>conjunto de aplicações de protocolos</content-text></term>
+<definition><content-text><p>Conjunto de protocolos de comunicação que implementa a pilha de protocolo sobre a qual a rede opera.</p></content-text></definition>
+<variations><content-text>Conjunto de aplicações de protocolo</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8195365275" index="C">
+<term><content-text>conjunto de endereços</content-text></term>
+<definition><content-text><p>Um grupo de endereços designado pela IANA (Internet Assigned Numbers Authority) ou por uma de suas organizações associadas.</p></content-text></definition>
+<variations><content-text>Bloco de Enderços,Conjunto de Endereços</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2965421688" index="C">
+<term><content-text>controle de fluxo</content-text></term>
+<definition><content-text><p>O controle de fluxo é o gerenciamento do fluxo de dados entre os dispositivos de uma rede. É usado para evitar que dados demais cheguem antes que o dispositivo possa lidar com eles, causando sobrecarga de dados. </p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8511526679" index="C">
+<term><content-text>consulta</content-text></term>
+<definition><content-text><p>Mensagem usada para perguntar o valor de alguma variável ou conjunto de variáveis.</p></content-text></definition>
+<variations><content-text>Consulta</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2970922217" index="C">
+<term><content-text>convergir</content-text></term>
+<definition><content-text><p>Quando dispositivos intermediários diferentes trocam informações a fim de ter um ponto de vista consistente da rede. Podemos usar também outra forma com base na raiz da palavra &quot;convergir&quot; na expressão &quot;rede convergida&quot;. Esse tipo de rede agrega várias formas de tráfego, como voz, vídeo e dados na mesma infra-estrutura de rede. </p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>rede convergida</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5452432536" index="C">
+<term><content-text>criptografado</content-text></term>
+<definition><content-text><p>O processo de ocultar informações a fim de torná-las ilegíveis sem conhecimento especial, às vezes chamada de embaralhamento.</p></content-text></definition>
+<variations><content-text>Criptografado</content-text></variations>
+<seealso><content-text>Codificação,Decodificação,criptografia</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg1394678731" index="C">
+<term><content-text>criptografia</content-text></term>
+<definition><content-text><p>Dados aos quais foi aplicado um algoritmo específico de modo a alterar a aparência dos dados tornando-os incompreensíveis a quem não está autorizado a ver as informações.</p></content-text></definition>
+<variations><content-text>Criptografia</content-text></variations>
+<seealso><content-text>Codificação,Decodificação,criptografado</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg1692520783" index="C">
+<term><content-text>CSMA/CA</content-text></term>
+<definition><content-text><p>Collision Sense Multiple Access with Collision Avoidance (Multi-Acesso com Verificação de Colisão para Evitar Colisão). Tipo de CSMA que inclui CA (Evitar Colisão).</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>evitar colisão</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4317770772" index="C">
+<term><content-text>CSMA/CD</content-text></term>
+<definition><content-text><p>Carrier sense multiple access with collision detection (Multi-acesso com Verificação de Portadora e detecção de colisão). Mecanismo de acesso ao meio através do qual dispositivos prontos para transmitir dados, primeiro verificam se o canal tem uma portadora. Se não for detectada portadora durante um período específico, o dispositivo pode transmitir. Se dois dispositivos transmitem ao mesmo tempo, ocorre uma colisão e é detectada por todos os dispositivos que colidirem. Essa colisão depois atrasa as retransmissões desses dispositivos durante um período aleatório. O acesso CSMA/CD é usado em Ethernet e IEEE 802.3. </p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3354455567" index="C">
+<term><content-text>CSU/DSU</content-text></term>
+<definition><content-text><p>Channel Service Unit/Data Service Unit (Unidade de Serviço de Canal/Unidade de Serviço de Dados). Dispositivo de hardware que converte um quadro de dados digital de uma rede local (LAN) em um quadro adequado para uma rede de longa distância (WAN), e vice-versa.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8735611086" index="D">
+<term><content-text>dados de controle</content-text></term>
+<definition><content-text><p>Dados que guiam um processo. Uma flag num quadro de enlace de dados é um exemplo de dados de controle.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3408713415" index="D">
+<term><content-text>daemon</content-text></term>
+<definition><content-text><p>Programa de computador que roda no background e em geral é iniciado como processos.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9795557976" index="D">
+<term><content-text>daemon Telnet</content-text></term>
+<definition><content-text><p>Protocolo padrão da Internet para login remoto. Roda sobre TCP/IP. </p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>telnet</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7597470738" index="D">
+<term><content-text>datagramas</content-text></term>
+<definition><content-text><p>Pacote de dados que percorre uma rede IP.</p></content-text></definition>
+<variations><content-text>datagrama,Datagrama</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2195826043" index="D">
+<term><content-text>Data Service Units (DSU)</content-text></term>
+<definition><content-text><p>Unidades de Serviço de Dados. Dispositivo usado em transmissão digital para conectar uma CSU (Unidade de Serviço de Canal) a um Equipamento de Terminal de Dados (DTE), como um roteador. </p></content-text></definition>
+<variations><content-text>Unidades de Serviço de Dados,DSU</content-text></variations>
+<seealso><content-text>Equipamento de Terminal de Dados (DTE)</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7339427807" index="D">
+<term><content-text>Data Terminal Equipment (DTE) </content-text></term>
+<definition><content-text><p>Equipamento de Terminal de Dados. A interface entre o roteador e o DCE (CSU/DSU). Controla dados que entram (WAN para LAN) ou saem (LAN para WAN).</p></content-text></definition>
+<variations><content-text>equipamento de terminal de dados (DTE),DTE</content-text></variations>
+<seealso><content-text>Unidades de Serviço de Dados (DSU),Equipamento de Comunicação de Dados (DCE)</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5595931631" index="D">
+<term><content-text>decimal pontuada</content-text></term>
+<definition><content-text><p>Formato seguido por um endereço IP. Por exemplo: 10.0.0.1.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>IPv4</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4110794868" index="D">
+<term><content-text>decodificação</content-text></term>
+<definition><content-text><p>O contrário de codificação. Em geral, uma estação de envio codifica e a estação receptora decodifica. Há muitos sentidos para decodificação. Codificação de linha e decriptação são contextos da decodificação.</p></content-text></definition>
+<variations><content-text>Decodificação</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5252780413" index="D">
+<term><content-text>desencapsulamento</content-text></term>
+<definition><content-text><p>Processo de remover encapsulamentos em um dispositivo receptor. À medida que as PDUs chegam a cada camada do modelo OSI no computador receptor, o sistema descarta as PDUs da camada anterior a fim de analisar a PDU da respectiva camada atual.</p></content-text></definition>
+<variations><content-text>Desencapsular</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7802086129" index="D">
+<term><content-text>deslocamento de fragmento</content-text></term>
+<definition><content-text><p>Campo num datagrama IP que fornece informações sobre a posição do fragmento dentro do datagrama original.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>fragmentação</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3862586187" index="D">
+<term><content-text>determinístico</content-text></term>
+<definition><content-text><p>Usado em topologias de multi-acesso onde há regras que determinam quem pode transmitir. Um exemplo de rede determinística é uma topologia Token Ring em que a estação que tem o token pode transmitir. Enquanto só uma estação tiver o token, as outras estações esperam por ele para poder transmitir.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2766271978" index="D">
+<term><content-text>diafonia</content-text></term>
+<definition><content-text><p>Efeito pelo qual um sinal transmitido em um circuito ou canal de um fio cria um efeito indesejado em outro circuito ou canal.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3639172551" index="D">
+<term><content-text>diretamente conectada</content-text></term>
+<definition><content-text><p>Uma rede que está diretamente conectada a uma interface de dispositivo. Por exemplo, redes conectadas à interface do roteador são conhecidas como diretamente conectadas.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3549222566" index="D">
+<term><content-text>dispersão modal</content-text></term>
+<definition><content-text><p>Os modos de luz que entram na fibra ao mesmo tempo e saem da fibra em tempos diferentes. Essa condição faz o pulso de luz se dispersar. À medida que aumenta o comprimento da fibra, aumenta a dispersão modal.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8989672383" index="D">
+<term><content-text>dispositivo de origem</content-text></term>
+<definition><content-text><p>Estação de envio de uma transmissão.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4008559705" index="D">
+<term><content-text>dispositivos finais</content-text></term>
+<definition><content-text><p>Um dispositivo como um dispositivo desktop ou móvel que é usado por um usuário final. </p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>host,cliente</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8975181348" index="D">
+<term><content-text>dispositivos inteligentes</content-text></term>
+<definition><content-text><p>Um dispositivo inteligente é um tipo de equipamento, instrumento ou máquina que tem capacidade própria de computação.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8823011615" index="D">
+<term><content-text>dispositivos intermediários</content-text></term>
+<definition><content-text><p>Dispositivo que se conecta diretamente aos dispositivos do usuário final ou fornece roteamento para outras redes para o usuário final. Por exemplo, um roteador é um tipo de dispositivo intermediário.</p></content-text></definition>
+<variations><content-text>dispositivo intermediário,Dispositivos intermediários</content-text></variations>
+<seealso><content-text>roteador,switch</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg1342888322" index="D">
+<term><content-text>Domain Name System (DNS)</content-text></term>
+<definition><content-text><p>Sistema de Resolução de Nome. Converte nomes de domínios (nome de host de computador) em endereços IP.</p></content-text></definition>
+<variations><content-text>DNS</content-text></variations>
+<seealso><content-text>nome de domínio</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg1724741295" index="D">
+<term><content-text>domínio de broadcast</content-text></term>
+<definition><content-text><p>Rede lógica composta de todos os computadores e dispositivos de rede que podem ser alcançados enviando-se um quadro para o endereço de broadcast da camada de enlace de dados.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg1321149158" index="D">
+<term><content-text>domínio de colisão</content-text></term>
+<definition><content-text><p>Segmento de rede onde, se determinado dispositivo envia um quadro num segmento de rede, todos os outros dispositivos no mesmo segmento processam aquele quadro. Isso também significa que, se dois ou mais dispositivos naquele mesmo segmento transmitem um quadro ao mesmo tempo, haverá uma colisão.</p></content-text></definition>
+<variations><content-text>Domínio de colisão</content-text></variations>
+<seealso><content-text>Colisão</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2907419689" index="E">
+<term><content-text>EIA/TIA</content-text></term>
+<definition><content-text><p>Electronic Industries Alliance and the Telecommunication Industry Association (Aliança de Indústrias Eletrônicas e Associação de Indústrias de Telecomunicações). Responsável pelo desenvolvimento de normas. Responsável pela norma de cabeamento EIA/TIA 568 A e B.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7081665845" index="E">
+<term><content-text>e-mail</content-text></term>
+<definition><content-text><p>Correio eletrônico (abreviado &quot;e-mail&quot;) é um método de armazenagem e envio para compor, enviar, armazenar e receber mensagens por meio de sistemas de comunicação eletrônicos.</p></content-text></definition>
+<variations><content-text>E-mail</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8874648329" index="E">
+<term><content-text>em tempo real</content-text></term>
+<definition><content-text><p>Eventos ou sinais que são apresentados como saída o mais rápido possível, ou enquanto acontecem.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5794041867" index="E">
+<term><content-text>enable password</content-text></term>
+<definition><content-text><p>Senha sem criptografia usada no Modo EXEC usuário para entrar no modo EXEC privilegiado.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7671706591" index="E">
+<term><content-text>enable secret password</content-text></term>
+<definition><content-text><p>Senha forte e criptografada que é necessária quando um usuário quer entrar no modo EXEC privilegiado.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9915168147" index="E">
+<term><content-text>encaminhamento seletivo</content-text></term>
+<definition><content-text><p>Encaminhamento de pacotes em que a decisão de encaminhamento é tomada dinamicamente, salto a salto, com base nas condições dos nós de encaminhamento de fluxo.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3154045582" index="E">
+<term><content-text>encapsulamento</content-text></term>
+<definition><content-text><p>Empacotamento de dados em determinado cabeçalho de protocolo.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4104580597" index="E">
+<term><content-text>endereçamento classful</content-text></term>
+<definition><content-text><p>No início do IPv4, os endereços IP eram divididos em 5 classes, ou seja, Classe A, Classe B, Classe C, Classe D e Classe E.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg1730556772" index="E">
+<term><content-text>endereçamento classless</content-text></term>
+<definition><content-text><p>Esquema de endereçamento Ipv4 que usa uma máscara de sub-rede que não segue as regras de endereço utilizando do classfull. Fornece maior flexibilidade ao dividir intervalos de endereços IP em redes separadas. </p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>Máscara de sub-rede de tamanho variável</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5136412694" index="E">
+<term><content-text>endereçamento hierárquico</content-text></term>
+<definition><content-text><p>Esquema de endereçamento no qual uma rede é particionada em seções, e na qual o identificador da seção forma uma parte de cada endereço de destino e o identificador de destino forma a outra.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9994380513" index="E">
+<term><content-text>endereço de broadcast</content-text></term>
+<definition><content-text><p>Endereço que deve representar uma transmissão de um dispositivo para todos os dispositivos com base no endereço de broadcast especificado.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8036044495" index="E">
+<term><content-text>endereço de destino</content-text></term>
+<definition><content-text><p>O endereço para o qual os dados são encaminhados.</p></content-text></definition>
+<variations><content-text>Endereço de destino</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9134369793" index="E">
+<term><content-text>endereço de host</content-text></term>
+<definition><content-text><p>Endereço de um host de rede. Ao falar de endereço de host, em geral estamos falando de endereço da camada de rede.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>host,endereço IP</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3412956753" index="E">
+<term><content-text>endereço de origem</content-text></term>
+<definition><content-text><p>Em comunicações de redes, a origem do canal de comunicação.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4035112664" index="E">
+<term><content-text>endereço de rede</content-text></term>
+<definition><content-text><p>Endereço da camada de rede que se refere a um dispositivo de rede lógico, não físico. Também chamado endereço de protocolo. </p></content-text></definition>
+<variations><content-text>Endereço de Rede,Endereço de rede</content-text></variations>
+<seealso><content-text>endereço IP</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8964443404" index="E">
+<term><content-text>endereço físico</content-text></term>
+<definition><content-text><p>Endereço da camada de enlace de dados, por exemplo, um endereço MAC.</p></content-text></definition>
+<variations><content-text>Endereço físico</content-text></variations>
+<seealso><content-text>endereço MAC</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg6267662870" index="E">
+<term><content-text>endereço IP</content-text></term>
+<definition><content-text><p>Número exclusivo que um dispositivo usa para se identificar e comunicar com os outros numa rede de computadores usando o protocolo IP.</p></content-text></definition>
+<variations><content-text>Endereço IP</content-text></variations>
+<seealso><content-text>IPv4,IPv6</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2905172672" index="E">
+<term><content-text>endereços locais de link</content-text></term>
+<definition><content-text><p>Enderço IP no intervalo de 169.254.1.0 a 169.254.254.255</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4035276329" index="E">
+<term><content-text>endereços locais de link reservados</content-text></term>
+<definition><content-text><p>Endereço IP no intervalo de 169.254.1.0 a 169.254.254.255. É usado para desginar automaticamente um endereço IP a um dispositivo em uma rede IP quando não há outro método de designação disponível, como um servidor DHCP.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg1797171886" index="E">
+<term><content-text>endereço lógico</content-text></term>
+<definition><content-text><p>Um endereço da camada de rede. Um endereço que pode ser mudado a qualquer momento, diferente da camada de enlace que é gravado na placa de rede.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9377507612" index="E">
+<term><content-text>endereço MAC</content-text></term>
+<definition><content-text><p>Endereço padronizado da camada de enlace exigido para cada porta ou dispositivo que se conecta a uma LAN. Outros dispositivos na rede usam esses endereços para localizar portas específicas na rede e criar e atualizar tabelas de roteamento e estruturas de dados. Os endereços MAC têm 6 bytes de comprimento e são controlados pelo IEEE.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3821598810" index="E">
+<term><content-text>endereços globalmente restritos</content-text></term>
+<definition><content-text><p>Endereços únicos que são endereços de domínio público.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7404906396" index="E">
+<term><content-text>endereços privados</content-text></term>
+<definition><content-text><p>Endereço usado para redes internas. O endereço segue o endereçamento RFC 1918. Não roteável na internet.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>endereço IP</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9811773690" index="E">
+<term><content-text>endereços públicos</content-text></term>
+<definition><content-text><p>Endereços públicos são determinados pela InterNIC e consistem em identificações de rede com base na classe ou em blocos de endereços com base em CIDR (chamados blocos CIDR) que são globalmente únicos na Internet.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3898618067" index="E">
+<term><content-text>endereços restringidos pelo administrador</content-text></term>
+<definition><content-text><p>Os endereços restringidos pelo administrador são também chamados de endereços restritos e limitados. Esses endereços são restritos a um grupo local ou organização.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4977725187" index="E">
+<term><content-text>entrada repetida</content-text></term>
+<definition><content-text><p>Uma entrada repetida é uma forma de verificação redundante, um modo simples de proteger a integridade dos dados detectando erros nos dados que são enviados pelo espaço (telecomunicações) ou tempo (armazenagem). Funciona acrescentando-se os componentes básicos de uma mensagem, em geral os bits declarados, e armazenando o valor resultante. Qualquer um pode depois fazer a mesma operação sobre os dados, comparar o resultado com a entrada repetida autêntica e (supondo-se que a soma bata) concluir que a mensagem provavelmente não estava corrompida.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9204718202" index="E">
+<term><content-text>envio de mensagem instantânea</content-text></term>
+<definition><content-text><p>Comunicação em tempo real entre duas ou mais pessoas por texto ou outros dados.</p></content-text></definition>
+<variations><content-text>MI,Mensagem Instantânea</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4861714826" index="E">
+<term><content-text>Data Communications Equipment (DCE)</content-text></term>
+<definition><content-text><p> Equipamento de Comunicação de Dados (expansão EIA) ou Equipamento Terminal de Circuito de Dados (expansão ITU-T). Os dispositivos e conexões de uma rede de comunicação que abrange o fim da rede da interface usuário-rede. O DCE fornece conexão física com a rede, envia tráfego e fornece um sinal de clock usado para sincronizar a transmissão de dados entre os dispositivos DCE e DTE. Modems e placas de interface são exemplos de DCE. Compare com DTE.</p></content-text></definition>
+<variations><content-text>DCE</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7853563812" index="E">
+<term><content-text>escopo</content-text></term>
+<definition><content-text><p>Tamanho de certo item. Por exemplo, um escopo de endereço também é conhecido como intervalo de endereços do início do intervalo até o fim.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7935862711" index="E">
+<term><content-text>esquema</content-text></term>
+<definition><content-text><p>Plano, projeto ou programa de ação a ser seguido. Às vezes um plano de endereçamento é um ESQUEMA de endereçamento.</p></content-text></definition>
+<variations><content-text>Esquema,Esquema de Endereçamento,Esquema de endereçamento,esquema de endereçamento</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4901513423" index="E">
+<term><content-text>evitar colisão (CA)</content-text></term>
+<definition><content-text><p>Usado em topologias múlti-acesso, como redes LAN sem fio. Quando um nó quer transmitir, ele envia um sinal chamado Request-To-Send (RTS) ou Solicitação de Envio com a extensão do quadro de dados a ser enviado. Se a estação receptora quiser permitir a transmissão, ela responde ao remetente com um sinal chamado Clear-To-Send (CTS) ou Pronto para Enviar com a extensão do quadro que está para receber. Se outro nó ouve o RTS, ele não transmite a fim de evitar conflito com o CTS.</p></content-text></definition>
+<variations><content-text>Evitar colisão</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5568621084" index="E">
+<term><content-text>extranets</content-text></term>
+<definition><content-text><p>Parte da Intranet de uma companhia que é extendida a usuários fora da companhia (p.ex.: normalmente pela Internet).</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3333883550" index="F">
+<term><content-text>Federal Communication Commission (FCC) </content-text></term>
+<definition><content-text><p>Comissão Federal de Comunicações. Responsável pela regulamentação de todo uso de rádio e TV que não seja pelo Governo Federal, todas as comunicações interestaduais (por fio, satélite e cabo), bem como por todas as comunicações internacionais que se originam ou terminam nos Estados Unidos.</p></content-text></definition>
+<variations><content-text>FCC</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3854593082" index="F">
+<term><content-text>ferramenta de colaboração</content-text></term>
+<definition><content-text><p>Uma ferramenta de colaboração é algo que ajuda as pessoas a trabalharem juntas em determinado arquivo ou parte de um software. Muitas pessoas usam o termo ferramenta de colaboração num contexto de software, por exemplo, software de colaboração, como google docs, Microsoft sharepoint server. </p></content-text></definition>
+<variations><content-text>Ferramenta de colaboração</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8778233517" index="F">
+<term><content-text>fibra ótica</content-text></term>
+<definition><content-text><p>Meio físico que usa fios de vidro ou plástico para transmitir dados. Um cabo de fibra ótica consiste em um feixe de fios, cada qual capaz de transmitir sinais elétricos na forma de ondas de luz.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2100490477" index="F">
+<term><content-text>filtragem</content-text></term>
+<definition><content-text><p>Ato de selecionar dados e descartá-los com base em certos critérios pré-determinados.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8881491965" index="F">
+<term><content-text>fim-a-fim</content-text></term>
+<definition><content-text><p>Dispositivo de usuário final para dispositivo de usuário final.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5879970086" index="F">
+<term><content-text>firewall</content-text></term>
+<definition><content-text><p>Dispositivo de hardware ou aplicativo de software projetado para protejer dispositivos de rede de usuários de rede externos e/ou aplicativos e arquivos mal-intencionados.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2042422236" index="F">
+<term><content-text>flag de fim de comunicação FIN (Finish)</content-text></term>
+<definition><content-text><p>Mensagem usada pelo TCP que é usada por um dispositivo que deseja terminar sua sessão com outro dispositivo. Isso é feito inserindo-se uma flag FIN no campo flag encontrado no segmento TCP.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>TCP</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8909976276" index="F">
+<term><content-text>fluxo</content-text></term>
+<definition><content-text><p>Fluxo de dados que viaja entre dois pontos finais de uma rede (por exemplo, de uma estação LAN para outra). Pode-se transmitir múltiplos fluxos em um único circuito.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4798620598" index="F">
+<term><content-text>fragmentação</content-text></term>
+<definition><content-text><p>A fragmentação de datagramas IP a fim de atingir os requisitos MTU de protocolos de 2 camadas.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>deslocamento de fragmento</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7456206256" index="F">
+<term><content-text>fragmento de colisão</content-text></term>
+<definition><content-text><p>Fragmentos de colisão são o produto de uma colisão num meio compartilhado. O tamanho dos fragmentos é menor que 64 bytes.</p></content-text></definition>
+<variations><content-text>Fragmento de colisão</content-text></variations>
+<seealso><content-text>runt frame</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg1664647218" index="F">
+<term><content-text>full-duplex</content-text></term>
+<definition><content-text><p>Comunicação que permite receber e transmitir simultaneamente. Uma estação pode transmitir e receber ao mesmo tempo. Não há colisões em trasmissões em full duplex.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>em half duplex</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg1592166249" index="G">
+<term><content-text>gateway</content-text></term>
+<definition><content-text><p>Na comunidade IP, um termo mais antigo para se referir um dispositivo de roteamento. Hoje, o termo roteador é usado para descrever nós que desempenham essa função, e gateway se refere a um dispositivo específico que converte a camada de aplicação das informações de uma pilha de protocolo para outra. Compare com roteador.</p></content-text></definition>
+<variations><content-text>Gateway</content-text></variations>
+<seealso><content-text>gateway padrão</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg1972923277" index="G">
+<term><content-text>gateway padrão</content-text></term>
+<definition><content-text><p>Dispositivo numa rede que serve de ponto de acesso para outra rede. Um host usa um gateway padrão quando o endereço de destino de um pacote IP pertence a um local fora da sub-rede local. Um roteador é um bom exemplo de um gateway padrão.</p></content-text></definition>
+<variations><content-text>Gateway Padrão</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7862622719" index="G">
+<term><content-text>Gbps</content-text></term>
+<definition><content-text><p>Gigabits (um bilhão de bits) por segundo.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg6593853669" index="G">
+<term><content-text>gerenciado (dispositivo)</content-text></term>
+<definition><content-text><p>Dispositivo que o usuário pode conectar a uma porta console ou via HTTP ao monitor e configurar o dispositivo.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg1803387432" index="G">
+<term><content-text>goodput</content-text></term>
+<definition><content-text><p>Taxa de transferência ao nível da aplicação. É o número de bits úteis por unidade de tempo a partir de certo endereço de origem para certo destino, excluindo-se overhead de protocolo e pacotes de dados retransmitidos.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2769225024" index="G">
+<term><content-text>grupos de códigos</content-text></term>
+<definition><content-text><p>Um grupo de códigos é uma seqüência consecutiva de bits de códigos que é interpretada e mapeada com padrões de bits de dados.</p></content-text></definition>
+<variations><content-text>Grupos de código</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg6871767611" index="G">
+<term><content-text>grupo de host</content-text></term>
+<definition><content-text><p>Um grupo de host é um grupo definido por um endereço classe D (multicast, com intervalo entre 224.0.0.0 - 239.255.255.255) no qual os hosts podem estar relacionados a grupos multicast. Hosts que têm o mesmo endereço multicast fazem parte do mesmo grupo de host.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2938322297" index="G">
+<term><content-text>grupo multicast</content-text></term>
+<definition><content-text><p>Um grupo multicast é um grupo que recebe uma transmissão multicast. Os membros de um grupo multicast têm o mesmo endereço IP multicast a fim de receber a mesma transmissão.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5512071228" index="H">
+<term><content-text>half-duplex</content-text></term>
+<definition><content-text><p>Comunicação que permite que uma estação só receba quando a outra estação estiver transmitindo.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>full-duplex</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2603496200" index="H">
+<term><content-text>handshake triplo</content-text></term>
+<definition><content-text><p>Processo que estabelece uma sessão TCP entre dois pontos finais. O processo é o seguinte. 1. Um cliente quer se comunicar com um servidor. O cliente envia um segmento com uma flag SYN marcada. 2. Em resposta, o servidor responde com um SYN-ACK. 3. O cliente envia um ACK (em geral chamado SYN-ACK-ACK) de volta ao outro ponto e a sessão é estabelecida.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9573794006" index="H">
+<term><content-text>hardware</content-text></term>
+<definition><content-text><p>Hardware são os componentes físicos de um computador, como o disco rígido, o chip de memória, a placa-mãe, a CPU, etc.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2034619012" index="H">
+<term><content-text>hexadecimal</content-text></term>
+<definition><content-text><p>Sistema de numeração em base 16 cujos caracteres começam com 0-9 e A-F (para representar 10-15).</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9234088973" index="H">
+<term><content-text>hierárquico</content-text></term>
+<definition><content-text><p>Algo que é classificado de acordo com vários critérios em níveis ou camadas sucessivas. Por exemplo, você pode planejar seu endereço de rede em um modo hierárquico a fim de permitir roteamento eficiente.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2271159678" index="H">
+<term><content-text>host</content-text></term>
+<definition><content-text><p>Dispositivo que se comunica em uma rede.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>cliente,nó</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9350958682" index="H">
+<term><content-text>HTML</content-text></term>
+<definition><content-text><p>Hyper Text Markup Language. Código-fonte em que são escritos os sites. Os navegadores de Internet baixam os códigos-fontes dos servidores Web e convertem os códigos em formato visual para que o usuário final possa visualizá-los. </p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9611283895" index="H">
+<term><content-text>http seguro (https)</content-text></term>
+<definition><content-text><p>Usa https como URL para indicar que se deve usar HTTP, mas com uma porta TCP padrão diferente (443) e uma camada adicional de criptografia/autenticação entre os protocolos HTTP e TCP.</p></content-text></definition>
+<variations><content-text>HTTPS,https,HTTP Seguro</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8996250406" index="H">
+<term><content-text>Hub</content-text></term>
+<definition><content-text><p>Por definição, um hub é um ponto de encontro. Um ponto de agregação. Em termos de equipamento, um hub é um dispositivo que age como repetidor multiportas. </p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2482260364" index="H">
+<term><content-text>hybrid fiber coax (HFC)</content-text></term>
+<definition><content-text><p>Coaxial de fibra híbrida. Rede que incorpora fibra ótica junto com cabo coaxial para criar uma rede de banda larga. Muito usada por TVs a cabo.</p></content-text></definition>
+<variations><content-text>HFC</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8919640584" index="I">
+<term><content-text>impulsos eletrônicos</content-text></term>
+<definition><content-text><p>Oscilação de voltagem elétrica em uma direção.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9806403498" index="I">
+<term><content-text>início de quadro (sof)</content-text></term>
+<definition><content-text><p>Campo no quadro de enlace de dados que denota o início da transmissão do quadro.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4750496200" index="I">
+<term><content-text>Institute of Electrical and Electronics Engineers (IEEE) </content-text></term>
+<definition><content-text><p>Instituto de Engenharia Elétrica e Eletrônica, organização internacional sem fins lucrativos para avançar a tecnologia relacionada à eletricidade. Tem mais de 360.000 membros em mais de 175 países.</p></content-text></definition>
+<variations><content-text>IEEE,Instituto de Engenharia Elétrica e Eletrônica (IEEE)</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4920408273" index="I">
+<term><content-text>interface de hardware</content-text></term>
+<definition><content-text><p>Conector físico que conecta circuitos elétricos. Uma interface de hardware conecta a conexão de ambas as extremidades. Por exemplo, uma interface de hardware é onde você conecta o conector do cabo ao equipamento.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9777283344" index="I">
+<term><content-text>Interferência Eletromagnética (EMI)</content-text></term>
+<definition><content-text><p>Interferência em receptor de rádio ou outro circuito elétrico por radiação eletromagnética emitida por fonte externa.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>Interferência de Radiofrequência (RFI)</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9718228236" index="I">
+<term><content-text>International Organization for Standardization (ISO) </content-text></term>
+<definition><content-text><p>Organização Internacional para Padronização, composta de representantes de várias organizações nacionais de padronização. Também chamada ISO. Há muitas normas ISO que abrangem várias indústrias, de normas de qualidade a normas de segurança da informação. </p></content-text></definition>
+<variations><content-text>ISO</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9804127932" index="I">
+<term><content-text>International Telecommunication Union (ITU)</content-text></term>
+<definition><content-text><p>Regulamenta as transmissões internacionais de rádio e as telecomunicações. Padroniza, organiza acordos de interconexão entre países para permitir comunicações internacionais por telefone e é responsável por alocar o espectro de rádio.</p></content-text></definition>
+<variations><content-text>ITU</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4697296326" index="I">
+<term><content-text>Internet</content-text></term>
+<definition><content-text><p>A Internet é uma rede de acesso público de redes de computadores interconectados que transmitem dados usando IP, o protocolo da Internet.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>World Wide Web (WWW)</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3738856075" index="I">
+<term><content-text>Internet Assigned Numbers Authority (IANA)</content-text></term>
+<definition><content-text><p>Organização responsável por alocar os endereços de Protocolo de Internet para os provedores de Internet (ISPs).</p></content-text></definition>
+<variations><content-text>IANA</content-text></variations>
+<seealso><content-text>RIR</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5397479142" index="I">
+<term><content-text>Internet Engineering Task Force (IETF)</content-text></term>
+<definition><content-text><p>Internet Engineering Task Force. É composta de mais de 80 grupos de trabalho responsáveis pelo desenvolvimento de padrões para a Internet. A IETF opera sob a orientação da ISOC.</p></content-text></definition>
+<variations><content-text>IETF</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5989088433" index="I">
+<term><content-text>Internetwork Operating System (IOS)</content-text></term>
+<definition><content-text><p> Esse é o sistema operacional usado por muitos dispositivos de rede Cisco Systems. Versões diferentes do IOS têm funções diferentes para dispositivos diferentes. </p></content-text></definition>
+<variations><content-text>IOS</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5855726244" index="I">
+<term><content-text>interpretar como comando (iac)</content-text></term>
+<definition><content-text><p>Na aplicação telnet, os comandos sempre são introduzidos por um caractere com o código decimal 255, conhecido como caractere interpretar como comando (IAC).</p></content-text></definition>
+<variations><content-text>IAC,Interpretar como Comando (IAC)</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7154493575" index="I">
+<term><content-text>intervalo entre quadros</content-text></term>
+<definition><content-text><p>Um intervalo entre frames dá um breve tempo de recuperação entre os quadros para permitir que os dispositivos se preparem para receber o próximo quadro. O espaço usual entre quadros Ethernet é de 96 tempos de bit.</p></content-text></definition>
+<variations><content-text>Intervalo entre Quadros</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9057218108" index="I">
+<term><content-text>intranet</content-text></term>
+<definition><content-text><p>Sistema interno de uma organização, como um site da Internet, que é explicitametne usado por empregados internos ou estudantes. Pode ser acessado interna ou remotamente.</p></content-text></definition>
+<variations><content-text>Intranet</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg1910361726" index="I">
+<term><content-text>inundação</content-text></term>
+<definition><content-text><p>Envio de quadros por todas as portas de saída.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2489416456" index="I">
+<term><content-text>IPv4</content-text></term>
+<definition><content-text><p>Abreviatura de Internet Protocol, versão 4. É a versão atual do protocolo.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2414321304" index="I">
+<term><content-text>IPv6</content-text></term>
+<definition><content-text><p>Protocolo de camadas de rede para trabalhos de internet com pacotes comutados. O sucessor do IPv4 para uso geral na Internet.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7097705617" index="L">
+<term><content-text>latência</content-text></term>
+<definition><content-text><p>É o atraso entre o momento em que um processo é iniciado e o momento em que os efeitos desse processo são detectados. Por exemplo, ao transmitir dados, a latência é o atraso necessário para que os dados sejam enviados entre o remetente e o receptor.</p></content-text></definition>
+<variations><content-text>Latência</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7937206257" index="L">
+<term><content-text>largura de banda</content-text></term>
+<definition><content-text><p>A quantidade de dados que podem ser transmitidos durante um certo tempo. A largura de banda digital em geral é expressa em bits por segundo (bps). A largura de banda analógica é expressa em ciclos por segundo, ou Hertz (Hz).</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7109196875" index="L">
+<term><content-text>linha de base de rede</content-text></term>
+<definition><content-text><p>Uma linha de base de rede é um processo que envolve monitorar o desempenho e comportamento da rede durante certo período permitindo um ponto de referência quando se quer monitorar o desempenho futuro. </p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5759570590" index="L">
+<term><content-text>Linux</content-text></term>
+<definition><content-text><p>Família de sistemas operacionais para computador semelhante ao Unix. Algumas versões do Linux são gratuitas, e o código-fonte está disponível para que qualquer um possa usá-lo. </p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5684156632" index="L">
+<term><content-text>llc</content-text></term>
+<definition><content-text><p>Logical Link Control é a camada superior da camada de enlace de dados do modelo OSI. Quando um host recebe um quadro e olha no cabeçalho LLC, ele descobre que protocolo de camada superior está sendo transportado no quadro, por exemplo, o protocolo IP na camada de rede ou IPX.</p></content-text></definition>
+<variations><content-text>Logical Link Control,logical link control</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg6223622716" index="L">
+<term><content-text>lógica digital</content-text></term>
+<definition><content-text><p>Também conhecida como álgebra booleana. Consiste em operações AND, OR, IF.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>AND</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9464654977" index="L">
+<term><content-text>loop back</content-text></term>
+<definition><content-text><p>127.0.0.1 é um endereço IP disponível em todos os dispositivos para testar se a placa de rede daquele dispositivo está funcionando. Se você enviar dados para 127.0.0.1, eles retornam, enviando os dados para a placa de rede daquele dispositivo. Se tiver uma resposta positiva a um ping 127.0.0.1, você sabe que sua placa de rede está em funcionamento.</p></content-text></definition>
+<variations><content-text>loopback</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2454633448" index="L">
+<term><content-text>loop de roteamento</content-text></term>
+<definition><content-text><p>Problema de rede no qual os pacotes continuam sendo roteados num círculo sem fim.</p></content-text></definition>
+<variations><content-text>Loop de roteamento</content-text></variations>
+<seealso><content-text>roteamento</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5842843646" index="M">
+<term><content-text>Mail User Agent (MUA)</content-text></term>
+<definition><content-text><p>O Agente de Usuário de Correio (MUA) permite que as mensagens sejam enviadas e colocar as mensagens recebidas na caixa de entrada do cliente, que são processos distintos.</p></content-text></definition>
+<variations><content-text>agente de usuário de correio,MUA</content-text></variations>
+<seealso><content-text>cliente de e-mail</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5596619457" index="M">
+<term><content-text>máscara de sub-rede</content-text></term>
+<definition><content-text><p>A função de uma máscara de sub-rede é identificar uma parte da rede, a porção de sub-rede e a porção de host de um endereço IP. A divisão em sub-redes é um meio de dividir a rede, separando uma rede grande ou extremamente grande em segmentos menores, mais eficientes e mais fáceis de gerenciar, ou seja, em sub-redes.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg1135809192" index="M">
+<term><content-text>Máscara de Sub-Rede de Tamanho Variável (VLSM)</content-text></term>
+<definition><content-text><p>VLSM é a capacidade de especificar uma máscara de sub-rede diferente para o mesmo número de rede em diferentes sub-redes. A VLSM pode ajudar a otimizar o espaço de endereços disponível.</p></content-text></definition>
+<variations><content-text>VLSM</content-text></variations>
+<seealso><content-text>classless</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4818723250" index="M">
+<term><content-text>Maximum Transmission Unit (MTU)</content-text></term>
+<definition><content-text><p>Unidade máxima de transmissão. Tamanho máximo do pacote, em bytes, que determinada interface pode manusear.</p></content-text></definition>
+<variations><content-text>MTU</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5604826966" index="M">
+<term><content-text>Mbps</content-text></term>
+<definition><content-text><p>Megabits (um milhão de bits) por segundo.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7419466938" index="M">
+<term><content-text>MDI</content-text></term>
+<definition><content-text><p>Medium Dependent Interface. Basicamente a ordem de pinout em uma placa de rede de um PC. Em hubs ou switches, também é conhecida como porta de uplink. </p></content-text></definition>
+<variations><content-text>mdi</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg1739398725" index="M">
+<term><content-text>MDIX</content-text></term>
+<definition><content-text><p>Media Dependent Interface Crossover é o pinout de um hub ou switch no qual os pinos de entrada de um lado correspondem aos pinos de saída do outro lado.</p></content-text></definition>
+<variations><content-text>mdix</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg1750219177" index="M">
+<term><content-text>meio</content-text></term>
+<definition><content-text><p>Meio físico no qual os dados são transferidos. Por exemplo, UTP é uma forma de mídia de rede.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg1933570485" index="M">
+<term><content-text>mídia</content-text></term>
+<definition><content-text><p>No contexto deste curso, mídia é o plural de meio.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9380229448" index="M">
+<term><content-text>mídia em stream</content-text></term>
+<definition><content-text><p>Multimídia que é baixada continuamente para o host receptor à medida que o usuário final vê ao material. Isso permite que o usuário final assista ao material sem ter que baixar todo o arquivo de multimídia para o seu computador.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg6256587515" index="M">
+<term><content-text>modelo cliente/servidor</content-text></term>
+<definition><content-text><p>Arquitetura de rede que conecta um cliente a um servidor por meio do qual o cliente acessa serviços fornecidos pelo servidor.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5158418481" index="M">
+<term><content-text>modelo em camadas</content-text></term>
+<definition><content-text><p>Modelo que consiste em várias camadas que permitem o desenvolvimento e explicação de tecnologia a ser feita em base modular. Isso permite interoperabilidade em diferentes tecnologias e entre diferentes camadas.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>modelo OSI</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4646142731" index="M">
+<term><content-text>modo de configuração global</content-text></term>
+<definition><content-text><p>A partir do modo privilegiado entramos no modo de configuração global onde podemos configurar parâmetros globais ou entrar em outros sub-modos de configuração, como o de interface, o de roteador e o de configuração de linha.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5272375989" index="M">
+<term><content-text>modo de transmissão assíncrona</content-text></term>
+<definition><content-text><p>Termo que descreve sinais digitais que são transmitidos sem um sincronismo preciso. Esses sinais em geral têm frequências e relações de fases diferentes. As transmissões assíncronas em geral encapsulam caracteres individuais em bits de controle (chamados bits de início e de parada) que designam o início e fim de cada caractere.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>Síncrono</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8595885036" index="M">
+<term><content-text>Modo enable</content-text></term>
+<definition><content-text><p>Termo usado para representar o modo EXEC privilegiado.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>modo exec privilegiado</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5613945087" index="M">
+<term><content-text>modo exec privilegiado</content-text></term>
+<definition><content-text><p>O Modo Exec Privilegiado é o modo de administração para roteador ou switch. Esse modo permite que voce visualize as configurações do roteador que só são consideradas acessíveis ao administrador. Esse modo também permite que você entre no modo de configuração global. Para entrar no modo exec privilegiado você precisa habilitar esse comando.</p></content-text></definition>
+<variations><content-text>Modo exec privilegiado,modo exec privilegiado</content-text></variations>
+<seealso><content-text>enable mode (modo enable)</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg1027796124" index="M">
+<term><content-text>modo exec usuário</content-text></term>
+<definition><content-text><p>Também conhecido como modo de visualização, esse modo é o mais restrito do IOS. O usuário é o único que pode monitorar e visualizar informações limitadas no roteador ou switch. </p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5917403392" index="M">
+<term><content-text>multiplexação</content-text></term>
+<definition><content-text><p>Processo em que múltiplos fluxos de dados digitais são combinados em um sinal.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5148300473" index="N">
+<term><content-text>navegador</content-text></term>
+<definition><content-text><p>Aplicação cliente de hipertexto baseada em interface gráfica do usuário, como o Internet Explorer, Mosaic e Netscape Navigator, usada para acessar documentos com hipertexto e outros serviços localizados em inúmeros servidores remotos na WWW e Internet.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4211054090" index="N">
+<term><content-text>ndp</content-text></term>
+<definition><content-text><p>Neighbor Discovery Protocol (NDP). Substitui o ARP no IPv6.</p></content-text></definition>
+<variations><content-text>NDP,neighbor discovery protocol</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7029362596" index="N">
+<term><content-text>negação de serviço</content-text></term>
+<definition><content-text><p>Tentativa de tornar um recurso de computador indisponível ao usuário pretendido. Também chamada DoS.</p></content-text></definition>
+<variations><content-text>Negação de Serviço,DoS</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2091812240" index="N">
+<term><content-text>Network Address Translation (NAT)</content-text></term>
+<definition><content-text><p>Tradução dos endereços RFC 1918 para endereços de domínio público. Visto que os endereços RFC 1918 não são roteados nos hosts que acessam a internet, eles precisam usar endereços de domínio público.</p></content-text></definition>
+<variations><content-text>NAT</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8163199529" index="N">
+<term><content-text>Network Time Protocol (NTP)</content-text></term>
+<definition><content-text><p>Protocolo para sincronizar os clocks dos sistemas do computador em redes de dados de pacotes comutados. O NTP usa a porta UDP 123 da camada de transporte.</p></content-text></definition>
+<variations><content-text>NTP</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg1952070198" index="N">
+<term><content-text>nibbles</content-text></term>
+<definition><content-text><p>Um único dígito hexadecimal representado por 4 bits.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5878243021" index="N">
+<term><content-text>nó</content-text></term>
+<definition><content-text><p>Termo da camada de enlace de dados que descreve um dispositivo conectado à rede.</p></content-text></definition>
+<variations><content-text>Nó</content-text></variations>
+<seealso><content-text>host</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5466107955" index="N">
+<term><content-text>nome de domínio</content-text></term>
+<definition><content-text><p>Nomes usados para o Sistema de Resolução de Nome (DNS), por exemplo, o nome especial que vem depois do sinal @ em endereços de e-mail, ou domínios de nível superior, como .com.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>resolvedor DNS,Sistema de resolução de nome (DNS)</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8993449568" index="N">
+<term><content-text>non-return to zero (NRZ) não retorna ao zero</content-text></term>
+<definition><content-text><p>Sinais que mantêm níveis constantes de voltagem sem transição de sinal (sem retorno a um nível zero de voltagem) durante um intervalo de bit.</p></content-text></definition>
+<variations><content-text>NRZ,Não retorna ao Zero,Não Retorna ao Zero</content-text></variations>
+<seealso><content-text>codificação</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7566693783" index="N">
+<term><content-text>notação posicional</content-text></term>
+<definition><content-text><p>Notação posicional ou sistema de notação local-valor é um sistema de numeração no qual cada posição está relacionada com a próxima por um multiplicador constante, uma taxa comum, chamada de base ou raiz daquele sistema de numeração.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7637958713" index="N">
+<term><content-text>nslookup</content-text></term>
+<definition><content-text><p>NSLOOKUP é um serviço ou programa para procurar informações no DNS (Sistema de Resolução de Nome).</p></content-text></definition>
+<variations><content-text>NSLOOKUP</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4695291891" index="N">
+<term><content-text>números de sequência</content-text></term>
+<definition><content-text><p>Usados pelo TCP para assegurar que os segmentos não sejam perdidos. Cada segmento tem um número de seqüência anexado a ele. Isso também permite que a estação receptora se certifique de que os dados são entregues na outra extremidade na ordem correta.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>TCP/IP</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7949867768" index="N">
+<term><content-text>número seqüencial de sincronização (syn)</content-text></term>
+<definition><content-text><p>Uma flag de SYN é colocada no campo flag de um segmento por um ponto final que deseja estabelecer uma sessão TCP com outro ponto final. </p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8532399263" index="N">
+<term><content-text>nuvem</content-text></term>
+<definition><content-text><p>O símbolo de nuvem é usado para representar as comunicações da rede sem dar detalhes específicos sobre a arquitetura. A nuvem em geral é usada para esconder os detalhes da Camada 1 e da Camada 2.</p></content-text></definition>
+<variations><content-text>Nuvem</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4846030458" index="N">
+<term><content-text>NVRAM</content-text></term>
+<definition><content-text><p>Memória de Acesso Aleatório Não-Volátil. Memória RAM que, quando o computador é desligado, mantém o conteúdo da NVRAM.</p></content-text></definition>
+<variations><content-text>nvram</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9153817306" index="O">
+<term><content-text>octeto</content-text></term>
+<definition><content-text><p>Grupo de 8 bits binários. É similar, mas não é o mesmo que byte. Uma aplicação numa rede de computadores usa o octeto para dividir endereços IPv4 em 4 componentes.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8029982631" index="O">
+<term><content-text>Open System Interconnection (OSI)</content-text></term>
+<definition><content-text><p>Programa internacional de padronização criado pela ISO e ITU-T para desenvolver padrões para redes de dados que facilitem a interoperacionalidade de equipamentos de fornecedores diferentes.</p></content-text></definition>
+<variations><content-text>OSI</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5306666874" index="O">
+<term><content-text>origem</content-text></term>
+<definition><content-text><p>A origem de uma mensagem.</p></content-text></definition>
+<variations><content-text>Origem</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg1967455907" index="O">
+<term><content-text>OUI</content-text></term>
+<definition><content-text><p>Organizationally Unique Identifier. Esse identificador identifica de forma exclusiva um vendedor ou fabricante de uma placa de rede. São os primeiros 24 bits de uma placa de rede.</p></content-text></definition>
+<variations><content-text>OUI,Organizationally Unique Identifier</content-text></variations>
+<seealso><content-text>endereço MAC</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg1718945775" index="P">
+<term><content-text>p2p</content-text></term>
+<definition><content-text><p>Rede ponto-a-ponto em que computadores que são parte da mesma rede criam um sistema distribuído. Em geral usado para trocar arquivos com colegas p2p. A computação ponto-a-ponto exige que cada dispositivo de rede execute tanto a parte cliente como servidor de uma aplicação.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>par</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9008499252" index="P">
+<term><content-text>pacote</content-text></term>
+<definition><content-text><p>Agrupamento lógico de informações que inclui um cabeçalho com informações de controle e (em geral) dados de usuário. Os pacotes em geral são usados para indicar unidades de dado na camada de rede. Os termos datagrama, quadro, mensagem e segmento também são usados para descrever agrupamentos lógicos de informações em várias camadas do modelo de referência OSI e em vários círculos de tecnologia.</p></content-text></definition>
+<variations><content-text>Pacote,pacotes</content-text></variations>
+<seealso><content-text>pdu</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7184236650" index="P">
+<term><content-text>packet tracer</content-text></term>
+<definition><content-text><p>Ferramenta de instruções e simulador de rede desenvolvido pela Cisco Systems para projetar, configurar, resolver problemas e visualizar tráfego na rede dentro de um ambiente de programa simulado e controlado.</p></content-text></definition>
+<variations><content-text>Packet Tracer</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5914319596" index="P">
+<term><content-text>pad</content-text></term>
+<definition><content-text><p>Parte do quadro Ethernet que preenche o campo de dados para assegurar que o campo de dados antende ao requisito de tamanho mínimo de 46 bytes.</p></content-text></definition>
+<variations><content-text>PAD</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3269450555" index="P">
+<term><content-text>padrão</content-text></term>
+<definition><content-text><p>Definição internacionalmente reconhecida de especificações técnicas que asseguram consistência mundial.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9829065501" index="P">
+<term><content-text>pam</content-text></term>
+<definition><content-text><p>Modulação de pulso-amplitude. Forma de modulação de sinal em que as informações da mensagem são codificadas na amplitude de uma série de pulsos do sinal. Transmite dados variando as amplitudes (níveis de voltagem ou energia) dos pulsos individuais. Está obsoleta e foi substituída pela Modulação de Pulso-Código.</p></content-text></definition>
+<variations><content-text>PAM</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9483218984" index="P">
+<term><content-text>par</content-text></term>
+<definition><content-text><p>Host ou nó que participa de alguma forma de um grupo. Por exemplo, a tecnologia ponto-a-ponto define um grupo de colegas que participam em conjunto na mesma atividade, cada um como um componente de servidor e cliente.</p></content-text></definition>
+<variations><content-text>Par</content-text></variations>
+<seealso><content-text>p2p</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg1649088123" index="P">
+<term><content-text>parâmetros de comparação</content-text></term>
+<definition><content-text><p>Padrão pelo qual algo pode ser medido ou avaliado. Um parâmetro de comparação, em geral, é usado para testar o desempenho da rede, comparando-o aos resultados de desempenho do parâmetro de comparação. </p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4918360444" index="P">
+<term><content-text>passagem de token</content-text></term>
+<definition><content-text><p>Método de redes determinísticas em que um &quot;token&quot; é passado entre os nós e que autoriza o nó a se comunicar.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8392593933" index="P">
+<term><content-text>pda</content-text></term>
+<definition><content-text><p>Um PDA (Assistente Digital Pessoal) é um dispositivo de mão normalmente usado para ajudar a manter uma pessoa organizada.</p></content-text></definition>
+<variations><content-text>PDA,PDAs</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg6182388734" index="P">
+<term><content-text>pdu</content-text></term>
+<definition><content-text><p>Abreviação de Protocol Data Unit (Unidade de Dados de Protocolo). O termo PDU é usado para descrever dados ao se mover de uma camada do modelo OSI para outra. Nesta referência, PDU em geral é usado como sinônimo de pacote.</p></content-text></definition>
+<variations><content-text>PDU</content-text></variations>
+<seealso><content-text>modelo OSI,pacote</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg1104866693" index="P">
+<term><content-text>PHY Ethernet</content-text></term>
+<definition><content-text><p>PHY Ethernet é o transceptor de interface física, ou seja, ele lida com a camada 1 (a camada física, de onde vem a sigla PHY) da Ethernet.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9624055364" index="P">
+<term><content-text>pinouts</content-text></term>
+<definition><content-text><p>Designação de pino que descreve que sinal pode ser obtido de uma posição no conector.</p></content-text></definition>
+<variations><content-text>pinout,Pinout</content-text></variations>
+<seealso><content-text>MDI,MDIX</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7973906924" index="P">
+<term><content-text>placa de interface de rede</content-text></term>
+<definition><content-text><p>Hardware projetado para permitir que os computadores se comuniquem em uma rede de computadores.</p></content-text></definition>
+<variations><content-text>NIC,Cartão de Interface da Rede</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7028376463" index="P">
+<term><content-text>plug-in</content-text></term>
+<definition><content-text><p>Programa que age como anexo de um programa principal, como o flash player que você instala a fim de visualizar animações em flash no seu navegador.</p></content-text></definition>
+<variations><content-text>Plugin,Plug-in</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2783350497" index="P">
+<term><content-text>podcasting</content-text></term>
+<definition><content-text><p>Podcast é um arquivo ou arquivos de mídia digital distribuído(s) pela Internet usando syndication feeds, e que podem ser executados em players de mídia portáteis ou computadores pessoais.</p></content-text></definition>
+<variations><content-text>Podcasting</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2316606590" index="P">
+<term><content-text>pontos de falha</content-text></term>
+<definition><content-text><p>Descreve qualquer parte do sistema que pode, se falhar, causar uma interrupção no serviço requerido.</p></content-text></definition>
+<variations><content-text>Pontos de falha</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4267793723" index="P">
+<term><content-text>porta Aux</content-text></term>
+<definition><content-text><p>Porta auxiliar de um roteador. É usada para manter conectividade com o roteador. Em geral é usada para obter acesso dial-in ao roteador. </p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5138140191" index="P">
+<term><content-text>porta console</content-text></term>
+<definition><content-text><p>Porta na qual se pode conectar um terminal ou computador com um emulador de terminal ao dispositivo de rede a fim de se comunicar com o dispositivo de rede e configurá-lo.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7163053275" index="P">
+<term><content-text>portador</content-text></term>
+<definition><content-text><p>Onda eletromagnética ou corrente alternada de uma única freqüência, apropriada para modulação para outro sinal portador de dados.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg1178769020" index="P">
+<term><content-text>portas</content-text></term>
+<definition><content-text><p>Portas são usadas, em geral, para identificar certo processo ou serviço no computador. Quando um dispositivo remoto quer acessar certo serviço num servidor, por exemplo, ele direcionará aqueles dados para certa porta que identificará o tipo de serviço que o dispositivo quer usar. </p></content-text></definition>
+<variations><content-text>porta</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2891500490" index="P">
+<term><content-text>portas conhecidas</content-text></term>
+<definition><content-text><p>Portas com intervalo entre 0-1023.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>porta</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7202241443" index="P">
+<term><content-text>portas dinâmicas e/ou privadas</content-text></term>
+<definition><content-text><p>Portas no intervalo 49152-65535 que não são usadas por nenhuma aplicação definida.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5170182245" index="P">
+<term><content-text>portas registradas</content-text></term>
+<definition><content-text><p>Números de portas de 1024-49151. São usados por processos ou programas executados pelo usuário.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>porta</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5352301086" index="P">
+<term><content-text>Power Over Ethernet (POE)</content-text></term>
+<definition><content-text><p>Método de transmissão de energia para um dispositivo, não usando os fios 4/5 e 7/8 de um cabo UTP. Permite que access points e outros dispositivos remotos sejam instalados em locais onde não há tomadas de corrente alternada.</p></content-text></definition>
+<variations><content-text>POE,power over Ethernet</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8492586903" index="P">
+<term><content-text>processo</content-text></term>
+<definition><content-text><p>Série de passos progressivos e interdependentes para se alcançar um fim.</p></content-text></definition>
+<variations><content-text>Processo</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2951748779" index="P">
+<term><content-text>processo invasor</content-text></term>
+<definition><content-text><p>Processos invasores são processos que não são iniciados pelo usuário final nem por aplicações do sistema operacional, às vezes consumindo uma grande porcentagem do uso da CPU.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9051928007" index="P">
+<term><content-text>protocolo</content-text></term>
+<definition><content-text><p>Conjunto de regras que rege a comunicação.</p></content-text></definition>
+<variations><content-text>Protocolo</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5634427280" index="P">
+<term><content-text>protocolo DHCP</content-text></term>
+<definition><content-text><p>DHCP (Dynamic Host Configuration Protocol) é o protocolo usado para solicitar e designar um endereço IP, gateway padrão e endereço de servidor DNS a um host da rede.</p></content-text></definition>
+<variations><content-text>DHCP</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8303632643" index="P">
+<term><content-text>Protocolo de Streaming em Tempo Real (RTSP)</content-text></term>
+<definition><content-text><p>Protocolo para uso em sistemas de streaming de mídia que permite que um cliente controle um stream de mídia. </p></content-text></definition>
+<variations><content-text>RTSP</content-text></variations>
+<seealso><content-text>stream,stream de mídia</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5343051206" index="P">
+<term><content-text>protocolo HTTP</content-text></term>
+<definition><content-text><p>O protocolo HTTP é o método usado para transferir ou apresentar informações na Internet. Seu objetivo original era fornecer um modo de publicar e recuperar páginas HTML.</p></content-text></definition>
+<variations><content-text>HTTP</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9163455963" index="P">
+<term><content-text>protocolo ICMP</content-text></term>
+<definition><content-text><p>Internet Control Message Protocol. Protocolo de Internet de camada de rede que relata erros e fornece outras informações relevantes para o processamento de pacotes IP. Documentado no RFC 792.</p></content-text></definition>
+<variations><content-text>ICMP, Internet control messaging protocol</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7100976922" index="P">
+<term><content-text>protocolo IP</content-text></term>
+<definition><content-text><p>Internet Protocol. Protocolo da camada de rede na pilha TCP/IP que oferece um serviço de redes interconectadas sem conexão. O IP tem característias que permitem endereçar, especificar o tipo de serviço, fragmentar e remontar, além de garantir a segurança. Documentado no RFC 791.</p></content-text></definition>
+<variations><content-text>IP</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9044211347" index="P">
+<term><content-text>protocolo POP</content-text></term>
+<definition><content-text><p>POP (Post Office Protocol) é um protocolo usado ao baixar mensagens de e-mail.</p></content-text></definition>
+<variations><content-text>POP</content-text></variations>
+<seealso><content-text>protocolo SMTP</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg1817302350" index="P">
+<term><content-text>protocolo RTP</content-text></term>
+<definition><content-text><p>Formato de pacote padronizado para entrega de áudio e vídeo pela Internet. </p></content-text></definition>
+<variations><content-text>RTTP</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9110170005" index="P">
+<term><content-text>protocolo SMB</content-text></term>
+<definition><content-text><p>O protocolo SMB é um protocolo de rede de nível de aplicação usado, em geral, para acesso compartilhado a arquivos, impressoras, portas seriais e comunicação mista entre nós numa rede.</p></content-text></definition>
+<variations><content-text>SMB</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8364352420" index="P">
+<term><content-text>protocolo UDP</content-text></term>
+<definition><content-text><p>Protocolo sem conexão da camada de transporte da pilha de protocolos Transmission Control Protocol/Internet Protocol (TCP/IP). O UDP é um protocolo simples que troca datagramas sem reconhecimento nem garantia de entrega, e exige que erros de processamento e retransmissão sejam resolvidos por outros protocolos. O UDP é definido na RFC 768.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9684122081" index="P">
+<term><content-text>protocolos de roteamento</content-text></term>
+<definition><content-text><p>Protocolo que realiza o roteamento por meio da implementação de um algoritmo de roteamento específico. Exemplos de protocolos de roteamento incluem IGRP, OSPF e RIP.</p></content-text></definition>
+<variations><content-text>Protocolos de roteamento</content-text></variations>
+<seealso><content-text>roteamento</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5091523352" index="P">
+<term><content-text>protocolo SMTP</content-text></term>
+<definition><content-text><p>Protocolo para transmissões de e-mail pela Internet. Usa a porta 25.</p></content-text></definition>
+<variations><content-text>SMTP,smtp</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7689149455" index="P">
+<term><content-text>protocolo TCP</content-text></term>
+<definition><content-text><p>Transmission control protocol: O TCP é o protocolo usado como base da maioria dos serviços da Internet. É usado em conjunto com o protocolo IP. Ele permite comunicação confiável, assegurando que os pacotes cheguem a seus destinos pretendidos.</p></content-text></definition>
+<variations><content-text>TCP</content-text></variations>
+<seealso><content-text>TCP/IP</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2460786425" index="P">
+<term><content-text>Provedor de Internet (ISP)</content-text></term>
+<definition><content-text><p>Um ISP é uma companhia que dá acesso à Internet para pessoas físicas ou jurídicas.</p></content-text></definition>
+<variations><content-text>ISP</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7902954090" index="P">
+<term><content-text>próximo salto</content-text></term>
+<definition><content-text><p>Próximo ponto de roteamento. Quando roteadores não estão diretamente conectados à rede de destino, têm um roteador vizinho que fornece o próximo passo no roteamento de dados até seu destino.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>salto</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3444275015" index="P">
+<term><content-text>proxy arp</content-text></term>
+<definition><content-text><p>Proxy ARP ocorre quando os roteadores respondem a solicitações ARP em uma interface com seu próprio endereço MAC como responsável por endereços de endereços de dispositivos em outra interface.</p></content-text></definition>
+<variations><content-text>proxy ARP,Proxy ARP</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8814027838" index="Q">
+<term><content-text>quadro</content-text></term>
+<definition><content-text><p>A PDU da camada dois que foi codificado por um protocolo da camada de enlace para transmissão digital. Alguns tipos diferentes de quadros são os quadros Ethernet e PPP.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8117247234" index="Q">
+<term><content-text>Qualidade de Serviço (QoS)</content-text></term>
+<definition><content-text><p>QoS (Qualidade de Serviço) é um mecanismo de controle que pode dar prioridades diferentes a usuários ou fluxos de dados diferentes, ou garantir certo nível de desempenho ao fluxo de dados em harmonia com solicitações dos programas de aplicação.</p></content-text></definition>
+<variations><content-text>QoS</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3818669670" index="R">
+<term><content-text>raiz</content-text></term>
+<definition><content-text><p>O número de vários dígitos únicos, incluindo zero, que um sistema de numeração posicional usa para representar números. Por exemplo, no sistema binário (base 2) a raiz é 2. No sistema decimal (base 10), a raiz é 10.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3552645711" index="R">
+<term><content-text>RAM</content-text></term>
+<definition><content-text><p>A Memória de Acesso Aleatório é um tipo de memória de computador que pode ser acessada aleatoriamente; quer dizer, qualquer byte da memória pode ser acessado sem se preocupar com os bytes anteriores. Essa é a memória disponível aos programas. Quando o computador é desligado, todos os dados aramzanados na RAM são perdidos.</p></content-text></definition>
+<variations><content-text>Memória de Acesso Aleatório,memória de acesso aleatório</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3024395868" index="R">
+<term><content-text>Real Time Transport Control (RTTC)</content-text></term>
+<definition><content-text><p>Ele reúne estatísticas em uma conexão de mídia e informações como bytes enviados, pacotes enviados, pacotes perdidos, jitter, feedback e atraso no percurso de ida e volta. É usado para fornecer informações de QoS ao RTP</p></content-text></definition>
+<variations><content-text>RTTC</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg6658596698" index="R">
+<term><content-text>recuperação de erros</content-text></term>
+<definition><content-text><p>Procedimento que permite a um usuário recuperar erros, como falha do sistema ou do processo de transferência. </p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4199584536" index="R">
+<term><content-text>rede</content-text></term>
+<definition><content-text><p>Uma rede são vários computadores conectados e usando um sistema de comunicação. O objetivo de uma rede é que os computadores se comuniquem e compartilhem arquivos.</p></content-text></definition>
+<variations><content-text>Redes,Rede</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5138437402" index="R">
+<term><content-text>rede convergida</content-text></term>
+<definition><content-text><p>Rede que permite que voz, vídeo e dados usem a mesma rede IP.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>convergir</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4415606189" index="M">
+<term><content-text>Metropolitan Area Network (MAN)</content-text></term>
+<definition><content-text><p>Rede de Área Metropolitana. Uma Rede de Área Metropolitana é uma rede que abrange uma cidade. A rede consiste em vários prédios interconectados por backbones sem fio ou de fibra ótica.</p></content-text></definition>
+<variations><content-text>MAN</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2936220824" index="R">
+<term><content-text>Rede Local (LAN)</content-text></term>
+<definition><content-text><p>O termo Rede Local (LAN) se refere a uma rede local ou a um grupo de redes locais interconectadas que estão sob o mesmo controle administrativo. No início das redes de computadores, as LANs eram definidas como pequenas redes que existiam em uma única localização física. Embora as LANs possam ser uma única rede local instalada em uma casa ou pequeno escritório, a definição de LAN evoluiu para incluir redes locais interconectadas, consistindo em muitas centenas de hosts, instalados em vários prédios e locais.</p></content-text></definition>
+<variations><content-text>LAN,Redes Locais</content-text></variations>
+<seealso><content-text>WAN</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7662420815" index="R">
+<term><content-text>Rede Local Virtual (VLAN)</content-text></term>
+<definition><content-text><p>Rede de computadores que se comporta como se estivessem conectados ao mesmo segmento de rede embora possam estar fisicamente localizados em segmentos diferentes da LAN. VLANs são configuradas por software no switch e no roteador.</p></content-text></definition>
+<variations><content-text>VLAN</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9721449451" index="R">
+<term><content-text>Rede de Longa Distância (WAN)</content-text></term>
+<definition><content-text><p>Rede de Longa Distância. Rede que abrange uma área geográfica maior do que uma Rede Local, por redes de comunicações públicas.</p></content-text></definition>
+<variations><content-text>rede de longa distância,redes de longa distância,WAN</content-text></variations>
+<seealso><content-text>Rede Local (LAN)</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9293813706" index="R">
+<term><content-text>redes de dados</content-text></term>
+<definition><content-text><p>Redes digitais usadas para enviar dados entre computadores.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9799652283" index="R">
+<term><content-text>redes interconectadas</content-text></term>
+<definition><content-text><p>A interconexão de duas ou mais redes diferentes.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7041905900" index="R">
+<term><content-text>Regional Internet Registries (RIRs) </content-text></term>
+<definition><content-text><p>Registros de Internet Regionais, organizações responsáveis pela alocação e registro de recursos de número de Internet dentro de uma determinada região do mundo. A American Registry for Internet Numbers (ARIN) para a América do Norte, o RIPE Network Coordination Centre (RIPE NCC) para a Europa, o Middle East and Central Asia, Asia-Pacific Network Information Centre (APNIC) para a Ásia e região do Pacífico, o Latin American and Caribbean Internet Address Registry (LACNIC) para a América Latina e Caribe, e o African Network Information Centre (AfriNIC) para a África.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4593578524" index="R">
+<term><content-text>registro de recursos</content-text></term>
+<definition><content-text><p>Registros de recursos (RRs) são registros de dados DNS. Seu formato preciso é definido no RFC 1035. Os campos mais importantes em um registro de recurso são Nome, Classe, Tipo e Dados.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8132971299" index="R">
+<term><content-text>Requests for Comments (RFCS)</content-text></term>
+<definition><content-text><p>RFCs são uma série de documentos e memorandos que abrangem novas pesquisas, inovações e metodologias aplicáveis a tecnologias de Internet. Os RFCs são referenciados sobre como as tecnologias deveriam funcionar.</p></content-text></definition>
+<variations><content-text>RFC,RFCs</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg1127976211" index="R">
+<term><content-text>resolvedor DNS</content-text></term>
+<definition><content-text><p>Em sistemas de computador Unix/Linux, o resolvedor é um conjunto de rotinas de software usadas para fazer, enviar e interpretar consultas e mensagens de resposta com servidores de nome de domínio na Internet.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>Domain Name System (DNS)</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5299350868" index="R">
+<term><content-text>retransmissão smtp de e-mail</content-text></term>
+<definition><content-text><p>Servidor de e-mail SMTP que permite que qualquer um na internet passe o e-mail por meio dele como se o e-mail se originasse dele. É usado como modo comum pelos spammers para enviar spam por servidores de e-mail de outro provedor. O destinatário do SPAM pensa que ele veio do domínio do provedor e não pode rastrear a origem verdadeira do SPAM.</p></content-text></definition>
+<variations><content-text>retransmissão SMTP de e-mail</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9895742670" index="R">
+<term><content-text>Interferência de Radiofreqüência (RFI)</content-text></term>
+<definition><content-text><p>Interferência de Radiofreqüência é um ruído causado em fios de sinal por radiação eletromagnética de radiofreqüência ambiente que causa interferência em fios próximos. </p></content-text></definition>
+<variations><content-text>rfi</content-text></variations>
+<seealso><content-text>Interferência eletromagnética(EMI)</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4155647131" index="R">
+<term><content-text>rota padrão</content-text></term>
+<definition><content-text><p>A rota usada por um roteador quando não há outra rota conhecida para o endereço de destino de determinado pacote.</p></content-text></definition>
+<variations><content-text>Rota padrão</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg6725003004" index="R">
+<term><content-text>roteador</content-text></term>
+<definition><content-text><p>Dispositivo da camada de rede que usa uma ou mais medições para determinar o melhor caminho pelo qual enviar o tráfego de rede. Os roteadores enviam pacotes de uma rede para outra, com base em informações da camada de rede. </p></content-text></definition>
+<variations><content-text>Roteador</content-text></variations>
+<seealso><content-text>gateway padrão</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7037665793" index="R">
+<term><content-text>roteamento</content-text></term>
+<definition><content-text><p>Processo de encontrar um caminho até um host de destino. O roteamento é muito complexo em redes grandes por causa dos muitos destinos intermediários potenciais que um pacote pode percorrer antes de chegar ao host de destino.</p></content-text></definition>
+<variations><content-text>Roteamento</content-text></variations>
+<seealso><content-text>roteador</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7713304593" index="R">
+<term><content-text>roteamento estático</content-text></term>
+<definition><content-text><p>Roteamento que depende de rotas digitadas manualmente na tabela de roteamento.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7325212099" index="R">
+<term><content-text>runt frame</content-text></term>
+<definition><content-text><p>Qualquer quadro com menos de 64 bytes (o tamanho mínimo para quadros em uma rede Ethernet). Runts são causados por colisões e também são conhecidos como fragmentos de colisão.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>colisão</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8399133589" index="S">
+<term><content-text>salto</content-text></term>
+<definition><content-text><p>Passagem de um pacote de dados entre dois nós de rede (por exemplo, entre dois roteadores). </p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>próximo salto</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4231242911" index="S">
+<term><content-text>segmento de rede</content-text></term>
+<definition><content-text><p>Parte de uma rede de computadores que cada dispositivo se comunica usando o mesmo meio físico. Os segmentos de rede são estendidos por hubs ou repetidores.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2294932455" index="S">
+<term><content-text>senha da console</content-text></term>
+<definition><content-text><p>Senha configurada na linha de console do roteador ou switch que exige que um usuário só acesse a porta console após fornecer essa senha.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2827644491" index="S">
+<term><content-text>senhas fortes</content-text></term>
+<definition><content-text><p>Uma senha forte é uma senha que é complexa e tem, no mínimo, 8 caracteres. Uma senha forte usa tanto caracteres alfanuméricos como numéricos.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8758979683" index="S">
+<term><content-text>senha vty</content-text></term>
+<definition><content-text><p>A senha que é configurada em cada linha VTY ou em todas as linhas juntas. Quando um usuário tenta usar telnet para um roteador ou switch, pede-se que usem a senha configurada.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7800234880" index="S">
+<term><content-text>servidor</content-text></term>
+<definition><content-text><p>Computador que presta serviços a clientes. Os servidores são o ponto central em redes de modelo cliente/servidor. Há muitos serviços que um servidor pode prestar aos clientes da rede. Por exemplo; DNS, DHCP, armazenamento de arquivos, hospedagem de aplicações, hospedagem de sites.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5888508137" index="S">
+<term><content-text>servidor proxy</content-text></term>   
+<definition><content-text><p>Servidor que serve como um tipo de relay entre o cliente e o servidor de destino na internet. O servidor proxy age em nome do cliente e do servidor na internet. Todos os pedidos de clientes para a Internet vão primeiro para o servidor proxy. O proxy os avalia e, se permitidos, reestabelece as solicitações do lado da saída da Internet. Isso também acontece com o tráfego de entrada.</p></content-text></definition>
+<variations><content-text>Servidor proxy</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2934048843" index="S">
+<term><content-text>servidor web</content-text></term>
+<definition><content-text><p>Servidor que responde às solicitações HTTP e responde com dados de resposta HTTP. Um servidor Web também mantém a estrutura de diretório dos sites e suas imagens associadas, bem como outros arquivos de mídia.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg6530391139" index="S">
+<term><content-text>sessão</content-text></term>
+<definition><content-text><p>1) Conjunto relacionado de transações de comunicação entre dois ou mais dispositivos de rede.<br/><br/> 2) Na Arquitetura de Rede de Sistemas (SNA), uma conexão lógica que permite que duas unidades endereçáveis da rede (NAUs) se comuniquem.<br/><br/></p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3199569897" index="S">
+<term><content-text>Shell Seguro (SSH)</content-text></term>
+<definition><content-text><p>Estabelece um canal seguro entre um computador local e um remoto. Usa uma chave pública de criptografia para autenticar o computador remoto e permitr que ele autentique o usuário.</p></content-text></definition>
+<variations><content-text>ssh,SSH,Shell Seguro (SSH)</content-text></variations>
+<seealso><content-text>telnet,criptografia</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9696293660" index="S">
+<term><content-text>sintaxe</content-text></term>
+<definition><content-text><p>Regras que determinam a forma de comunicação. </p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg1382724630" index="S">
+<term><content-text>sistemas de informações distribuídas</content-text></term>
+<definition><content-text><p>Método de processamento de computador no qual diferentes partes de um programa rodam simultaneamente em um ou mais computadores que se comunicam entre si por meio de uma rede.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg1803264842" index="S">
+<term><content-text>sistema operacional</content-text></term>
+<definition><content-text><p>Software que faz tarefas básicas, como controlar e alocar memória, priorizar as solicitações do sistema, controlar os dispositivos de entrada e saída, facilitar a operação em rede e gerenciar sistemas de arquivos.</p></content-text></definition>
+<variations><content-text>Sistema Operacional,Sistema operacional</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2023383493" index="S">
+<term><content-text>slot de expansão</content-text></term>
+<definition><content-text><p>Slot na placa-mãe no qual se pode inserir uma placa para aumentar a capacidade do computador. Por exemplo, um slot AGP é conhecido como slot de expansão.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2625216608" index="S">
+<term><content-text>software</content-text></term>
+<definition><content-text><p>Programa ou códigos usados pelo computador para realizar certas funções.</p></content-text></definition>
+<variations><content-text>Software</content-text></variations>
+<seealso><content-text>aplicações</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2443906114" index="S">
+<term><content-text>spam</content-text></term>
+<definition><content-text><p>Envio de e-mail comercial não solicitado.</p></content-text></definition>
+<variations><content-text>SPAM,spamming,Spamming</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3004660309" index="S">
+<term><content-text>store and forward (armazenar e encaminhar)</content-text></term>
+<definition><content-text><p>Modo de comutar em que o switch armazena o quadro inteiro e processa todo o conteúdo do quadro até o FCS e que, após o cálculo bem-sucedido do FCS, o switch envia o quadro por meio da porta de saída.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2214491892" index="S">
+<term><content-text>stream</content-text></term>
+<definition><content-text><p>Transmissão contínua de dados de um local para outro. Por exemplo, um vídeo em streaming é um fluxo contínuo de vídeo em tempo real que é baixado à medida que você assiste ao vídeo. </p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8575340000" index="S">
+<term><content-text>switch</content-text></term>
+<definition><content-text><p>1) Dispositivo de rede que filtra, encaminha e inunda quadros com base no endereço de destino de cada quadro. O switch opera na camada de enlace de dados do modelo OSI. <br/><br/> 2) Termo genérico aplicado a um dispositivo eletrônico ou mecânico que permite estabelecer conexão conforme necessário e terminá-la quando não há mais sessão para suportar.<br/></p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg6800988398" index="T">
+<term><content-text>tabela ARP</content-text></term>
+<definition><content-text><p>Uma cache na qual um dispositivo mantém uma tabela de endereços MAC e seus endereços de camada 3 associados.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>cache ARP</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2712296120" index="T">
+<term><content-text>tabela da bridge</content-text></term>
+<definition><content-text><p>Tabela que a bridge cria associando endereços MAC com a porta de saída.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5295657032" index="T">
+<term><content-text>tabela MAC</content-text></term>
+<definition><content-text><p>A tabela que um switch cria a fim de saber para onde encaminhar quadros de saída. A tabela MAC consiste em um número de porta e o endereço MAC do host associado à mesma porta. Em um switch Cisco, é chamada de tabela CAM.</p></content-text></definition>
+<variations><content-text>tabela MAC,Tabela MAC</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8326964957" index="T">
+<term><content-text>tabela de roteamento</content-text></term>
+<definition><content-text><p>Tabela armazenada na memória de um roteador ou em outro dispositivo de redes interconectadas que acompanha o roteamento para destinos de rede em especial. O roteador usa essa lista de redes para determinar para onde enviar os dados.</p></content-text></definition>
+<variations><content-text>Tabela de roteamento</content-text></variations>
+<seealso><content-text>roteamento</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2323423714" index="T">
+<term><content-text>tamanho da janela</content-text></term>
+<definition><content-text><p>O TCP usa o tamanho da janela para determinar o número de segmentos enviados pelo dispositivo de envio antes do dispostivo receptor enviar uma confirmação. </p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>TCP</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3940300249" index="T">
+<term><content-text>tamanho do prefixo</content-text></term>
+<definition><content-text><p>Número de bits usado para definir a máscara de sub-rede. Por exemplo, a máscara de sub-rede 255.255.0.0 tem um prefixo /16.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg1882174479" index="T">
+<term><content-text>taxa de transferência</content-text></term>
+<definition><content-text><p>É a quantidade de dados digitais por unidade de tempo entregue de um nó para o outro. A taxa de transferência leva em conta as variáveis de latência.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2199592312" index="T">
+<term><content-text>TCP/IP</content-text></term>
+<definition><content-text><p>Transmission Control Protocol/Internet Protocol. Nome comum para o conjunto de protocolos desenvolvidos pelos E.U. DoD nos anos 1970 a fim de suportar a construção de redes interconectadas mundialmente. O TCP e o IP são os dois protocolos mais conhecidos do conjunto.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4621332035" index="T">
+<term><content-text>tecnologia sem fio</content-text></term>
+<definition><content-text><p>Tecnologia que permite comunicação sem a necessidade de conexão física. Exemplos de tecnologia sem fio são telefones celulares, assistentes digitais pessoais (PDAs), pontos de acesso sem fio (access points) e placas sem fio.</p></content-text></definition>
+<variations><content-text>Tecnologia sem fio</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2558787369" index="T">
+<term><content-text>teletype network service (telnet)</content-text></term>
+<definition><content-text><p>TELNET (Teletype Network) é um protocolo de rede usado nas conexões de Internet ou rede local (LAN).</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg6046011509" index="T">
+<term><content-text>tempo de bit</content-text></term>
+<definition><content-text><p>O tempo que leva para um bit ser transmitido de uma placa de rede operando em uma velocidade padrão pré-determinada. Esse tempo é medido como o intervalo de tempo entre o momento em que a subcamada da camada 2, LLC, recebe a instrução do sistema operacional até o momento em que o bit realmente sai da placa de rede.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8385821582" index="T">
+<term><content-text>tempo de ida e volta (rtt)</content-text></term>
+<definition><content-text><p>Tempo que passou para que um sinal transitasse por um circuito fechado, ou tempo para que uma mensagem chegue a um local remoto e volte.</p></content-text></definition>
+<variations><content-text>rtt,RTT</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg6374545354" index="T">
+<term><content-text>tempo de slot</content-text></term>
+<definition><content-text><p>O tempo que leva para um pulso eletrônico percorrer a extensão da distância teórica máxima entre dois nós. Também é o tempo que uma estação transmissora aguarda antes de tentar retransmitir depois de uma colisão.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3601065459" index="T">
+<term><content-text>tempo de vida (ttl)</content-text></term> 
+<definition><content-text><p>Limite de tempo ou número de interações ou transmissões em tecnologias de redes de computadores que uma unidade de dados pode passar antes de ser descartada.</p></content-text></definition>
+<variations><content-text>TTL</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7087798547" index="T">
+<term><content-text>terminal virtual (vty)</content-text></term>
+<definition><content-text><p>Interface de linha de comando criada em um roteador para uma sessão Telnet.</p></content-text></definition>
+<variations><content-text>VTY</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2011462170" index="T">
+<term><content-text>thicknet</content-text></term>
+<definition><content-text><p>Cabo coaxial com 0,4 polegada (1 cm) de diâmetro e 50 ohms de resistência. Originalmente usado nas primeiras implementações de LAN.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>coaxial</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5440078513" index="T">
+<term><content-text>thinnet</content-text></term>
+<definition><content-text><p>Cabo coaxial com 0,2 polegada (0,5 cm) de diâmetro e a mesma impedância que o Thicknet. Mais fácil de instalar que o thicknet.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>coaxial</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8594035985" index="T">
+<term><content-text>topologia física</content-text></term>
+<definition><content-text><p>A topologia física de uma rede se refere à configuração de cabos, computadores e outros periféricos.</p></content-text></definition>
+<variations><content-text>Topologia física</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg6838043092" index="T">
+<term><content-text>topologia lógica</content-text></term>
+<definition><content-text><p>O mapa de dispositivos de uma rede e como se comunicam entre si. Mostra o fluxo de dados numa rede.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3666018370" index="T">
+<term><content-text>tracert</content-text></term>
+<definition><content-text><p>Ferramenta que mostra o caminho em tempo real do dispositivo-origem para o dispositivo-destino. Ele relata o endereço IP de todos os roteadores (ou saltos) no caminho.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg6554817878" index="T">
+<term><content-text>trailer</content-text></term>
+<definition><content-text><p>Informação de controle anexada aos dados quando estes são encapsulados para transmissão pela rede.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4037069849" index="T">
+<term><content-text>transmissão síncrona</content-text></term>
+<definition><content-text><p>Termo que descreve sinais digitais que são transmitidos com sincronismo preciso. Esses sinais têm a mesma freqüência, com caracteres individuais encapsulados em bits de controle (chamados bits de início e bits de parada) que designam o início e o fim de cada caractere.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8195860109" index="U">
+<term><content-text>UDP</content-text></term>
+<definition><content-text><p>O protocolo UDP é um protocolo simples que troca dados sem reconhecimento e sem garantia de entrega. O UDP depende de aplicações para cuidar de erros de processamento e retransmissão.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>TCP</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8494627833" index="U">
+<term><content-text>Uniform Resource Identifier (URI)</content-text></term>
+<definition><content-text><p>String de caracteres usada para identificar ou nomear um recurso. Definida na RFC 1630 como identificador oficial de nomes de sites.</p></content-text></definition>
+<variations><content-text>URI</content-text></variations>
+<seealso><content-text>Uniform Resource Locator (URL)</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg3444745052" index="U">
+<term><content-text>Uniform Resource Locator (URL)</content-text></term>
+<definition><content-text><p>O nome do site que você digita na barra de endereço do navegador. Esse termo ganhou popularidade antes que o termo URI se tornasse RFC.</p></content-text></definition>
+<variations><content-text>URL</content-text></variations>
+<seealso><content-text>Uniform Resource Identifier (URI)</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg4034066687" index="U">
+<term><content-text>UNIX</content-text></term>
+<definition><content-text><p>UNIX é um sistema operacional multiusuário e multitarefa desenvolvido na década de 60 por um grupo de empregados da AT&amp;T no Bell Labs, incluindo Ken Thompson, Dennis Ritchie e Douglas McIlroy. Os sistemas UNIX atuais se dividem em vários ramos, desenvolvidos com o tempo pela AT&amp;T, bem como por vários fornecedores comerciais e organizações sem fins lucrativos.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5830842516" index="U">
+<term><content-text>upload</content-text></term>
+<definition><content-text><p>Transmitir dados para um servidor ou outro dispositivo receptor.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg9705770778" index="U">
+<term><content-text>UTP</content-text></term>
+<definition><content-text><p>UTP é um cabo de quatro pares usado em várias redes. O UTP não exige o espaçamento fixo entre conexões que é necessário para conexões do tipo coaxial. Há cinco tipos de cabeamento UTP comumente usados: Cabeamento categoria 1, Cabeamento categoria 2, Cabeamento categoria 3, Cabeamento categoria 4 e Cabeamento categoria 5.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7401267935" index="V">
+<term><content-text>valores binários</content-text></term>
+<definition><content-text><p>Combinação de dígitos binários que representam determinado valor.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text>binário</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg5806137357" index="V">
+<term><content-text>velocidade de sinalização</content-text></term>
+<definition><content-text><p>Velocidade em que os dados passam em um ponto no caminho de transmissão de um sistema de transmissão.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg7756972692" index="V">
+<term><content-text>Verificação de Redundância Cíclica (CRC)</content-text></term>
+<definition><content-text><p>Cyclical Redundancy Check (Verificação de Redundância Cíclica) é um tipo de função hash (criptografia de uma via), usada para produzir uma pequena entrada reduzida de tamanho fixo de um bloco de dados, como um pacote ou arquivo de computador. A CRC é computada e anexada antes da transmissão ou armazenamento, e verificada depois pelo destinatário para confirmar que não houve mudanças em trânsito.</p></content-text></definition>
+<variations><content-text>Verificação de Redundância Cíclica, CRC</content-text></variations>
+<seealso><content-text>entrada repetida</content-text></seealso>
+</content-glossary>
+<content-glossary id="cg1751745224" index="V">
+<term><content-text>vírus de computador</content-text></term>
+<definition><content-text><p>Um vírus de computador é um programa de computador que pode se copiar e infectar um computador sem permissão ou conhecimento do usuário.</p></content-text></definition>
+<variations><content-text></content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg6302933198" index="V">
+<term><content-text>Voz sobre IP (VOIP)</content-text></term>
+<definition><content-text><p>Dados de voz encapsulados em um pacote IP que permite atravessar redes IP já implementadas, sem precisar de sua própria infra-estrutura de rede. </p></content-text></definition>
+<variations><content-text>Voz Sobre IP (VOIP),VOIP,VoIP</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg6080522810" index="W">
+<term><content-text>wiki</content-text></term>
+<definition><content-text><p>Uma wiki é um site que deixa que os visitantes acrescentem, editem e apaguem conteúdo, em geral sem precisar de registro. Um bom exemplo disso é o site Wikipédia onde os visitantes podem acessar o site e acrescentar seus comentários a artigos já escritos ou criar um novo artigo.</p></content-text></definition>
+<variations><content-text>Wiki</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg2969600527" index="W">
+<term><content-text>Wireshark</content-text></term>
+<definition><content-text><p>Aplicação de sniffing de pacotes usada na análise e correção de erros na rede. O programa captura pacotes na placa de rede e decodifica o conteúdo do pacote para facilitar a leitura.</p></content-text></definition>
+<variations><content-text>wireshark</content-text></variations>
+<seealso><content-text></content-text></seealso>
+</content-glossary>
+<content-glossary id="cg8469525980" index="W">
+<term><content-text>World Wide Web (WWW)</content-text></term>
+<definition><content-text><p>Uma grande rede de sites da Internet cujos servidores fornecem informações sobre uma grande variedade de tópicos e serviços, como compra de produtos ou games. A entrada na World Wide Web exige um programa chamado navegador, como o Internet Explorer ou Netscape, e conectividade por meio de um provedor de Internet (ISP).</p></content-text></definition>
+<variations><content-text>WWW,World Wide Web</content-text></variations>
+<seealso><content-text>Internet</content-text></seealso>
+</content-glossary>
+</content-glossary>
+</glossary>

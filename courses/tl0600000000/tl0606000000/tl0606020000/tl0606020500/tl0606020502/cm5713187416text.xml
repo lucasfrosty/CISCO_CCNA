@@ -1,0 +1,13 @@
+﻿
+
+<textcomponents>
+
+<component id="ID_reset"><text><![CDATA[<b>Reinicialize</b>]]></text></component>
+
+<component id="ID_public"><text><![CDATA[<b>Público</b>]]></text></component> <component id="ID_private"><text><![CDATA[<b>Privado</b>]]></text></component>
+
+<component id="ID_bottom"><text><![CDATA[Nesta atividade, na figura, arraste os endereços IP e os solte na categoria correta, <b>Público</b> ou <b>Privado</b>.]]></text></component>
+
+<component id="ID_activity"><text><![CDATA[<b>Atividade</b>]]></text></component> <component id="msgBody"><text><![CDATA[Você identificou corretamente todos os Endereços IP. <br/><br/><b>Clique em Próximo para continuar.</b>]]></text></component> <component id="msgTitle"><text><![CDATA[ ]]></text></component>
+</textcomponents>
+

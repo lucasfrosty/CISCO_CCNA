@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+		<exam id="13240" dateexported="07/28/2008">
+		<name>Teste do Módulo 8</name>
+		<form id="21565" lang="pt"><form-item>
+			<ai id="67005" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="67005" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!--  *********** OPTIONS ***********  --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>laranja</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>azul</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>verde</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>marrom</mattext></material></textcomponent></component><!--  ***********  LABELS  ***********  --><!--  ***********  TARGETS  ***********  --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>7 e 8</mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>1 e 2</mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>3 e 6</mattext></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>4 e 5</mattext></material></textcomponent></component><!--  ***********  STEM  ***********  --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="760"><material><mattext>Faça a correspondência entre as cores e os números que representam as pinagens dos fios para patch cables 568B.</mattext></material></textcomponent></component></components><!--  ***********  PRESENTATION  ***********  --><presentation><layout category="A" initY="-150" targetYspacing="11" yspacing="40" targetH="27"><options><display componentIdent="1" xpos="200" ypos="75" /><display componentIdent="2" xpos="200" ypos="115" /><display componentIdent="3" xpos="200" ypos="155" /><display componentIdent="4" xpos="200" ypos="195" /></options><targets><display componentIdent="1" xpos="600" ypos="75" /><display componentIdent="2" xpos="600" ypos="112" /><display componentIdent="3" xpos="600" ypos="149" /><display componentIdent="4" xpos="600" ypos="186" /></targets><stem><display componentIdent="40" xpos="420" ypos="28" /></stem></layout></presentation><!--  ***********  SCORING  ***********  --><scoring><scoringzone ident="1"><componentident>1</componentident></scoringzone><scoringzone ident="2"><componentident>2</componentident></scoringzone><scoringzone ident="3"><componentident>3</componentident></scoringzone><scoringzone ident="4"><componentident>4</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="obs1" maxvalue="1"><title>nenhum título</title></decvar><interpretvar varname="obs1" view="All">nenhuma descrição dada</interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>4</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>1</componentident></scoringzonecontains><scoringzonecontains szident="3"><componentident>3</componentident></scoringzonecontains><scoringzonecontains szident="4"><componentident>2</componentident></scoringzonecontains></conditionvar><setvar varname="obs1" action="Set">1</setvar><scoringdescription>insira aqui a resposta para QA</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item><form-item>
+			<ai id="67006" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="67006" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!--  *********** OPTIONS ***********  --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>Pino 1</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>Pino 2</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>Pino 3</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>Pino 4</mattext></material></textcomponent></component><component ident="5" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>Pino 5</mattext></material></textcomponent></component><component ident="6" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>Pino 6</mattext></material></textcomponent></component><component ident="7" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>Pino 7</mattext></material></textcomponent></component><component ident="8" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>Pino 8</mattext></material></textcomponent></component><!--  ***********  LABELS  ***********  --><!--  ***********  TARGETS  ***********  --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>Pino 1</mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>Pino 2</mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>Pino 3</mattext></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>Pino 4</mattext></material></textcomponent></component><component ident="5" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>Pino 5</mattext></material></textcomponent></component><component ident="6" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>Pino 6</mattext></material></textcomponent></component><component ident="7" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>Pino 7</mattext></material></textcomponent></component><component ident="8" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>Pino 8</mattext></material></textcomponent></component><!--  ***********  STEM  ***********  --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="760"><material><mattext>Associe cada pino do lado esquerdo ao pino correto do lado direito para criar corretamente um conector RJ-45 para um cabo de console de um roteador.</mattext></material></textcomponent></component></components><!--  ***********  PRESENTATION  ***********  --><presentation><layout category="A" initY="-124" targetYspacing="13" yspacing="42" targetH="27"><options><display componentIdent="1" xpos="200" ypos="75" /><display componentIdent="2" xpos="200" ypos="115" /><display componentIdent="3" xpos="200" ypos="155" /><display componentIdent="4" xpos="200" ypos="195" /><display componentIdent="5" xpos="200" ypos="235" /><display componentIdent="6" xpos="200" ypos="275" /><display componentIdent="7" xpos="200" ypos="315" /><display componentIdent="8" xpos="200" ypos="355" /></options><targets><display componentIdent="1" xpos="600" ypos="75" /><display componentIdent="2" xpos="600" ypos="112" /><display componentIdent="3" xpos="600" ypos="149" /><display componentIdent="4" xpos="600" ypos="186" /><display componentIdent="5" xpos="600" ypos="223" /><display componentIdent="6" xpos="600" ypos="260" /><display componentIdent="7" xpos="600" ypos="297" /><display componentIdent="8" xpos="600" ypos="334" /></targets><stem><display componentIdent="40" xpos="420" ypos="28" /></stem></layout></presentation><!--  ***********  SCORING  ***********  --><scoring><scoringzone ident="1"><componentident>1</componentident></scoringzone><scoringzone ident="2"><componentident>2</componentident></scoringzone><scoringzone ident="3"><componentident>3</componentident></scoringzone><scoringzone ident="4"><componentident>4</componentident></scoringzone><scoringzone ident="5"><componentident>5</componentident></scoringzone><scoringzone ident="6"><componentident>6</componentident></scoringzone><scoringzone ident="7"><componentident>7</componentident></scoringzone><scoringzone ident="8"><componentident>8</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="obs1" maxvalue="1"><title>nenhum título</title></decvar><interpretvar varname="obs1" view="All">nenhuma descrição dada</interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>8</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>7</componentident></scoringzonecontains><scoringzonecontains szident="3"><componentident>6</componentident></scoringzonecontains><scoringzonecontains szident="4"><componentident>5</componentident></scoringzonecontains><scoringzonecontains szident="5"><componentident>4</componentident></scoringzonecontains><scoringzonecontains szident="6"><componentident>3</componentident></scoringzonecontains><scoringzonecontains szident="7"><componentident>2</componentident></scoringzonecontains><scoringzonecontains szident="8"><componentident>1</componentident></scoringzonecontains></conditionvar><setvar varname="obs1" action="Set">1</setvar><scoringdescription>reverta os números 8 em 1, 7 em 2, etc.</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item><form-item order="fixed">
+			<ai id="87290" type="mc-sa"><question><![CDATA[Que tipo de conexão é representada na figura? <br/><img src="4656.jpg" /> ]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[Conexão de console  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Conexão Ethernet ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Conexão ISDN ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Conexão de linha privada ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="142184" type="mc-sa"><question><![CDATA[Qual é o objetivo da codificação?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Identificação dos bits de início e fim de um quadro. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Especifica os conectores de camadas físicas de computadores em relação ao modo como eles se conectam ao meio da rede. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Controla o modo como os quadros são colocados no meio na camada de enlace. ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Representa os bits de dados usando diferentes voltagens, padrões de luz ou ondas eletromagnéticas conforme são colocados no meio físico.  ]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="142183" type="mc-sa"><question><![CDATA[O que descreve melhor o objetivo da Camada Física?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Assegura transmissão confiável de dados através de um link físico. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Determina a conectividade e seleção de caminhos entre dois sistemas finais. ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Estabelece o endereçamento físico, a topologia de rede e o acesso ao meio. ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Define as especificações funcionais para o link entre sistemas finais e sinais elétricos, ópticos e de rádio.  ]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="142179" type="mc-sa"><question><![CDATA[De que forma o cabo UTP ajuda a evitar diafonia?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[blindagem do cabo ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[trançado dos pares  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[aterramento dos pontos finais ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[cobertura do núcleo do cabo ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="142185" type="mc-sa"><question><![CDATA[Analise a imagem. A rede na imagem está conectada com um cabo Cat 5e e a Estação de Trabalho &quot;C&quot; não consegue se comunicar com a rede. Que problema na Camada Física causaria isso? <br/><img src="i142185n1v1.jpg" /> ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[sistema operacional errado ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[endereço IP incorreto ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[comprimento do cabo  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[prefixo incorreto ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[tipo de switch ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="142186" type="mc-ma"><question><![CDATA[Quais são as vantagens de usar cabos de fibra óptica em vez de cabos de cobre? (Escolha três.)  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[o cobre é mais caro ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[imunidade a interferência eletromagnética  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[cuidado no manuseio do cabo ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[maior comprimento máximo do cabo  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[transferência de corrente elétrica eficiente ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[maior largura de banda  ]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="142187" type="mc-sa"><question><![CDATA[Que tipo de cabo seria usado para conectar diretamente dois computadores?  ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Cabo direto ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Rollover ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Cruzado  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Console ]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="142188" type="mc-sa"><question><![CDATA[Analise a imagem.  Qual é o objetivo do revestimento do núcleo de cabos de fibra óptica? <br/><img src="i142188n1v1.jpg" /> ]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Aterramento do cabo ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Cancelar o ruído ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Evitar perda de luz  ]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Proteção contra interferência eletromagnética ]]></text>
+							
+							
+						</choice></choices></ai></form-item></form></exam> 

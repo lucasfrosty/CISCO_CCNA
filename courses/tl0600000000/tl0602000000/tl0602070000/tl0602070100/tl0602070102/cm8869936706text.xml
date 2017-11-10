@@ -1,0 +1,183 @@
+﻿<textcomponents>
+
+<component id="ID_setup">
+	<text><![CDATA[<b>Use esta atividade para verificar seu entendimento dos pontos principais deste capítulo.</b>]]></text>
+</component>
+
+<component id="ID_setup2">
+	<text><![CDATA[<ul><li>Uma série de perguntas serão apresentadas. Isto não é um teste e as suas respostas não são armazenadas.</li><li>Clique em <b>Resposta</b> para ver se você acertou.</li><li>Clique em <b>Próxima Pergunta</b> para ir para a próxima pergunta.</li></ul>]]></text>
+</component>
+
+<component id="clickHere">
+	<text><![CDATA[<b>Clique Aqui<br/>para Começar</b>]]></text>
+</component>
+
+<!-- Question 1 -->
+
+<component id="ID_Q1_txt01">
+	<text><![CDATA[<b>Resposta</b>]]></text>
+</component> 
+<component id="ID_Q1_txt02">
+	<text><![CDATA[Você consegue responder esta pergunta?<br/>Clique em <b>Resposta</b> para ver se você está acertou.]]></text>
+</component> 
+<component id="ID_Q1_txt03">
+	<text><![CDATA[1. <textformat blockindent='16'>Liste 5 dispositivos finais, 6 dispositivos intermediários e 3 formas de meio físico de rede.</textformat> ]]></text>
+</component> 
+<component id="ID_Q1_txt04">
+	<text><![CDATA[<ul><li>Dispositivos finais: computador desktop, laptop, servidor, PDA, telefone celular, impressora, câmera de segurança, telefone IP, ponto eletrônico de dispositivo de venda, caixa automático</li><li>Dispositivo intermediário: repetidor, hub, ponto de acesso sem fio, switch, roteador, modem e firewall</li><li>Meios físicos de rede: cabo de cobre, cabo de fibra, ondas de rádio (sem fio)</li></ul>]]></text>
+</component> 
+<component id="ID_Q1_txt05">
+	<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+<!-- Question 2 -->
+
+<component id="ID_Q2_txt01">
+	<text><![CDATA[<b>Resposta</b>]]></text>
+</component> 
+<component id="ID_Q2_txt02">
+	<text><![CDATA[Você consegue responder esta pergunta?<br/>Clique em <b>Resposta</b> para ver se você está acertou.]]></text>
+</component> 
+<component id="ID_Q2_txt03">
+	<text><![CDATA[2. <textformat blockindent='16'>Compare e contraste os termos a seguir: rede, LAN, WAN, rede interconectada e a Internet.</textformat> ]]></text>
+</component> 
+<component id="ID_Q2_txt04">
+	<text><![CDATA[<ul><li><b>Rede</b> – um grupo de dispositivos interconectados capaz de carregar muitos tipos diferentes de comunicações, inclusive dados tradicionais de computador, produtos interativos de voz, video e entretenimento.</li><li><b>LAN</b> – uma rede local, ou grupo de redes locais interconectadas que estão sob o mesmo controle administrativo.  No passado, as LANs eram pensadas somente como redes pequenas que existiam em uma única localização física.  Apesar de as LANs poderem ser tão pequenas quanto uma simples rede local instalada em uma casa ou pequeno escritório, agora as LANs incluem redes locais interconectadas constituídas de centenas de hosts, instaladas em múltiplos edifícios e localizações.  Todas as redes locais dentro de uma LAN estão sob um grupo de controle administrativo que controla as políticas de segurança e de controle de acesso que são vigentes na rede</il><li><b>WAN</b> – Prestadores de Serviços de Telecomunicações (TSP) operam grandes redes regionais abrangendo grandes distâncias. Organizações individuais normalmente se conectam através de uma rede de prestadores de serviços de telecomunicações.  Estas redes que conectam LANs em localizações separadas geograficamente são Redes de Longa Distância (WANs).  Apesar da organização manter todas as políticas e a administração das LANs nas duas pontas da conexão, as políticas dentro da rede do prestador de serviços de comunicações são controladas pelo TSP. WANs usam dispositivos de rede projetados especificamente para fazer as conexões entre as LANs.</il><li><b>Rede Interconectada</b> - Toda a malha de redes interconectadas é usada. Algumas destas redes interconectadas são de propriedade de grandes organizações públicas e privadas, tais como agências do governo ou indústrias, e são reservadas para o seu uso exclusivo. A rede interconectada de acesso público mais conhecida e amplamente usada é a Internet.</li><li><b>Internet</b> - A rede interconectada de acesso público mais conhecida e amplamente usada. A Internet é criada pela interconexão de redes pertencentes aos Provedores de Internet (ISPs).   Estas redes ISP conectam-se umas às outras para fornecer acesso aos usuários ao redor do mundo.  Garantir comunicação eficiente através desta infra-estrutura requer a aplicação de tecnologias e protocolos consistentes e comumente reconhecidos, asssim como a colaboração de muitas agências de administração de redes.</li></ul>]]></text>
+</component> 
+<component id="ID_Q2_txt05">
+	<text><![CDATA[<b>Pergunta<br/>Anterior</b>]]></text>
+</component> 
+<component id="ID_Q2_txt06">
+	<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+<!-- Question 3 -->
+
+<component id="ID_Q3_txt01">
+	<text><![CDATA[<b>Resposta</b>]]></text>
+</component> 
+<component id="ID_Q3_txt02">
+	<text><![CDATA[Você consegue responder esta pergunta?<br/>Clique em <b>Resposta</b> para ver se você está acertou.]]></text>
+</component> 
+<component id="ID_Q3_txt03">
+	<text><![CDATA[3. <textformat blockindent='16'>Compare e contraste as camadas do modelo OSI com a pilha de protocolo TCP/IP.</textformat>]]></text>
+</component> 
+<component id="ID_Q3_txt04">
+<text><![CDATA[<p>Há dois tipos básicos de modelos de rede: modelo de protocolo e modelo de referência.</p><br/><p>Um modelo de protocolo se adapta muito estreitamente à estrutura de um conjunto de aplicações de protocolo particular. O conjunto hierárquico de protocolos relacionados em um conjunto representa toda a funcionalidade para conectar por meio da interface a rede humana com a rede de dados. O modelo TCP/IP de 4 camadas é um modelo de protocolo porque ele descreve as funções que acontecem em cada camada de protocolos dentro do conjunto TCP/IP.</p><br/><p>Um modelo de referência fornece uma referência comum para manter a uniformidade dentro de todos os tipos de protocolos de rede e serviços. Um modelo de referência não é planejado para ser uma especificação de implementação ou para fornecer um nível de detalhes suficientes para definir com precisão os serviços da arquitetura da rede. A finalidade básica de um modelo de referência é auxiliar no entendimento mais claro das funções e processo envolvidos. O modelo de referência OSI de 7 camadas é o modelo de referência de redes interconectadas mais amplamente conhecido.  Ele é usado para o projeto da rede de dados, especificações operacionais e identificação e correção de erros. </p><br/><p>Os protocolos que fazem o conjunto de aplicação do protocolo TCP/IP podem ser descritos em termos do modelo de referência OSI.  No modelo OSI, a camada de Acesso à Rede e a camada de Aplicação do modelo TCP/IP são divididas para descrever funções discretas que precisam ocorrer nestas camadas. </p><br/><p>Na Camada de Acesso à Rede, o conjunto de aplicação do protocolo TCP/IP não especifica quais protocolos usar ao transmitir através de um meio físico, ele apenas descreve a transmissão da Camada de Internet para os protocolos da rede física. As Camadas do OSI 1 e 2 discutem os procedimentos necessários para acessar os meios físicos para enviar dados através de uma rede. </p><br/><p>Os paralelos principais entre os dois modelos de rede ocorrem nas Camadas 3 e 4 do modelo OSI. A Camada 3 do Modelo OSI, a camada de rede, é usada quase universalmente para discutir e documentar a extensão dos processos que acontecem em todas as redes de dados para endereçar e rotear mensagens através de uma rede interconectada. O Protocolo IP é o protocolo do conjunto de aplicações TCP/IP que inclui a funcionalidade descrita na Camada 3.</p><br/><p>A Camada 4, a camada de Transporte do modelo OSI, é frequentemente usada para descrever serviços ou funções gerais que gerenciam conversas individuais entre os hosts de origem e de destino. Estas funções incluem reconhecimento, recuperação de erro e sequenciamneto. Nesta camada, os protocolos TCP/IP e o protocolo UDP fornecem a funcionalidade necessária.</p><br/><p>A camada de Aplicação TCP/IP inclui uma quantidade de protocolos que fornecem funcionalidade específica a uma variedade de aplicações do usuário final. As Camadas 5, 6 e 7 do modelo OSI são usadas como referências para programadores de software de aplicativos e fornecedores para produzirem produtos que necessitam acessar redes para comunicações.</p>]]></text>
+</component> 
+<component id="ID_Q3_txt05">
+	<text><![CDATA[<b>Pergunta<br/>Anterior</b>]]></text>
+</component> 
+<component id="ID_Q3_txt06">
+	<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+<!-- Question 4 -->
+
+<component id="ID_Q4_txt01">
+<text><![CDATA[<b>Resposta</b>]]></text>
+</component> 
+
+<component id="ID_Q4_txt02">
+<text><![CDATA[Você consegue responder esta pergunta?<br/>Clique em <b>Resposta</b> para ver se você está acertou.]]></text>
+</component> 
+
+<component id="ID_Q4_txt03">
+<text><![CDATA[4. <textformat blockindent='16'>Explique porque modelos de redes são usados.</textformat>]]></text>
+</component> 
+
+<component id="ID_Q4_txt04">
+<text><![CDATA[<p>Apesar dos modelos TCP/IP e OSI serem os principais modelos usados quando se discute funcionalidade da rede, programadores de protocolos de rede, serviços ou dispositivos podem criar seus próprios modelos para representar seus produtos. Ultimamente, programadores são solicitados a comunicar à indústria relatando seu produto ou serviço tanto para o modelo OSI quanto para o modelo TCP/IP, ou para ambos.</p><br/><p>Como um modelo de referência, o modelo OSI fornece uma vasta lista de funções e serviços que podem acontecer em cada camada.  Ele também descreve a interação de cada camada com as camadas diretamente acima e abaixo dele. Enquanto que as camadas do modelo TCP/IP são referidas por nome, as sete camadas do modelo OSI são normalmente referidas por número.</p><br/><p>Existem benefícios para se usar um  modelo de camadas para descrever protocolos e operações da rede:</p><ul><li>Auxilia no projeto do protocolo, porque os protocolos que operam em uma camada específica definiram informações nas quais agem e uma interface definida para as camadas acima e abaixo</li><li>Estimula a competição porque produtos de diferentes fornecedores podem trabalhar juntos</li><li>Previne mudanças tecnológicas ou de recursos em uma camada afetando outras camadas acima e abaixo</li><li>Fornece uma linguagem comum para descrever as funções e recursos da rede</li></ul>]]></text>
+</component> 
+
+<component id="ID_Q4_txt05">
+<text><![CDATA[<b>Pergunta<br/>Anterior</b>]]></text>
+</component> 
+
+<component id="ID_Q4_txt06">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+<!-- Question 5 -->
+
+<component id="ID_Q5_txt01">
+<text><![CDATA[<b>Resposta</b>]]></text>
+</component>
+
+<component id="ID_Q5_txt02">
+<text><![CDATA[Você consegue responder esta pergunta?<br/>Clique em <b>Resposta</b> para ver se você está acertou.]]></text>
+</component>
+
+<component id="ID_Q5_txt03">
+<text><![CDATA[5. <textformat blockindent='16'>Trabalhe sobre os termos a seguir: protocolo, PDUs e encapsulamento.</textformat>]]></text>
+</component> 
+
+<component id="ID_Q5_txt04">
+<text><![CDATA[<p><b>Protocolo:</b></p><p>Toda a comunicação, frente a frente ou através da rede, é regida por regras pré-determinadas chamadas protocolos. Estes protocolos são específicos às características da conversa.  Na nossa comunicação pessoal diária, as regras que usamos para nos comunicar através de um meio, como uma chamada telefônica, não são necessariamente as mesmas dos protocolos para usar um outro meio, tais como o envio de uma carta.</p><br/><p>A comunicação bem-sucedida entre hosts em uma rede requer a interação de muitos protocolos diferentes.  Um grupo de protocolos inter-relacionados que são necessários para desempenhar uma função de comunicação é chamado de um conjunto de aplicações de protocolo.  Estes protocolos são implementados em software e hardware que está em cada host e dispositivo da rede.</p><br/><p><b>PDU e Encapsulamento:</b></p><p>Quando os dados do aplicativo são passados por baixo da pilha de protocolos no seu caminho para serem transmitidos através do meio físico de rede, vários protocolos adicionam informações a eles em cada nível.  Isto é comumente conhecido como o processo de encapsulamento.</p><br/><p>A forma que um dado assume em qualquer camada é chamada de PDU. Durante o encapsulamento, cada camada seguinte encapsula a PDU que ela recebe da camada acima em conformidade com o protocolo sendo usado. Em cada fase do processo, uma PDU tem um nome diferente para refletir sua nova aparência. As PDUs dentro dos protocolos do conjunto de aplicações do protocolo TCP/IP são:</p><ul><li>Dados – O termo geral para a PDU usado na camada de Aplicação</li><li>Segmento – PDU da Camada de Transporte</li><li>Pacote – PDU da Camada da Internet</li><li>Quadro – PDU da Camada de Acesso à Rede</li></ul>]]></text>
+</component> 
+
+<component id="ID_Q5_txt05">
+<text><![CDATA[<b>Pergunta<br/>Anterior</b>]]></text>
+</component> 
+
+<component id="ID_Q5_txt06">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+<!-- Question 6 -->
+
+<component id="ID_Q6_txt01">
+<text><![CDATA[<b>Resposta</b>]]></text>
+</component> 
+
+<component id="ID_Q6_txt02">
+<text><![CDATA[Você consegue responder esta pergunta?<br/>Clique em <b>Resposta</b> para ver se você está acertou.]]></text>
+</component> 
+
+<component id="ID_Q6_txt03">
+<text><![CDATA[6. <textformat blockindent='16'>Explique o encapsulamento comparando com o processo de envio de uma carta.</textformat>]]></text>
+</component> 
+
+<component id="ID_Q6_txt04">
+<text><![CDATA[<p>Páginas individuais de uma carta são escritas e numeradas sequencialmente. Cada página é fechada em um envelope separado que depois é endereçado ao destinatário. As cartas são postadas e colocadas em uma mala postal (etiquetada com o destino) com muitos outros envelopes contendo cada um uma página de cartas diferentes e endereçadas a destinatários. Muitas malas postais são colocadas em uma van e transportadas até o destino. Ao longo do caminho, as malas postais podem ser transferidas para outras vans ou diferentes modos de transporte - caminhões, trains, aviões, navios. No destino, as malas postais são descarregadas e esvaziadas. Os envelopes são entregues aos endereços de destino. Em um endereço todos os envelopes recebidos são abertos, páginas retiradas de cada um deles e as páginas reunidas dentro da carta.</p><br/><p>O envelope, e depois a mala postal e as vans / caminhões / aviões, não se importam com o que está no conteúdo que eles carregam. A carta em si não é usada para fornecer informações para auxiliar na sua entrega. O endereço no envelope, a etiqueta na mala postal ou as instruções de entrega para o motorista da van são o que direciona a carta até o seu destino.</p><br/><p>O encapsulamento de dados segue o mesmo princípio – ele fornece os endereços usados em cada camada de encapsulamento que direcionam os dados até o seu destino e não os dados em si.</p>]]></text>
+</component> 
+
+<component id="ID_Q6_txt05">
+<text><![CDATA[<b>Pergunta<br/>Anterior</b>]]></text>
+</component> 
+
+<component id="ID_Q6_txt06">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+<!-- Question 7 -->
+
+<component id="ID_Q7_txt01">
+<text><![CDATA[<b>Resposta</b>]]></text>
+</component> 
+
+<component id="ID_Q7_txt02">
+<text><![CDATA[Você consegue responder esta pergunta?<br/>Clique em <b>Resposta</b> para ver se você está acertou.]]></text>
+</component> 
+
+<component id="ID_Q7_txt03">
+<text><![CDATA[7. <textformat blockindent='16'>Quais são os únicos papéis dos endereços da Camada 2, da Camada 3 e da Camada 4?</textformat>]]></text>
+</component>
+
+<component id="ID_Q7_txt04">
+<text><![CDATA[<ul><li>Endereços da camada 4 (portas) identificam os aplicativos individuais enviando ou recebendo dados.</li><li>Endereços da Camada 3 (lógicos) identificam dispositivos e suas redes.</li><li>Endereços da Camada 2 (físicos) identificam dispositivos em uma rede local.</li></ul>]]></text>
+</component> 
+
+<component id="ID_Q7_txt05">
+<text><![CDATA[<b>Pergunta<br/>Anterior</b>]]></text>
+</component> 
+
+<component id="ID_Q7_txt06">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_conclusionTxt_01">
+<text><![CDATA[<b>Isto conclui as perguntas sobre Problemas e Discussões deste capítulo.</b>]]></text>
+</component>
+
+
+</textcomponents>

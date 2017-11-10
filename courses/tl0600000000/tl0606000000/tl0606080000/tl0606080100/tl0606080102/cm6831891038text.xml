@@ -1,0 +1,324 @@
+﻿<textcomponents>
+
+<component id="ID_setup">
+<text><![CDATA[<b>Use esta atividade para verificar o seu entendimento dos pontos principais deste capítulo.</b>]]></text>
+</component>
+
+<component id="ID_setup2">
+<text><![CDATA[<ul><li>Uma série de perguntas será apresentada. Isto não é um teste e as suas respostas não são armazenadas.</li><li>Clique em <b>Resposta</b> para ver a resposta.</li><li>Clique em <b>Próxima Pergunta</b> para avançar para a próxima pergunta.</li></ul>]]></text>
+</component>
+
+<component id="clickHere">
+<text><![CDATA[<b>Clique Aqui para<br/> Começar</b>]]></text>
+</component>
+
+<!-- Question 1 -->
+
+<component id="ID_Q1_txt01">
+<text><![CDATA[<b>Resposta</b>]]></text>
+</component>
+<component id="ID_Q1_txt02">
+<text><![CDATA[Você consegue responder esta pergunta?<br/>Clique em <b>Resposta</b> para ver se você acertou.]]></text>
+</component>
+<component id="ID_Q1_txt03">
+<text><![CDATA[1. <textformat blockindent='14'>O que define uma rede em termos de endereço IPv4?</textformat>]]></text>
+</component>
+<component id="ID_Q1_txt04">
+<text><![CDATA[<p>Para cada endereço IPv4, uma parte dos bits de ordem superior representa o endereço de rede. Na camada 3, definimos uma rede como um grupo de hosts com padrões de bit idênticos na parte de endereço de rede de seus endereços.  </p>]]></text>
+</component>
+<component id="ID_Q1_txt05">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+<!-- Question 2 -->
+
+<component id="ID_Q2_txt01">
+<text><![CDATA[<b>Resposta</b>]]></text>
+</component>
+<component id="ID_Q2_txt02">
+<text><![CDATA[Você consegue responder esta pergunta?<br/>Clique em <b>Resposta</b> para ver se você acertou.]]></text>
+</component>
+<component id="ID_Q2_txt03">
+<text><![CDATA[2. <textformat  blockindent='14'>Defina e determine o objetivo dos três tipos de endereços de IPv4.</textformat>]]></text>
+</component>
+<component id="ID_Q2_txt04">
+<text><![CDATA[<ul><li>Endereço de Rede – O endereço pelo qual nos referimos à rede</li><li>Endereço de boradcast – Endereço especial usado para enviar dados a todos os hosts na rede</li><li>Endereços de host – um endereço especial usado para enviar dados a todos os hosts da rede</li></ul>]]></text>
+</component>
+<component id="ID_Q2_txt05">
+<text><![CDATA[<b>Pergunta<br/>Anterior</b>]]></text>
+</component>
+<component id="ID_Q2_txt06">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+<!-- Question 3 -->
+
+<component id="ID_Q3_txt01">
+<text><![CDATA[<b>Resposta</b>]]></text>
+</component>
+<component id="ID_Q3_txt02">
+<text><![CDATA[Você consegue responder esta pergunta?<br/>Clique em <b>Resposta</b> para ver se você acertou.]]></text>
+</component>
+<component id="ID_Q3_txt03">
+<text><![CDATA[3. <textformat  blockindent='14'>O que distingue cada um dos três tipos de endereços IPv4?</textformat>]]></text>
+</component>
+<component id="ID_Q3_txt04">
+<text><![CDATA[<p>Dentro do intervalo de endereços IPv4 em uma rede, o endereço de menor valor é reservado para o endereço de rede. Este endereço tem um 0 para cada bit de host na parte host do endereço.  
+Endereço de host – os bits de host são uma combinação única de 1s e 0s em uma rede. O endereço de broadcast utiliza o endereço mais alto do intervalo de redes. Este é o endereço em que os bits da parte host são todos 1s. Para a rede 10.0.0.0 com 24 bits de rede, o endereço de broadcast deve ser 10.0.0.255. Este endereço também é conhecido como broadcast direto. </p>]]></text>
+</component>
+<component id="ID_Q3_txt05">
+<text><![CDATA[<b>Pergunta<br/>Anterior</b>]]></text>
+</component>
+<component id="ID_Q3_txt06">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+<!-- Question 4 -->
+
+<component id="ID_Q4_txt01">
+<text><![CDATA[<b>Resposta</b>]]></text>
+</component>
+<component id="ID_Q4_txt02">
+<text><![CDATA[Você consegue responder esta pergunta?<br/>Clique em <b>Resposta</b> para ver se você acertou.]]></text>
+</component>
+<component id="ID_Q4_txt03">
+<text><![CDATA[4. <textformat  blockindent='14'>Relacionar as três formas de comunicação IPv4.</textformat>]]></text>
+</component>
+<component id="ID_Q4_txt04">
+<text><![CDATA[<ul><li>Unicast– o processo de envio de um pacote de um host para um host individual</li><li>Broadcast– o processo de envio de um pacote de um host para todos os hosts numa rede</li><li>Multicast–o processo de envio de um pacote de um host para um grupo de hosts selecionados</li></ul>]]></text>
+</component>
+<component id="ID_Q4_txt05">
+<text><![CDATA[<b>Pergunta<br/>Anterior</b>]]></text>
+</component>
+<component id="ID_Q4_txt06">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+<!-- Question 5 -->
+
+<component id="ID_Q5_txt01">
+<text><![CDATA[<b>Resposta</b>]]></text>
+</component>
+<component id="ID_Q5_txt02">
+<text><![CDATA[Você consegue responder esta pergunta?<br/>Clique em <b>Resposta</b> para ver se você acertou.]]></text>
+</component>
+<component id="ID_Q5_txt03">
+<text><![CDATA[5. <textformat  blockindent='14'>Liste o objetivo de ter intervalos de endereços IPv4 especificados par uso público e privado.</textformat>]]></text>
+</component>
+<component id="ID_Q5_txt04">
+<text><![CDATA[<p>Os endereços privados permitem a todos os administradores de rede alocar endereços aos hosts que não precisarão acessar a Internet pública.</p>]]></text>
+</component>
+<component id="ID_Q5_txt05">
+<text><![CDATA[<b>Pergunta<br/>Anterior</b>]]></text>
+</component>
+<component id="ID_Q5_txt06">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+<!-- Question 6 -->
+
+<component id="ID_Q6_txt01">
+<text><![CDATA[<b>Resposta</b>]]></text>
+</component>
+<component id="ID_Q6_txt02">
+<text><![CDATA[Você consegue responder esta pergunta?<br/>Clique em <b>Resposta</b> para ver se você acertou.]]></text>
+</component>
+<component id="ID_Q6_txt03">
+<text><![CDATA[6. <textformat  blockindent='14'>Para que os endereços IPv4 especiais são utilizados?</textformat>]]></text>
+</component>
+<component id="ID_Q6_txt04">
+<text><![CDATA[Endereços multicast: o intervalo de endereço multicast 224.0.0.0 a 239.255.255.255 é reservado para fins especiais no IPv4.
+Endereços privados. Os blocos de endereço são:
+10.0.0.0 a 10.255.255.255 (10.0.0.0 /8)
+172.16.0.0 a 172.31.255.255 (172.16.0.0 /12)
+192.168.0.0 a 192.168.255.255 (192.168.0.0 /16)
+Os blocos de endereço com espaço privado, conforme mostrado na figura, são reservados para uso em redes privadas. O uso desses endereços não precisa ser único entre as redes externas. Os hosts que não requerem acesso à Internet pública podem utilizar os endereços privados de maneira irrestrita. Muitos hosts em redes diferentes podem usar os mesmos endereços de espaço privados.  Os pacotes que usam estes endereços como origem ou destino não devem aparecer na Internet pública.  O roteador ou dispositivo de firewall no perímetro das redes privadas devem ser capazes de bloquear ou converter esses endereços.
+Rota padrão:
+A rota padrão do IPv4 é 0.0.0.0. O uso do endereços também reserva todos os endereços do bloco de endereços 0.0.0.0 – 0.255.255.255 (0.0.0.0 /8).
+Loopback:
+Um endereço reservado é endereço de loopback IPv4 127.0.0.1, sendo que os endereços 127.0.0.0 a 127.255.255.255 são reservados para loopback onde o host direciona o tráfego a si mesmos.
+Link - Endereços locais de link:
+Os endereços IPv4 no bloco de endereços 169.254.0.0 a 169.254.255.255 (169.254.0.0 /16) são designados como endereços locais de link. Esses endereços podem ser atribuídos automaticamente ao host local pelo sistema operacional em ambientes onde não há nenhuma configuração de IP disponível.  Eles podem ser utilizados em uma rede ponto a ponto de pequeno porte ou para um host que não obter um endereço de um servidor de protocolo de configuração de host dinâmico (DHCP) automaticamente.
+Endereços TEST-NET 
+O bloco de endereço 192.0.2.0 a 192.0.2.255 (192.0.2.0 /24) é reservado para fins de instrução e aprendizagem.  Esses endereços podem ser usados em documentação e exemplos de rede.  Ao contrário os endereços de teste, os dispositivos de rede aceitarão esses endereços em suas configurações. 
+]]></text>
+</component>
+<component id="ID_Q6_txt05">
+<text><![CDATA[<b>Pergunta<br/>Anterior</b>]]></text>
+</component>
+<component id="ID_Q6_txt06">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+<!-- Question 7 -->
+
+<component id="ID_Q7_txt01">
+<text><![CDATA[<b>Resposta</b>]]></text>
+</component>
+<component id="ID_Q7_txt02">
+<text><![CDATA[Você consegue responder esta pergunta?<br/>Clique em <b>Resposta</b> para ver se você acertou.]]></text>
+</component>
+<component id="ID_Q7_txt03">
+<text><![CDATA[7. <textformat  blockindent='14'>Relaciona três razões para o planejamento e documentação endereços IPv4.</textformat>]]></text>
+</component>
+<component id="ID_Q7_txt04">
+<text><![CDATA[<p>A alocação de endereços dentro das redes deve ser planejada e documentada com a finalidade de:</p><ul><li>Evitar a duplicação de endereços</li><li>Fornecer e controlar o acesso</li><li>Monitoramento da segurança e desempenho</li></ul>]]></text>
+</component>
+<component id="ID_Q7_txt05">
+<text><![CDATA[<b>Pergunta<br/>Anterior</b>]]></text>
+</component>
+<component id="ID_Q7_txt06">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+<!-- Question 8 -->
+
+<component id="ID_Q8_txt01">
+<text><![CDATA[<b>Resposta</b>]]></text>
+</component>
+<component id="ID_Q8_txt02">
+<text><![CDATA[Você consegue responder esta pergunta?<br/>Clique em <b>Resposta</b> para ver se você acertou.]]></text>
+</component>
+<component id="ID_Q8_txt03">
+<text><![CDATA[8. <textformat  blockindent='14'>Dê exemplos de onde os administradores de rede atribuem endereços de IPv4 de maneira estática e dinâmica.</textformat>]]></text>
+</component>
+<component id="ID_Q8_txt04">
+<text><![CDATA[<p>Endereços estáticos atribuídos: servidores, impressoras, endereços gateway LAN em roteadores, endereços de gerenciamento em dispositivos de rede, como switches e access point sem fio.</p><br/><p>Endereços dinâmicos atribuídos: grande número de computadores para uso geral e dispositivos terminais como IP fones.</p>]]></text>
+</component>
+<component id="ID_Q8_txt05">
+<text><![CDATA[<b>Pergunta<br/>Anterior</b>]]></text>
+</component>
+<component id="ID_Q8_txt06">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+<!-- Question 9 -->
+
+<component id="ID_Q9_txt01">
+<text><![CDATA[<b>Resposta</b>]]></text>
+</component>
+<component id="ID_Q9_txt02">
+<text><![CDATA[Você consegue responder esta pergunta?<br/>Clique em <b>Resposta</b> para ver se você acertou.]]></text>
+</component>
+<component id="ID_Q9_txt03">
+<text><![CDATA[9. <textformat  blockindent='14'>Relacione as características do IPv6 que o distinguem do IPv4.</textformat>]]></text>
+</component>
+<component id="ID_Q9_txt04">
+<text><![CDATA[<p>O IPv6 possui as seguintes características que o distinguem do IPv4:</p><ul><li>Processamento aprimorado de pacotes</li><li>Maior escalabilidade e longevidade</li><li>Mecanismos de QoS</li><li>Segurança integrada</li></ul><br/><p>Para oferecer essas características, o IPv6 possui:</p><ul><li>Endereçamento hierárquico de 128 bits (para expansão das funcionalidades de endereçamento)</li><li>Simplificação do formato de cabeçalho (para controle aprimorado de pacotes)</li><li>Suporte otimizado para extensões e opções (para maior escalabilidade/longevidade e controle aprimorado de pacotes)</li><li>Funcionalidade de classificação de fluxo (como mecanismos de QoS)</li><li>Funcionalidades de autenticação e privacidade (para segurança integrada)</li></ul>]]></text>
+</component>
+<component id="ID_Q9_txt05">
+<text><![CDATA[<b>Pergunta<br/>Anterior</b>]]></text>
+</component>
+<component id="ID_Q9_txt06">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+<!-- Question 10 -->
+
+<component id="ID_Q10_txt01">
+<text><![CDATA[<b>Resposta</b>]]></text>
+</component>
+<component id="ID_Q10_txt02">
+<text><![CDATA[Você consegue responder esta pergunta?<br/>Clique em <b>Resposta</b> para ver se você acertou.]]></text>
+</component>
+<component id="ID_Q10_txt03">
+<text><![CDATA[10. <textformat  blockindent='24'>Defina o objetivo da máscara de sub-rede no endereçamento de IPv4.</textformat>]]></text>
+</component>
+<component id="ID_Q10_txt04">
+<text><![CDATA[<p>Os dispositivos de rede usam a máscara de sub-rede para determinar a rede ou endereço de sub-rede de um endereço de IP que o dispositivo está processando.</p>]]></text>
+</component>
+<component id="ID_Q10_txt05">
+<text><![CDATA[<b>Pergunta<br/>Anterior</b>]]></text>
+</component>
+<component id="ID_Q10_txt06">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+<!-- Question 11 -->
+
+<component id="ID_Q11_txt01">
+<text><![CDATA[<b>Resposta</b>]]></text>
+</component>
+<component id="ID_Q11_txt02">
+<text><![CDATA[Você consegue responder esta pergunta?<br/>Clique em <b>Resposta</b> para ver se você acertou.]]></text>
+</component>
+<component id="ID_Q11_txt03">
+<text><![CDATA[11. <textformat  blockindent='24'>Relacione os fatores que devem ser considerados ao planejar um esquema de endereçamento de IPv4.</textformat>]]></text>
+</component>
+<component id="ID_Q11_txt04">
+<text><![CDATA[<p>A rede é dividida em sub-redes para solução de problemas de localização, tamanho e controle. Ao planejar o endereçamento, considere os fatores a seguir para agrupamento dos hosts:</p><ul><li>O agrupamento baseado em localização geográfica comum</li><li>Agrupamento de hosts usados para fins específicos</li><li>Agrupamento baseado em propriedade</li></ul>]]></text>
+</component>
+<component id="ID_Q11_txt05">
+<text><![CDATA[<b>Pergunta<br/>Anterior</b>]]></text>
+</component>
+<component id="ID_Q11_txt06">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+<!-- Question 12 -->
+
+<component id="ID_Q12_txt01">
+<text><![CDATA[<b>Resposta</b>]]></text>
+</component>
+<component id="ID_Q12_txt02">
+<text><![CDATA[Você consegue responder esta pergunta?<br/>Clique em <b>Resposta</b> para ver se você acertou.]]></text>
+</component>
+<component id="ID_Q12_txt03">
+<text><![CDATA[12. <textformat  blockindent='24'>Descreve os três níveis possíveis em que o utilitário de ping deve ser usado para teste e verificação da conectividade da rede.</textformat>]]></text>
+</component>
+<component id="ID_Q12_txt04">
+<text><![CDATA[<ul><li>Teste de loopback ping 127.0.0.1</li><li>Faça um teste de conectividade no endereço do gateway do host ou outro host da mesma rede</li><li>Faça um teste de conectividade em uma rede remota</li></ul>]]></text>
+</component>
+<component id="ID_Q12_txt05">
+<text><![CDATA[<b>Pergunta<br/>Anterior</b>]]></text>
+</component>
+<component id="ID_Q12_txt06">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+<!-- Question 13-->
+
+<component id="ID_Q13_txt01">
+<text><![CDATA[<b>Resposta</b>]]></text>
+</component>
+<component id="ID_Q13_txt02">
+<text><![CDATA[Você consegue responder esta pergunta?<br/>Clique em <b>Resposta</b> para ver se você acertou.]]></text>
+</component>
+<component id="ID_Q13_txt03">
+<text><![CDATA[13. <textformat  blockindent='24'>Quando o uso do utilitário trace route seria mais apropriado que o comando ping?</textformat>]]></text>
+</component>
+<component id="ID_Q13_txt04">
+<text><![CDATA[<p>Quando um endereço remoto não pode ser acessado e o teste de ping falhou. O uso de traceroute mostra o número de saltos restantes até o destino que o host de origem não pode acessar. Isso pode ajudar a determinar onde a rede falhou ou quais são as restrições de segurança.</p>]]></text>
+</component>
+<component id="ID_Q13_txt05">
+<text><![CDATA[<b>Pergunta<br/>Anterior</b>]]></text>
+</component>
+<component id="ID_Q13_txt06">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+
+<!-- Question 14 -->
+
+<component id="ID_Q14_txt01">
+<text><![CDATA[<b>Resposta</b>]]></text>
+</component>
+<component id="ID_Q14_txt02">
+<text><![CDATA[Você consegue responder esta pergunta?<br/>Clique em <b>Resposta</b> para ver se você acertou.]]></text>
+</component>
+<component id="ID_Q14_txt03">
+<text><![CDATA[14. <textformat  blockindent='24'>Determine os motivos pelos quais o ICMPv4 é um protocolo importante para funcionar com o IPv4.</textformat>]]></text>
+</component>
+<component id="ID_Q14_txt04">
+<text><![CDATA[<p>IPv4 é um protocolo orientado a conexões não-confiável. O ICMPv4 oferece meios para solução de problemas de rede como pacotes desconectados ou congestionamento, que são comunicados à rede ou host de origem.  As mensagens incluem:</p><ul><li>Conformação do host</li><li>Destino ou serviço não acessível</li><li>Tempo esgotado</li><li>Redirecionamento de rota</li><li>Supressão da origem</li></ul><br/><p>Nota: O ICMP não torna o IP confiável.</p>]]></text>
+</component>
+<component id="ID_Q14_txt05">
+<text><![CDATA[<b>Pergunta<br/>Anterior</b>]]></text>
+</component>
+<component id="ID_Q14_txt06">
+<text><![CDATA[<b>Próxima<br/>Pergunta</b>]]></text>
+</component>
+<component id="ID_conclusion">
+<text><![CDATA[<b>Isto conclui as perguntas. Verifique seu entendimento deste capítulo.</b>]]></text>
+</component>
+
+</textcomponents>

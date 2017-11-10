@@ -1,0 +1,18 @@
+﻿<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Circuitos Alternados em uma Rede Telefônica</b>]]></text></component> 
+<component id="ID_txt01">
+<text><![CDATA[<b>Muitos caminhos são possíveis, mas apenas um caminho é selecionado por chamada.
+</b>]]></text></component> 
+<component id="ID_txt02">
+<text><![CDATA[<b>Uma vez estabelecida uma chamada, toda a comunicação acontece neste caminho ou circuito. Um circuito é dedicado a esta chamada pela duração da chamada.</b>]]></text></component> 
+<component id="ID_txt03">
+<text><![CDATA[<b>O circuito fica ativo, ainda que ninguém esteja falando.</b>]]></text></component> 
+<component id="ID_txt04">
+<text><![CDATA[<b>Existem muitos, muitos circuitos, mas um número finito. Durante períodos de pico, algumas chamadas podem ser negadas.</b>]]></text></component> 
+<component id="ID_txt05">
+<text><![CDATA[<b>Rede Telefônica</b>]]></text></component> 
+<component id="ID_switch">
+<text><![CDATA[<b>Comutação Telefônica</b>]]></text></component>
+
+</textcomponents>

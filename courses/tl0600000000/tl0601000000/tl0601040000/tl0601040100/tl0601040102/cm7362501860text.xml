@@ -1,0 +1,47 @@
+﻿<textcomponents>
+
+<component id="ID_txt01"><text><![CDATA[Camada de Acesso]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[Camada de Distribuição]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[Camada do Núcleo]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[Internet]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>Segurança</b> medidas de proteção para a rede contra o acesso não autorizado.]]></text></component>
+
+<component id="ID_txt06"><text><![CDATA[<b>Qualidade de Serviço</b>, gerenciada pelo roteador, assegura que as prioridades sejam correspondentes ao tipo de comunicação e sua importância para a organização.]]></text></component>
+
+<component id="ID_txt01_02"><text><![CDATA[Camada de Acesso]]></text></component>
+
+<component id="ID_txt02_02"><text><![CDATA[Camada de Distribuição]]></text></component>
+
+<component id="ID_txt03_02"><text><![CDATA[Camada do Núcleo]]></text></component>
+
+<component id="ID_txt04_02"><text><![CDATA[Internet]]></text></component>
+
+<component id="ID_txt05_02"><text><![CDATA[As páginas da Web normalmente recebem prioridade inferior. ]]></text></component>
+
+<component id="ID_txt06_02"><text><![CDATA[<b>Qualidade de serviço</b>, gerenciada pelo roteador, assegura que as prioridades sejam correspondentes ao tipo de comunicação e sua importância para a organização.]]></text></component>
+
+<component id="ID_txt07_02"><text><![CDATA[Vídeo e áudio em streaming requerem prioridade alta para manter uma usabilidade uniforme e ininterrupta.]]></text></component>
+
+<component id="ID_txt01_03"><text><![CDATA[Camada de Acesso]]></text></component>
+
+<component id="ID_txt02_03"><text><![CDATA[Camada de Distribuição]]></text></component>
+
+<component id="ID_txt03_03"><text><![CDATA[Camada do Núcleo]]></text></component>
+
+<component id="ID_txt04_03"><text><![CDATA[Internet]]></text></component>
+
+<component id="ID_txt05_03"><text><![CDATA[Os administradores podem proteger a rede com segurança de software e de hardware e ao prevenir o acesso físico a dispositivos de rede. ]]></text></component>
+
+<component id="ID_txt06_03"><text><![CDATA[<b>Segurança:</b> medidas para proteção da rede contra o acesso não autorizado.]]></text></component>
+
+<component id="ID_txt07_03"><text><![CDATA[<b>Login:</b> ?<br><b>Senha:</b> ?]]></text></component>
+
+<component id="button1"><text><![CDATA[<b>Qualidade de serviço</b>]]></text></component>
+
+<component id="button2"><text><![CDATA[<B>Segurança</b>]]></text></component>
+
+</textcomponents>

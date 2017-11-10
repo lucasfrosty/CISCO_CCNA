@@ -1,0 +1,20 @@
+﻿<textcomponents>
+
+
+<component id="ID_title"><text><![CDATA[<b>Resolução de Endereços (DNS)</b>]]></text></component> 
+<component id="ID_inst"><text><![CDATA[<b>Clique aqui para ver os passos.</b>]]></text></component> 
+<component id="ID_label1"><text><![CDATA[<b>Servidor DNS</b>]]></text></component> 
+<component id="ID_label2"><text><![CDATA[<b>Rede</b>]]></text></component> 
+<component id="ID_label3"><text><![CDATA[<b>Cliente</b>]]></text></component> 
+<component id="ID_label4"><text><![CDATA[<b>O nome é fácil de utilizar.</b>]]></text></component> 
+<component id="ID_label5"><text><![CDATA[<b>www.cisco.com</b>]]></text></component> 
+<component id="ID_label6"><text><![CDATA[<b>Nome</b>]]></text></component> 
+<component id="ID_label7"><text><![CDATA[<b>Endereço</b>]]></text></component> 
+<component id="ID_label8"><text><![CDATA[<b>198.133.219.25</b>]]></text></component> 
+<component id="ID_txt02"><text><![CDATA[<b>O servidor DNS corresponde ao endereço humano com o endereço numérico.</b>]]></text></component> 
+<component id="ID_txt03"><text><![CDATA[<b>Os dispositivos utilizam números.</b>]]></text></component> 
+<component id="ID_label9"><text><![CDATA[<b>198.133.219.25</b>]]></text></component>
+<component id="ID_label10"><text><![CDATA[<b>O número volta para o cliente para uso ao fazer solicitações do servidor.</b>]]></text></component> 
+<component id="ID_label11"><text><![CDATA[<b>Um nome humano legível é resolvido a seu endereço de dispositivo de rede numérico pelo protocolo DNS.</b>]]></text></component>
+<component id="ID_label12"><text><![CDATA[<b>198.133.219.25</b>]]></text></component>
+</textcomponents>

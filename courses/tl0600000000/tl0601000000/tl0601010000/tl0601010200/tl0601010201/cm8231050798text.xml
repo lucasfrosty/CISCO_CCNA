@@ -1,0 +1,5 @@
+﻿<textcomponents>
+<component id="ID_caption1"><text><![CDATA[<b>Os quatro elementos de uma rede:<br><br>- Dispositivos<br>- Meio Físico<br>- Mensagens<br>- Regras</b>]]></text></component> <component id="ID_txt01"><text><![CDATA[É possível ouvir a seu programa de rádio preferido em seu rádio portátil, quando e onde você desejar. Quando um novo programa torna-se disponível, pode ser carregado automaticamente.
+]]></text></component> <component id="ID_txt02"><text><![CDATA[Você pode expressar seus sentimentos on-line, compartilhar suas fotos e participar de comunidades com pessoas do mesmo interesse.
+]]></text></component> <component id="ID_txt03"><text><![CDATA[As mensagens instantâneas estão em todo lugar e podem incluir conversas de áudio e vídeo. Com um programa específico é possível enviar mensagens a celulares.]]></text></component> <component id="title1"><text><![CDATA[<b>Podcasting</b>]]></text></component> <component id="title2"><text><![CDATA[<b>Mensagens instantâneas</b>]]></text></component> <component id="title3"><text><![CDATA[<b>Blogs</b>]]></text></component>
+</textcomponents>

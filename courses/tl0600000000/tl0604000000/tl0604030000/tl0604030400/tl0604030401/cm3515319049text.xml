@@ -1,0 +1,45 @@
+﻿<textcomponents>
+
+<component id="ID_title"><text><![CDATA[<b>Reconhecimento de Segmento TCP e Tamanho da Janela</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>Emissor</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Número de seqüência 1</b>]]></text></component>
+  
+<component id="ID_txt03"><text><![CDATA[<b>Número de seqüência 1501</b>]]></text></component>
+  
+<component id="ID_txt04"><text><![CDATA[<b>Receber Reconhecimento</b>]]></text></component>
+  
+<component id="ID_txt05"><text><![CDATA[<b>Número de seqüência 3001</b>]]></text></component>
+  
+<component id="ID_txt06"><text><![CDATA[<b>Número de seqüência 4501</b>]]></text></component>
+  
+<component id="ID_txt07"><text><![CDATA[<b>Receber Reconhecimento</b>]]></text></component>
+
+<component id="ID_txt08"><text><![CDATA[<b>Tamanho da Janela = 3000</b>]]></text></component>
+  
+<component id="ID_txt09"><text><![CDATA[<b>1500 bytes</b>]]></text></component>
+  
+<component id="ID_txt10"><text><![CDATA[<b>1500 bytes</b>]]></text></component>
+  
+<component id="ID_txt11"><text><![CDATA[<b>1500 bytes</b>]]></text></component>
+  
+<component id="ID_txt12"><text><![CDATA[<b>1500 bytes</b>]]></text></component>
+  
+<component id="ID_txt13"><text><![CDATA[<b>Receptor</b>]]></text></component>
+
+<component id="ID_txt14"><text><![CDATA[<b>Receber 1- 1500</b>]]></text></component>
+  
+<component id="ID_txt15"><text><![CDATA[<b>Receber 1501- 3000</b>]]></text></component>
+  
+<component id="ID_txt16"><text><![CDATA[<b>Número de reconhecimento 3001</b>]]></text></component>
+  
+<component id="ID_txt17"><text><![CDATA[<b>Receber 3001- 4500</b>]]></text></component>
+  
+<component id="ID_txt18"><text><![CDATA[<b>Receber 4501- 6000</b>]]></text></component>
+  
+<component id="ID_txt19"><text><![CDATA[<b>Número de reconhecimento 6001</b>]]></text></component>
+  
+<component id="ID_txt20"><text><![CDATA[<b><br>O<font color="#993333"> tamanho da janela </font>determina o número de bytes enviados antes de um reconhecimento.</br><br>O número de <font color="#993333">reconhecimento </font>é o número do próximo byte esperado.</b></br>]]></text></component>
+  
+</textcomponents> 

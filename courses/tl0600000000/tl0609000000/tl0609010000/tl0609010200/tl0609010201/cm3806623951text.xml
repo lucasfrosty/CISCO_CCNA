@@ -1,0 +1,28 @@
+﻿<textcomponents>
+
+<component id="ID_txt01"><text><![CDATA[<b>Endereços da Camada 2 Limitações da Camada 1</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Limitações da Camada 1</b>]]></text></component>
+  
+<component id="ID_txt03"><text><![CDATA[<b>Funções da Camada 2</b>]]></text></component>
+  
+<component id="ID_txt04"><text><![CDATA[<b>Não consegue se comunicar com as camadas superiores</br></b>]]></text></component>
+  
+<component id="ID_txt05"><text><![CDATA[<b>Conecta-se às camadas superiores através do Logical Link Control (LLC)</br></b>]]></text></component>
+
+
+<component id="ID_txt06"><text><![CDATA[<b>Não consegue identificar dispositivos</br></b>]]></text></component>
+  
+<component id="ID_txt07"><text><![CDATA[<b>Usa esquemas de endereçamento para identificar dispositivos</br></b>]]></text></component>
+  
+<component id="ID_txt08"><text><![CDATA[<b>Reconhece somente fluxos de bits</br></b>]]></text></component>
+  
+<component id="ID_txt09"><text><![CDATA[<b>Usa quadros para organizar os bits em grupos</br></b>]]></text></component>
+  
+<component id="ID_txt10"><text><![CDATA[<b>Não consegue determinar a origem de uma transmissão quando múltiplos dispositivos estão transmitindo
+</br></b>]]></text></component>
+  
+<component id="ID_txt11"><text><![CDATA[<b>Usa o Media Access Control (MAC) para identificar as origens de transmissão</br></b>]]></text></component>
+  
+
+</textcomponents>

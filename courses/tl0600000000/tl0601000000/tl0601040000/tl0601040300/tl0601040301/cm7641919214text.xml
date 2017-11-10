@@ -1,0 +1,195 @@
+﻿<textcomponents>
+
+<component id="ID_button01"><text><![CDATA[<b>Nível 1</b>]]></text></component>
+
+<component id="ID_button02"><text><![CDATA[<b>Nível 2</b>]]></text></component>
+
+<component id="ID_button03"><text><![CDATA[<b>Nível 3</b>]]></text></component>
+
+<component id="ID_button04"><text><![CDATA[<b>Hierárquico</b>]]></text></component>
+
+<component id="ID_button05"><text><![CDATA[<b>Distribuído</b>]]></text></component>
+
+<component id="ID_button06"><text><![CDATA[<b>Mesmo nível</b>]]></text></component>
+
+<component id="ID_txt01_01"><text><![CDATA[<b>Ao centro da Internet, os ISPs “Nível-1” fornecem conexões nacionais e internacionais. Esses ISPs são tratados como "parceiros" entre si.</b>]]></text></component>
+
+<component id="ID_txt02_01"><text><![CDATA[<b>Por exemplo: Verizon, Sprint, AT&T, NTT, sistemas de cabo e redes locais.</b>]]></text></component>
+
+<component id="ID_txt03_01"><text><![CDATA[<b>ISP Nível-1 </b>]]></text></component>
+
+<component id="ID_txt04_01"><text><![CDATA[<b>ISP Nível-1 </b>]]></text></component>
+
+<component id="ID_txt05_01"><text><![CDATA[<b>ISP Nível-1 </b>]]></text></component>
+
+<component id="ID_txt06_01"><text><![CDATA[<b>Este é o “backbone” da Internet.</b>]]></text></component>
+
+<component id="ID_txt01_02"><text><![CDATA[<b>Os ISPs “Nível-2” são menores e normalmente oferecem serviço regional. Os ISPs Nível-2 geralmente pagam ISPs Nível-1 pela conectividade à Internet. 
+</b>]]></text></component>
+
+<component id="ID_txt02_02"><text><![CDATA[<b>ISP Nível-2 </b>]]></text></component>
+
+<component id="ID_txt03_02"><text><![CDATA[<b>ISP Nível-1 </b>]]></text></component>
+
+<component id="ID_txt04_02"><text><![CDATA[<b>ISP Nível-2 </b>]]></text></component>
+
+<component id="ID_txt05_02"><text><![CDATA[<b>ISP Nível-1 </b>]]></text></component>
+
+<component id="ID_txt06_02"><text><![CDATA[<b>ISP Nível-2 </b>]]></text></component>
+
+<component id="ID_txt07_02"><text><![CDATA[<b>ISP Nível-2 </b>]]></text></component>
+
+<component id="ID_txt08_02"><text><![CDATA[<b>ISP Nível-1 </b>]]></text></component>
+
+<component id="ID_txt09_02"><text><![CDATA[<b>ISP Nível-2 </b>]]></text></component>
+
+<component id="ID_txt10_02"><text><![CDATA[<b>O ponto em que os ISPs são interconectados é normalmente chamado de “borda.”</b>]]></text></component>
+
+<component id="ID_txt01_03"><text><![CDATA[<b>Os ISPs “Nível-3” são provedores locais que fornecem serviço diretamente aos usuários finais. Os ISPs Nível-3 são normalmente conectado aos ISPs Nível 2 e pagam aos provedores Nível 2 pelo acesso à Internet.</b>]]></text></component>
+
+<component id="ID_txt02_03"><text><![CDATA[<b>ISP<br>local</b>]]></text></component>
+
+<component id="ID_txt03_03"><text><![CDATA[<b>ISP<br>local</b>]]></text></component>
+
+<component id="ID_txt04_03"><text><![CDATA[<b>ISP<br>local</b>]]></text></component>
+
+<component id="ID_txt05_03"><text><![CDATA[<b>ISP<br>local</b>]]></text></component>
+
+<component id="ID_txt06_03"><text><![CDATA[<b>ISP<br>local</b>]]></text></component>
+
+<component id="ID_txt07_03"><text><![CDATA[<b>ISP<br>local</b>]]></text></component>
+
+<component id="ID_txt08_03"><text><![CDATA[<b>ISP<br>local</b>]]></text></component>
+
+<component id="ID_txt09_03"><text><![CDATA[<b>ISP<br>local</b>]]></text></component>
+
+<component id="ID_txt10_03"><text><![CDATA[<b>ISP Nível-2 </b>]]></text></component>
+
+<component id="ID_txt11_03"><text><![CDATA[<b>ISP Nível-1 </b>]]></text></component>
+
+<component id="ID_txt12_03"><text><![CDATA[<b>ISP Nível-2 </b>]]></text></component>
+
+<component id="ID_txt13_03"><text><![CDATA[<b>ISP Nível-1 </b>]]></text></component>
+
+<component id="ID_txt14_03"><text><![CDATA[<b>ISP Nível-2 </b>]]></text></component>
+
+<component id="ID_txt15_03"><text><![CDATA[<b>ISP Nível-2 </b>]]></text></component>
+
+<component id="ID_txt16_03"><text><![CDATA[<b>ISP Nível-1 </b>]]></text></component>
+
+<component id="ID_txt17_03"><text><![CDATA[<b>ISP Nível-2 </b>]]></text></component>
+
+<component id="ID_txt01_04"><text><![CDATA[<b>O Sistema de Nome de Domínio (DNS) oferece um diretório hierárquico de endereços, pois um servidor não deve manter a lista inteira de milhões de endereços. </b>]]></text></component>
+
+<component id="ID_txt02_04"><text><![CDATA[<b>ISP<br>local</b>]]></text></component>
+
+<component id="ID_txt03_04"><text><![CDATA[<b>ISP<br>local</b>]]></text></component>
+
+<component id="ID_txt04_04"><text><![CDATA[<b>ISP<br>local</b>]]></text></component>
+
+<component id="ID_txt05_04"><text><![CDATA[<b>ISP<br>local</b>]]></text></component>
+
+<component id="ID_txt06_04"><text><![CDATA[<b>ISP<br>local</b>]]></text></component>
+
+<component id="ID_txt07_04"><text><![CDATA[<b>ISP<br>local</b>]]></text></component>
+
+<component id="ID_txt08_04"><text><![CDATA[<b>ISP<br>local</b>]]></text></component>
+
+<component id="ID_txt09_04"><text><![CDATA[<b>ISP<br>local</b>]]></text></component>
+
+<component id="ID_txt10_04"><text><![CDATA[<b>ISP Nível-2 </b>]]></text></component>
+
+<component id="ID_txt11_04"><text><![CDATA[<b>ISP Nível-1 </b>]]></text></component>
+
+<component id="ID_txt12_05"><text><![CDATA[<b>ISP Nível-2 </b>]]></text></component>
+
+<component id="ID_txt13_04"><text><![CDATA[<b>ISP Nível-1 </b>]]></text></component>
+
+<component id="ID_txt14_04"><text><![CDATA[<b>ISP Nível-2 </b>]]></text></component>
+
+<component id="ID_txt15_04"><text><![CDATA[<b>ISP Nível-2 </b>]]></text></component>
+
+<component id="ID_txt16_04"><text><![CDATA[<b>ISP Nível-1 </b>]]></text></component>
+
+<component id="ID_txt17_04"><text><![CDATA[<b>ISP Nível-2 </b>]]></text></component>
+
+<component id="ID_txt18_04"><text><![CDATA[<b>Os servidores DNS são atualizados com os endereços de nível superior, de modo que os dispositivos locais podem localizar o endereço mais próximo e confiável com informações atualizadas.<br><br>Os servidores DNS contém endereços de nível inferior para as redes diretamente conectadas somente. Isso evita que os diretórios fiquem muito grandes.
+</b>]]></text></component>
+
+<component id="ID_txt01_05"><text><![CDATA[<b>A natureza distribuída das conexões e diretórios significa que a comunicação pode evitar congestionamentos e interrupções. Projetado originalmente para proteger contra ataques militares, o sistema também provou ser a melhor maneira de oferecer uma rede civil escalável e segura.</b>]]></text></component>
+
+<component id="ID_txt02_05"><text><![CDATA[<b>ISP<br>local</b>]]></text></component>
+
+<component id="ID_txt03_05"><text><![CDATA[<b>ISP<br>local</b>]]></text></component>
+
+<component id="ID_txt04_05"><text><![CDATA[<b>ISP<br>local</b>]]></text></component>
+
+<component id="ID_txt05_05"><text><![CDATA[<b>ISP<br>local</b>]]></text></component>
+
+<component id="ID_txt06_05"><text><![CDATA[<b>ISP<br>local</b>]]></text></component>
+
+<component id="ID_txt07_05"><text><![CDATA[<b>ISP<br>local</b>]]></text></component>
+
+<component id="ID_txt08_05"><text><![CDATA[<b>ISP<br>local</b>]]></text></component>
+
+<component id="ID_txt09_05"><text><![CDATA[<b>ISP<br>local</b>]]></text></component>
+
+<component id="ID_txt10_05"><text><![CDATA[<b>ISP Nível-2 </b>]]></text></component>
+
+<component id="ID_txt11_05"><text><![CDATA[<b>ISP Nível-1 </b>]]></text></component>
+
+<component id="ID_txt12_05"><text><![CDATA[<b>ISP Nível-2 </b>]]></text></component>
+
+<component id="ID_txt13_05"><text><![CDATA[<b>ISP Nível-1 </b>]]></text></component>
+
+<component id="ID_txt14_05"><text><![CDATA[<b>ISP Nível-2 </b>]]></text></component>
+
+<component id="ID_txt15_05"><text><![CDATA[<b>ISP Nível-2 </b>]]></text></component>
+
+<component id="ID_txt16_05"><text><![CDATA[<b>ISP Nível-1 </b>]]></text></component>
+
+<component id="ID_txt17_05"><text><![CDATA[<b>ISP Nível-2 </b>]]></text></component>
+
+<component id="ID_txt18_05"><text><![CDATA[<b>Mesmo se um servidor DNS estiver desconectado, os dispositivos locais pode se comunicar entre si. Se uma rota estiver congestionada ou interrompida, a comunicação é encaminhada automaticamente à outra rota.</b>]]></text></component>
+
+<component id="ID_txt01_06"><text><![CDATA[<b>As conexões entre redes do mesmo nível fornecem conexões diretas, contornando as rotas mais longas e evitando o congestionamento do backbone.</b>]]></text></component>
+
+<component id="ID_txt02_06"><text><![CDATA[<b>ISP<br>local</b>]]></text></component>
+
+<component id="ID_txt03_06"><text><![CDATA[<b>ISP<br>local</b>]]></text></component>
+
+<component id="ID_txt04_06"><text><![CDATA[<b>ISP<br>local</b>]]></text></component>
+
+<component id="ID_txt05_06"><text><![CDATA[<b>ISP<br>local</b>]]></text></component>
+
+<component id="ID_txt06_06"><text><![CDATA[<b>ISP<br>local</b>]]></text></component>
+
+<component id="ID_txt07_06"><text><![CDATA[<b>ISP<br>local</b>]]></text></component>
+
+<component id="ID_txt08_06"><text><![CDATA[<b>ISP<br>local</b>]]></text></component>
+
+<component id="ID_txt09_06"><text><![CDATA[<b>ISP<br>local</b>]]></text></component>
+
+<component id="ID_txt10_06"><text><![CDATA[<b>ISP Nível-2 </b>]]></text></component>
+
+<component id="ID_txt11_06"><text><![CDATA[<b>ISP Nível-1 </b>]]></text></component>
+
+<component id="ID_txt12_06"><text><![CDATA[<b>ISP Nível-2 </b>]]></text></component>
+
+<component id="ID_txt13_06"><text><![CDATA[<b>ISP Nível-1 </b>]]></text></component>
+
+<component id="ID_txt14_06"><text><![CDATA[<b>ISP Nível-2 </b>]]></text></component>
+
+<component id="ID_txt15_06"><text><![CDATA[<b>ISP Nível-2 </b>]]></text></component>
+
+<component id="ID_txt16_06"><text><![CDATA[<b>ISP Nível-1 </b>]]></text></component>
+
+<component id="ID_txt17_06"><text><![CDATA[<b>ISP Nível-2 </b>]]></text></component>
+
+
+<component id="ID_inst"><text><![CDATA[<b>Clique para exibir a estrutura da Internet.</b>]]></text></component>
+
+<component id="ID_title"><text><![CDATA[<b>Estrutura da Internet - Uma rede de "redes"</b>]]></text></component>
+
+
+</textcomponents>

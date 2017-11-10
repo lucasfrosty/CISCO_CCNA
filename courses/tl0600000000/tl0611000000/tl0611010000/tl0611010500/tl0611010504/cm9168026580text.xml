@@ -1,0 +1,54 @@
+﻿<textcomponents>
+<component id="ID_title"><text><![CDATA[<b>Teclas de Atalho e Atalhos da CLI</b>]]></text></component> <component id="ID_txt01"><text><![CDATA[<b>Tab</b>]]></text></component> <component id="ID_txt02"><text><![CDATA[<b>Backspace</b>]]></text></component> <component id="ID_txt03"><text><![CDATA[<b>Ctrl-D</b>]]></text></component> <component id="ID_txt04"><text><![CDATA[<b>Ctrl-K</b>]]></text></component> <component id="ID_txt05"><text><![CDATA[<b>Esc D</b>]]></text></component> <component id="ID_txt06"><text><![CDATA[<b>Ctrl-U or Ctrl-X</b>]]></text></component> <component id="ID_txt06a"><text><![CDATA[<b>Ctrl-W</b>]]></text></component> <component id="ID_txt07"><text><![CDATA[(NOTA: <b>"Delete"</b>, a tecla para apagar à direita do cursor, não é reconhecida por programas de simulação.)]]></text></component>
+
+
+<component id="ID_txt08"><text><![CDATA[<b>Ctrl-A</b>]]></text></component> <component id="ID_txt27"><text><![CDATA[Move o cursor para o começo da linha.]]></text></component> 
+
+
+<component id="ID_txt09"><text><![CDATA[<b>Seta à Esquerda ou Ctrl-B</b>]]></text></component> <component id="ID_txt28"><text><![CDATA[Move o cursor um caractere à esquerda.]]></text></component> 
+
+
+<component id="ID_txt10"><text><![CDATA[<b>Esc B</b>]]></text></component> <component id="ID_txt10a"><text><![CDATA[Move o cursor de volta uma palavra à esquerda.]]></text></component> 
+
+
+<component id="ID_txt11"><text><![CDATA[<b>Esc F</b>]]></text></component> <component id="ID_txt29"><text><![CDATA[Move o cursor uma palavra à direita.]]></text></component> 
+
+
+<component id="ID_txt12"><text><![CDATA[<b>Seta à Direita ou Ctrl-F</b>]]></text></component> <component id="ID_txt30"><text><![CDATA[Move o cursor um caractere à direita.]]></text></component> 
+
+
+<component id="ID_txt13"><text><![CDATA[<b>Ctrl-E</b>]]></text></component> <component id="ID_txt31"><text><![CDATA[Move o cursor para o final da linha de comando.]]></text></component> 
+
+
+<component id="ID_txt14"><text><![CDATA[<b>Seta para Cima ou Ctrl-P</b>]]></text></component> <component id="ID_txt32"><text><![CDATA[Cancela o comando no buffer histórico, começando com os comandos mais recentes.]]></text></component> 
+
+
+<component id="ID_txt15"><text><![CDATA[<b>Ctrl-R ou Ctrl-I ou Ctrl-L</b>]]></text></component> <component id="ID_txt33"><text><![CDATA[Re-exibe o prompt do sistema e a linha de comando depois que uma mensagem console é recebida.]]></text></component> 
+
+
+
+<component id="ID_txt16"><text><![CDATA[<b>A Tecla Enter</b>]]></text></component> 
+
+
+
+
+<component id="ID_txt17"><text><![CDATA[<b>Barra de Espaço</b>]]></text></component>  
+
+
+
+
+<component id="ID_txt18"><text><![CDATA[<b>Qualquer outra tecla alfanumérica</b>]]></text></component> <component id="ID_txt19"><text><![CDATA[<b>Ctrl-C</b>]]></text></component> <component id="ID_txt20"><text><![CDATA[<b>Ctrl-Z</b>]]></text></component> <component id="ID_txt21"><text><![CDATA[<b>Ctrl-Shift-6</b>]]></text></component> <component id="ID_txt22"><text><![CDATA[Completa uma entrada parcial do nome do comando.]]></text></component> <component id="ID_txt23"><text><![CDATA[Apaga o caractere à direita do cursor.]]></text></component> <component id="ID_txt24"><text><![CDATA[Apaga o caractere no cursor.]]></text></component> <component id="ID_txt25"><text><![CDATA[Apaga todos os caracteres do cursor ao final da linha de comando.]]></text></component> <component id="ID_txt26"><text><![CDATA[Apaga todos os caracteres do cursor ao final da palavra.]]></text></component> <component id="ID_txt26a"><text><![CDATA[Apaga todos os caracteres do cursor de volta ao início da linha de comando.]]></text></component> <component id="ID_txt27a"><text><![CDATA[Apaga a palavra à esquerda do cursor.]]></text></component> 
+
+
+
+
+
+
+
+<component id="ID_txt34"><text><![CDATA[Exibe a próxima linha.]]></text></component> <component id="ID_txt35"><text><![CDATA[Exibe a próxima tela.]]></text></component> <component id="ID_txt36"><text><![CDATA[Retorna ao prompt EXEC.]]></text></component> <component id="ID_txt37"><text><![CDATA[Quando estiver em qualquer modo de configuração, finaliza o modo de configuração e retorna ao modo EXEC privilegiado. Quando estiver em modo de instalação, fecha o prompt de comando.]]></text></component> <component id="ID_txt38"><text><![CDATA[Quando estiver em qualquer modo de configuração, finaliza o modo de configuração e retorna ao modo EXEC privilegiado.]]></text></component> <component id="ID_txt39"><text><![CDATA[Sequência de quebra de todas as finalidades. Use para fechar pesquisas DNS, traceroutes, pings.]]></text></component> <component id="ID_txt40"><text><![CDATA[Nota: Chaves de Controle - Pressione e segure a tecla &lt;Ctrl&gt; e depois pressione a tecla da letra especificada .<br/>Sequências de escape - Pressione e solte a tecla &lt;Esc&gt; e depois pressione a tecla da letra.
+]]></text></component> 
+
+
+  <component id="ID_header1"><text><![CDATA[<b>Edição da Linha CLI</b>]]></text></component> <component id="ID_header2"><text><![CDATA[<b>No <font face="_typewriter">prompt "-----More-----"</b>]]></text></component> <component id="ID_header3"><text><![CDATA[<b>Teclas Break</b>]]></text></component>
+
+  </textcomponents>

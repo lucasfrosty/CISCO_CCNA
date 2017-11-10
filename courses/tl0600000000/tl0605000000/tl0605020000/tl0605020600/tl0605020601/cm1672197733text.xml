@@ -1,0 +1,25 @@
+﻿<textcomponents>
+
+<component id="ID_title"><text><![CDATA[<b>Endereço IPv4 Hierárquico</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>32 bits</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Porção de Rede</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>Porção de Host</b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<b>8 bits<br>(Octeto)</b>]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>8 bits<br>(Octeto)</b>]]></text></component>
+
+<component id="ID_txt06"><text><![CDATA[<b>8 bits<br>(Octeto)</b>]]></text></component>
+
+<component id="ID_txt07"><text><![CDATA[<b>8 bits<br>(Octeto)</b>]]></text></component>
+
+<component id="ID_txt08"><text><![CDATA[<b>Rede</b>]]></text></component>
+
+<component id="ID_txt09"><text><![CDATA[<b>Host</b>]]></text></component>
+
+<component id="ID_txt10"><text><![CDATA[<b>Endereço IPv4 Completo</b>]]></text></component>
+
+</textcomponents>

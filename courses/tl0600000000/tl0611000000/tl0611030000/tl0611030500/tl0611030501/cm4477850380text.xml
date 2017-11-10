@@ -1,0 +1,37 @@
+﻿<textcomponents>
+
+<component id="ID_title"><text><![CDATA[<b>Testando o Caminho para um Host Remoto</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>10.0.0.1/24</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>10.0.0.2/24</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>Host 1</b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<b>10.0.0.254/24</b>]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>RoteadorA</b>]]></text></component>
+
+<component id="ID_txt06"><text><![CDATA[<b>RoteadorB</b>]]></text></component>
+
+<component id="ID_txt07"><text><![CDATA[<b>RoteadorC</b>]]></text></component>
+
+<component id="ID_txt08"><text><![CDATA[<b>RoteadorD</b>]]></text></component>
+
+<component id="ID_txt09"><text><![CDATA[<b>10.1.0.254/24</b>]]></text></component>
+
+<component id="ID_txt10"><text><![CDATA[<b>10.1.0.1/24</b>]]></text></component>
+
+<component id="ID_txt11"><text><![CDATA[<font color="#003399"><b>10.1.0.2/24</font></b>]]></text></component>
+
+<component id="ID_txt12"><text><![CDATA[<b>Host 2</b>]]></text></component>
+
+<component id="ID_txt13"><text><![CDATA[<b>Rastrear de um host</b>]]></text></component>
+
+<component id="ID_txt14"><text><![CDATA[<b>C:\>tracert 10.1.0.2</b>]]></text></component>
+
+<component id="ID_txt15"><text><![CDATA[<b>Rastrear de um roteador</b>]]></text></component>
+
+<component id="ID_txt16"><text><![CDATA[<font face = "courier new dynamic"><b>RoteadorA#traceroute 10.1.0.2</font></b>]]></text></component>
+
+</textcomponents>

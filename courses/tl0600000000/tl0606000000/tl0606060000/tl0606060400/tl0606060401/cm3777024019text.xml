@@ -1,0 +1,27 @@
+﻿<textcomponents>
+   <component id="play"><text>Play</text></component> <component id="pause"><text>Pausar</text></component> <component id="rewind"><text>Voltar</text></component> <component id="forward"><text>Avançar</text></component> <component id="mute"><text>Mudo</text></component> <component id="unmute"><text>Com Som</text></component> <component id="previous"><text>Reiniciar</text></component> <component id="next"><text>Fim</text></component> <component id="transcript"><text>Transcrição</text></component>
+   
+   <component id="ID_title"><text><![CDATA[<b>Traceroute (tracert) - Testando o Caminho</b>]]></text></component>
+
+<component id="ID_inst"><text><![CDATA[<b>Clique em Play para ver a animação.</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>10.0.0.1<br>255.255.255.0</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>192.168.1.2<br>255.255.255.0</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>ICMP<br>Tempo Excedido</b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<b>ICMP<br>Tempo Excedido</b>]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>ICMP<br>Tempo Excedido</b>]]></text></component>
+
+<component id="ID_txt06"><text><![CDATA[<b>(Resposta de eco ICMP)</b>]]></text></component>
+
+<component id="ID_txt07"><text><![CDATA[<b>Traceroute<br>192.168.1.2<br>(TTL = 1)</b>]]></text></component>
+
+<component id="ID_txt08"><text><![CDATA[<b>Traceroute<br>192.168.1.2<br>(TTL = 2)</b>]]></text></component>
+
+<component id="ID_txt09"><text><![CDATA[<b>Traceroute<br>192.168.1.2<br>(TTL = 3)</b>]]></text></component>
+
+<component id="ID_txt10"><text><![CDATA[<b>Traceroute<br>192.168.1.2<br>(TTL = 4)</b>]]></text></component>
+</textcomponents>

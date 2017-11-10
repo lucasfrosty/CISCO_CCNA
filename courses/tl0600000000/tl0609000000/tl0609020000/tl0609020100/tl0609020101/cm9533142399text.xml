@@ -1,0 +1,15 @@
+﻿<textcomponents>
+
+<component id="ID_title"><text><![CDATA[<b>Histórica da Ethernet</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>Ilhas Havaianas</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Topologia de barramento compartilhado</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<font color="#003399"><b>Ethernet Remota</b></font>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<font color="#003399"><b>Alohanet</b></font>]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>As técnicas de detecção de colisão e meio físico compartilhado da Ethernet foram adaptadas da rede de rádio Alohanet.</b>]]></text></component>
+  
+</textcomponents>

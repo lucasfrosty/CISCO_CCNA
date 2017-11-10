@@ -1,0 +1,25 @@
+﻿<textcomponents>
+<component id="ID_title1"><text><![CDATA[<b>Baixo Desempenho de LANs baseadas em Hub</b>]]></text></component>
+
+<component id="ID_inst"><text><![CDATA[<b>Clique para ver um caso de baixo desempenho.</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>Largura de banda de rede compartilhada por 6 hosts</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Mesma largura de banda de rede compartilhada por 12 hosts</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>Mesma largura de banda de rede compartilhada por 12 hosts</b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<b>Latência da rede aumenta</b>]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>Mesma largura de banda de rede compartilhada por 12 hosts</b>]]></text></component>
+
+<component id="ID_txt06"><text><![CDATA[<b>Colisões de rede aumentam&#8212;ainda 1 domínio de colisão</b>]]></text></component>
+
+<component id="Lack of scalability"><text><![CDATA[Falta de escalabilidade]]></text></component> <component id="Increased latency"><text><![CDATA[Latência elevada]]></text></component> <component id="More collisions"><text><![CDATA[Mais colisões]]></text></component>
+
+<component id="reset"><text><![CDATA[Reiniciar]]></text></component>
+
+
+</textcomponents>
+
+

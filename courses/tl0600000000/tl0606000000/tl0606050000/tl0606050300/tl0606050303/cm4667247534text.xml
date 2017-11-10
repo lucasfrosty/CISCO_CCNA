@@ -1,0 +1,116 @@
+﻿<textcomponents>
+
+<component id="ID_header01_01"><text><![CDATA[<b>Nome -endereços necessários</b>]]></text></component>
+
+<component id="ID_header02_01"><text><![CDATA[<b>Endereço de sub-rede</b>]]></text></component>
+
+<component id="ID_header03_01"><text><![CDATA[<b>Faixa de endereços</b>]]></text></component>
+
+<component id="ID_header04_01"><text><![CDATA[<b>Endereço de Broadcast</b>]]></text></component>
+
+<component id="ID_header05_01"><text><![CDATA[<b>Rede /prefixo</b>]]></text></component>
+
+<component id="ID_caption01"><text><![CDATA[<b>Em sua lista de documentação, liste seus requisitos em ordem decrescente.</b>]]></text></component>
+
+<component id="ID_header01_02"><text><![CDATA[<b>Nome -endereços necessários</b>]]></text></component>
+
+<component id="ID_header02_02"><text><![CDATA[<b>Endereço de sub-rede</b>]]></text></component>
+
+<component id="ID_header03_02"><text><![CDATA[<b>Faixa de endereços</b>]]></text></component>
+
+<component id="ID_header04_02"><text><![CDATA[<b>Endereço de Broadcast</b>]]></text></component>
+
+<component id="ID_header05_02"><text><![CDATA[<b>Rede /prefixo</b>]]></text></component>
+
+<component id="ID_caption02"><text><![CDATA[<b>Calcule a máscara de sub-rede para atender o maior requisito - AtlantaHQ</b>]]></text></component>
+
+<component id="ID_header01_03"><text><![CDATA[<b>Nome -endereços necessários</b>]]></text></component>
+
+<component id="ID_header02_03"><text><![CDATA[<b>Endereço de sub-rede</b>]]></text></component>
+
+<component id="ID_header03_03"><text><![CDATA[<b>Faixa de endereços</b>]]></text></component>
+
+<component id="ID_header04_03"><text><![CDATA[<b>Endereço de Broadcast</b>]]></text></component>
+
+<component id="ID_header05_03"><text><![CDATA[<b>Rede /prefixo</b>]]></text></component>
+
+<component id="ID_caption03"><text><![CDATA[<b>Use o próximo Endereço .64 disponível para calcular uma máscara de sub-rede para o maior requisito - PerthHQ.</b>]]></text></component>
+
+<component id="ID_header01_04"><text><![CDATA[<b>Nome - endereços necessários</b>]]></text></component>
+
+<component id="ID_header02_04"><text><![CDATA[<b>Endereço de sub-rede</b>]]></text></component>
+
+<component id="ID_header03_04"><text><![CDATA[<b>Faixa de endereços</b>]]></text></component>
+
+<component id="ID_header04_04"><text><![CDATA[<b>Endereço de Broadcast</b>]]></text></component>
+
+<component id="ID_header05_04"><text><![CDATA[<b>Rede /prefixo</b>]]></text></component>
+
+<component id="ID_caption04"><text><![CDATA[<b>Sydney precisa de 12 endereços. Use o próximo endereço .96 disponível para calcular uma sub-rede para o requisito de 10 hosts de SydneyHQ.</b>]]></text></component>
+
+<component id="ID_header01_05"><text><![CDATA[<b>Nome -endereços necessários</b>]]></text></component>
+
+<component id="ID_header02_05"><text><![CDATA[<b>Endereço de sub-rede</b>]]></text></component>
+
+<component id="ID_header03_05"><text><![CDATA[<b>Faixa de endereços</b>]]></text></component>
+
+<component id="ID_header04_05"><text><![CDATA[<b>Endereço de Broadcast</b>]]></text></component>
+
+<component id="ID_header05_05"><text><![CDATA[<b>Rede /prefixo</b>]]></text></component>
+
+<component id="ID_caption05"><text><![CDATA[<b>Use o próximo endereço .112 disponível para calcular uma sub-rede para CorpusHQ, que também requer 10 hosts.</b>]]></text></component>
+
+<component id="ID_header01_06"><text><![CDATA[<b>Nome -endereços necessários</b>]]></text></component>
+
+<component id="ID_header02_06"><text><![CDATA[<b>Endereço de sub-rede</b>]]></text></component>
+
+<component id="ID_header03_06"><text><![CDATA[<b>Faixa de endereços</b>]]></text></component>
+
+<component id="ID_header04_06"><text><![CDATA[<b>Endereço de Broadcast</b>]]></text></component>
+
+<component id="ID_header05_06"><text><![CDATA[<b>Rede /prefixo</b>]]></text></component>
+
+<component id="ID_caption06"><text><![CDATA[<b>Os links WAN requerem 2 endereços cada</b>]]></text></component>
+
+<component id="ID_header01_07"><text><![CDATA[<b>Nome -endereços necessários</b>]]></text></component>
+
+<component id="ID_header02_07"><text><![CDATA[<b>Endereço de sub-rede</b>]]></text></component>
+
+<component id="ID_header03_07"><text><![CDATA[<b>Faixa de endereços</b>]]></text></component>
+
+<component id="ID_header04_07"><text><![CDATA[<b>Endereço de Broadcast</b>]]></text></component>
+
+<component id="ID_header05_07"><text><![CDATA[<b>Rede /prefixo</b>]]></text></component>
+
+<component id="ID_caption07"><text><![CDATA[<b></b>]]></text></component>
+
+<component id="ID_header01_08"><text><![CDATA[<b>Nome - endereços necessários</b>]]></text></component>
+
+<component id="ID_header02_08"><text><![CDATA[<b>Endereço de sub-rede</b>]]></text></component>
+
+<component id="ID_header03_08"><text><![CDATA[<b>Faixa de endereços</b>]]></text></component>
+
+<component id="ID_header04_08"><text><![CDATA[<b>Endereço de Broadcast</b>]]></text></component>
+
+<component id="ID_header05_08"><text><![CDATA[<b>Rede /prefixo</b>]]></text></component>
+
+<component id="ID_caption08"><text><![CDATA[<b>O problema da rede está resolvido</b>]]></text></component>
+
+
+
+<component id="ID_txt01_01"><text><![CDATA[<b>AtlantaHQ - 58</b>]]></text></component>
+
+<component id="ID_txt02_01"><text><![CDATA[<b>PerthHQ - 28</b>]]></text></component>
+
+<component id="ID_txt03_01"><text><![CDATA[<b>SydneyHQ - 10</b>]]></text></component>
+
+<component id="ID_txt04_01"><text><![CDATA[<b>CorpusHQ - 10</b>]]></text></component>
+
+<component id="ID_txt05_01"><text><![CDATA[<b>WAN1 - 2</b>]]></text></component>
+
+<component id="ID_txt06_01"><text><![CDATA[<b>WAN1 - 2</b>]]></text></component>
+
+<component id="ID_txt07_01"><text><![CDATA[<b>WAN3 - 2</b>]]></text></component>
+
+
+</textcomponents>

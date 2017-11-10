@@ -1,0 +1,22 @@
+﻿<textcomponents>
+<component id="ID_title"><text><![CDATA[<b>Atribuindo Endereços Dinâmicos</b>]]></text></component>
+	
+<component id="ID_inst"><text><![CDATA[<b>Clique para ver a saída da configuração.</b>]]></text></component>
+	
+	<component id="DEVICE CONFIGURATON"><text><![CDATA[Configuração do Dispositivo]]></text></component>
+	
+<component id="ID_txt01"><text><![CDATA[<b>Esta propriedade definirá o dispositivo que vai obter um edereço IP automaticamente.</b>]]></text></component>
+	
+<component id="ID_txt02"><text><![CDATA[<b>Estes endereços são atribuídos dinamicamente.</b>]]></text></component>
+	
+	<component id="ID_txt02b"><text><![CDATA[<b>Endereço IP</b>]]></text></component>
+	
+	<component id="ID_txt02c"><text><![CDATA[<b>Máscara de sub-rede</b>]]></text></component>
+	
+	<component id="ID_txt02d"><text><![CDATA[<b>Gateway Padrão</b>]]></text></component>
+	
+	<component id="ID_txt02e"><text><![CDATA[<b>Servidor DHCP</b>]]></text></component>
+	
+	<component id="ID_txt03"><text><![CDATA[<b>Usando o DHCP</b>]]></text></component>
+
+</textcomponents>

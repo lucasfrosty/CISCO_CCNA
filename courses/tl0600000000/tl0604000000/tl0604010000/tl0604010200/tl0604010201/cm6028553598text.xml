@@ -1,0 +1,22 @@
+﻿<textcomponents>
+
+<component id="ID_title"><text><![CDATA[<b>Serviços da Camada de Transporte</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>A camada de Transporte divide os dados em segmentos que são mais fáceis de gerenciar e transportar.</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Para: você@exemplo.com<br>De: eu@exemplo.com<br>Assunto: E-mail</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>E-MAIL</b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<b>ENVIO DE MENSAGEM INSTANTÂNEA</b>]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>MÚLTIPLAS PÁGINAS WEB</b>]]></text></component>
+
+<component id="ID_txt06"><text><![CDATA[<b>TELEFONIA IP (VOIP)</b>]]></text></component>
+
+<component id="ID_txt07"><text><![CDATA[<b>VÍDEO EM STREAM</b>]]></text></component>
+
+<component id="ID_txt08"><text><![CDATA[<b>Rede</b>]]></text></component>
+
+<component id="ID_txt09"><text><![CDATA[<b>A segmentação permite a <font color="#FF9900">multiplexação</font> da sessão — diversas aplicações podem utilizar a rede ao mesmo tempo.</b>]]></text></component> <component id="ID_txt10"><text><![CDATA[<b>A <font color="#FF9900">segmentação</font> de dados facilita o transporte de dados pelas camadas de rede inferiores.</b>]]></text></component> <component id="ID_txt11"><text><![CDATA[<b>A <font color="#FF9900"> verificação de erros</font> pode ser realizada nos segmentos de dados para verificar se o segmento foi alterado durante a transmissão.</b>]]></text></component>
+</textcomponents>

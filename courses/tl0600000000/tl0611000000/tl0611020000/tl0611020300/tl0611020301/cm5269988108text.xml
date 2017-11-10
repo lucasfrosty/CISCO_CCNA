@@ -1,0 +1,4 @@
+﻿<textcomponents>
+<component id="ID_title"><text><![CDATA[<b>Verificação de Arquivos de Configuração</b>]]></text></component> <component id="ID_txt01"><text><![CDATA[]]></text></component> <component id="ID_txt02"><text><![CDATA[]]></text></component> <component id="ID_txt03"><text><![CDATA[ ]]></text></component> <component id="ID_txt04"><text><![CDATA[<b>Listar a configuração completa atualmente ativa na RAM.</b>]]></text></component> <component id="ID_txt05"><text><![CDATA[<b>A configuração ativa pode ser copiada na NVRAM.</b>]]></text></component>
+
+</textcomponents>

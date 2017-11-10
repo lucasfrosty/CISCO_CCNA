@@ -1,0 +1,16 @@
+﻿<textcomponents>
+<component id="ID_title"><text><![CDATA[<b>Visão Geral da Operação DHCP</b>]]></text></component> 
+<component id="ID_txt01"><text><![CDATA[<b>Descoberta DHCP</b>]]></text></component> 
+<component id="ID_txt02"><text><![CDATA[<b>Oferta DHCP</b>]]></text></component> 
+<component id="ID_txt03"><text><![CDATA[<b>Solicitação DHCP</b>]]></text></component> 
+<component id="ID_txt04"><text><![CDATA[<b>Reconhecimento DHCP</b>]]></text></component> 
+<component id="ID_txt05"><text><![CDATA[<b>Cliente DHCP</b>]]></text></component> 
+<component id="ID_txt06"><text><![CDATA[<b>Servidor DHCP</b>]]></text></component>
+  
+<component id="tipTitle"><text>Mais informações</text></component>
+	
+<component id="tipBody"><text>O servidor DHCP pode estar localizado em outra rede, Os clientes ainda serão capazes de obter endereços IP, desde que os roteadores no meio estejam configurados para encaminhar broadcasts DHCP.</text></component>
+ 
+<component id="TipText"><text><![CDATA[Mais informações]]></text></component>
+
+</textcomponents>

@@ -1,0 +1,92 @@
+﻿<textcomponents>
+
+<component id="ID_header01">
+<text><![CDATA[<b>Dado endereço/prefixo de ]]></text>
+</component>
+
+<component id="ID_header02">
+<text><![CDATA[<b>Tipo de Endereço</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[Para cada linha, insira os valores para aquele tipo de endereço.]]></text>
+</component>
+
+<component id="ID_txt01a">
+<text><![CDATA[Para cada linha, insira os valores para aquele tipo de endereço.]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Tipo de Endereço</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Insira ÚLTIMO octeto em binário</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Insira ÚLTIMO octeto em decimal</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Insira endereço completo em decimal
+</b>]]></text>
+</component>
+
+<component id="ID_txtHeading01">
+<text><![CDATA[<b>Rede</b>]]></text>
+</component>
+
+<component id="sham">
+<text><![CDATA[<b>Rede</b>]]></text>
+</component>
+
+<component id="ID_txtHeading02">
+<text><![CDATA[<b>Broadcast</b>]]></text>
+</component>
+
+<component id="ID_txtHeading03">
+<text><![CDATA[<b>Primeiro Endereço de Host Utilizável </b>]]></text>
+</component>
+
+<component id="ID_txtHeading05">
+<text><![CDATA[<b>Último Endereço de Host Utilizável </b>]]></text>
+</component>
+
+<component id="ID_responseCorrect">
+<text><![CDATA[CORRETO!]]></text>
+</component>
+
+<component id="ID_responseTry">
+<text><![CDATA[TENTE NOVAMENTE!]]></text>
+</component>
+
+<component id="ID_responseReset">
+<text><![CDATA[Clique Reiniciar para continuar.]]></text>
+</component>
+
+
+<component id="ID_check">
+<text><![CDATA[Verificar]]></text>
+</component>
+
+<component id="ID_reset">
+<text><![CDATA[Reiniciar]]></text>
+</component>
+
+<component id="ID_newvalue">
+<text><![CDATA[Novos Valores]]></text>
+</component>
+
+<component id="ID_ShowMe">
+<text><![CDATA[Mostre-me]]></text>
+</component>
+
+<component id="ID_correctTitle">
+<text><![CDATA[Correto]]></text>
+</component>
+
+<component id="ID_correctText">
+<text><![CDATA[Correto]]></text>
+</component>
+</textcomponents>

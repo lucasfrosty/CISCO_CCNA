@@ -1,0 +1,90 @@
+﻿<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Usando a máscara de sub-rede para determinar o endereço para o host 172.16.132.70/20</b>]]></text>
+</component>
+
+
+
+<component id="ID_txt02a">
+<text><![CDATA[<b>Converter o endereço de host para binário</b>]]></text>
+</component>
+
+<component id="ID_txt02b">
+<text><![CDATA[<b>Converter o prefixo /20 em máscara de sub-rede binária</b>]]></text>
+</component>
+
+<component id="ID_txt02c">
+<text><![CDATA[<b>E o bit mais significativo de endereço de host com o bit de máscara mais significativo</b>]]></text>
+</component>
+
+<component id="ID_txt02d">
+<text><![CDATA[<b>E o bit mais significativo de endereço de host com o próximo bit significativo de máscara</b>]]></text>
+</component>
+
+<component id="ID_txt02e">
+<text><![CDATA[<b>Continue a E cada bit do endereço de host com o bit "1" correspondente da máscara</b>]]></text>
+</component>
+
+<component id="ID_txt02f">
+<text><![CDATA[<b>E cada bit do endereço de host com o bit "0" correspondente da máscara</b>]]></text>
+</component>
+
+<component id="ID_txt02g">
+<text><![CDATA[<b>Converta endereço de rede binário em decimal</b>]]></text>
+</component>
+
+
+
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Endereço de Host</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Endereço de Host Binário</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Máscara de sub-rede binária</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Endereço de Host Binário</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>Endereço de Rede</b>]]></text>
+</component>
+
+
+<!-- controller -->
+<component id="play">
+<text><![CDATA[Reproduzir]]></text>
+</component>
+<component id="pause">
+<text><![CDATA[Pausa]]></text>
+</component>
+<component id="rewind">
+<text><![CDATA[Voltar]]></text>
+</component>
+<component id="forward">
+<text><![CDATA[Avançar]]></text>
+</component>
+<component id="mute">
+<text><![CDATA[Mudo]]></text>
+</component>
+<component id="unmute">
+<text><![CDATA[Tirar Mudo]]></text>
+</component>
+<component id="previous">
+<text><![CDATA[Reiniciar]]></text>
+</component>
+<component id="next">
+<text><![CDATA[Fim]]></text>
+</component>
+<component id="transcript">
+<text><![CDATA[Transcrição]]></text>
+</component>
+
+</textcomponents>

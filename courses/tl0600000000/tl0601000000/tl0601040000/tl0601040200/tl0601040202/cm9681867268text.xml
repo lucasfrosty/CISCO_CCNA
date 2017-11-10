@@ -1,0 +1,13 @@
+﻿<textcomponents>
+<component id="ID_title"><text><![CDATA[<b>Entrega de Pacote em uma Rede de Dados</b>]]></text></component> 
+<component id="ID_txt01"><text><![CDATA[<b>Muitos caminhos podem ser usados para uma única transmissão quando pacotes individuais são roteados a um destino.</b>]]></text></component> 
+<component id="ID_txt02"><text><![CDATA[<b>Nenhum caminho fixo é estabelecido. Pacotes são roteados de acordo com o melhor caminho disponível no momento.</b>]]></text></component> 
+<component id="ID_txt03"><text><![CDATA[<b>Antes da transmissão, os dados são quebrados em pacotes que são endereçados e numerados.</b>]]></text></component> 
+<component id="ID_txt04"><text><![CDATA[<b>Durante períodos de pico, a comunicação pode ser atrasada, mas não negada.</b>]]></text></component> 
+<component id="ID_txt05"><text><![CDATA[<b>Internet</b>]]></text></component> 
+<component id="ID_txt06"><text><![CDATA[<b>No destino, pacotes podem ser reunidos em ordem de acordo com seus números de sequência.</b>]]></text></component> 
+<component id="ID_box1"><text><![CDATA[<b>Endereço de Origem</b>]]></text></component> 
+<component id="ID_box2"><text><![CDATA[<b>Endereço de Destino</b>]]></text></component> 
+<component id="ID_box3"><text><![CDATA[<b>Número de Sequência</b>]]></text></component>
+</textcomponents>
+

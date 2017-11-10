@@ -1,0 +1,9 @@
+﻿<textcomponents>
+<component id="ID_title"><text><![CDATA[<font face="Arial Unicode MS"><b>Descrições de Interfaces de Roteadores</b></font>]]></text></component> <component id="ID_txt01"><text><![CDATA[ ]]></text></component> <component id="ID_txt02"><text><![CDATA[]]></text></component> <component id="ID_txt03"><text><![CDATA[<font face="Arial Unicode MS"><b>Descrição de todo o texto após este espaço</b></font>]]></text></component> <component id="ID_txt03a"><text><![CDATA[<font face="Arial Unicode MS"><b>A descrição é todo o texto após este espaço</b></font>]]></text></component>
+  
+<component id="ID_txt04"><text><![CDATA[<font face="Arial Unicode MS"><b>A descrição de interfaces é usada para a documentação interna da rede</b></font>]]></text></component>
+  
+<component id="ID_txt05"><text><![CDATA[<font face="Courier New Dynamic"><b>Roteador(config)#interface FastEthernet 0/0<br/>Roteador(config-if)#descrição  Prédio B Vendas LAN<br/>Roteador(config-if)#sair</b></font>]]></text></component>
+
+<component id="ID_txt06"><text><![CDATA[<font face="Courier New Dynamic"><b>Roteador(config)#interface Serial 0/0/0<br/>Roteador(config-if)#descrição  Para Perth CKT-PT27834365-01<br/>Roteador(config-if)#sair</b></font>]]></text></component>
+  </textcomponents>

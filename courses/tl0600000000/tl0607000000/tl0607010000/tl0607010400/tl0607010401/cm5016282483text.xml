@@ -1,0 +1,16 @@
+﻿<textcomponents>
+
+<component id="ID_title"><text><![CDATA[<b>Conexão de Serviços da Camada Superior ao Meio </b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>7 Aplicação</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>6 Apresentação</b>]]></text></component>
+  
+<component id="ID_txt03"><text><![CDATA[<b>5 Sessão</b>]]></text></component>
+  
+<component id="ID_txt04"><text><![CDATA[<b>4 Transporte</b>]]></text></component>
+  
+<component id="ID_txt05"><text><![CDATA[<b>3 Rede</b>]]></text></component>
+  
+  <component id="ID_txt06"><text><![CDATA[<b>2 Enlace de Dados</b>]]></text></component> <component id="ID_txt07"><text><![CDATA[<b>1 Física</b>]]></text></component> <component id="ID_txt08"><text><![CDATA[<b>Implementada no software</b>]]></text></component> <component id="ID_txt09"><text><![CDATA[<b>Implementada no hardware</b>]]></text></component> <component id="ID_txt10"><text><![CDATA[<b>Dispositivos físicos dedicados à camada de Enlace de Dados têm componentes de hardware e software.</b>]]></text></component> <component id="ID_txt11"><text><![CDATA[<b>A camada de Enlace de Dados une as camadas de software e hardware.</b>]]></text></component> <component id="ID_txt12"><text><![CDATA[<b>NIC do PC</b>]]></text></component>
+ </textcomponents>

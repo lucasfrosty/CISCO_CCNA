@@ -1,0 +1,56 @@
+﻿<textcomponents>
+
+<component id="ID_title"><text><![CDATA[<b>Cálculo de Endereços <font color = "#FF9900">com</font> Faixas de Endereço VLSM para Sub-redes</b>]]></text></component>
+
+
+<component id="ID_txt01"><text><![CDATA[<b>Rede</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Endereço de Sub-rede</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>Faixa de Endereços de Host</b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<b>Endereço de Broadcast</b>]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>Aluno<br>Instrutor<br>Administração<br>WAN<br>Não Utilizado</b>]]></text></component>
+
+<component id="ID_txt05a"><text><![CDATA[<b>Aluno</b>]]></text></component>
+
+<component id="ID_txt05b"><text><![CDATA[<b>Instrutor</b>]]></text></component>
+
+<component id="ID_txt05c"><text><![CDATA[<b>Adm.</b>]]></text></component>
+
+<component id="ID_txt05d"><text><![CDATA[<b>WAN</b>]]></text></component>
+
+<component id="ID_txt05e"><text><![CDATA[<b>Não Usado</b>]]></text></component>
+
+<component id="ID_txt06"><text><![CDATA[<b>na</b>]]></text></component>
+
+<component id="ID_txt07"><text><![CDATA[<b>172.16.0.1</br><br>172.16.2.1<br></br>172.16.2.129<br></br>172.16.2.193</br><br>172.16.2.197</br></b>]]></text></component>
+
+<component id="ID_txt08"><text><![CDATA[<b>172.16.1.254</br><br>172.16.2.126<br></br>172.16.2.190<br></br>172.16.2.194</br><br>172.16.3.254</br></b>]]></text></component>
+
+<component id="ID_txt09"><text><![CDATA[<b>na</b>]]></text></component>
+
+<component id="ID_txt10"><text><![CDATA[<b>172.16.0.0</b>]]></text></component>
+
+<component id="ID_txt11"><text><![CDATA[<b>para</b>]]></text></component>
+
+<component id="ID_txt12"><text><![CDATA[<b>172.16.3.255</b>]]></text></component>
+
+
+
+<component id="ID_txt13"><text><![CDATA[<b>172.16.1.255</b>]]></text></component>
+
+
+<component id="ID_txt14"><text><![CDATA[<b>172.16.2.127</b>]]></text></component>
+
+<component id="ID_txt15"><text><![CDATA[<b>172.16.2.191</b>]]></text></component>
+
+<component id="ID_txt16"><text><![CDATA[<b>172.16.2.195</b>]]></text></component>
+
+<component id="ID_txt17"><text><![CDATA[<b>172.16.3.255</b>]]></text></component>
+
+
+<component id="ID_txt19"><text><![CDATA[<b>Caso 1</b>]]></text></component>
+
+</textcomponents>

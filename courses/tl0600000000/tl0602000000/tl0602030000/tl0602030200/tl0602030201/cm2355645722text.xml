@@ -1,0 +1,58 @@
+﻿<textcomponents>
+
+<component id="ID_title01"><text><![CDATA[<b>O Papel dos Protocolos</b>]]></text></component>
+
+<component id="ID_inst01"><text><![CDATA[<b>Clique aqui para saber mais.</b>]]></text></component>
+
+<component id="ID_capt01"><text><![CDATA[<b>O formato ou estrutura dos segmentos de comunicação</b>]]></text></component>
+
+<component id="ID_capt02"><text><![CDATA[<b>O processo pelo qual os dispositivos de rede compartilham informação sobre percursos para outras redes</b>]]></text></component>
+
+<component id="ID_capt03"><text><![CDATA[<b>Como e quando mensagens de erro e do sistema são passadas entre dispositivos</b>]]></text></component>
+
+<component id="ID_capt04"><text><![CDATA[<b>O estabelecimento e a finalização das sessões de transerência de dados</b>]]></text></component>
+
+
+<component id="ID_txt01_01"><text><![CDATA[<b>Em qualquer processo de comunicação, existem regras</b>]]></text></component>
+
+<component id="ID_txt02_01"><text><![CDATA[<b>Em qualquer processo de comunicaçã o, existem r egras.</b>]]></text></component>
+
+<component id="ID_txt03_01"><text><![CDATA[<b>OK</b>]]></text></component>
+
+<component id="ID_txt04_01"><text><![CDATA[<b>Vamos estabelecer que os segmentos terão o tamanho de 10 letras.</b>]]></text></component>
+
+<component id="ID_txt05_01"><text><![CDATA[<b>OK</b>]]></text></component>
+
+
+
+<component id="ID_txt01_02"><text><![CDATA[<b>Vamos estabelecer que um dos nossos percursos é para baixo,<br/>nós notificaremos todos os dispositivos conectados.</b>]]></text></component>
+
+<component id="ID_txt02_02"><text><![CDATA[<b>Percurso A é para baixo.</b>]]></text></component>
+
+<component id="ID_txt03_02"><text><![CDATA[<b>OK</b>]]></text></component>
+
+<component id="ID_txt04_02"><text><![CDATA[<b>OK</b>]]></text></component>
+
+<component id="ID_txt05_02"><text><![CDATA[<b>OK</b>]]></text></component>
+
+
+
+<component id="ID_txt01_03"><text><![CDATA[<b>Vamos estabelecer que mensagens de erro<br/>terão um único número de identificação.</b>]]></text></component>
+
+<component id="ID_txt02_03"><text><![CDATA[<b>Erro 1001: Percurso A é para baixo.</b>]]></text></component>
+
+<component id="ID_txt03_03"><text><![CDATA[<b>Erro 1002: Percurso B é lento.</b>]]></text></component>
+
+
+<component id="ID_txt01_04"><text><![CDATA[<b>Vamos estabelecer que as sessões irão terminar após 60 segundos de inatividade.</b>]]></text></component>
+
+<component id="ID_txt02_04"><text><![CDATA[<b>OK</b>]]></text></component>
+
+<component id="ID_txt03_04"><text><![CDATA[<b>Passaram-se 60 segundos desde que o último pacote chegou.<br/>Fechando esta sessão.</b>]]></text></component>
+
+
+
+
+<component id="ID_button1"><text><![CDATA[<b>Formato</b>]]></text></component> <component id="ID_button2"><text><![CDATA[<b>Processo</b>]]></text></component> <component id="ID_button3"><text><![CDATA[<b>Mensagens de Erro</b>]]></text></component> <component id="ID_button4"><text><![CDATA[<b>Finalização</b>]]></text></component>
+
+</textcomponents>

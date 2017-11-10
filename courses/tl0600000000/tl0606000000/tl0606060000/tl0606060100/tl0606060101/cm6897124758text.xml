@@ -1,0 +1,12 @@
+﻿<textcomponents>
+
+<component id="ID_title"><text><![CDATA[<b>Testando a Pilha TCP/IP Local</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>O teste de conectividade do host local confirma se o TCP/IP foi instalado e se está funcionando no host local.</b>]]></text></component>
+  
+  <component id="ID_txt02"><text><![CDATA[<b>Executar o ping <font color="#0066FF">127.0.0.1</font> faz com que um dispositivo execute o ping em si mesmo.</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>C:&gt;ping 127.0.0.1</b>]]></text></component>
+
+
+</textcomponents>

@@ -1,0 +1,9 @@
+﻿<textcomponents>
+	<component id="ID_txt01"><text><![CDATA[<b>Meios físicos de Rede</b>]]></text></component>
+	
+	<component id="ID_txt02"><text><![CDATA[<b>Cobre </b>]]></text></component>
+	
+	<component id="ID_txt03"><text><![CDATA[<b>Fibra Ótica</b>]]></text></component>
+	
+	<component id="ID_txt04"><text><![CDATA[<b>Sem Fio</b>]]></text></component>
+</textcomponents>

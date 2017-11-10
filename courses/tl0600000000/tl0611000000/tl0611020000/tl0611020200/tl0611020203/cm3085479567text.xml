@@ -1,0 +1,13 @@
+﻿<textcomponents>
+<component id="ID_title"><text><![CDATA[<b>Limitando o Acesso a Dispositivos &#8211 ; Banner de Login</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[ ]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Delimitando os caracteres não incluídos na mensagem</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>Esta configuração resulta nesta mensagem do banner</b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[ ]]></text></component>
+
+
+</textcomponents>

@@ -1,0 +1,15 @@
+﻿<textcomponents>
+
+<component id="ID_title"><text><![CDATA[<b>Uso de switches</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>O switch funciona como uma bridge entre dois hubs com meio físico compartilhado.</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Switch central da LAN</b>]]></text></component>
+  
+<component id="ID_txt03"><text><![CDATA[<b>Dois domínios de colisão&#8212;um para cada LAN com meio físico compartilhado.</b>]]></text></component>
+  
+<component id="ID_txt04"><text><![CDATA[<b>Cada computador possui seu próprio domínio de colisão.</b>]]></text></component>
+  
+  
+
+</textcomponents>

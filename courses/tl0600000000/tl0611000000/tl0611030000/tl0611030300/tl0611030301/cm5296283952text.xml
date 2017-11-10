@@ -1,0 +1,23 @@
+﻿<textcomponents>
+
+<component id="ID_title"><text><![CDATA[<b>Teste da Rede Local</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>Fazer ping nos endereços IPv4 dos outros hosts com sucesso, verificará que não apenas o host local está configurado adequadamente, mas que os outros hosts também estão configurados corretamente.</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>C:\>ping 10.0.0.3</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>10.0.0.254/24</b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<b>10.0.0.1/24</b>]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>10.0.0.2/24</b>]]></text></component>
+
+<component id="ID_txt06"><text><![CDATA[<b>10.0.0.3/24</b>]]></text></component>
+
+<component id="ID_txt07"><text><![CDATA[<b>10.0.0.4/24</b>]]></text></component>
+
+<component id="ID_txt08"><text><![CDATA[<b>10.0.0.5/24</b>]]></text></component>
+
+<component id="ID_txt09"><text><![CDATA[<font color="#990000"><b>10.0.0.250/24</b></font>]]></text></component>
+
+</textcomponents>

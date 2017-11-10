@@ -1,0 +1,38 @@
+﻿<textcomponents>
+<component id="ID_title"><text><![CDATA[<b>Aplicações e Serviços da Camada de Aplicação</b>]]></text></component> 
+<component id="ID_txt01"><text><![CDATA[<b>7 Aplicação</b>]]></text></component> 
+<component id="ID_txt01a"><text><![CDATA[<b>7 Aplicação</b>]]></text></component> 
+<component id="ID_label01"><text><![CDATA[<b>Estarei em casa às 5:00</b>]]></text></component> 
+<component id="ID_txt11b"><text><![CDATA[<b>APLICAÇÕES fornecem a interface humana.<br>SERVIÇOS seguem protocolos para preparar dados para a rede.</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>6 Apresentação</b>]]></text></component> 
+<component id="ID_txt02a"><text><![CDATA[<b>6 Apresentação</b>]]></text></component> 
+<component id="ID_txt03"><text><![CDATA[<b>5 Sessão</b>]]></text></component> 
+<component id="ID_txt03a"><text><![CDATA[<b>5 Sessão</b>]]></text></component> 
+<component id="ID_txt04"><text><![CDATA[<b>4 Transporte</b>]]></text></component> 
+<component id="ID_txt04a"><text><![CDATA[<b>4 Transporte</b>]]></text></component> 
+<component id="ID_txt05"><text><![CDATA[<b>3 Rede</b>]]></text></component> 
+<component id="ID_txt05a"><text><![CDATA[<b>3 Rede</b>]]></text></component> 
+<component id="ID_txt06"><text><![CDATA[<b>2 Enlace de Dados</b>]]></text></component> 
+<component id="ID_txt06a"><text><![CDATA[<b>2 Enlace de Dados</b>]]></text></component> 
+<component id="ID_txt07"><text><![CDATA[<b>1 Física</b>]]></text></component> 
+<component id="ID_txt07a"><text><![CDATA[<b>1 Física</b>]]></text></component> 
+<component id="ID_txt08"><text><![CDATA[<b>Modelo OSI</b>]]></text></component> 
+<component id="ID_txt08a"><text><![CDATA[<b>Modelo OSI</b>]]></text></component> 
+<component id="ID_txt09"><text><![CDATA[<b>APLICAÇÕES</b>]]></text></component> 
+<component id="ID_txt10"><text><![CDATA[<b>SERVIÇOS</b>]]></text></component> 
+<component id="ID_txt13"><text><![CDATA[<b>Nossa empresa foi fundada em 2001.</b>]]></text></component> 
+<component id="ID_txt14a"><text><![CDATA[<b><p>Nossa empresa foi fundada em 2001.</b>]]></text></component> 
+<component id="ID_title"><text><![CDATA[<b>Conectando Redes Humanas e de Dados Através de Interface</b>]]></text></component> 
+<component id="ID_inst"><text><![CDATA[<b>Clique em Play para ver a animação.</b>]]></text></component> 
+<component id="ID_instruct"><text><![CDATA[<b>Clique em Play para ver a animação.</b>]]></text></component>
+
+<component id="play"><text><![CDATA[Play]]></text></component> 
+<component id="pause"><text><![CDATA[Pausar]]></text></component> 
+<component id="previous"><text><![CDATA[Reiniciar]]></text></component> 
+<component id="rewind"><text><![CDATA[Voltar]]></text></component> 
+<component id="forward"><text><![CDATA[Avançar]]></text></component> 
+<component id="next"><text><![CDATA[Fim]]></text></component>
+
+
+</textcomponents>

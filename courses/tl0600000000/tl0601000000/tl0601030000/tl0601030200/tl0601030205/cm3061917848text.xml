@@ -1,0 +1,60 @@
+﻿<textcomponents>
+
+<component id="ID_button01"><text><![CDATA[<b>1</b>]]></text></component>
+
+<component id="ID_button02"><text><![CDATA[<b>2</b>]]></text></component>
+
+<component id="ID_button03"><text><![CDATA[<b>3</b>]]></text></component>
+
+<component id="ID_button04"><text><![CDATA[<b>4</b>]]></text></component>
+
+<component id="ID_button05"><text><![CDATA[<b>5</b>]]></text></component>
+
+<component id="ID_button06"><text><![CDATA[<b>6</b>]]></text></component>
+
+<component id="ID_button07"><text><![CDATA[<b>7</b>]]></text></component>
+
+<component id="ID_txt01_01"><text><![CDATA[<b>Vou chegar na terça-feira. Por favor, encontre-me no aeroporto.</b>]]></text></component>
+
+<component id="ID_txt01_02"><text><![CDATA[<b>Vou chegar na terça-feira. Por favor, encontre-me no aeroporto.</b>]]></text></component>
+
+<component id="ID_txt02_02"><text><![CDATA[<b>Mensagens Instantâneas são convertidas em bits binários antes de serem transmitidas nos meios físicos.</b>]]></text></component>
+
+<component id="ID_txt01_03"><text><![CDATA[<b>Vou chegar na terça-feira. Por favor, encontre-me no aeroporto.</b>]]></text></component>
+
+<component id="ID_txt02_03"><text><![CDATA[<b>A placa de rede interna dentro do PC gera sinais elétricos para representar os bits e os insere nos meios físicos. Os bits chegam ao primeiro dispositivo de rede.</b>]]></text></component>
+
+<component id="ID_txt01_04"><text><![CDATA[<b>Vou chegar na terça-feira. Por favor, encontre-me no aeroporto.</b>]]></text></component>
+
+<component id="ID_txt02_04"><text><![CDATA[<b>Um roteador exerce uma função-chave porque reúne as redes e garante que a comunicação seja direcionada para seu destino.</b>]]></text></component>
+
+<component id="ID_txt03_04"><text><![CDATA[<b>Os bits são passados de dispositivo para dispositivo na área local. Conforme os bits deixam a área local, eles geralmente passam por um roteador.</b>]]></text></component>
+
+<component id="ID_txt01_05"><text><![CDATA[<b>Vou chegar na terça-feira. Por favor, encontre-me no aeroporto.</b>]]></text></component>
+
+<component id="ID_txt02_05"><text><![CDATA[<b>Redes de<br>Dados</b>]]></text></component>
+
+<component id="ID_txt03_05"><text><![CDATA[<b>Desta perspectiva, os diversos dispositivos interconectados através do mundo geralmente são representados por uma nuvem.</b>]]></text></component>
+
+<component id="ID_txt04_05"><text><![CDATA[<b>Os bits são transmitidos para os dispositivos que conectam as redes locais. Pode haver dúzias, ou mesmo centenas de dispositivos gerenciando os bits que estão sendo roteados para seus destinos.</b>]]></text></component>
+
+<component id="ID_txt01_06"><text><![CDATA[<b>Vou chegar na terça-feira. Por favor, encontre-me no aeroporto.</b>]]></text></component>
+
+<component id="ID_txt02_06"><text><![CDATA[<b>Redes de<br>Dados</b>]]></text></component>
+
+<component id="ID_txt03_06"><text><![CDATA[<b>Quando os bits se aproximam de seus destinos, eles são passados novamente através dos dispositivos locais.</b>]]></text></component>
+
+<component id="ID_txt01_07"><text><![CDATA[<b>Vou chegar na terça-feira. Por favor, encontre-me no aeroporto.</b>]]></text></component>
+
+<component id="ID_txt02_07"><text><![CDATA[<b>Redes de<br>Dados</b>]]></text></component>
+
+<component id="ID_txt03_07"><text><![CDATA[<b>Vou chegar na terça-feira. Por favor, encontre-me no aeroporto.</b>]]></text></component>
+
+<component id="ID_txt04_07"><text><![CDATA[<b>O dispositivo de destino lê os bits e os converte novamente na mensagem legível para humanos.</b>]]></text></component>
+
+<component id="ID_inst"><text><![CDATA[<b>Clique para ver os passos.</b>]]></text></component>
+
+<component id="ID_title"><text><![CDATA[<b>Enviando uma Mensagem Instantânea</b>]]></text></component>
+
+
+</textcomponents>

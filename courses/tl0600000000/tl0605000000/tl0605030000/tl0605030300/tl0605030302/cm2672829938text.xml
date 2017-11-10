@@ -1,0 +1,19 @@
+﻿<textcomponents>
+
+<component id="btn1"><text><![CDATA[<b>1</b>]]></text></component> <component id="btn2"><text><![CDATA[<b>2</b>]]></text></component> <component id="btn3"><text><![CDATA[<b>3</b>]]></text></component>
+
+
+<component id="ID_title"><text><![CDATA[<b>Confirmando as Configurações do Gateway</b>]]></text></component>
+
+<component id="ID_caption"><text><![CDATA[<b>Amostra de saída ipconfig mostrando o endereço do gateway padrão</b>]]></text></component>
+
+
+<component id="output_text_01"><text><![CDATA[<b>Endereço IP para este computador</b>]]></text></component>
+
+<component id="output_text_02"><text><![CDATA[<b>Máscara de sub-rede da rede local</b>]]></text></component>
+
+<component id="output_text_03"><text><![CDATA[<b>Gateway padrão para este computador</b>]]></text></component>
+
+
+
+</textcomponents>

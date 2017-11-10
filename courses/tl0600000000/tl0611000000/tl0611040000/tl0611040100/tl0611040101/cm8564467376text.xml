@@ -1,0 +1,17 @@
+﻿<textcomponents>
+
+<component id="ID_title"><text><![CDATA[<b>Linha de base com ping</b>]]></text></component>
+
+<component id="ID_inst"><text><![CDATA[<b>Passe o mouse sobre uma instrução.</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[Execute o mesmo teste]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[Em tempos diferentes]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[Compare valores]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<b>2 de fevereiro de 2007 08:14:43</b>]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>17 de março de 2007 14:41:06</b>]]></text></component>
+
+</textcomponents>

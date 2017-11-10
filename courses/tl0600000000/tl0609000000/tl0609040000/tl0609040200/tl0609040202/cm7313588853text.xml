@@ -1,0 +1,9 @@
+﻿<textcomponents>
+
+<component id="ID_txt01"><text><![CDATA[<b>Esta rede com 35 hosts e 5 hubs é um domínio de colisão/broadcast comum. Quando um host ou servidor transmite uma mensagem, todos os outros dispositivos do domínio recebem a mensagem.</b>]]></text></component> 
+  
+  <component id="ID_txt02"><text><![CDATA[<b>O que é mais importante, apenas um dispositivo da rede inteira pode enviar dados de cada vez. </b>]]></text></component>
+  
+  
+<component id="ID_title"><text><![CDATA[<b>O uso de hubs em topologias de estrela estendida pode criar grandes domínios de colisão. </b>]]></text></component>
+</textcomponents>

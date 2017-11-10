@@ -1,0 +1,17 @@
+﻿<textcomponents>
+
+<component id="ID_title"><text><![CDATA[<b>Meio Físico Ethernet e Topologia Iniciais</b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<font color="#009900"><b>Topologia</b></font>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>Física: Barramento<br>Lógica: Barramento</b>]]></text></component>
+
+<component id="ID_txt03"><text><![CDATA[<b>Migração para</b>]]></text></component>
+
+<component id="ID_txt04"><text><![CDATA[<font color="#009900"><b>Topologia</b></font>]]></text></component>
+
+<component id="ID_txt05"><text><![CDATA[<b>Física: Estrela<br>Lógica: Barramento</b>]]></text></component>
+
+<component id="ID_txt06"><text><![CDATA[<b>Hub</b>]]></text></component>
+
+</textcomponents>

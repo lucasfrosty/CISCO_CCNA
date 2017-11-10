@@ -1,0 +1,16 @@
+﻿<textcomponents>
+
+<component id="ID_title"><text><![CDATA[<b>Subcamadas de Enlace de Dados </b>]]></text></component>
+
+<component id="ID_txt01"><text><![CDATA[<b>3 Camada de Rede</b>]]></text></component>
+
+<component id="ID_txt02"><text><![CDATA[<b>CABEÇALHO</b>]]></text></component>
+  
+<component id="ID_txt03"><text><![CDATA[<b>Pacote</b>]]></text></component>
+  
+<component id="ID_txt04"><text><![CDATA[<b>TRAILER</b>]]></text></component>
+  
+<component id="ID_txt05"><text><![CDATA[<b>2 Camada de Enlace de Dados</b>]]></text></component>
+  
+  <component id="ID_txt06"><text><![CDATA[<b>1 Camada Física</b>]]></text></component> <component id="ID_txt11"><text><![CDATA[<b>Um pacote é encapsulado em um quadro.</b>]]></text></component> <component id="ID_header2"><text><![CDATA[<b>LOGICAL LINK CONTROL (CONTROLE DE ENLACE LÓGICO)</b>]]></text></component> <component id="ID_txt07"><text><![CDATA[<li>Encapsula os pacotes da camada de Rede em quadros<li>Identifica o protocolo da camada de rede]]></text></component> <component id="ID_header1"><text><![CDATA[<b>MEDIA ACCESS CONTROL (CONTROLE DE ACESSO AO MEIO)</b>]]></text></component> <component id="ID_txt08"><text><![CDATA[<li>Endereça o quadro<li>Marca o início e fim do quadro]]></text></component> <component id="ID_txt09"><text><![CDATA[<b>1    0    1    0    0    1     1    1    0    0    1   </b>]]></text></component> <component id="ID_txt12"><text><![CDATA[<b>Um quadro é endereçado e delimitado.</b>]]></text></component> <component id="ID_txt10"><text><![CDATA[<b>O quadro é codificado em um sinal na camada física.</b>]]></text></component>
+ </textcomponents>
