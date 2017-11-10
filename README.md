@@ -10,7 +10,7 @@ ps: caso você não tenha o git instalado, baixe o arquivo normalmente [clicando
 ### Parte 2
 Você vai precisar criar um servidor http local. Para isso usaremos o python... no seu terminal digite: 
 ```bash
-python -m SimpleHTTPServer 8000
+cd CISCO_CCNA && python -m SimpleHTTPServer 8000
 ```
 
 ### Parte 3
